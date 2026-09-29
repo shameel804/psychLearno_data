@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_3",
+  "title": "Biological Rhythms & the Architecture of Sleep",
+  "description": "Master circadian rhythms, the suprachiasmatic nucleus, melatonin, and NREM versus REM sleep stages.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Sleep Cycles",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Circadian Rhythms & Biological Clocks \u23f0",
+      "content": "# The 24-Hour Master Clock\n\nOur bodies operate on a roughly 24-hour cycle of physiological activity called the **Circadian Rhythm**.\n\n* **The Suprachiasmatic Nucleus (SCN)**: Located in the hypothalamus, the SCN acts as the brain's master pacemaker.\n* **Light Signaling**: Light hitting retinal ganglion cells signals the SCN.\n* **Melatonin Regulation**: In darkness, the SCN directs the **pineal gland** to secrete **melatonin**, inducing sleepiness. In morning daylight, melatonin production is suppressed, promoting alertness."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Circadian Master Pacemaker Check \ud83c\udf05",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which hypothalamic structure regulates the sleep-wake cycle by sensing environmental light and controlling melatonin secretion?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Suprachiasmatic Nucleus (SCN)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Amygdala",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Substantia Nigra",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Corpus Callosum",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The suprachiasmatic nucleus in the hypothalamus coordinates circadian rhythms via the pineal gland.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Architecture of Sleep Stages \ud83c\udf19",
+      "content": "## Cycling Through NREM and REM\n\nEvery night, humans cycle through 4 distinct sleep stages every **90 to 110 minutes**:\n\n| Stage | Dominant EEG Waves | Key Characteristics |\n| :--- | :--- | :--- |\n| **NREM-1** | Alpha -> Theta waves | Light transitional sleep; hypnagogic jerks / hallucinations |\n| **NREM-2** | Theta with Sleep Spindles & K-Complexes | True sleep; heart rate decelerates; body temperature drops |\n| **NREM-3** | **Delta waves** (Slow-wave sleep) | Deepest physical restorative sleep; growth hormone secreted |\n| **REM Sleep** | Rapid Beta-like sawtooth waves | **Paradoxical sleep**: high brain metabolic activity, vivid dreams, but voluntary skeletal muscles are completely paralyzed (atonia) |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "warning",
+      "title": "Why REM is 'Paradoxical' \u26a0\ufe0f",
+      "content": "### The Paradox of REM Sleep\n\nDuring REM (Rapid Eye Movement) sleep, your EEG brainwave tracings look almost identical to being fully awake and alert! Your heart rate accelerates, breathing becomes irregular, and eyes dart rapidly.\n\nYet, the brainstem sends powerful inhibitory signals down the spinal cord to paralyze your major postural muscles. This biological safeguard prevents you from physically acting out your vivid dreams."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Sleep Wave Check \ud83d\udcca",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Which brainwave pattern is characterized by high amplitude, slow frequency, and dominates deep NREM-3 restorative sleep?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Delta waves",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Beta waves",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Alpha waves",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Gamma oscillations",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Delta waves are large, slow EEG waves associated with deep, slow-wave NREM-3 sleep.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Cognitive Optimization Tip \ud83d\udca1",
+      "content": "## Sleep Cycles across the Night\n\nNotice that the composition of your 90-minute sleep cycles shifts as the night progresses: the first half of the night is dominated by deep slow-wave NREM-3 sleep (physical muscle repair), while the second half of the night contains prolonged REM sleep episodes (critical for emotional processing and creative memory consolidation)."
+    }
+  ]
+}

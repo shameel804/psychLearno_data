@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_8",
+  "title": "Defining Abnormality, Diagnostic Systems & The Biopsychosocial Model",
+  "description": "Examine the 4 D's of abnormality, the DSM-5-TR, the medical model, and Rosenhan's landmark study.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Psychopathology Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Four D's of Abnormality \ud83e\ude7a",
+      "content": "# When Does Behavior Become a Disorder?\n\nA psychological disorder is a syndrome marked by clinically significant disturbance in cognition, emotion regulation, or behavior.\n\nClinicians rely on **The Four D's**:\n1. **Deviance**: Thoughts or behaviors that deviate significantly from statistical norms or cultural standards.\n2. **Distress**: Subjective unpleasantness or suffering experienced by the individual or their loved ones.\n3. **Dysfunction**: Maladaptive impairment in daily vocational, academic, or social functioning.\n4. **Danger**: Posing potential physical harm to oneself (e.g., suicidality) or others."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Diagnostic Criteria Check \ud83d\udccb",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "An eccentric artist lives alone in a cabin, paints unconventional portraits, and loves their solitary lifestyle without suffering or inability to work. Why is this behavior NOT classified as a mental disorder?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It lacks subjective distress and functional impairment (dysfunction)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "All artists are legally exempt from diagnosis",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Deviance alone is always sufficient for diagnosis",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The artist is older than 30",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Statistical deviance alone does not constitute a disorder; clinically significant distress or functional impairment is required.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The DSM-5-TR & Labeling \ud83d\udcd6",
+      "content": "## Standardizing Classification\n\nThe American Psychiatric Association publishes the **Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)**:\n* Provides objective diagnostic criteria, symptom duration thresholds, and prevalence rates.\n* Standardizes communication across psychiatrists, clinical psychologists, and insurance systems.\n\n### The Power of Labels: David Rosenhan's Study (1973)\n* In 'On Being Sane in Insane Places', 8 healthy pseudopatients sought admission claiming they heard a hollow voice saying 'empty, dull, thud'.\n* Once admitted, they ceased all symptoms and acted normally.\n* **Result**: Clinicians kept them hospitalized for an average of 19 days, interpreting normal behaviors (like writing notes in a diary) as pathological evidence of their diagnosed illness! Highlighted the risk of diagnostic confirmation bias."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "warning",
+      "title": "The Medical Student's Syndrome \u26a0\ufe0f",
+      "content": "### Do Not Self-Diagnose!\n\nAs students study psychopathology, it is extraordinarily common to experience **Medical Student's Syndrome**\u2014the cognitive tendency to perceive symptoms of every newly learned psychiatric disorder in oneself or friends. Remember that everyone occasionally experiences sadness, anxiety, or ritualized habits; clinical diagnosis requires persistent, debilitating **dysfunction and distress**."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Rosenhan Study Mastery Check \ud83c\udfe5",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "What primary danger in psychiatric assessment did David Rosenhan's 1973 pseudopatient hospital study illuminate?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Diagnostic labels can create persistent perceptual biases in clinicians",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Psychiatric medications are completely ineffective",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Hospitals should never admit patients with hallucinations",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Normal individuals have no capacity for empathy",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Rosenhan showed that initial diagnostic labels heavily color how subsequent normal behaviors are interpreted.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "The Biopsychosocial Etiology \ud83c\udf10",
+      "content": "## Multi-Factor Causation\n\nNo psychological illness arises from a single isolated cause. Contemporary clinical psychology approaches psychopathology through the **Diathesis-Stress Model**: an individual inherits a biological predisposition (diathesis) that is triggered only when activated by severe environmental or psychological stressors."
+    }
+  ]
+}

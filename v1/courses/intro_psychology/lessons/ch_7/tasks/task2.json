@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_7",
+  "title": "Big Five Personality Dimension Profile Assessment",
+  "description": "Analyze how individual variance across the OCEAN dimensions predicts career fit and stress coping.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Construct two distinct psychological profiles across the Big Five dimensions (OCEAN):\n* Profile A: High Conscientiousness, Low Neuroticism, Moderate Agreeableness.\n* Profile B: High Openness, High Neuroticism, Low Conscientiousness.\n\n### Requirements:\n1. Analyze how each profile navigates workplace stressors and collaborative team projects.\n2. Predict the most suitable vocational career environments for both individuals based on trait psychology.\n3. Discuss the Person-Situation interaction: Under what conditions do situational pressures overpower an individual's natural Big Five traits?",
+  "hints": [
+    "Hint 1: High Neuroticism predisposes individuals to chronic stress appraisal, while Conscientiousness fosters organized coping.",
+    "Hint 2: 'Strong situations' (like a military funeral) dictate behavior rigidly, whereas 'weak situations' (a casual party) reveal true traits."
+  ]
+}

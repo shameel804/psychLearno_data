@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_8",
+  "title": "Designing a CBT Cognitive Restructuring Worksheet",
+  "description": "Identify cognitive distortions, record empirical counter-evidence, and construct balanced replacement thoughts.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Construct a three-column Cognitive Restructuring (Thought Record) worksheet for a university student experiencing severe exam anxiety.\n\n### Requirements:\n1. **Column 1 (Automatic Negative Thoughts)**: Identify three common cognitive distortions (e.g., Catastrophizing, All-or-Nothing Thinking, Mind Reading).\n2. **Column 2 (Objective Empirical Evidence)**: Challenge each thought by evaluating objective facts (e.g., past academic track record, actual grading curves, tutor feedback).\n3. **Column 3 (Adaptive Replacement Thoughts)**: Formulate balanced, rational cognitive reframes that reduce physiological distress while preserving motivation.",
+  "hints": [
+    "Hint 1: Catastrophizing assumes the worst possible outcome is guaranteed to happen.",
+    "Hint 2: Effective reframes are realistic and grounded in facts, not mere superficial positive thinking."
+  ]
+}

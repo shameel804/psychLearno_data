@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_6",
+  "title": "Evaluating Parenting Styles and Attachment Vignettes",
+  "description": "Analyze clinical case vignettes of child-parent interactions to identify attachment and Baumrind styles.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Read three family interaction vignettes involving bedtime routines and disciplinary conflicts.\n\n### Requirements:\n1. Categorize each parent's approach into Diana Baumrind's four styles (Authoritative, Authoritarian, Permissive, or Neglectful).\n2. Predict the infant or child's likely Strange Situation attachment classification (Secure, Insecure-Avoidant, Insecure-Resistant, or Disorganized).\n3. Outline the empirical long-term developmental trajectory for emotional regulation and academic resilience associated with each style.",
+  "hints": [
+    "Hint 1: Authoritative parenting combines high responsiveness with demanding expectations.",
+    "Hint 2: Inconsistent or unpredictable caregiving often breeds insecure-ambivalent attachment."
+  ]
+}

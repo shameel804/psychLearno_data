@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Sensory Processing, Thresholds & Signal Detection",
+      "description": "Understand transduction, absolute vs difference thresholds, Weber's Law, and signal detection theory.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Sensory Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "Vision, Audition & Gestalt Perceptual Organization",
+      "description": "Explore visual and auditory anatomy, photoreceptors, color vision theories, and Gestalt grouping laws.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Perception"
+    },
+    {
+      "id": "l3",
+      "title": "Biological Rhythms & the Architecture of Sleep",
+      "description": "Master circadian rhythms, the suprachiasmatic nucleus, melatonin, and NREM versus REM sleep stages.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Sleep Cycles"
+    },
+    {
+      "id": "l4",
+      "title": "Dreams, Sleep Disorders & Altered Consciousness",
+      "description": "Investigate dream theories, clinical sleep disorders like apnea and narcolepsy, and hypnotic dissociation.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "States of Mind"
+    }
+  ]
+}

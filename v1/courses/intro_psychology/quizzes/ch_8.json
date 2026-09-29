@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_8",
+  "chapterId": "ch_8",
+  "title": "Chapter 8 Mastery Quiz: Psychological Disorders & Treatments",
+  "description": "Demonstrate comprehensive mastery of psychopathology classification, mood disorders, psychosis, and therapies.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch8_q1",
+      "type": "multiple_choice",
+      "question": "Which of the following describes the 'Four D's' used by mental health clinicians to conceptualize abnormality?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Deviance, Distress, Dysfunction, and Danger",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Delusion, Denial, Depression, and Dementia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Defiance, Doubt, Disorder, and Dissociation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dopamine, Dendrite, Decay, and Discrimination",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The 4 D's framework encompasses Deviance, Distress, Dysfunction, and Danger.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q2",
+      "type": "multiple_choice",
+      "question": "What is the primary diagnostic reference manual published by the American Psychiatric Association?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "DSM-5-TR",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "MMPI-2",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "WAIS-IV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "TAT-III",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR) is the standard classification manual.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q3",
+      "type": "multiple_choice",
+      "question": "David Rosenhan's 1973 hospital study 'On Being Sane in Insane Places' demonstrated the significant danger of:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Diagnostic labels biasing clinicians' interpretations of normal behavior",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Antipsychotic medication toxicity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Understaffed psychiatric facilities",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Electroconvulsive therapy causing memory loss",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rosenhan showed that labels create confirmation bias where staff viewed ordinary actions as symptoms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q4",
+      "type": "multiple_choice",
+      "question": "A continuous, diffuse, free-floating worry regarding everyday life issues lasting for at least 6 months is the diagnostic hallmark of:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Generalized Anxiety Disorder (GAD)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Specific Phobia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Bipolar I Mania",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Schizophrenia spectrum disorder",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "GAD involves persistent, non-specific anxiety and excessive tension across a minimum of 6 months.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q5",
+      "type": "multiple_choice",
+      "question": "Fear and active avoidance of public transit, crowds, or open plazas where escaping would be difficult if panic strikes is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Agoraphobia",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Claustrophobia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Social Anxiety Disorder",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Trichotillomania",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Agoraphobia is marked fear of situations where escape or help might be unavailable during panic symptoms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q6",
+      "type": "multiple_choice",
+      "question": "In Obsessive-Compulsive Disorder (OCD), what is an 'obsession'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A persistent, intrusive, unwanted thought or mental image provoking anxiety",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A repetitive physical ritual such as handwashing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A psychotic visual hallucination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A period of uninhibited manic euphoria",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Obsessions are internal intrusive thoughts; compulsions are the ritualized actions carried out to reduce the distress.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q7",
+      "type": "multiple_choice",
+      "question": "Flashbacks, emotional numbing, nightmares, and chronic hyperarousal following exposure to life-threatening trauma characterize:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Post-Traumatic Stress Disorder (PTSD)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Agoraphobia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Bipolar II Disorder",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Conversion Disorder",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "PTSD arises following severe psychological or physical trauma and involves intrusion, avoidance, and hyperarousal.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q8",
+      "type": "multiple_choice",
+      "question": "What is the clinical term for the inability to feel pleasure in previously enjoyed activities, a cardinal symptom of depression?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Anhedonia",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Aphasia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Apraxia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Agnosia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Anhedonia is the diminished capacity to experience pleasure from intrinsically rewarding activities.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q9",
+      "type": "multiple_choice",
+      "question": "Martin Seligman placed dogs in harnesses with inescapable electric shocks to demonstrate which cognitive model of depression?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Learned Helplessness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cognitive Dissonance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Latent Conditioning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Operant Shaping",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Learned helplessness describes the passive surrender that occurs when organisms experience uncontrollable aversive events.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q10",
+      "type": "multiple_choice",
+      "question": "A diagnostic criteria of Bipolar I Disorder requires the occurrence of at least one full:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Manic Episode",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Panic Attack",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Schizophrenic Hallucination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dissociative Fugue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Bipolar I diagnosis is formally established by the presence of at least one manic episode.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q11",
+      "type": "multiple_choice",
+      "question": "What mineral compound serves as the primary frontline mood-stabilizing pharmacological treatment for Bipolar Disorder?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Lithium carbonate",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Calcium chloride",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Potassium iodide",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sodium fluoride",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Lithium is the cornerstone mood stabilizer utilized to regulate bipolar cycling and curb manic episodes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q12",
+      "type": "multiple_choice",
+      "question": "A patient holding an unshakeable false belief that federal agents have implanted a radio transmitter in their tooth exhibits a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Delusion (Persecutory)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Hallucination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Compulsion",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dissociative Fugue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Delusions are fixed, false cognitive beliefs that persist despite overwhelming factual disproof.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q13",
+      "type": "multiple_choice",
+      "question": "Which of the following is categorized as a 'negative symptom' of Schizophrenia?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Flat affect and avolition (lack of drive)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Auditory hallucinations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Delusions of grandeur",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Disorganized speech (word salad)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Negative symptoms represent deficits or absences of normal emotional and behavioral functioning.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q14",
+      "type": "multiple_choice",
+      "question": "The Dopamine Hypothesis of Schizophrenia suggests that the positive symptoms (hallucinations, delusions) are driven by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Excessive dopamine activity at D2 receptors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A severe depletion of dopamine in the substantia nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Excessive serotonin in the visual cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete absence of GABA in the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Elevated dopamine transmission in the mesolimbic pathway is associated with positive psychotic symptoms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q15",
+      "type": "multiple_choice",
+      "question": "In psychoanalytic therapy, what is the term for when a patient redirects unconscious feelings about their parents onto the therapist?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Transference",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Systematic Desensitization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Free Association",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cognitive Restructuring",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Transference occurs when clients unconsciously transfer unresolved relationship patterns onto the analyst.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q16",
+      "type": "multiple_choice",
+      "question": "Carl Rogers established three core therapeutic conditions in Client-Centered Therapy. What are they?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Empathy, Genuineness (Congruence), and Unconditional Positive Regard",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Reward, Punishment, and Shaping",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Free Association, Dream Analysis, and Resistance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hypnosis, Catharsis, and Aversion",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rogers maintained that therapist empathy, genuineness, and unconditional positive regard catalyze self-growth.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q17",
+      "type": "multiple_choice",
+      "question": "What is the primary mechanism of action of SSRI antidepressant medications (like Prozac and Zoloft)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Blocking the reuptake of serotonin by the presynaptic neuron",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Directly destroying dopamine receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Stimulating acetylcholine synthesis in the hippocampus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Paralyzing motor neurons",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "SSRIs inhibit the serotonin transporter protein, leaving serotonin in the synapse longer.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q18",
+      "type": "multiple_choice",
+      "question": "Which behavioral therapy technique pairs progressive muscle relaxation with a ranked hierarchy of fear-inducing stimuli to eliminate phobias?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Systematic Desensitization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Aversive Conditioning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Token Economy",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Electroconvulsive Therapy",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Joseph Wolpe's systematic desensitization uses counterconditioning to substitute relaxation for anxiety.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q19",
+      "type": "multiple_choice",
+      "question": "What is the primary focus of Cognitive-Behavioral Therapy (CBT)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Identifying and restructuring distorted thought patterns while activating constructive behaviors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Interpreting childhood dreams to uncover repressed unconscious desires",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Surgically altering cortical brain lobes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Administering high-voltage electric shocks for minor misbehaviors",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "CBT modifies automatic maladaptive cognitive schemas and pairs them with practical behavioral experiments.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q20",
+      "type": "multiple_choice",
+      "question": "Electroconvulsive Therapy (ECT) is considered an evidence-based clinical intervention primarily for which clinical presentation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Severe, treatment-resistant Major Depression unresponsive to medication",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Mild social awkwardness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Specific phobia of spiders",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Attention deficit hyperactivity disorder",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "ECT is reserved for acute, refractory depression unresponsive to multiple medications and therapy trials.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q21",
+      "type": "true_false",
+      "question": "Schizophrenia is identical to Dissociative Identity Disorder (multiple personalities).",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Schizophrenia involves a split from reality (psychosis), whereas multiple personalities is a dissociative disorder.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q22",
+      "type": "true_false",
+      "question": "The quality of the therapeutic alliance between client and therapist is one of the strongest predictors of psychotherapy success.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. Extensive empirical meta-analyses show the therapeutic relationship is a primary vehicle of healing.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

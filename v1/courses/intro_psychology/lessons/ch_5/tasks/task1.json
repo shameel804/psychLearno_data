@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_5",
+  "title": "Testing the Serial Position Effect & Working Memory",
+  "description": "Design and analyze a 15-word free-recall experiment to demonstrate primacy and recency curve phenomena.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Design a free-recall experiment where participants hear a randomized list of 15 unrelated nouns.\n\n### Requirements:\n1. Predict and graph the hypothetical recall curve, detailing the **Primacy Effect** (words at the start) and **Recency Effect** (words at the end).\n2. Explain the cognitive mechanism for the Primacy effect (elaborative rehearsal into LTM) versus the Recency effect (active buffering in Working Memory).\n3. Predict what happens to the Recency effect if participants perform a 30-second backward-counting distraction task before recall.",
+  "hints": [
+    "Hint 1: Words in the middle of a list suffer the lowest recall due to proactive and retroactive interference.",
+    "Hint 2: A 30-second delay displaces words from working memory, eliminating the recency bump."
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sq_intro_psychology_1",
+    "title": "Midterm Challenge: Mind, Body & Scientific Rigor",
+    "triggerChapterIndex": 1,
+    "metadata": {
+      "type": "scenario_analysis"
+    }
+  },
+  {
+    "id": "sq_intro_psychology_2",
+    "title": "Case Investigation: Perception & Learned Behaviors",
+    "triggerChapterIndex": 3,
+    "metadata": {
+      "type": "case_study"
+    }
+  },
+  {
+    "id": "sq_intro_psychology_3",
+    "title": "Speed Run: Comprehensive Cognitive & Social Psych",
+    "triggerChapterIndex": 6,
+    "metadata": {
+      "type": "speed"
+    }
+  }
+]

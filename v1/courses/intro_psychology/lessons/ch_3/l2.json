@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_3",
+  "title": "Vision, Audition & Gestalt Perceptual Organization",
+  "description": "Explore visual and auditory anatomy, photoreceptors, color vision theories, and Gestalt grouping laws.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Perception",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Visual Apparatus \ud83d\udc41\ufe0f",
+      "content": "# The Retina & Photoreceptor Cells\n\nLight passes through the **cornea**, enters the adjustable **pupil** (controlled by the colored **iris**), is focused by the **lens** via accommodation, and projects onto the **retina**.\n\n| Characteristic | Rods | Cones |\n| :--- | :--- | :--- |\n| **Total Count** | ~120 million per eye | ~6 million per eye |\n| **Retinal Location** | Periphery of retina | Clustered tightly in **fovea** (center) |\n| **Sensitivity** | High in dim twilight (night vision) | Low in dim light; requires bright light |\n| **Color & Detail** | Monochromatic (black & white); coarse | Color vision; high fine-detail visual acuity |"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Photoreceptor Check \ud83d\udd2d",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Which photoreceptor cells are concentrated in the fovea, function best in bright illumination, and provide color vision and high spatial acuity?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Rods",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Cones",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Bipolar cells",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Ganglion cells",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Cones operate in daylight conditions, perceive color, and provide sharp central focus inside the fovea.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Theories of Color Vision \ud83c\udfa8",
+      "content": "## How We See the Spectrum\n\n1. **Trichromatic Theory** (Young-Helmholtz): The retina contains three distinct types of cones, each maximally sensitive to one of three primary wavelengths: **Red (long)**, **Green (medium)**, and **Blue (short)**. Mixing these signals produces all perceived colors.\n2. **Opponent-Process Theory** (Ewald Hering): Visual neurons in the thalamus and cortex process colors in antagonistic pairs:\n   * **Red vs. Green**\n   * **Blue vs. Yellow**\n   * **Black vs. White**\n\nStaring at a green square fatigues green receptors, producing a vivid **red afterimage** when looking at a blank white wall!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Gestalt Laws of Perceptual Organization \ud83d\uddbc\ufe0f",
+      "content": "## How the Mind Structures Visual Scenes\n\n* **Figure-Ground**: Distinguishing the primary object (figure) from the surrounding background (ground).\n* **Proximity**: Grouping nearby figures together.\n* **Similarity**: Grouping elements that share visual attributes (color, shape).\n* **Continuity**: Perceiving smooth, continuous lines rather than discontinuous, jagged segments.\n* **Closure**: Filling in subjective gaps to create a complete, whole object.\n\n### Depth Perception\n* **Binocular Cues**: Retinal Disparity (distance between the two eyes creates two slightly different retinal angles; brain computes depth).\n* **Monocular Cues**: Linear perspective, relative size, interposition (overlap), and motion parallax."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Gestalt Law Check \ud83e\udde9",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "When viewing an incomplete circle with a tiny missing gap, your visual system automatically perceives a complete circle. Which Gestalt principle is demonstrated?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Proximity",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Closure",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Linear perspective",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Sensory adaptation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The principle of closure describes our brain's tendency to fill in gaps to create complete, whole forms.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Auditory Architecture Hook \ud83d\udc42",
+      "content": "## Sound Transduction in the Cochlea\n\nSound waves vibrate the eardrum, oscillate the three middle ear ossicles (**Hammer, Anvil, Stirrup** / Malleus, Incus, Stapes), and push fluid against the **basilar membrane** within the spiral **cochlea**. Microscopic hair cells on the basilar membrane bend, firing action potentials up the auditory nerve to the temporal lobe!"
+    }
+  ]
+}

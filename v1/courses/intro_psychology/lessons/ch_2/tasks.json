@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Mapping the Spinal Reflex Arc",
+      "description": "Trace sensory afferent neurons, interneurons in the spinal cord, and motor efferents during reflex withdrawal.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Neuropsychological Case Profile: Phineas Gage & Patient H.M.",
+      "description": "Analyze classic clinical cases linking localized brain damage to specific cognitive and behavioral deficits.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_7",
+  "title": "Group Dynamics, Intergroup Relations & Altruism",
+  "description": "Analyze social facilitation, groupthink, the bystander effect, and Sherif's Robbers Cave study.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Group Behavior",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Behavior in Groups \ud83c\udfaa",
+      "content": "# How Crowds Change Us\n\n* **Social Facilitation**: Improved performance on simple or well-learned tasks in the presence of others (via physiological arousal), but impaired performance on complex, novel tasks.\n* **Social Loafing**: The tendency for individuals to exert less physical or mental effort when pooling efforts toward a common group goal than when individually accountable.\n* **Deindividuation**: The loss of personal self-awareness and moral restraint occurring in anonymous, high-arousal group situations (e.g., mob riots, masked online trolling).\n* **Group Polarization**: The enhancement of a group's prevailing inclinations through mutual discussion (like-minded people become more extreme together)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Group Dynamics Check \ud83d\udea3",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "In a tug-of-war competition, individuals pull with significantly less force when part of an 8-person team than when pulling individually against a dynamometer. This illustrates:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Social Loafing",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Social Facilitation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Groupthink",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Cognitive Dissonance",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Social loafing is the reduction of individual effort that occurs when responsibility is diffused across a collective team.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Groupthink & Intergroup Conflict \u26fa",
+      "content": "## Fostering Harmony over Reality\n\n* **Groupthink** (Irving Janis): The mode of thinking that occurs when the desire for harmony and consensus in a decision-making group overrides realistic appraisal of alternatives.\n  * Symptoms: Illusion of invulnerability, self-censorship of dissent, stereotyping outsiders (e.g., Space Shuttle Challenger launch failure).\n\n### The Robbers Cave Experiment (Muzafer Sherif, 1954)\n* Two groups of 11-year-old boys at camp (Eagles vs. Rattlers) developed intense mutual hostility, vandalism, and prejudice through competitive games.\n* Merely bringing them together did NOT reduce friction. Hostility was eliminated only when forced to collaborate on **Superordinate Goals**\u2014shared challenges requiring joint cooperation (e.g., fixing a stalled camp food truck)."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "The Bystander Effect & Altruism \ud83d\ude91",
+      "content": "## Diffusion of Responsibility\n\nIn 1964, Kitty Genovese was murdered outside her New York apartment while dozens of neighbors reportedly heard her cries yet failed to intervene.\n\nJohn Darley and Bibb Latan\u00e9 investigated this, discovering the **Bystander Effect**:\n* Any given bystander is **less likely to help** if other bystanders are present.\n* **Diffusion of Responsibility**: Each person assumes someone else has already called for help or will step forward.\n* **Pluralistic Ignorance**: Looking at other calm bystanders and mistakenly concluding that no real emergency is occurring."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Bystander Effect Check \ud83d\udea8",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "What is the primary psychological driver of the bystander effect, where individuals in a large crowd fail to render aid during an emergency?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Diffusion of Responsibility",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Social Facilitation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Sensory Adaptation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Subliminal Conditioning",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "When others are present, individual obligation is diluted across the group, lowering each person's sense of personal responsibility.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "How to Break the Bystander Effect \ud83c\udd98",
+      "content": "## Direct Assignment of Responsibility\n\nIf you ever suffer an emergency in a crowded public space, do not shout a generic 'Someone call help!'. Instead, single out one individual with eye contact and a direct command: 'You, in the blue sweater, call 911 immediately!'. This completely eliminates diffusion of responsibility."
+    }
+  ]
+}

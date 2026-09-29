@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Social Cognition, Attribution & Attitudes",
+      "description": "Examine fundamental attribution error, cognitive dissonance theory, and dual-route persuasion.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Social Cognition"
+    },
+    {
+      "id": "l2",
+      "title": "Conformity, Obedience & Social Influence",
+      "description": "Master Asch's conformity study, Milgram's obedience experiments, and Zimbardo's prison study.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Social Influence"
+    },
+    {
+      "id": "l3",
+      "title": "Group Dynamics, Intergroup Relations & Altruism",
+      "description": "Analyze social facilitation, groupthink, the bystander effect, and Sherif's Robbers Cave study.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Group Behavior"
+    },
+    {
+      "id": "l4",
+      "title": "Personality Theories: Psychodynamic, Humanistic & Big Five",
+      "description": "Explore Freud's psychoanalytic defense mechanisms, Carl Rogers, and the Big Five OCEAN trait taxonomy.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Personality"
+    }
+  ]
+}

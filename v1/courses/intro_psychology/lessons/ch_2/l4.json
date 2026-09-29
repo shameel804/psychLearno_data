@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_2",
+  "title": "Cerebral Cortex, Lateralization & Neuroplasticity",
+  "description": "Master the four lobes of the cortex, split-brain research, language areas, and the brain's capacity to adapt.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Cortex & Plasticity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Four Lobes of the Cortex \ud83e\udde0",
+      "content": "# The Cerebral Cortex\n\nThe wrinkled outer layer of the brain (cerebral cortex) handles advanced processing across four lobes:\n\n* **Frontal Lobe**: Executive functions, decision-making, emotional regulation, planning, and voluntary movement (**Primary Motor Cortex**).\n* **Parietal Lobe**: Processes tactile sensations\u2014touch, temperature, pressure, pain (**Somatosensory Cortex**) and spatial awareness.\n* **Occipital Lobe**: Houses the **Primary Visual Cortex** at the back of the skull; interprets shape, color, and motion.\n* **Temporal Lobe**: Located by the ears; houses the **Primary Auditory Cortex**, facial recognition centers (fusiform face area), and language comprehension."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Cortical Lobes Quiz \ud83d\uddfa\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A patient suffering trauma to the back of the head experiences temporary blindness despite undamaged eyes. Which lobe was injured?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Frontal Lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Parietal Lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Occipital Lobe",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Temporal Lobe",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The occipital lobe at the rear of the skull contains the visual cortex responsible for decoding visual sensory input.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Language Specialization: Broca vs. Wernicke \ud83d\udde3\ufe0f",
+      "content": "## Specialized Cortical Language Regions\n\nIn most individuals, language centers reside predominantly in the **left hemisphere**:\n\n* **Broca's Area** (Frontal Lobe, Left Hemisphere): Controls motor speech production.\n  * *Broca's Aphasia*: Patient understands spoken words clearly but struggles intensely to articulate words ('broken speech').\n* **Wernicke's Area** (Temporal Lobe, Left Hemisphere): Governs language comprehension.\n  * *Wernicke's Aphasia*: Patient produces fluent, grammatically flowing sentences that are completely nonsensical ('word salad') and cannot understand spoken speech."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Split-Brain Research & Lateralization \u2702\ufe0f",
+      "content": "## Severing the Corpus Callosum\n\nThe **Corpus Callosum** is a thick band of axon fibers connecting the left and right cerebral hemispheres.\n\nIn pioneering work by **Roger Sperry** and **Michael Gazzaniga**, severe epileptic patients had their corpus callosum surgically severed ('split-brain' patients):\n* An image flashed to the **right visual field** goes to the left hemisphere -> The patient can immediately verbalize what they saw.\n* An image flashed to the **left visual field** goes to the right hemisphere -> The patient cannot say what they saw, but their left hand can easily draw or pick up the object!"
+    },
+    {
+      "id": "s_l4_5",
+      "type": "text",
+      "title": "Neuroplasticity & The Endocrine System \ud83c\udf31",
+      "content": "## Brain Adaptability & Hormonal Control\n\n* **Neuroplasticity**: The brain's lifelong ability to reorganize neural pathways in response to experience, learning, or brain damage. Younger brains possess significantly higher plasticity.\n* **The Endocrine System**: Glandular communication network utilizing **hormones** secreted into the bloodstream.\n  * **Pituitary Gland**: The 'master gland' controlled by the hypothalamus; orchestrates human growth and triggers other glands.\n  * **Adrenal Glands**: Release adrenaline (epinephrine) and cortisol during physiological stress."
+    },
+    {
+      "id": "s_l4_6",
+      "type": "quiz",
+      "title": "Lateralization & Plasticity Check \ud83e\udde9",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A split-brain patient is briefly shown a picture of a spoon in their LEFT visual field only. What will occur when asked what they saw?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "They will verbally say 'I saw a spoon' without hesitation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "They will verbally state they saw nothing, yet can pick up the spoon with their left hand",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "They will draw a fork with their right hand",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "They will lose consciousness immediately",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Left visual field goes to the non-verbal right hemisphere; the right hemisphere controls the left hand, so the hand can locate the object even if the verbal left hemisphere saw nothing.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

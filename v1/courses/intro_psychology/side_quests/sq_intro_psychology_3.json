@@ -1,0 +1,230 @@
+{
+  "id": "sq_intro_psychology_3",
+  "title": "Speed Run: Comprehensive Cognitive & Social Psych",
+  "triggerChapterIndex": 6,
+  "metadata": {
+    "type": "speed"
+  },
+  "questions": [
+    {
+      "id": "sq3_q1",
+      "type": "true_false",
+      "question": "In a normal distribution of standardized WAIS intelligence scores (M=100, SD=15), approximately 68% of the population scores between 85 and 115.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. In a normal bell curve, 68.2% of all values fall within \u00b11 standard deviation of the mean.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q2",
+      "type": "multiple_choice",
+      "question": "Which cognitive shortcut leads people to overestimate the danger of a plane crash because dramatic crashes are easily retrieved from memory?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Availability Heuristic",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Representativeness Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Functional Fixedness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Confirmation Bias",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The availability heuristic estimates frequency based on ease of mental recall.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q3",
+      "type": "multiple_choice",
+      "question": "In Stanley Milgram's classic obedience studies, what proportion of participants delivered the maximum 450-volt shock?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Approximately 65%",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Under 2%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Exactly 100%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "About 33%",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Two-thirds (65%) of ordinary participants administered the maximum electrical shock under authority commands.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q4",
+      "type": "multiple_choice",
+      "question": "According to Jean Piaget, during which stage does a child first master the principle of Conservation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Concrete Operational Stage (ages 7-11)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sensorimotor Stage (ages 0-2)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Preoperational Stage (ages 2-7)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Postconventional Stage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Concrete operational children grasp conservation of volume, mass, and number.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q5",
+      "type": "multiple_choice",
+      "question": "Mary Ainsworth classified infants who become distressed upon mother's departure but are quickly comforted upon her return as having:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Secure Attachment",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Insecure-Avoidant Attachment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Insecure-Resistant Attachment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Disorganized Attachment",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Secure attachment is shown by using the caregiver as a haven of safety and being easily soothed.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q6",
+      "type": "multiple_choice",
+      "question": "The reduction in personal effort that occurs when individuals pool their work together in a collective group is known as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Social Loafing",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Social Facilitation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Groupthink",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Deindividuation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Social loafing is the drop in personal exertion when responsibility is shared.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q7",
+      "type": "multiple_choice",
+      "question": "Which Big Five personality dimension describes an individual who is highly organized, dependable, disciplined, and goal-oriented?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conscientiousness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Openness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Agreeableness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Neuroticism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Conscientiousness reflects self-discipline, orderliness, and reliability.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q8",
+      "type": "true_false",
+      "question": "Retroactive interference occurs when previously learned old memories prevent you from remembering newly acquired information.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Old memories disrupting new recall is Proactive interference. Retroactive interference is when new learning disrupts old recall.",
+      "xpReward": 15,
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_4",
+  "title": "Schedules of Reinforcement & Behavior Modification",
+  "description": "Analyze Fixed/Variable Ratio and Interval schedules, resistance to extinction, and token economies.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Reinforcement Schedules",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Continuous vs. Partial Reinforcement \u23f1\ufe0f",
+      "content": "# How Often Should You Reward?\n\n* **Continuous Reinforcement**: Reinforcing the desired response *every single time* it occurs. Best for learning a new behavior rapidly, but extinction occurs very quickly if rewards cease.\n* **Partial (Intermittent) Reinforcement**: Reinforcing a response only *part of the time*.\n  * **Partial Reinforcement Extinction Effect**: Behaviors reinforced intermittently are vastly more resistant to extinction than continuously reinforced behaviors."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Extinction Resistance Check \ud83d\udee1\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which reinforcement schedule produces behaviors that are most stubbornly resistant to extinction?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Continuous reinforcement",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Intermittent / Partial reinforcement",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Immediate continuous punishment",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Unconditioned reflex priming",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Partial schedules create persistent behavior because the organism learns that rewards are not guaranteed on every trial.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Four Intermittent Schedules \ud83c\udfb0",
+      "content": "## Ratio (Number) vs. Interval (Time)\n\n| Schedule | Reinforcer Delivered After... | Response Pattern | Real-World Example |\n| :--- | :--- | :--- | :--- |\n| **Fixed-Ratio (FR)** | A set, predictable number of responses | High rate; brief pause after reward | 'Buy 10 coffees, get 1 free' punchcard |\n| **Variable-Ratio (VR)** | An unpredictable number of responses (averaged) | **Highest, steadiest response rate**; near-zero pause | Casino slot machines, lottery tickets |\n| **Fixed-Interval (FI)** | First response after a set amount of time | 'Scalloped' pattern; surging responses as deadline nears | Studying intensely the night before weekly Friday quiz |\n| **Variable-Interval (VI)** | First response after an unpredictable time period | Slow, steady, consistent response rate | Checking email or social media feeds |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Applied Behavior Analysis & Token Economies \ud83e\ude99",
+      "content": "## Operant Principles in Real Life\n\n**Applied Behavior Analysis (ABA)** applies operant conditioning to modify socially significant human behaviors, especially in autism support, rehabilitation, and education.\n\n### The Token Economy\nAn operant system where participants earn secondary reinforcers (**tokens**, chips, stars) for performing targeted positive behaviors, which can later be exchanged for backup primary reinforcers (privileges, recreation time, prizes)."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Schedule Identification Check \ud83c\udfb0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "A casino gambler repeatedly pulls the lever of a slot machine for hours because a payout could occur on any pull, averaging 1 win per 40 pulls. What schedule is this?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Fixed-Interval (FI)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Fixed-Ratio (FR)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Variable-Ratio (VR)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Variable-Interval (VI)",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Variable-Ratio rewards an unpredictable number of behavioral responses, producing high and steady engagement.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Digital Behavioral Architecture \ud83d\udcf1",
+      "content": "## The Gamification of Tech\n\nApp developers deliberately configure push notifications and infinite scrolling algorithms on **Variable-Ratio and Variable-Interval schedules**. Because users never know which swipe will reveal an exciting post or notification, the brain receives unpredictable dopamine bursts that keep users hooked."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_6",
+  "title": "Moral Dilemma Analysis: Applying Kohlberg's Framework",
+  "description": "Formulate preconventional, conventional, and postconventional arguments for a contemporary ethical dilemma.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Consider a contemporary ethical scenario: A whistleblower leaks classified corporate records exposing an unapproved toxic chemical dumping scheme that is poisoning local groundwater.\n\n### Requirements:\n1. Construct arguments justifying or condemning the leak from a **Preconventional perspective** (focusing on punishments, fines, or self-gain).\n2. Construct arguments from a **Conventional perspective** (focusing on corporate loyalty, duty to follow non-disclosure agreements, and social rule compliance).\n3. Construct arguments from a **Postconventional perspective** (invoking universal human rights to health, bodily autonomy, and planetary stewardship).\n4. Address Carol Gilligan's critique: How would an ethic of care evaluate this scenario compared to pure rule-based justice?",
+  "hints": [
+    "Hint 1: Kohlberg's scoring is based on the *reasoning* behind the decision, not the yes/no choice itself.",
+    "Hint 2: Stage 4 conventional reasoning emphasizes strict obedience to written laws to prevent social chaos."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Testing the Serial Position Effect & Working Memory",
+      "description": "Design and analyze a 15-word free-recall experiment to demonstrate primacy and recency curve phenomena.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Deconstructing Heuristics & Framing in Public Discourse",
+      "description": "Analyze media reporting to identify how the availability heuristic, representativeness, and framing distort risk perceptions.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

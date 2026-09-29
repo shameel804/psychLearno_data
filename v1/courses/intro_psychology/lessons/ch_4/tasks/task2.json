@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_4",
+  "title": "Designing an Operant Behavior Modification Plan",
+  "description": "Formulate a concrete behavioral intervention utilizing positive reinforcement, shaping, and schedule design.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Design a 4-week operant conditioning plan to increase a productive behavior (e.g., daily 30-minute language study or regular exercise).\n\n### Requirements:\n1. Define the target operant behavior with a precise operational definition.\n2. Establish an initial baseline measurement.\n3. Choose an effective positive reinforcer and explain how you will prevent satiation.\n4. Design a reinforcement schedule progression (e.g., starting with Continuous Reinforcement and fading to a Variable-Ratio or Fixed-Ratio schedule).\n5. Explain why using positive reinforcement is superior to relying on positive punishment.",
+  "hints": [
+    "Hint 1: Continuous reinforcement builds the habit quickly; partial schedules make it permanent.",
+    "Hint 2: Punishment often produces avoidance and anxiety rather than teaching the desired replacement behavior."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_1",
+  "title": "Major Modern Psychological Perspectives",
+  "description": "Compare psychodynamic, behavioral, cognitive, humanistic, biological, and biopsychosocial paradigms.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Frameworks",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Seven Lenses of Psychology \ud83d\udd0d",
+      "content": "# Multiple Views of Human Nature\n\nModern psychologists view behavior through different theoretical lenses:\n\n1. **Psychodynamic** (Sigmund Freud): Unconscious drives, repressed childhood conflicts, and defense mechanisms.\n2. **Behavioral** (John B. Watson, B.F. Skinner): Observable learned responses shaped by environmental rewards and punishments.\n3. **Humanistic** (Carl Rogers, Abraham Maslow): Innate human potential for personal growth, free will, and self-actualization.\n4. **Cognitive** (Jean Piaget, Ulric Neisser): Mental information processing, memory storage, logic, decision-making, and language.\n5. **Biological / Neuroscience**: Genetics, neural networks, neurotransmitters, and brain structures."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Perspective Match \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "A therapist who believes an individual's chronic anxiety is driven by repressed childhood memories residing in the unconscious is adopting which framework?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Behavioral",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Psychodynamic",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Biological",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Cognitive",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The psychodynamic perspective focuses on unconscious conflicts and early childhood experiences as the root of current behaviors.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Cross-Perspective Comparison \ud83d\udcca",
+      "content": "## Comparing the Major Theoretical Frameworks\n\n| Perspective | Primary Determinants | Primary Focus | Illustrative Question |\n| :--- | :--- | :--- | :--- |\n| **Psychodynamic** | Unconscious drives & past trauma | Internal hidden motives | How do unresolved childhood anxieties manifest today? |\n| **Behavioral** | External conditioning & stimulus-response | Observable actions | How do environmental reinforcers sustain this habit? |\n| **Humanistic** | Self-determination & free will | Personal growth & values | How can the client discover authentic self-worth? |\n| **Cognitive** | Thought patterns & interpretations | Information processing | How does cognitive distortion affect their mood? |\n| **Biological** | Brain chemistry, genetics & hormones | Neural mechanisms | What neurotransmitter imbalance is present? |\n| **Sociocultural** | Cultural norms & group influence | Social context | How does family culture shape this communication style? |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "The Biopsychosocial Model \ud83c\udf10",
+      "content": "## An Integrated Holistic Approach\n\nNo single perspective explains the entire human experience. Contemporary psychologists use the **Biopsychosocial Model**:\n\n* **Biological Influences**: Genetic vulnerabilities, neurochemical imbalances, nervous system reactivity.\n* **Psychological Influences**: Learned fears, emotional responses, cognitive interpretations, coping mechanisms.\n* **Social-Cultural Influences**: Presence of others, cultural expectations, peer group dynamics, socioeconomic status.\n\nUnderstanding depression, for example, requires examining serotonin levels (bio), negative explanatory styles (psycho), and social isolation (social)."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Holistic Synthesis Check \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Which of the following factors would be classified as a 'psychological' component under the biopsychosocial model?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "An inherited genetic mutation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Societal norms regarding body image",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Maladaptive thought patterns and low perceived control",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Underactivity in the prefrontal cortex",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Cognitive schemas, thought habits, and appraisal styles belong to the psychological domain, whereas genetics is biological and cultural norms are social.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Clinical Practice Tip \ud83d\udca1",
+      "content": "## The Eclectic Orientation\n\nMost modern practicing psychologists do not rigidly pledge allegiance to one single school. Over 60% describe themselves as **eclectic**\u2014drawing techniques and insights from behavioral, cognitive, humanistic, and biological paradigms to tailor treatment for each unique individual."
+    }
+  ]
+}

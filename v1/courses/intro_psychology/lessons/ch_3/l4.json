@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_3",
+  "title": "Dreams, Sleep Disorders & Altered Consciousness",
+  "description": "Investigate dream theories, clinical sleep disorders like apnea and narcolepsy, and hypnotic dissociation.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "States of Mind",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Why Do We Dream? \ud83c\udf0c",
+      "content": "# Competing Psychological Theories of Dreaming\n\n1. **Psychoanalytic Wish-Fulfillment** (Sigmund Freud):\n   * **Manifest Content**: The literal storyline of the dream.\n   * **Latent Content**: The underlying, disguised unconscious sexual/aggressive meaning.\n2. **Activation-Synthesis Theory** (Hobson & McCarley):\n   * The pons produces random spontaneous bursts of neural activity during REM (Activation).\n   * The forebrain and cerebral cortex synthesize these chaotic signals into a plausible cohesive narrative (Synthesis).\n3. **Information-Processing & Cognitive Consolidation**:\n   * Dreams help sort, consolidate, and prune the day's experiences into long-term hippocampal networks."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Dream Theory Check \ud83d\udcad",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which theory of dreaming argues that dreams are simply the cerebral cortex's attempt to make sense of spontaneous, random neural bursts originating in the lower brainstem?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Activation-Synthesis Theory",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Freudian Wish-Fulfillment",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Opponent-Process Hypothesis",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Weber's Threshold Model",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Hobson and McCarley's Activation-Synthesis model explains dreams as the cognitive synthesis of lower-brain neural activations.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Clinical Sleep Disorders \ud83d\udea8",
+      "content": "## When Biological Rhythms Fail\n\n* **Insomnia**: Chronic difficulty falling asleep, staying asleep, or achieving restorative sleep, leading to severe daytime impairment.\n* **Narcolepsy**: Sudden, irresistible daytime sleep attacks; often accompanied by **cataplexy** (sudden collapse of muscle tone triggered by strong emotion) where patients plunge directly into REM sleep.\n* **Sleep Apnea**: Repeated momentary cessations of breathing during sleep (often hundreds of times per night) caused by airway collapse; treated with CPAP machines.\n* **Parasomnias**: Abnormal behaviors during sleep:\n  * *Somnambulism (Sleepwalking)*: Occurs during deep **NREM-3**, not REM!\n  * *Night Terrors*: High autonomic arousal and intense panic during NREM-3; distinct from common REM nightmares."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Hypnosis & Altered Consciousness \ud83c\udf00",
+      "content": "## Dissociation vs. Social Roles\n\nHypnosis is a cooperative social interaction in which one person responds to suggestions for alterations in perception, memory, or behavior.\n\n* **Dissociation Theory** (Ernest Hilgard): Hypnosis produces a split in conscious awareness into two simultaneous streams. Hilgard demonstrated the **'Hidden Observer'**: a hypnotized subject reporting no pain from ice water still recorded physiological pain internally.\n* **Social-Cognitive Theory**: Hypnotized participants are not in an altered trance state, but rather playing a socially accepted role, conforming to expectations of the hypnotist."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Clinical Sleep Disorder Check \ud83e\ude7a",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A patient repeatedly stops breathing hundreds of times throughout the night, causing brief awakenings, loud gasping snorts, and debilitating daytime exhaustion. What is the diagnosis?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Sleep Apnea",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Narcolepsy",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Somnambulism",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Night terror disorder",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Sleep apnea involves intermittent blockage of airflow causing repeated oxygen desaturations throughout the sleep cycle.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Mindfulness & Meditation \ud83e\uddd8",
+      "content": "## Neural Correlates of Meditation\n\nLong-term mindfulness meditators demonstrate altered EEG patterns, showing increased **alpha and theta wave activity**, alongside increased gray matter density in the hippocampus and prefrontal cortex, with decreased reactivity in the amygdala."
+    }
+  ]
+}

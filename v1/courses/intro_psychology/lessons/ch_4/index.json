@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Classical Conditioning: Pavlovian Associations",
+      "description": "Master unconditioned/conditioned stimuli, acquisition, extinction, spontaneous recovery, and taste aversion.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Classical Conditioning"
+    },
+    {
+      "id": "l2",
+      "title": "Operant Conditioning: Reinforcement & Punishment",
+      "description": "Understand Thorndike's Law of Effect, the 2x2 grid of positive/negative reinforcement and punishment, and shaping.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Operant Conditioning"
+    },
+    {
+      "id": "l3",
+      "title": "Schedules of Reinforcement & Behavior Modification",
+      "description": "Analyze Fixed/Variable Ratio and Interval schedules, resistance to extinction, and token economies.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Reinforcement Schedules"
+    },
+    {
+      "id": "l4",
+      "title": "Observational Learning & Cognitive Factors in Learning",
+      "description": "Explore Bandura's Bobo Doll study, mirror neurons, latent learning, and cognitive maps.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Social & Cognitive Learning"
+    }
+  ]
+}

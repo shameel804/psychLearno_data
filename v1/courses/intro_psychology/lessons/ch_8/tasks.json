@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Differential Diagnosis and Case Formulation",
+      "description": "Evaluate clinical case descriptions to distinguish Major Depressive Disorder with anxiety from Bipolar II.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Designing a CBT Cognitive Restructuring Worksheet",
+      "description": "Identify cognitive distortions, record empirical counter-evidence, and construct balanced replacement thoughts.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

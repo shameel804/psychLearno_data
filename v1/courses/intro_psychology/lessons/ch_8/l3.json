@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_8",
+  "title": "Depressive, Bipolar & Schizophrenia Spectrum Disorders",
+  "description": "Master Major Depressive Disorder, Beck's cognitive triad, Bipolar I/II mania, and schizophrenia symptoms.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Mood & Psychotic Disorders",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Major Depressive Disorder (MDD) \ud83c\udf27\ufe0f",
+      "content": "# The Common Cold of Psychopathology?\n\nMDD requires experiencing at least 5 symptoms for **at least 2 consecutive weeks**, causing significant distress/dysfunction, with at least one symptom being **depressed mood** or **anhedonia** (loss of interest in pleasurable activities).\n\n* **Symptoms**: Severe fatigue, appetite/weight changes, insomnia or hypersomnia, feelings of worthlessness, psychomotor agitation/retardation, recurrent suicidal ideation.\n* **Cognitive Perspectives**:\n  * **Aaron Beck's Cognitive Triad**: Automatic negative schema regarding **the Self** ('I am unlovable'), **the World** ('Everyone is cruel'), and **the Future** ('Nothing will ever improve').\n  * **Learned Helplessness** (Martin Seligman): Passive resignation when organisms learn they cannot control aversive events."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Depression Cognition Check \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "According to Aaron Beck, what three negative cognitive domains constitute the 'Cognitive Triad' found in clinical depression?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Self, the World, and the Future",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The Past, the Present, and the Unconscious",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Id, Ego, and Superego",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Parents, Teachers, and Peers",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Beck identified pervasive cognitive distortions directed toward the Self, the World, and the Future.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Bipolar Disorders: Depressive & Manic Poles \u26a1",
+      "content": "## Extreme Mood Oscillations\n\n* **Bipolar I Disorder**: Characterized by at least one full-blown **Manic Episode** (often alternating with depressive episodes).\n* **Bipolar II Disorder**: Characterized by major depressive episodes alternating with **Hypomania** (a milder, non-psychotic elevated mood).\n\n### Clinical Presentation of Mania\n* Abnormally elevated, expansive, or irritable mood lasting at least one week.\n* Drastically decreased need for sleep (feeling energized on 2 hours).\n* Grandiosity, racing thoughts (**flight of ideas**), pressured speech, and reckless involvement in high-risk ventures (reckless shopping sprees, hazardous investments)."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Schizophrenia Spectrum Disorders \ud83c\udf0c",
+      "content": "# Psychosis and Loss of Contact with Reality\n\nSchizophrenia affects roughly 1% of the global population, typically emerging in late adolescence or early adulthood.\n\n### Positive Symptoms (Excesses & Distortions)\n* **Hallucinations**: Sensory perceptions without external physical stimulation (most commonly **auditory voices**).\n* **Delusions**: False, fixed beliefs resistant to contradictory evidence (e.g., persecutory delusions, delusions of grandeur).\n* **Disorganized Thinking/Speech**: Word salad, loose associations.\n\n### Negative Symptoms (Deficits & Absences)\n* **Flat Affect**: Emotionally blunted facial expression and monotone voice.\n* **Avolition**: Total lack of motivation or ability to initiate tasks.\n* **Alogia**: Severe poverty of speech."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Schizophrenia Symptom Classification Check \ud83c\udfad",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Hearing commanding auditory voices that no one else can hear is classified as which type of schizophrenia symptom?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Positive Symptom (Hallucination)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Negative Symptom (Avolition)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Cognitive Deficit (Alogia)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Delusion of Grandeur",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Hallucinations represent perceptual additions or distortions, making them positive symptoms.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Neurobiological Mechanisms of Schizophrenia \ud83d\udd2c",
+      "content": "## Dopamine & Brain Ventricles\n\nThe **Dopamine Hypothesis** suggests schizophrenia involves overactivity of dopamine D2 receptors in subcortical pathways (producing positive symptoms like hallucinations). Neuroimaging also reliably demonstrates **enlarged lateral cerebral ventricles** and corresponding loss of gray matter volume in schizophrenia."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_1",
+  "title": "Dissecting Pseudoscience vs. Empirical Science Claims",
+  "description": "Evaluate marketing claims using criteria of falsifiability, replication, and empirical proof.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Select two common pop-psychology claims (e.g., 'Right-brained people are more creative' or 'Subliminal audios instantly reprogram your memory while you sleep').\n\n### Requirements:\n1. State the central claim made by each product or popular meme.\n2. Apply Karl Popper's falsifiability test: Can this claim be empirically disproven?\n3. Identify what a controlled experiment would require (independent variable, control group, double-blind testing) to validate or debunk the claim.\n4. Write a concise evaluation (2-3 paragraphs) summarizing your scientific critique.",
+  "hints": [
+    "Hint 1: Look for vague language or unfalsifiable claims that explain away negative results.",
+    "Hint 2: Verify whether peer-reviewed randomized controlled trials support the claim."
+  ]
+}

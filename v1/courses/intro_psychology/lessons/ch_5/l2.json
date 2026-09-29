@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_5",
+  "title": "Forgetting, Memory Distortion & Eyewitness Fallibility",
+  "description": "Master Ebbinghaus forgetting curve, proactive vs retroactive interference, and Loftus's misinformation effect.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Forgetting & Distortion",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Why Do We Forget? \ud83d\udcc9",
+      "content": "# The Mechanics of Forgetting\n\n1. **Hermann Ebbinghaus & The Forgetting Curve**: By testing himself on nonsense syllables (e.g., BOK, KAZ), Ebbinghaus discovered that forgetting is rapid initially (losing over 50% within the first hour) before leveling off into a stable plateau.\n2. **Encoding Failure**: Information was never properly processed into long-term memory in the first place (e.g., inability to draw a penny's details).\n3. **Storage Decay**: Physical fading of the neurological memory trace over time.\n4. **Retrieval Failure**: The memory is stored, but you lack the necessary retrieval cues to access it (the 'Tip-of-the-Tongue' phenomenon)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Interference Check \ud83d\udd04",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "You enter your old home security passcode instead of your newly assigned passcode. Which form of memory disruption does this demonstrate?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Proactive Interference",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Retroactive Interference",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Retrograde Amnesia",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Anterograde Amnesia",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Proactive interference occurs when previously learned old information disrupts the recall of newly acquired information (Old interferes with New).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Interference: Proactive vs. Retroactive \u2694\ufe0f",
+      "content": "## When Memories Collide\n\n* **Proactive Interference**: **Old** memories interfere with the retrieval of **new** information.\n  * *Example*: Writing the previous year on checks in January.\n* **Retroactive Interference**: **New** information disrupts the recall of **old** memories.\n  * *Example*: Memorizing your new student ID number causes you to forget your previous high school ID.\n\n### Memory Trick: PORN\n* **P**roactive = **O**ld information causes interference.\n* **R**etroactive = **N**ew information causes interference."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "warning",
+      "title": "Memory is Constructive, Not a Recording \u26a0\ufe0f",
+      "content": "### Elizabeth Loftus & The Misinformation Effect\n\nMemory does not function like a mental camcorder. Instead, each time a memory is recalled, it is dynamically **reconstructed** and vulnerable to alteration.\n\nIn Loftus's classic 1974 study, participants viewed a film of a traffic collision. When asked:\n* *'How fast were the cars going when they **smashed** into each other?'* -> Participants estimated significantly higher speeds and falsely remembered seeing broken glass.\n* When asked *'when they **hit** each other?'* -> Estimates were lower and no broken glass was reported!"
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Memory Reconstruction Check \ud83d\ude97",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "Elizabeth Loftus's experiments on eyewitness testimony demonstrated that:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Human memory is perfectly permanent once consolidated",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Subtle post-event misinformation and leading questions can alter eyewitness memories",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Hypnosis reliably restores 100% accurate memories",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Adults never produce false memories under any circumstance",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The misinformation effect shows that misleading post-event information reconstructs and distorts episodic memory.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Encoding Specificity Principle \ud83c\udfdb\ufe0f",
+      "content": "## Context-Dependent and State-Dependent Memory\n\nRecall is significantly enhanced when the context (physical environment) or internal state (mood, physiological state) during retrieval matches the state during initial encoding. Scuba divers who memorized words underwater recalled them substantially better underwater than on dry land!"
+    }
+  ]
+}

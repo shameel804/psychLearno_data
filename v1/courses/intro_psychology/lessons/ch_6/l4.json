@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_6",
+  "title": "Moral & Psychosocial Development across the Lifespan",
+  "description": "Examine Erikson's 8 psychosocial crises, Kohlberg's moral stages, and adulthood transition theories.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Moral & Lifespan",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Erikson's Eight Psychosocial Crises \ud83d\udd04",
+      "content": "# Development Across the Full Lifespan\n\nErik Erikson argued personality develops across 8 lifelong stages, each centered on a social conflict that must be resolved:\n\n1. **Trust vs. Mistrust (0-1 yr)**: Hope and emotional security.\n2. **Autonomy vs. Shame & Doubt (1-3 yrs)**: Willpower and independent toilet training.\n3. **Initiative vs. Guilt (3-6 yrs)**: Purpose and self-directed play.\n4. **Industry vs. Inferiority (6-12 yrs)**: Competence in school and peer skills.\n5. **Identity vs. Role Confusion (Adolescence)**: Establishing a coherent self-concept.\n6. **Intimacy vs. Isolation (Young Adulthood)**: Forming deep, committed romantic bonds.\n7. **Generativity vs. Stagnation (Middle Adulthood)**: Nurturing the next generation.\n8. **Integrity vs. Despair (Late Adulthood)**: Life review and wisdom vs regret."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Erikson Stage Check \ud83e\ude9e",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A 16-year-old high school student trying out different social cliques, styles of dress, and career aspirations to figure out who they truly are is navigating which Eriksonian crisis?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Identity vs. Role Confusion",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Intimacy vs. Isolation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Industry vs. Inferiority",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Generativity vs. Stagnation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Adolescence centers on resolving Identity vs. Role Confusion to establish a unified sense of personal identity.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Kohlberg's Moral Reasoning Stages \u2696\ufe0f",
+      "content": "## The Heinz Dilemma\n\nLawrence Kohlberg assessed moral thinking by presenting ethical dilemmas (e.g., Should Heinz steal an unaffordable drug to save his dying wife?):\n\n* **Preconventional Morality** (Self-centered):\n  * Stage 1: Punishment avoidance ('Don't steal, you'll go to jail').\n  * Stage 2: Instrumental exchange / reward ('Steal it so she can make you dinner').\n* **Conventional Morality** (Social norms & rules):\n  * Stage 3: Interpersonal conformity ('Steal it so people see you as a good husband').\n  * Stage 4: Law and order duty ('Stealing is illegal; society falls apart without law').\n* **Postconventional Morality** (Universal human rights):\n  * Stage 5: Social contract ('Laws must yield when basic human life is at stake').\n  * Stage 6: Universal ethical conscience."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "warning",
+      "title": "Carol Gilligan's Feminist Critique \u26a0\ufe0f",
+      "content": "### Justice vs. Care Orientation\n\nPsychologist Carol Gilligan pointed out that Kohlberg developed his stages testing **exclusively boys and men**, concluding that females rarely reached Stage 5 or 6.\n\nGilligan argued that men tend to judge morality through an abstract **Justice Perspective** (rules, rights, duties), whereas women often navigate morality through an ethic of **Care and Relational Responsibility** (preserving empathy and interpersonal connections)."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Moral Level Check \ud83c\udfdb\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A citizen refuses to participate in an unjust government law because it violates fundamental human dignity, stating that human life takes precedence over written statutes. Which moral stage is this?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Preconventional Stage 1",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Conventional Stage 4",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Postconventional Stage 5/6",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Sensorimotor Morality",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Postconventional morality evaluates ethical decisions based on universal human rights and ethical principles that transcend local laws.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Socioemotional Selectivity in Aging \ud83c\udf05",
+      "content": "## Laura Carstensen's Theory\n\nAs people age and perceive their remaining time on earth as limited, they intentionally prune superficial acquaintances and focus emotional energy on a tight circle of emotionally meaningful relationships, leading to high levels of subjective happiness in healthy older adults!"
+    }
+  ]
+}

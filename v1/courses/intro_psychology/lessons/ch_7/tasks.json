@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Analyzing Social Conformity & Compliance in Public Life",
+      "description": "Examine a historical or corporate failure through the lens of Groupthink, deindividuation, and obedience.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Big Five Personality Dimension Profile Assessment",
+      "description": "Analyze how individual variance across the OCEAN dimensions predicts career fit and stress coping.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

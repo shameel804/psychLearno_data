@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_4",
+  "title": "Operant Conditioning: Reinforcement & Punishment",
+  "description": "Understand Thorndike's Law of Effect, the 2x2 grid of positive/negative reinforcement and punishment, and shaping.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Operant Conditioning",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Voluntary Behavior and Consequences \ud83d\udce6",
+      "content": "# Thorndike & Skinner's Revolution\n\nWhile classical conditioning deals with involuntary, automatic reflexes, **Operant Conditioning** governs voluntary behaviors shaped by their consequences.\n\n* **Thorndike's Law of Effect**: Behaviors followed by favorable outcomes become **more likely** to recur; behaviors followed by unfavorable outcomes become **less likely**.\n* **B.F. Skinner**: Expanded this using the **Operant Chamber (Skinner Box)**, equipping pigeons and rats with levers, food dispensers, and electrified grids to empirically map reinforcement mechanics."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Law of Effect Check \ud83d\udc3e",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Edward Thorndike placed hungry cats in puzzle boxes to demonstrate that satisfying consequences stamp in behaviors. This fundamental principle is known as:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Law of Effect",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The Principle of Equipotentiality",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Signal Detection Criterion",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Social Modeling",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Thorndike's Law of Effect states that actions followed by satisfying states of affairs are strengthened and repeated.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Operant Conditioning Grid \ud83d\udcd0",
+      "content": "## Positive vs. Negative, Reinforcement vs. Punishment\n\nAlways ask two independent questions:\n1. **Goal**: Is the behavior being **increased** (Reinforcement) or **decreased** (Punishment)?\n2. **Action**: Is a stimulus being **added** (Positive) or **removed** (Negative)?\n\n| | Reinforcement (Increase Behavior) | Punishment (Decrease Behavior) |\n| :--- | :--- | :--- |\n| **Positive (Add Stimulus)** | **Positive Reinforcement**: Give praise, money, treats to encourage behavior. | **Positive Punishment**: Administer a reprimand, ticket, or shock to stop behavior. |\n| **Negative (Remove Stimulus)** | **Negative Reinforcement**: Remove annoying beeping chime by buckling seatbelt. | **Negative Punishment**: Revoke phone privileges or suspend license to stop behavior. |"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "warning",
+      "title": "CRITICAL MISCONCEPTION ALERT \u26a0\ufe0f",
+      "content": "### Negative Reinforcement is NOT Punishment!\n\nThis is the single most tested and commonly failed concept in introductory psychology:\n* **Punishment** always seeks to **decrease** or suppress an unwanted behavior.\n* **Negative Reinforcement** always seeks to **INCREASE** a desired behavior by removing an irritating, painful, or aversive stimulus.\n\n*Example*: Taking an ibuprofen when you have a headache is Negative Reinforcement because it takes away the pain, increasing the likelihood you will take ibuprofen next time you have a headache!"
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Reinforcement Grid Mastery \u2696\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A driver buckles their seatbelt specifically to stop the obnoxious, loud beeping sound in their vehicle. What operant mechanism is strengthening this seatbelt-buckling behavior?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Positive Reinforcement",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Negative Reinforcement",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Positive Punishment",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Negative Punishment",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Buckling removes an aversive stimulus (the annoying chime) to increase the desired behavior, which is the definition of Negative Reinforcement.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Shaping Complex Behaviors \ud83d\udc2c",
+      "content": "## Successive Approximations\n\nHow do animal trainers get a dolphin to leap through a flaming hoop, or service dog trainers teach a dog to open a refrigerator? They use **shaping**: reinforcing small, successive approximations toward the final target behavior while ignoring or extinguishing irrelevant movements."
+    }
+  ]
+}

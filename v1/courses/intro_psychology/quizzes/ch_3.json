@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_3",
+  "chapterId": "ch_3",
+  "title": "Chapter 3 Mastery Quiz: Sensation, Perception & Consciousness",
+  "description": "Evaluate your understanding of sensory thresholds, perceptual laws, sleep physiology, and altered states.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch3_q1",
+      "type": "multiple_choice",
+      "question": "What is the term for the minimum stimulus intensity that an organism can detect 50% of the time?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Absolute Threshold",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Difference Threshold",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Signal Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory Adaptation Point",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The absolute threshold is the lowest boundary of stimulus energy detected at least half the time.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q2",
+      "type": "multiple_choice",
+      "question": "According to Weber's Law, the just noticeable difference (JND) is proportional to what?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A constant minimum percentage or proportion of the original stimulus intensity",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A fixed physical quantity regardless of initial magnitude",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The observer's chronological age",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The speed of light in vacuum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Weber's law states that the JND is a constant ratio/percentage of the original stimulus magnitude.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q3",
+      "type": "multiple_choice",
+      "question": "When an observer fails to detect a faint radar blip that was actually present on the screen, this is classified as a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Miss",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False Alarm",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hit",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Correct Rejection",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "In signal detection theory, failing to detect an actually present target is a Miss.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q4",
+      "type": "multiple_choice",
+      "question": "Why do humans not notice the constant tactile sensation of their socks after wearing them for several minutes?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sensory Adaptation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Visual Agnosia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Signal Transduction failure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Receptive Field atrophy",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sensory adaptation reduces receptor firing rate when exposed to constant, unchanging sensory input.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q5",
+      "type": "multiple_choice",
+      "question": "Which visual photoreceptors are responsible for vision in low-light environments and peripheral visual fields?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Rods",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cones",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hair cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Foveal pits",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rods are highly light-sensitive and populate the peripheral retina for nighttime vision.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q6",
+      "type": "multiple_choice",
+      "question": "Where on the human retina are cone photoreceptors concentrated in their highest density?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Fovea Centralis",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Optic Disc (Blind spot)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Outer Ciliary margins",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Cornea surface",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The fovea is the tiny central focal region packed exclusively with cones for sharp color vision.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q7",
+      "type": "multiple_choice",
+      "question": "Which theory best explains the visual phenomenon of seeing a green afterimage after staring at a red circle?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Opponent-Process Theory",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Trichromatic Theory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Place Theory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Signal Detection Theory",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Opponent-process theory posits antagonistic pairs (red-green, blue-yellow). Fatiguing red produces an opponent green afterimage.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q8",
+      "type": "multiple_choice",
+      "question": "Which part of the inner ear contains the fluid-filled basilar membrane with auditory hair cells?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cochlea",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Tympanic membrane",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Incus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pinna",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The snail-shaped cochlea transduces sound waves into neural nerve signals via basilar hair cells.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q9",
+      "type": "multiple_choice",
+      "question": "The Gestalt law stating that humans visually group elements that lie near to each other is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Proximity",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Similarity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Closure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Continuity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Proximity states that objects positioned close together are perceptually perceived as belonging to a single group.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q10",
+      "type": "multiple_choice",
+      "question": "Retinal disparity is classified as which type of depth perception cue?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Binocular cue",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Monocular cue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pictorial cue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Acoustic cue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Retinal disparity requires both eyes, as each eye captures a slightly different angle of the visual world.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q11",
+      "type": "multiple_choice",
+      "question": "Which hormone, secreted by the pineal gland, signals the body to prepare for nighttime sleep?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Melatonin",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Insulin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Thyroxine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cortisol",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Melatonin release increases in darkness, helping promote sleepiness and regulating circadian cycles.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q12",
+      "type": "multiple_choice",
+      "question": "What brain structure in the hypothalamus serves as the primary master clock regulating circadian rhythms?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Suprachiasmatic Nucleus (SCN)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Substantia Nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Nucleus Accumbens",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Inferior Colliculus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The SCN synchronizes biological rhythms based on light-dark cues received directly from the retina.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q13",
+      "type": "multiple_choice",
+      "question": "Sleep spindles and K-complexes on an electroencephalogram (EEG) are hallmarks of which sleep stage?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "NREM-2 Sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "NREM-1 Sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "REM Sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Awake state",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "NREM-2 is characterized by bursts of rhythmic brainwave activity known as sleep spindles and K-complexes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q14",
+      "type": "multiple_choice",
+      "question": "Which sleep stage is often referred to as 'paradoxical sleep' because brain activity is elevated while voluntary muscles are paralyzed?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "REM Sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "NREM-3 Slow-wave sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "NREM-1 Hypnagogic state",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cataleptic stupor",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "REM sleep exhibits an active brain resembling wakefulness alongside muscular atonia (paralysis).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q15",
+      "type": "multiple_choice",
+      "question": "Deep physical restoration and growth hormone secretion primarily occur during which sleep stage?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "NREM-3 (Delta wave slow-wave sleep)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "NREM-1",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "REM Sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Presleep drowsiness",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Slow-wave NREM-3 sleep produces high-voltage delta waves and supports bodily tissue restoration.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q16",
+      "type": "multiple_choice",
+      "question": "In Sigmund Freud's theory of dream interpretation, what is the 'latent content' of a dream?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The hidden, unconscious psychological meaning and disguised desires",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The literal storyline and events remembered upon waking",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The random electrical noise produced by the brainstem",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The auditory sounds heard in the bedroom during sleep",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Freud termed the remembered surface story 'manifest content' and the repressed unconscious meaning 'latent content'.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q17",
+      "type": "multiple_choice",
+      "question": "According to the Activation-Synthesis hypothesis, what is the role of the cerebral cortex during dreaming?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To synthesize and construct a narrative out of chaotic brainstem signals",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "To shut down all cognitive processing entirely",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "To decode prophetic messages regarding the future",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To manually steer eye muscles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The cortex weaves random neural activity initiated by the brainstem into a cohesive dream story.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q18",
+      "type": "multiple_choice",
+      "question": "A sudden episode where an individual collapses into complete muscle paralysis triggered by intense laughter or anger is called:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cataplexy (associated with narcolepsy)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sleep Apnea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Night Terror",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Somnambulism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cataplexy is the sudden loss of voluntary muscle tone seen in narcolepsy, often provoked by intense emotion.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q19",
+      "type": "multiple_choice",
+      "question": "Somnambulism (sleepwalking) typically occurs during which phase of the sleep cycle?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Deep NREM-3 slow-wave sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Vivid REM sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Early NREM-1 drowsiness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "During morning awakening",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sleepwalking happens during deep NREM-3 sleep when muscle tone is intact, unlike REM paralysis.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q20",
+      "type": "multiple_choice",
+      "question": "Ernest Hilgard's 'hidden observer' concept supports which theoretical explanation of hypnosis?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dissociation Theory",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Social Role-Playing Theory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Placebo Expectancy Theory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Psychoanalytic Catharsis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hilgard argued hypnosis splits consciousness into an open stream and a dissociated 'hidden observer'.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q21",
+      "type": "true_false",
+      "question": "The blind spot in the human eye exists because there are no photoreceptor cells where the optic nerve exits the retina.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. The optic disc lacks rods and cones, creating a physiological blind spot in each eye.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q22",
+      "type": "true_false",
+      "question": "Night terrors occur during active REM dreaming and are easily remembered in vivid detail the next morning.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Night terrors occur during deep NREM-3 sleep and individuals usually awaken with amnesia for the event.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

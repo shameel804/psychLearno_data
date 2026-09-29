@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "What is Psychology? Science vs. Pseudoscience",
+      "description": "Understand the definition, primary goals of psychology, and how empirical science differs from pseudoscience.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "Historical Roots: From Structuralism to Functionalism",
+      "description": "Trace psychology from Wundt's first laboratory through Structuralism, Functionalism, and Gestalt theory.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "History"
+    },
+    {
+      "id": "l3",
+      "title": "Major Modern Psychological Perspectives",
+      "description": "Compare psychodynamic, behavioral, cognitive, humanistic, biological, and biopsychosocial paradigms.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Frameworks"
+    },
+    {
+      "id": "l4",
+      "title": "Research Methods & Ethics in Psychological Science",
+      "description": "Master experiments, correlations, naturalistic observations, variables, and ethical principles like informed consent.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Methodology"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_3",
+  "title": "Gestalt Perceptual Analysis in Everyday Design",
+  "description": "Examine digital interfaces and graphic logos to identify how Gestalt grouping laws direct human visual attention.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Select two well-known company logos or mobile app user interfaces (e.g., the FedEx logo, the WWF panda, or a music streaming app dashboard).\n\n### Requirements:\n1. Identify at least three distinct Gestalt principles utilized in each design (e.g., Figure-Ground segregation, Closure, Proximity, Similarity, Continuity).\n2. Explain how the graphic designer manipulated contrast and spacing to compel the viewer's brain to assemble a unified 'whole' (Gestalt).\n3. Detail how poor Gestalt organization can cause user confusion and perceptual errors.",
+  "hints": [
+    "Hint 1: Look for clever uses of negative space as 'ground' creating an unexpected 'figure'.",
+    "Hint 2: Elements placed close together are instinctively interpreted as belonging to the same category."
+  ]
+}

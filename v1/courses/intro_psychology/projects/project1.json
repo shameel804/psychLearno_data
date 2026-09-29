@@ -1,0 +1,18 @@
+{
+  "id": "project1",
+  "title": "Applied Psychological Research Proposal",
+  "description": "Formulate a rigorous empirical study to investigate a contemporary behavioral phenomenon.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "4-6",
+  "problemStatement": "Design a complete, publication-ready psychological research proposal investigating whether push notifications on smartphones impair Working Memory capacity during complex analytical problem-solving.\n\n### Context:\nPsychologists increasingly study the 'brain drain' phenomenon\u2014how physical proximity to active digital devices consumes limited cognitive bandwidth even when not in active use.\n\n### Your Objective:\nConstruct a formal experimental proposal detailing operational definitions, experimental design, and ethical human-subject safeguards.",
+  "requirements": [
+    "Formulate an unambiguous, falsifiable hypothesis predicting the exact relationship between notification conditions and working memory performance.",
+    "Explicitly define the Independent Variable (with at least 3 conditions: phone visible with alerts, phone silent on desk, phone in separate room) and the Dependent Variable (measured via a standardized working memory task like the OSPAN or n-back).",
+    "Detail methodological controls: random assignment, double-blind testing procedures, and elimination of confounding variables (screen brightness, time of day).",
+    "Draft a comprehensive Institutional Review Board (IRB) ethical compliance statement covering informed consent, right to withdraw, data anonymization, and post-experiment debriefing."
+  ],
+  "hints": [
+    "Hint 1: Ensure your working memory task measures active manipulation of information, not mere rote recall.",
+    "Hint 2: Anticipate potential demand characteristics and explain how double-blind testing neutralizes them."
+  ]
+}

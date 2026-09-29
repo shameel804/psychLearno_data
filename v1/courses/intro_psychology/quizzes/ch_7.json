@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_7",
+  "chapterId": "ch_7",
+  "title": "Chapter 7 Mastery Quiz: Social Psychology & Personality",
+  "description": "Evaluate your understanding of social influence, obedience, attribution, group dynamics, and personality traits.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch7_q1",
+      "type": "multiple_choice",
+      "question": "What is the cognitive tendency to attribute others' negative actions to their internal character while ignoring external situational forces called?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Fundamental Attribution Error (FAE)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Self-Serving Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hindsight Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "False Consensus Effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The FAE occurs when observers systematically overemphasize internal traits when explaining others' behaviors.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q2",
+      "type": "multiple_choice",
+      "question": "Leon Festinger's Cognitive Dissonance Theory posits that psychological discomfort occurs when what happens?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A person holds two conflicting beliefs or acts in contradiction to their beliefs",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "An individual experiences sensory overload",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "An organism is deprived of REM sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Neurotransmitter reuptake is completely blocked",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cognitive dissonance is the internal distress experienced when actions and attitudes clash.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q3",
+      "type": "multiple_choice",
+      "question": "In the Elaboration Likelihood Model, persuasion that relies on sound logic, scientific evidence, and deep critical evaluation travels via which route?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Central Route",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Peripheral Route",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Subliminal Route",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Heuristic Route",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The central route to persuasion involves systematic scrutiny of factual arguments.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q4",
+      "type": "multiple_choice",
+      "question": "What is the compliance strategy where a persuader secures compliance with a minor initial request to increase odds of compliance with a larger subsequent request?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Foot-in-the-Door Technique",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Door-in-the-Face Technique",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Lowballing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Bystander Priming",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Foot-in-the-door leverages consistency motivations by starting small before making larger demands.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q5",
+      "type": "multiple_choice",
+      "question": "In Solomon Asch's line-judgment studies, why did most participants conform to the incorrect consensus on critical trials?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Normative social influence (fear of group rejection/embarrassment)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Severe visual impairment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hypnotic induction by the experimenter",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Financial incentives for wrong answers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Normative influence is the desire to conform to avoid social awkwardness and ostracism.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q6",
+      "type": "multiple_choice",
+      "question": "In Stanley Milgram's classic baseline obedience experiment, what percentage of ordinary participants delivered shocks all the way up to 450 volts?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "65%",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "5%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "98%",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Approximately 65% of adult participants obeyed the experimenter's prods up to the maximum 450-volt shock.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q7",
+      "type": "multiple_choice",
+      "question": "Which manipulation in Milgram's follow-up studies resulted in the steepest drop in participant obedience?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Seeing two other confederate teachers rebel and refuse to continue",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conducting the study in the morning rather than the afternoon",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Testing female teachers rather than male teachers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Giving the participant a glass of water",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The presence of defiant peers who refused commands dropped full obedience down to under 10%.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q8",
+      "type": "multiple_choice",
+      "question": "Philip Zimbardo's Stanford Prison Experiment had to be halted after only 6 days primarily because:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Guards became psychologically abusive and prisoners suffered severe emotional trauma",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The research funding ran out",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The participants unionized",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "None of the participants took their roles seriously",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The extreme cruelty of the guards and breakdown of the prisoners compelled early termination of the experiment.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q9",
+      "type": "multiple_choice",
+      "question": "The tendency for people to exert less effort when working together in a group on a collective task is termed:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Social Loafing",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Social Facilitation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Groupthink",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pluralistic Ignorance",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Social loafing occurs when individual accountability is obscured in a group.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q10",
+      "type": "multiple_choice",
+      "question": "When a masked crowd during a riot engages in reckless vandalism that none of the individuals would commit alone, they are experiencing:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Deindividuation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Social Facilitation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cognitive Dissonance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Fundamental Attribution",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Deindividuation involves the loss of personal identity, inhibition, and self-restraint in anonymous groups.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q11",
+      "type": "multiple_choice",
+      "question": "What is the decision-making defect termed where cohesive groups suppress dissent to maintain group consensus?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Groupthink",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Social Loafing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Group Polarization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Self-Actualization",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Groupthink prioritizes harmony and consensus over critical, realistic evaluation of decisions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q12",
+      "type": "multiple_choice",
+      "question": "In Muzafer Sherif's Robbers Cave study, what successfully reduced intergroup hostility and prejudice between the two competing camps of boys?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Working collaboratively toward shared Superordinate Goals",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Simply having meals together in the same dining hall",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Giving both groups lectures on tolerance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Isolating both groups in separate cabins",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Superordinate goals that required joint cooperation broke down hostility and fostered genuine integration.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q13",
+      "type": "multiple_choice",
+      "question": "The Bystander Effect demonstrates that as the total number of witnesses to an emergency increases, any individual witness is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Less likely to step forward and provide help",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "More likely to offer heroic assistance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Guaranteed to intervene immediately",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Unaffected by the presence of others",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "More bystanders lead to a diffusion of responsibility, reducing the odds of any single person acting.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q14",
+      "type": "multiple_choice",
+      "question": "In Sigmund Freud's personality architecture, which component operates strictly on the 'Pleasure Principle'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Id",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Ego",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Superego",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Collective Unconscious",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Id demands immediate gratification of biological drives without concern for reality.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q15",
+      "type": "multiple_choice",
+      "question": "Which Freudian defense mechanism involves attributing one's own unacceptable aggressive or sexual desires onto other people?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Projection",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Reaction Formation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sublimation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Regression",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Projection disguises threatening impulses by seeing them reflected in others ('He is hostile, not me!').",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q16",
+      "type": "multiple_choice",
+      "question": "Carl Rogers maintained that healthy self-concept development requires receiving what from significant caregivers?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Unconditional Positive Regard",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Rigid authoritarian discipline",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Systematic aversive desensitization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Token reinforcement schedules",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Unconditional positive regard provides total acceptance without conditions, promoting congruence.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q17",
+      "type": "multiple_choice",
+      "question": "What are the Five Factors that comprise the modern Big Five personality taxonomy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism (OCEAN)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Id, Ego, Superego, Libido, Thanatos",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Analytical, Creative, Practical, Emotional, Moral",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensing, Intuition, Thinking, Feeling, Judging",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Big Five model consists of Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q18",
+      "type": "multiple_choice",
+      "question": "An individual who is chronically prone to emotional instability, anxiety, self-pity, and mood swings scores high on which Big Five trait?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Neuroticism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conscientiousness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Extraversion",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Openness",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Neuroticism reflects emotional volatility, sensitivity to negative affect, and anxiety vulnerability.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q19",
+      "type": "multiple_choice",
+      "question": "A person who is warm, compassionate, eager to cooperate with others, and highly empathetic scores high on:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Agreeableness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Openness to Experience",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Neuroticism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Introversion",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Agreeableness involves prosocial cooperativeness, trust, and empathy toward others.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q20",
+      "type": "multiple_choice",
+      "question": "Twin studies comparing identical twins reared together versus reared apart indicate that personality traits have a heritability estimate of roughly:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "40% to 50%",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "0% (purely environmental)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "100% (purely genetic)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "5%",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Behavior genetics research shows Big Five traits demonstrate 40-50% heritability across diverse cultures.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q21",
+      "type": "true_false",
+      "question": "In the presence of others, people consistently perform worse on simple, well-rehearsed tasks due to social inhibition.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Social facilitation actually improves performance on simple/mastered tasks, while impairing novel tasks.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q22",
+      "type": "true_false",
+      "question": "The Self-Serving Bias leads individuals to attribute personal triumphs to internal factors and personal failures to external situational factors.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. The self-serving bias protects self-esteem by taking credit for successes and deflecting blame for failures.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

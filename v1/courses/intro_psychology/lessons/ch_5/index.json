@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "The Information-Processing Model: Encoding, Storage & Retrieval",
+      "description": "Understand sensory memory, Baddeley's working memory model, explicit vs implicit LTM, and levels of processing.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Memory Systems"
+    },
+    {
+      "id": "l2",
+      "title": "Forgetting, Memory Distortion & Eyewitness Fallibility",
+      "description": "Master Ebbinghaus forgetting curve, proactive vs retroactive interference, and Loftus's misinformation effect.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Forgetting & Distortion"
+    },
+    {
+      "id": "l3",
+      "title": "Thinking, Problem-Solving, Heuristics & Cognitive Biases",
+      "description": "Explore algorithms, heuristics, functional fixedness, confirmation bias, and the availability shortcut.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Cognitive Shortcuts"
+    },
+    {
+      "id": "l4",
+      "title": "Theories of Intelligence, IQ Testing & Cognitive Diversity",
+      "description": "Analyze Spearman's g factor, fluid vs crystallized intelligence, Gardner, Sternberg, and the normal curve.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Intelligence"
+    }
+  ]
+}

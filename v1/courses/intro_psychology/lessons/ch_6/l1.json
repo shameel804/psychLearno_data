@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_6",
+  "title": "Prenatal Development, Teratogens & Infant Capabilities",
+  "description": "Explore zygotic to fetal stages, teratogen risks, newborn reflexes, and visual cliff depth perception.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Prenatal & Infancy",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Prenatal Chronology \ud83e\udd30",
+      "content": "# From Conception to Birth\n\nHuman prenatal development unfolds across three sequential stages:\n\n1. **Germinal Stage (Conception to Week 2)**: The fertilized egg (**zygote**) undergoes rapid cell division, develops into a blastocyst, and implants into the uterine wall.\n2. **Embryonic Stage (Weeks 3 to 8)**: The developing **embryo** undergoes **organogenesis** (formation of heart, nervous system, limbs). This is the period of **maximum vulnerability** to environmental toxins.\n3. **Fetal Stage (Week 9 to Birth)**: Rapid physical growth, brain myelination, and functional organ maturation. The age of viability (ability to survive prematurely) is reached around 22-24 weeks."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Prenatal Vulnerability Check \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "During which prenatal stage does organogenesis occur, making the developing organism most susceptible to severe structural defects from teratogens?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Germinal Stage",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Embryonic Stage",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Fetal Stage",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Neonatal Stage",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The embryonic stage (weeks 3-8) involves foundational organ construction, representing the most sensitive critical window.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Teratogens: Environmental Threats \u26a0\ufe0f",
+      "content": "## Crossing the Placental Barrier\n\nA **teratogen** is any chemical, virus, or physical agent that can cross the placenta and cause anatomical or cognitive developmental defects.\n\n* **Alcohol**: Leading preventable cause of intellectual disability; causes **Fetal Alcohol Syndrome (FAS)** characterized by facial dysmorphology, stunted growth, and lifelong cognitive deficits.\n* **Nicotine**: Restricts oxygen and nutrient flow, linked to low birth weight, premature birth, and Sudden Infant Death Syndrome (SIDS).\n* **Thalidomide**: Prescribed in the 1950s for morning sickness, causing devastating limb malformations (phocomelia) when ingested during the critical embryonic limb-bud period."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Newborn Competencies & The Visual Cliff \ud83d\udc76",
+      "content": "## Survival Reflexes & Perception\n\nInfants enter the world equipped with automatic involuntary reflexes:\n* **Rooting Reflex**: Turning head toward cheek touch and opening mouth to nurse.\n* **Sucking & Swallowing Reflexes**: Automatic ingestion.\n* **Moro Reflex (Startle)**: Arching back and flinging arms outward when startled.\n* **Babinski Reflex**: Fanning out of toes when the bottom of the foot is stroked.\n\n### The Visual Cliff Experiment\nEleanor Gibson and Richard Walk placed infants on an elevated glass table with a visual drop-off. Most infants who had learned to crawl refused to crawl onto the glass, demonstrating that **depth perception** develops around the onset of crawling!"
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Infant Reflex Check \ud83e\uddb6",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "When a pediatrician strokes the sole of an infant's foot and the toes fan upward and outward, which infant reflex is being observed?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Rooting Reflex",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Babinski Reflex",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Moro Reflex",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Palmar Grasp Reflex",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The Babinski reflex consists of extension and fanning of the toes in response to plantar stimulation in infants.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Habituation in Infant Research \ud83d\udca1",
+      "content": "## How Psychologists Study Preverbal Babies\n\nBecause infants cannot talk, researchers measure **habituation** (decrease in visual gaze as a stimulus becomes familiar). When presented with a novel or physically 'impossible' event (e.g., a solid block passing through another solid object), infants display **dishabituation** (looking significantly longer), demonstrating early intuitive physics!"
+    }
+  ]
+}

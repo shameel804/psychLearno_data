@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_4",
+  "title": "Observational Learning & Cognitive Factors in Learning",
+  "description": "Explore Bandura's Bobo Doll study, mirror neurons, latent learning, and cognitive maps.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Social & Cognitive Learning",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Albert Bandura & Social Learning \ud83d\udc65",
+      "content": "# Learning Without Direct Reinforcement\n\nBehaviorists claimed learning required direct personal experience with consequences. Canadian psychologist **Albert Bandura** challenged this with **Social Learning Theory** (later Social Cognitive Theory):\n\n* **Observational Learning (Modeling)**: Acquiring new knowledge, attitudes, and behaviors by watching and imitating the actions of others (**models**).\n* **Vicarious Reinforcement**: Observing a model being rewarded increases the likelihood the observer will imitate the behavior.\n* **Vicarious Punishment**: Observing a model being punished decreases imitation."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Vicarious Learning Check \ud83c\udfc6",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A young boy watches his older brother receive praise and ice cream for finishing all his chores. The boy immediately begins completing his own chores. This illustrates:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Classical counterconditioning",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Vicarious Reinforcement",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Negative Punishment",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Sensory adaptation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Vicarious reinforcement occurs when an observer's behavior is encouraged after witnessing someone else get rewarded.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The Bobo Doll Experiment (1961) \ud83e\uddf8",
+      "content": "## Empirical Demonstration of Observational Aggression\n\nBandura placed preschool children in a room where they watched an adult model violently kick, punch, and strike an inflatable five-foot **Bobo Doll** while shouting hostile phrases.\n\n* **Results**: Children exposed to the aggressive model exhibited identical, novel aggressive behaviors\u2014punching the doll, hitting it with toy mallets, and imitating the exact aggressive verbalizations.\n* Children who saw a non-aggressive model or no model displayed virtually zero physical aggression toward the doll.\n* Proved that complex social behaviors can be acquired rapidly through pure observation alone!"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Cognitive Maps & Mirror Neurons \ud83e\udde0",
+      "content": "## Biological and Cognitive Foundations\n\n* **Mirror Neurons**: Specialized frontal and parietal lobe neurons that fire both when an individual executes an action AND when they observe someone else performing the same action. Thought to provide the neural substrate for empathy, imitation, and observational learning.\n* **Latent Learning & Cognitive Maps** (Edward Tolman):\n  * Rats navigating mazes with no food rewards still formed mental layouts (**cognitive maps**) of the maze.\n  * When food was suddenly introduced, they navigated the maze just as quickly as rats rewarded every day, demonstrating that learning can remain latent until incentive is present."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Mirror Neurons Check \ud83e\ude9e",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "Which specialized neural cells fire both when a person performs an action (such as grasping a cup) and when they observe another person performing that exact same action?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Mirror Neurons",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Glial astrocytes",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Purkinje cells",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Bipolar retinal cells",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Mirror neurons activate during both the direct execution and observation of motor behaviors.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Bandura's Four Modeling Steps \ud83e\ude9c",
+      "content": "## The Four Pillars of Observational Learning\n\nTo successfully imitate a model, an observer must progress through four sequential cognitive steps:\n1. **Attention**: Must notice and focus on the model's behavior.\n2. **Retention**: Must store a mental representation of the action in memory.\n3. **Reproduction**: Must possess the physical motor capability to execute the action.\n4. **Motivation**: Must have an incentive or expectation of positive outcome."
+    }
+  ]
+}

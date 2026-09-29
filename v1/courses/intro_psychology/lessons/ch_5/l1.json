@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_5",
+  "title": "The Information-Processing Model: Encoding, Storage & Retrieval",
+  "description": "Understand sensory memory, Baddeley's working memory model, explicit vs implicit LTM, and levels of processing.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Memory Systems",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Three-Stage Memory Architecture \ud83d\udcbe",
+      "content": "# The Atkinson-Shiffrin Model\n\nHuman memory functions as an information-processing system with three primary stages:\n\n1. **Sensory Memory**: High-capacity, fleeting buffer capturing raw sensory input.\n   * **Iconic Memory**: Visual sensory register lasting ~0.25 to 0.5 seconds (demonstrated by George Sperling's partial-report technique).\n   * **Echoic Memory**: Auditory sensory register lasting 3 to 4 seconds.\n2. **Short-Term / Working Memory**: Active, conscious workspace.\n   * Capacity: George Miller's classic **7 \u00b1 2 items** (modern estimates suggest 4 \u00b1 1 chunks).\n   * Duration: ~15 to 30 seconds without active rehearsal.\n3. **Long-Term Memory (LTM)**: Relatively permanent and virtually limitless storehouse of knowledge and experience."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Sensory & Working Memory Check \u23f1\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What is the brief sensory memory for auditory sounds that lingers for approximately 3 to 4 seconds called?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Iconic memory",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Echoic memory",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Episodic memory",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Procedural memory",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Echoic memory is the fleeting auditory sensory register that holds acoustic traces for several seconds.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Subtypes of Long-Term Memory \ud83d\uddc4\ufe0f",
+      "content": "## Explicit vs. Implicit Systems\n\n| Category | Subtype | Neural Substrate | Example |\n| :--- | :--- | :--- | :--- |\n| **Explicit (Declarative)**<br>*Conscious recollection* | **Episodic Memory** | Hippocampus & Prefrontal Cortex | Recalling your high school graduation day |\n| | **Semantic Memory** | Temporal Lobes & Association Cortex | Knowing that Paris is the capital of France |\n| **Implicit (Nondeclarative)**<br>*Without conscious recall* | **Procedural Memory** | Cerebellum & Basal Ganglia | Knowing how to balance and pedal a bicycle |\n| | **Classical Conditioning & Priming** | Amygdala, Cerebellum & Sensory Cortex | Salivating at the chime of an ice cream truck |"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Encoding: Levels of Processing \ud83d\udd2c",
+      "content": "## Craik & Lockhart's Paradigm\n\nHow well you remember information depends on the **depth of cognitive processing** during encoding:\n\n* **Shallow Processing**: Structural encoding (noticing visual font, CAPITAL vs lowercase) or Phonemic encoding (rhyming words). Produces weak, transient memories.\n* **Deep (Semantic) Processing**: Analyzing the actual meaning and conceptual relationships of the material.\n* **Self-Reference Effect**: Information deemed personally relevant and related to oneself is remembered far more vividly than generic information!"
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "LTM Subtype Check \ud83d\udeb2",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Your ability to seamlessly type on a keyboard or tie your shoes without consciously thinking through each movement is stored in which memory system?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Episodic Memory",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Semantic Memory",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Procedural Memory",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Flashbulb Memory",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Procedural memory governs motor skills and physical actions that operate implicitly without deliberate conscious retrieval.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "The Testing Effect (Retrieval Practice) \ud83d\udca1",
+      "content": "## Active Recall Beats Passive Re-reading\n\nCognitive research consistently shows that **active retrieval practice** (flashcards, practice quizzes) strengthens neural memory traces far more effectively than spending equal time re-reading textbook passages. Struggle during retrieval signals the brain that the memory is high priority!"
+    }
+  ]
+}

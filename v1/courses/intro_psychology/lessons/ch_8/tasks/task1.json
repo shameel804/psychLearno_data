@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_8",
+  "title": "Differential Diagnosis and Case Formulation",
+  "description": "Evaluate clinical case descriptions to distinguish Major Depressive Disorder with anxiety from Bipolar II.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A 28-year-old software engineer presents with severe exhaustion, anhedonia, and feelings of worthlessness for the past 3 weeks. However, collateral history from their spouse reveals that 4 months ago, the patient went 5 consecutive days without sleeping, launched 3 separate businesses simultaneously, spoke at lightning speed, and maxed out their credit cards on luxury watches.\n\n### Requirements:\n1. Provide the precise DSM-5 differential diagnosis (distinguishing between Unipolar Major Depressive Disorder and Bipolar Disorder).\n2. Explain why prescribing an SSRI antidepressant alone without a mood stabilizer poses severe danger for this patient (risk of triggering mania).\n3. Outline the evidence-based biopsychosocial treatment protocol (pharmacotherapy + psychoeducation + CBT).",
+  "hints": [
+    "Hint 1: The presence of a past manic or hypomanic episode rules out unipolar depression and confirms a Bipolar diagnosis.",
+    "Hint 2: Antidepressant monotherapy in bipolar patients can induce rapid mood switching into severe mania."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_4",
+  "title": "Classical Conditioning Breakdown of Phobia or Advertising",
+  "description": "Deconstruct a real-world conditioned response into its unconditioned and conditioned stimulus-response pairings.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Select either a specific phobia (e.g., fear of dogs after being bitten, fear of the dentist) OR a television commercial (e.g., pairing a soft drink with attractive celebrities and upbeat music).\n\n### Requirements:\n1. Explicitly identify and label the four classical conditioning variables:\n   * Unconditioned Stimulus (US)\n   * Unconditioned Response (UR)\n   * Conditioned Stimulus (CS)\n   * Conditioned Response (CR)\n2. Detail the acquisition timeline and explain how stimulus generalization might occur.\n3. Propose a counterconditioning or systematic desensitization protocol to extinguish the response.",
+  "hints": [
+    "Hint 1: In advertising, the celebrity/music is the US producing pleasant feelings (UR), and the product is the CS.",
+    "Hint 2: Extinction requires repeated exposure to the CS without the US."
+  ]
+}

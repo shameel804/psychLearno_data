@@ -1,0 +1,18 @@
+{
+  "id": "project3",
+  "title": "Comprehensive Behavior Modification & Cognitive Habit Architecture",
+  "description": "Design an evidence-based behavioral intervention utilizing operant conditioning and cognitive reframing.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "3-5",
+  "problemStatement": "Develop a comprehensive behavior modification and habit formation program to help university students eliminate chronic bedtime social media scrolling (revenge bedtime procrastination) and establish a restorative sleep routine.\n\n### Context:\nSleep deprivation impairs neuroplasticity, memory consolidation, and emotional regulation. Overcoming this habit requires altering the environmental stimulus cues, behavioral responses, and reinforcement consequences.\n\n### Your Objective:\nCreate an actionable multi-phase intervention synthesizing Operant Conditioning, Classical Stimulus Control, and Cognitive Reframing.",
+  "requirements": [
+    "Perform a functional behavioral analysis identifying the antecedent environmental cues (phone on nightstand, darkness), the target behaviors, and the immediate reinforcing payoffs (dopamine bursts, stress distraction).",
+    "Apply Classical Conditioning stimulus control principles: re-associating the bed and bedroom exclusively with sleep and relaxation rather than work and screens.",
+    "Incorporate Operant Conditioning techniques: formulate a shaping ladder with successive approximations, select effective positive reinforcers, and design an intermittent reinforcement fading schedule.",
+    "Integrate Cognitive Restructuring: identify and reframe maladaptive thoughts (e.g., 'I worked hard all day, so I deserve to scroll for 2 hours') with adaptive rational thoughts that promote long-term well-being."
+  ],
+  "hints": [
+    "Hint 1: Replacing an undesirable habit with a competing constructive habit (e.g., listening to an audiobook) is vastly more effective than attempting cold-turkey suppression.",
+    "Hint 2: Establish clear pre-commitment strategies (such as placing the phone in a charging station outside the bedroom)."
+  ]
+}

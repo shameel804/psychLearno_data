@@ -1,0 +1,190 @@
+{
+  "id": "sq_intro_psychology_1",
+  "title": "Midterm Challenge: Mind, Body & Scientific Rigor",
+  "triggerChapterIndex": 1,
+  "metadata": {
+    "type": "scenario_analysis"
+  },
+  "questions": [
+    {
+      "id": "sq1_q1",
+      "type": "multiple_choice",
+      "question": "A clinical neuroscientist hypothesizes that a new memory-enhancing drug increases acetylcholine release in the hippocampus. In a double-blind trial, what serves as the Dependent Variable?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The dosage of the drug versus placebo administered",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The participants' scores on subsequent episodic memory retention tests",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The age and gender of the laboratory staff",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The brand of scanner used",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The dependent variable is the measured outcome behavior (memory test scores) hypothesized to be affected by the independent drug manipulation.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q2",
+      "type": "multiple_choice",
+      "question": "Scenario: Patient Marcus suffers localized brain damage following a motorcycle accident. He can easily understand everything his doctor says, but his speech is slow, halting, and missing grammar. What specific structure was damaged?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Broca's Area in the left frontal lobe",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Wernicke's Area in the left temporal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Occipital visual association cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Medulla oblongata",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Non-fluent, telegraphic speech with intact comprehension is classic Broca's motor aphasia.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q3",
+      "type": "multiple_choice",
+      "question": "Scenario: A pharmaceutical company advertises a herbal beverage claiming it 'permanently detoxifies your synaptic vesicles without diet changes'. How would an empirical psychologist critique this claim?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Accept it immediately if a famous celebrity endorses it",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Demand peer-reviewed randomized controlled trials and check for falsifiability",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Assume correlation equates to causation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Rely strictly on introspection to test it",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Scientific claims require empirical peer review, falsifiable testing, and randomized control groups.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q4",
+      "type": "multiple_choice",
+      "question": "Scenario: While exploring a dark alley, a sudden loud clang causes an immediate surge in adrenaline, dilated pupils, and tachycardia. Which branch of the nervous system orchestrated this response?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Parasympathetic Nervous System",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Sympathetic Nervous System",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Somatic Sensory division",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Central Spinal Cord reflex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The sympathetic branch activates the physiological fight-or-flight mobilization.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq1_q5",
+      "type": "multiple_choice",
+      "question": "Scenario: An experimental neurotoxin selectively inhibits voltage-gated sodium ($Na^+$) channels from opening on neuronal axons. What will happen to exposed neurons?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They will generate constant continuous action potentials",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "They will be unable to depolarize and cannot fire action potentials",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Their myelin sheath will immediately double in thickness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They will convert into glial cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Without sodium influx, the neuronal membrane cannot depolarize past threshold to initiate an action potential.",
+      "xpReward": 25,
+      "difficulty": 3
+    },
+    {
+      "id": "sq1_q6",
+      "type": "multiple_choice",
+      "question": "Scenario: A split-brain patient is presented with the word 'RING' to their left visual field and 'KEY' to their right visual field. When asked what they saw, what will the patient verbalize?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "'RING'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "'KEY'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "'RING-KEY'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They will be unable to speak at all",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The right visual field sends information to the left hemisphere, where vocal speech centers reside, so the patient verbalizes 'KEY'.",
+      "xpReward": 25,
+      "difficulty": 3
+    }
+  ]
+}

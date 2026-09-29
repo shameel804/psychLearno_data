@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_8",
+  "title": "Evidence-Based Psychotherapies & Biomedical Treatments",
+  "description": "Compare CBT, psychodynamic, client-centered therapy, psychopharmacology, and electroconvulsive therapy.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Therapy & Intervention",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Psychodynamic & Humanistic Modalities \ud83d\udecb\ufe0f",
+      "content": "# Insight Therapies\n\n* **Psychoanalysis / Psychodynamic** (Freud):\n  * Assumes psychological distress stems from repressed unconscious conflicts.\n  * Techniques: **Free association**, dream analysis, and interpreting **transference** (the client projecting unconscious feelings about early caregivers onto the therapist).\n* **Client-Centered Therapy** (Carl Rogers):\n  * Non-directive humanistic therapy aiming to foster self-actualization.\n  * Three Core Therapist Conditions: **Empathy** (deep understanding), **Genuineness/Congruence**, and **Unconditional Positive Regard**.\n  * Technique: **Active listening** and reflective restatement."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Client-Centered Therapy Check \ud83e\udd1d",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which therapeutic approach emphasizes non-directive active listening, empathy, and providing unconditional positive regard without judgment?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Carl Rogers' Client-Centered Therapy",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Classical Freudian Psychoanalysis",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Aversive Counterconditioning",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Biomedical Psychosurgery",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Client-centered humanistic therapy provides an empathic, non-judgmental environment to foster self-actualization.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Cognitive-Behavioral Therapy (CBT) \ud83d\udca1",
+      "content": "## The Gold Standard in Modern Psychotherapy\n\nCBT integrates cognitive and behavioral principles: our thoughts create our feelings, our feelings drive our behaviors, and our behaviors reinforce our thoughts.\n\n* **Cognitive Restructuring**: Identifying irrational automatic thoughts and challenging them with empirical evidence.\n  * *Catastrophizing*: 'If I don't pass this test, my life is completely ruined.' -> Reframe: 'Failing a test is disappointing, but I can retake it and still succeed.'\n* **Behavioral Activation**: Scheduling rewarding, productive daily activities to counteract depressive withdrawal.\n* **Systematic Desensitization** (Joseph Wolpe): Treating phobias through progressive relaxation paired with a hierarchical anxiety ladder."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Biomedical Treatments & Psychopharmacology \ud83d\udc8a",
+      "content": "## Biological Interventions\n\n* **Antidepressants (SSRIs)**: Fluoxetine, sertraline; block serotonin reuptake, boosting synaptic neurotransmitter availability.\n* **Mood Stabilizers**: **Lithium carbonate**; effectively regulates manic and depressive cycling in Bipolar Disorder.\n* **Antipsychotics (Neuroleptics)**: Haloperidol, risperidone; dopamine receptor antagonists that suppress hallucinations and delusions.\n* **Anxiolytics**: Benzodiazepines (Xanax, Valium); enhance GABA activity to dampen central nervous system arousal.\n* **Electroconvulsive Therapy (ECT)**: Brief electrical current applied to the scalp to induce a controlled seizure; highly effective for severe, treatment-resistant depression."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Therapeutic Modalities Check \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A phobic patient gradually confronts their fear of heights by practicing relaxation techniques while stepping through an anxiety hierarchy from viewing photos to standing on an observation deck. What therapy is this?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Systematic Desensitization",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Free Association",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Electroconvulsive Therapy",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Aversive Chemical Conditioning",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Systematic desensitization pairs progressive relaxation with gradual exposure to hierarchical anxiety stimuli.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "The Therapeutic Alliance \ud83e\udd1d",
+      "content": "## What Truly Makes Therapy Work?\n\nOutcome research (the 'Dodo Bird Verdict') demonstrates that across CBT, psychodynamic, and humanistic therapies, the single strongest empirical predictor of positive client improvement is the **Therapeutic Alliance**\u2014the mutual trust, collaboration, and empathic bond between therapist and client."
+    }
+  ]
+}

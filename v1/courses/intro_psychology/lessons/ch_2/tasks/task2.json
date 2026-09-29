@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_2",
+  "title": "Neuropsychological Case Profile: Phineas Gage & Patient H.M.",
+  "description": "Analyze classic clinical cases linking localized brain damage to specific cognitive and behavioral deficits.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Examine the two most famous lesion cases in neurobiology: Phineas Gage (1848) and Patient H.M. (1953).\n\n### Requirements:\n1. For Phineas Gage: Describe the exact anatomical lesion (orbitofrontal cortex) and contrast his pre-accident personality with his post-accident behavioral dysregulation.\n2. For Patient H.M.: Detail the bilateral resection of the medial temporal lobe/hippocampus and explain the difference between anterograde amnesia for explicit facts versus preserved procedural motor skills.\n3. Formulate a conclusion on how focal lesion studies propelled localization of function in neuropsychology.",
+  "hints": [
+    "Hint 1: Gage retained intelligence and memory, but lost emotional impulse inhibition.",
+    "Hint 2: H.M. could learn the mirror-tracing task despite having no conscious memory of having practiced it."
+  ]
+}

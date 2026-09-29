@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_6",
+  "chapterId": "ch_6",
+  "title": "Chapter 6 Mastery Quiz: Lifespan Human Development",
+  "description": "Assess your understanding of prenatal biology, Piagetian stages, attachment theory, and psychosocial aging.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch6_q1",
+      "type": "multiple_choice",
+      "question": "What is the medical term for any environmental chemical, virus, or physical agent that can cross the placenta and cause birth defects?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Teratogen",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Carcinogen",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Neurotransmitter",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Myelinator",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Teratogens are external agents that disrupt embryonic and fetal morphogenesis.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q2",
+      "type": "multiple_choice",
+      "question": "The embryonic stage of prenatal development spans which timeframe following conception?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Week 3 through Week 8",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conception to Day 5",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Month 4 to Month 9",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The first 48 hours only",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The embryonic stage occurs from approximately the 3rd to 8th week post-conception.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q3",
+      "type": "multiple_choice",
+      "question": "The Rooting Reflex helps an infant ensure survival by doing what?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Turning the head toward a touch on the cheek to find a nipple for nursing",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Grasping tightly onto any finger placed in their palm",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fanning the toes when the foot is tickled",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Arching the back in response to a sudden loud noise",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The rooting reflex directs an infant toward feeding cues when stimulated on the cheek.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q4",
+      "type": "multiple_choice",
+      "question": "Eleanor Gibson and Richard Walk's classic 'Visual Cliff' study proved that infants develop what ability around the onset of crawling?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Depth Perception",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Language Fluency",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Object Permanence",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Conservation of volume",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The visual cliff demonstrates that mobile infants perceive depth and show fear of heights.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q5",
+      "type": "multiple_choice",
+      "question": "In Piaget's theory, incorporating a newly seen zebra into an existing schema for 'horse' is an example of:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Assimilation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Accommodation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Egocentrism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Scaffolding",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Assimilation is fitting new input directly into existing cognitive schemas without modification.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q6",
+      "type": "multiple_choice",
+      "question": "When a child learns that a zebra is fundamentally distinct from a horse and updates their schema category, this is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Accommodation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Assimilation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Centration",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Animism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Accommodation alters schemas when incoming observations cannot be assimilated into current categories.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q7",
+      "type": "multiple_choice",
+      "question": "The understanding that physical objects continue to exist even when they are hidden from sensory view is termed:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Object Permanence",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conservation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Egocentrism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Theory of Mind",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Object permanence develops during the sensorimotor stage, typically around 8 months of age.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q8",
+      "type": "multiple_choice",
+      "question": "A preschooler standing directly in front of the television assumes their parent seated behind them can see the show clearly. This illustrates Piagetian:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Egocentrism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conservation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Abstract deductive logic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Zone of Proximal Development",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Egocentrism is the preoperational inability to see things from another person's physical or mental perspective.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q9",
+      "type": "multiple_choice",
+      "question": "During which Piagetian stage does a child master the principle of Conservation (volume, mass, and number)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Concrete Operational Stage (ages 7-11)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Preoperational Stage (ages 2-7)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sensorimotor Stage (ages 0-2)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Germinal Stage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Concrete operational children grasp reversibility and recognize that physical properties remain constant.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q10",
+      "type": "multiple_choice",
+      "question": "Lev Vygotsky defined the gap between what a child can do unaided and what they can achieve with skilled adult assistance as the:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Zone of Proximal Development (ZPD)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Schema Equilibrium Matrix",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Preoperational Boundary",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Critical Attachment Window",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The ZPD represents the range of mastery accessible with instructional scaffolding and social guidance.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q11",
+      "type": "multiple_choice",
+      "question": "Harry Harlow's landmark 1958 surrogate mother study proved that infant monkeys preferred which surrogate?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The soft cloth mother that provided contact comfort but zero food",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The wire mesh mother equipped with a feeding bottle",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A wooden block with no tactile features",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "An electric light bulb",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Harlow proved that affectionate contact comfort is far more central to bonding than feeding alone.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q12",
+      "type": "multiple_choice",
+      "question": "In Mary Ainsworth's Strange Situation, an infant who is distressed by separation but happily greets and is quickly soothed by the mother is classified as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Securely Attached",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Insecure-Avoidant",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Insecure-Resistant",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Disorganized",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Secure attachment is evidenced by using the caregiver as a safe base, showing appropriate distress upon exit, and rapid soothing on reunion.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q13",
+      "type": "multiple_choice",
+      "question": "Which parenting style is described as demanding, rigid, relying on strict physical punishment, and answering questions with 'Because I said so!'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Authoritarian",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Authoritative",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Permissive",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Uninvolved",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Authoritarian parents enforce strict obedience without emotional warmth or democratic discussion.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q14",
+      "type": "multiple_choice",
+      "question": "Research shows that which parenting style produces children with the highest levels of self-esteem, self-reliance, and social competence?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Authoritative",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Authoritarian",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Permissive",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Neglectful",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Authoritative parenting combines high expectations with high warmth, respect, and clear rationale.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q15",
+      "type": "multiple_choice",
+      "question": "According to Erik Erikson, what is the central psychosocial crisis of adolescence?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Identity vs. Role Confusion",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Trust vs. Mistrust",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Generativity vs. Stagnation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Autonomy vs. Shame",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adolescents grapple with synthesizing their values, beliefs, and aspirations into a cohesive identity.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q16",
+      "type": "multiple_choice",
+      "question": "An older adult conducting a life review with feelings of contentment and a sense that life has been meaningful has achieved Erikson's:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ego Integrity (vs. Despair)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Intimacy (vs. Isolation)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Initiative (vs. Guilt)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Industry (vs. Inferiority)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Integrity vs. Despair is the final stage of late adulthood characterized by reflective wisdom.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q17",
+      "type": "multiple_choice",
+      "question": "In Kohlberg's moral development model, moral thinking driven strictly by avoiding punishment or obtaining direct physical rewards is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Preconventional Morality",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conventional Morality",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Postconventional Morality",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Formal Operational Morality",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Preconventional morality focuses purely on external consequences to the self.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q18",
+      "type": "multiple_choice",
+      "question": "A person who decides not to steal because 'stealing breaks the law and disrupts social order' is operating at which Kohlberg level?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conventional Morality (Stage 4: Law and Order)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Preconventional Morality (Stage 1)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Postconventional Morality (Stage 6)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensorimotor Instinct",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Conventional morality emphasizes upholding social laws, duty, and community expectations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q19",
+      "type": "multiple_choice",
+      "question": "Carol Gilligan's prominent critique of Kohlberg's moral research was that:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He tested only male subjects and devalued female relational 'care' ethics",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He used chimpanzees rather than humans",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "He failed to measure brainwaves using EEG",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He claimed children cannot learn morals",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gilligan argued Kohlberg overemphasized male justice ethics while neglecting empathetic care ethics.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q20",
+      "type": "multiple_choice",
+      "question": "Laura Carstensen's Socioemotional Selectivity Theory explains that as adults grow older, they tend to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Prune peripheral ties to prioritize deeply rewarding close relationships",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cut off all communication with family entirely",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Seek hundreds of novel superficial contacts",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Lose all emotional capacity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Socioemotional selectivity shows that older adults maximize emotional meaning by concentrating on close bonds.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q21",
+      "type": "true_false",
+      "question": "Piaget believed that children could leap across cognitive stages in any random order depending on formal schooling.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Piaget maintained that his four stages occur in an invariant, universal sequential order.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q22",
+      "type": "true_false",
+      "question": "Fetal Alcohol Syndrome (FAS) is a leading preventable cause of lifelong cognitive impairment in newborns.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. Prenatal exposure to alcohol causes irreversible brain and physical developmental damage.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

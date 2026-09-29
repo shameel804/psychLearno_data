@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Applied Psychological Research Proposal",
+      "description": "Formulate a rigorous empirical study to investigate a contemporary behavioral phenomenon.",
+      "difficulty": "Intermediate",
+      "estimatedHours": "4-6"
+    },
+    {
+      "id": "project2",
+      "title": "Biopsychosocial Clinical Case Formulation",
+      "description": "Synthesize biological, cognitive, and social factors to formulate a clinical case diagnosis and treatment plan.",
+      "difficulty": "Advanced",
+      "estimatedHours": "5-7"
+    },
+    {
+      "id": "project3",
+      "title": "Comprehensive Behavior Modification & Cognitive Habit Architecture",
+      "description": "Design an evidence-based behavioral intervention utilizing operant conditioning and cognitive reframing.",
+      "difficulty": "Intermediate",
+      "estimatedHours": "3-5"
+    }
+  ]
+}

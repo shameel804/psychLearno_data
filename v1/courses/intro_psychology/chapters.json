@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "id": "ch_1",
+      "languageId": "intro_psychology",
+      "title": "Foundations & Perspectives in Psychology",
+      "description": "Explore the scientific roots of psychology, classic schools of thought, modern frameworks, and rigorous research methods.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 100,
+      "iconEmoji": "🏛️"
+    },
+    {
+      "id": "ch_2",
+      "languageId": "intro_psychology",
+      "title": "Biological Bases of Behavior & the Brain",
+      "description": "Investigate neural communication, neurotransmitters, brain structures, hemispheric functions, and endocrine regulation.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "🧠"
+    },
+    {
+      "id": "ch_3",
+      "languageId": "intro_psychology",
+      "title": "Sensation, Perception & Consciousness",
+      "description": "Understand how physical stimuli become mental representations, perceptual organization principles, sleep cycles, and altered states.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "👁️"
+    },
+    {
+      "id": "ch_4",
+      "languageId": "intro_psychology",
+      "title": "Learning, Conditioning & Behavior",
+      "description": "Master classical Pavlovian conditioning, Skinnerian operant conditioning, schedules of reinforcement, and social modeling.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "🐕"
+    },
+    {
+      "id": "ch_5",
+      "languageId": "intro_psychology",
+      "title": "Cognition, Memory & Intelligence",
+      "description": "Analyze memory encoding and retrieval, causes of forgetting, problem-solving heuristics, cognitive biases, and IQ models.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "💡"
+    },
+    {
+      "id": "ch_6",
+      "languageId": "intro_psychology",
+      "title": "Lifespan Human Development",
+      "description": "Trace human growth across cognitive, physical, and socioemotional domains from prenatal infancy through aging.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "🌱"
+    },
+    {
+      "id": "ch_7",
+      "languageId": "intro_psychology",
+      "title": "Social Psychology & Personality",
+      "description": "Examine how social contexts shape behavior through conformity and attribution, and explore classic and modern personality theories.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "👥"
+    },
+    {
+      "id": "ch_8",
+      "languageId": "intro_psychology",
+      "title": "Psychological Disorders & Treatment",
+      "description": "Examine the classification and etiology of major mental disorders and explore evidence-based psychotherapeutic and biological treatments.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 140,
+      "iconEmoji": "🩹"
+    }
+  ]
+}

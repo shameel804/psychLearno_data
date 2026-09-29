@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_2",
+  "title": "The Nervous System & Subcortical Brain Structures",
+  "description": "Examine the central and peripheral nervous systems, the brainstem, cerebellum, and limbic system.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Brain Systems",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Organizational Architecture \ud83c\udf10",
+      "content": "# The Nervous System Hierarchy\n\n* **Central Nervous System (CNS)**: Brain and Spinal Cord (the central processing core).\n* **Peripheral Nervous System (PNS)**: Connects CNS to the rest of the body.\n  * **Somatic Nervous System**: Controls voluntary skeletal muscles and transmits sensory information to the CNS.\n  * **Autonomic Nervous System**: Governs involuntary vegetative functions (heart rate, digestion, respiration).\n    * **Sympathetic**: Arouses the body ('Fight or Flight'\u2014dilates pupils, accelerates heart, inhibits digestion).\n    * **Parasympathetic**: Calms the body ('Rest and Digest'\u2014contracts pupils, slows heart, stimulates digestion)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Autonomic Nervous System Check \ud83e\udec0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "After narrowly avoiding a highway car collision, your racing heart rate slowly decreases and your breathing normalizes. Which branch of the autonomic nervous system is responsible for this calming effect?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Sympathetic nervous system",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Parasympathetic nervous system",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Somatic motor division",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Central spinal cord reflex",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The parasympathetic nervous system conserves energy and brings physiological metrics back to resting equilibrium.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Brainstem & Cerebellum \ud83e\uddd7",
+      "content": "## Subcortical Survival Centers\n\n* **Medulla Oblongata**: Base of the brainstem; regulates vital autonomic functions: heartbeat, blood pressure, and breathing.\n* **Pons**: Bridges cerebellum and cortex; coordinates movement and regulates sleep/dream states.\n* **Reticular Formation**: Nerve network ascending through the brainstem; controls arousal, alertness, and sleep-wake transitions.\n* **Cerebellum ('Little Brain')**: Rear of brainstem; orchestrates balance, fine motor coordination, posture, and procedural memory."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "The Limbic System: Emotion & Memory \ud83e\udd81",
+      "content": "## The Emotional Core of the Brain\n\nLocated beneath the cerebral cortex, the limbic system mediates emotions and basic survival drives:\n\n* **Thalamus**: The brain's sensory relay station. Directs all sensory signals (vision, hearing, touch, taste) to the cortex, **except smell**.\n* **Hypothalamus**: Governs the endocrine system via the pituitary gland. Regulates homeostatic needs: hunger, thirst, body temperature, sexual behavior, and circadian rhythms (the '4 Fs').\n* **Amygdala**: Two almond-shaped neural clusters linked to emotional processing, particularly fear, threat detection, and aggression.\n* **Hippocampus**: Curved seahorse-shaped structure critical for processing and consolidating new explicit memories into long-term storage."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Limbic Anatomy Check \ud83e\udded",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Which brain structure acts as the central sensory relay hub, routing incoming signals from vision, hearing, and touch to their respective cortical areas?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Hypothalamus",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Thalamus",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Medulla",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Cerebellum",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The thalamus sits atop the brainstem and functions as an auditory, visual, and tactile switchboard for the cortex.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Clinical Vignette: Patient H.M. \ud83e\udde0",
+      "content": "## The Landmark Hippocampus Discovery\n\nIn 1953, patient Henry Molaison (H.M.) underwent bilateral removal of his medial temporal lobes\u2014including both **hippocampi**\u2014to treat severe epilepsy. While his intellect and childhood memories remained intact, he could never form new conscious explicit memories for the rest of his life (anterograde amnesia). This proved the hippocampus is vital for memory consolidation!"
+    }
+  ]
+}

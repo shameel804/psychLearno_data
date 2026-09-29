@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_5",
+  "chapterId": "ch_5",
+  "title": "Chapter 5 Mastery Quiz: Cognition, Memory & Intelligence",
+  "description": "Assess your understanding of memory systems, forgetting, heuristics, biases, and intelligence models.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch5_q1",
+      "type": "multiple_choice",
+      "question": "What is the classic estimated capacity limit of human Short-Term / Working Memory according to George Miller?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "7 \u00b1 2 items",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "15 \u00b1 3 items",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Virtually infinite capacity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Exactly 1 item",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Miller established the 'magical number seven, plus or minus two' as the standard operational capacity of working memory.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q2",
+      "type": "multiple_choice",
+      "question": "George Sperling's partial-report technique demonstrated that visual sensory memory holds a vast amount of data for roughly how long?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "About 0.25 to 0.5 seconds",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "About 10 to 15 minutes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Several days",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Permanent storage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Iconic memory holds an almost complete visual snapshot, but fades within half a second.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q3",
+      "type": "multiple_choice",
+      "question": "Remembering where you were and what you felt during your 16th birthday party is an example of which memory system?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Episodic Memory",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Semantic Memory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Procedural Memory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Echoic Memory",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Episodic memory stores autobiographical personal experiences tied to specific times and places.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q4",
+      "type": "multiple_choice",
+      "question": "Knowing the fact that oxygen has an atomic number of 8 is stored in which memory subsystem?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Semantic Memory",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Episodic Memory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sensory Memory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Implicit Motor Memory",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Semantic memory stores impersonal factual knowledge, concepts, and language rules.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q5",
+      "type": "multiple_choice",
+      "question": "According to the Levels of Processing theory, which encoding strategy yields the most durable, enduring long-term retention?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Semantic (deep processing focusing on meaning and self-relevance)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Structural (shallow processing of visual font appearance)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Phonemic (processing whether words rhyme)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory echoic gating",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Deep semantic encoding that links information meaningfully to existing schemas generates the strongest memories.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q6",
+      "type": "multiple_choice",
+      "question": "Hermann Ebbinghaus discovered that the rate of forgetting for newly learned verbal information is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Most rapid immediately after learning, then levels off over time",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Completely linear and steady over 30 days",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Zero for the first week, then drops suddenly",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Unpredictable and random each day",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Ebbinghaus forgetting curve shows a steep initial drop in retention within hours, followed by a gradual plateau.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q7",
+      "type": "multiple_choice",
+      "question": "When learning a new locker combination is impeded because you keep recalling your old locker combination, you are experiencing:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Proactive Interference",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Retroactive Interference",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Source Amnesia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cryptomnesia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Proactive interference occurs when previously learned old material interferes with recalling new information.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q8",
+      "type": "multiple_choice",
+      "question": "When newly studied French vocabulary causes you to forget previously mastered Spanish vocabulary, this is termed:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Retroactive Interference",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Proactive Interference",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "State-dependent Decay",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anterograde Amnesia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Retroactive interference happens when new learning impairs the retrieval of older memories.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q9",
+      "type": "multiple_choice",
+      "question": "In Elizabeth Loftus's car accident experiment, replacing the verb 'hit' with 'smashed' had what effect on eyewitnesses?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They produced significantly higher speed estimates and falsely recalled broken glass",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "They refused to answer any questions",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Their memory accuracy improved by 50%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They identified the driver as a celebrity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Loftus demonstrated the misinformation effect: leading wording distorts and reconstructs episodic memories.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q10",
+      "type": "multiple_choice",
+      "question": "A mental category used to group similar objects, events, ideas, or people is termed a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Concept",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Phoneme",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Morpheme",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Concepts are fundamental mental representations that categorize shared features of the world.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q11",
+      "type": "multiple_choice",
+      "question": "When considering the category 'furniture', a chair comes to mind much faster than a stool or ottoman because a chair is a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Prototype",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Algorithm",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Morpheme",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A prototype is the best, most central mental exemplar representing a conceptual category.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q12",
+      "type": "multiple_choice",
+      "question": "A chemist following a precise step-by-step mathematical recipe to synthesize a compound is using which problem-solving strategy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Algorithm",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Incubation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Intuition",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "An algorithm is an exact step-by-step formula that guarantees a correct outcome.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q13",
+      "type": "multiple_choice",
+      "question": "A homeowner trapped in a room with a loose doorknob fails to realize they can use a butter knife as a screwdriver. This exemplifies:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Functional Fixedness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Confirmation Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Belief Perseverance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Framing Effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Functional fixedness is the inability to perceive novel uses for an object beyond its traditional design.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q14",
+      "type": "multiple_choice",
+      "question": "Judging the frequency or danger of an event based entirely on how easily memorable examples come to mind is the:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Availability Heuristic",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Representativeness Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Gambler's Fallacy",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anchoring Effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The availability heuristic relies on mental accessibility and vividness of memories to judge probability.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q15",
+      "type": "multiple_choice",
+      "question": "A consumer happily buys ground beef labeled '80% lean' but avoids the same meat when labeled '20% fat'. This cognitive phenomenon is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Framing Effect",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Hindsight Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Overconfidence Effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory Adaptation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Framing shows how presenting mathematically identical options with positive or negative wording impacts choice.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q16",
+      "type": "multiple_choice",
+      "question": "Charles Spearman posited that a single common underlying factor drives performance across all cognitive tests, which he named:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The general intelligence factor (g factor)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Emotional quotient (EQ)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Triarchic synthesis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Fluid crystallization",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Spearman identified the general factor 'g' underlying positive correlations across distinct mental abilities.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q17",
+      "type": "multiple_choice",
+      "question": "Which type of intelligence reflects speed of abstract reasoning and novel problem-solving independent of prior cultural schooling?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Fluid Intelligence",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Crystallized Intelligence",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Verbal Comprehension",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Procedural Fluency",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Fluid intelligence involves raw, nonverbal reasoning and pattern recognition, which typically declines in older age.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q18",
+      "type": "multiple_choice",
+      "question": "Robert Sternberg's Triarchic Theory of Intelligence includes which three components?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Analytical, Creative, and Practical",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Verbal, Spatial, and Kinesthetic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fluid, Crystallized, and General",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Emotional, Social, and Abstract",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sternberg defined intelligence across Analytical (academic), Creative (innovation), and Practical (street smarts) domains.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q19",
+      "type": "multiple_choice",
+      "question": "On the standardized Wechsler Adult Intelligence Scale (WAIS), what are the designated mean and standard deviation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Mean = 100, Standard Deviation = 15",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Mean = 50, Standard Deviation = 10",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Mean = 1000, Standard Deviation = 100",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Mean = 70, Standard Deviation = 5",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Modern intelligence scores are standardized around a Gaussian bell curve with M = 100 and SD = 15.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q20",
+      "type": "multiple_choice",
+      "question": "If a student takes an intelligence test on Monday and scores 120, and takes the same test on Friday and scores 70, the test lacks:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Reliability",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Validity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Standardization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Factor loading",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Reliability refers to the consistency and repeatability of test scores across administrations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q21",
+      "type": "true_false",
+      "question": "The Flynn Effect refers to the worldwide generational rise in average raw performance on intelligence tests over the 20th century.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. James Flynn documented steady generational increases in raw IQ test scores worldwide.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q22",
+      "type": "true_false",
+      "question": "Crystallized intelligence sharply declines in healthy adults after age 30, while fluid intelligence continues to rise into late adulthood.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. It is fluid intelligence that declines in late adulthood, whereas crystallized intelligence remains stable or increases.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_5",
+  "title": "Deconstructing Heuristics & Framing in Public Discourse",
+  "description": "Analyze media reporting to identify how the availability heuristic, representativeness, and framing distort risk perceptions.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Select two news headlines or political advertisements addressing risk (e.g., vaccine safety, airline travel, climate disasters, or economic policies).\n\n### Requirements:\n1. Identify instances of the **Availability Heuristic**: How does the visual or emotional salience of the reporting distort mathematical probability?\n2. Examine **Framing Effects**: How does phrasing the issue as a gain versus a loss alter public risk tolerance?\n3. Formulate a cognitive debiasing protocol that could help citizens make objective, data-driven decisions.",
+  "hints": [
+    "Hint 1: People are risk-averse when outcomes are framed in terms of gains, and risk-seeking when framed in terms of losses.",
+    "Hint 2: Providing clear base-rate statistics helps neutralize the availability heuristic."
+  ]
+}

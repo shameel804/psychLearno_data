@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Classical Conditioning Breakdown of Phobia or Advertising",
+      "description": "Deconstruct a real-world conditioned response into its unconditioned and conditioned stimulus-response pairings.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Designing an Operant Behavior Modification Plan",
+      "description": "Formulate a concrete behavioral intervention utilizing positive reinforcement, shaping, and schedule design.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

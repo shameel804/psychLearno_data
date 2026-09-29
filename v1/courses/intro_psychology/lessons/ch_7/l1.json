@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_7",
+  "title": "Social Cognition, Attribution & Attitudes",
+  "description": "Examine fundamental attribution error, cognitive dissonance theory, and dual-route persuasion.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Social Cognition",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Attribution Theory & The FAE \ud83d\udd0d",
+      "content": "# Explaining Human Behavior\n\nSocial psychology investigates how individuals think about, influence, and relate to one another.\n\n* **Attribution Theory** (Fritz Heider): We explain behavior by crediting either internal dispositions (personality traits) or external situations (environmental context).\n* **The Fundamental Attribution Error (FAE)**: The persistent human tendency to **overestimate dispositional traits** and **underestimate external situational pressures** when evaluating the actions of *others*.\n  * *Example*: When a driver cuts you off in traffic, you instinctively conclude 'What a reckless, selfish jerk!' (internal attribution) rather than considering they might be rushing a sick child to the hospital (situational attribution)."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Attribution Check \ud83d\ude97",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A hiring manager assumes a job candidate arrived late because the candidate is lazy and irresponsible, completely ignoring that a severe subway power outage shut down the transit system. What cognitive bias is operating?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Fundamental Attribution Error (FAE)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Bystander Effect",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Deindividuation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Social Facilitation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The manager overemphasizes personal character flaws while disregarding major external situational realities.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Cognitive Dissonance Theory \u26a1",
+      "content": "## When Beliefs Clash with Actions\n\nProposed by **Leon Festinger** (1957), **Cognitive Dissonance** is the unpleasant state of psychological tension that arises when our attitudes and behaviors are contradictory.\n\n* Because psychological inconsistency is deeply uncomfortable, humans are motivated to reduce the tension.\n* In Festinger and Carlsmith's famous **$1 vs. $20 experiment**:\n  * Participants performed a painfully boring peg-turning task, then were paid either $1 or $20 to tell the next participant the task was delightful.\n  * Those paid **only $1** experienced high dissonance ('I lied for a measly dollar!') and genuinely convinced themselves the task was interesting!\n  * Those paid **$20** had external financial justification ('I lied because I was paid $20') and felt zero need to alter their internal belief."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Persuasion & Compliance Techniques \ud83c\udfaf",
+      "content": "## Routes to Persuasion & Compliance\n\n### The Elaboration Likelihood Model\n* **Central Route**: Focuses on logical evidence, data, and deep factual arguments. Produces enduring attitude change.\n* **Peripheral Route**: Influenced by superficial cues, speaker attractiveness, celebrity endorsements, or catchy jingles. Fast but temporary.\n\n### Strategic Compliance Tactics\n* **Foot-in-the-Door**: Getting someone to agree to a minor request first makes them significantly more likely to comply with a subsequent large request.\n* **Door-in-the-Face**: Presenting an extreme request first (which gets rejected), making a subsequent moderate request seem like a reasonable compromise."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Compliance Strategy Check \ud83d\udeaa",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "A charity volunteer first asks a resident to sign a free petition supporting clean water. Two days later, they return and ask for a $50 financial donation. What compliance tactic is being used?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Foot-in-the-Door Technique",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Door-in-the-Face Technique",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Central Route Elaboration",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Cognitive Dissonance Inversion",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Securing agreement to a small initial request increases compliance with a subsequent larger request.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "The Self-Serving Bias \ud83d\udee1\ufe0f",
+      "content": "## Protecting Our Ego\n\nNotice how people explain their own outcomes: When you earn an 'A' on an exam, you attribute it to your brilliant intelligence and hard work (internal attribution). When you fail an exam, you blame the unfairly tricky professor or noisy testing room (situational attribution). This asymmetry is the **Self-Serving Bias**!"
+    }
+  ]
+}

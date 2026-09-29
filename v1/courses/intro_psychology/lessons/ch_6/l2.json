@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_6",
+  "title": "Cognitive Development: Piaget & Vygotsky",
+  "description": "Master Piaget's four stages, schemas, conservation, and Vygotsky's Zone of Proximal Development.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Cognitive Development",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Piaget's Constructivism \ud83e\uddf1",
+      "content": "# How Children Build Mental Worlds\n\nSwiss developmentalist **Jean Piaget** asserted that children are not passive vessels\u2014they are active 'little scientists' constructing mental frameworks (**schemas**).\n\n* **Assimilation**: Interpreting new experiences in terms of our existing schemas.\n  * *Example*: A toddler with a schema for 'doggy' (four-legged furry animal) sees a sheep and excitedly calls it a 'doggy!'.\n* **Accommodation**: Modifying existing schemas or creating new ones because novel information doesn't fit.\n  * *Example*: The child realizes the sheep says 'baa' and doesn't fetch balls, modifying their schema to distinguish sheep from dogs."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Schema Adaptation Check \ud83d\udc11",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A child modifies their existing mental schema of 'flying animals' to exclude airplanes after learning planes are human-made machines. What cognitive process occurred?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Assimilation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Accommodation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Habituation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Egocentrism",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Accommodation involves adapting or restructuring existing schemas when confronted with conflicting new realities.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Piaget's Four Stages of Development \ud83e\ude9c",
+      "content": "## Universal Stages of Cognitive Growth\n\n| Stage | Age Range | Key Milestone & Characteristics |\n| :--- | :--- | :--- |\n| **Sensorimotor** | 0 to 2 years | Experiencing world via senses; acquires **Object Permanence** (~8 months) |\n| **Preoperational** | 2 to 7 years | Symbolic thought & language; characterized by **Egocentrism**, **Animism**, and **lack of Conservation** |\n| **Concrete Operational** | 7 to 11 years | Understands **Conservation**; logical reasoning about concrete physical objects; reversibility |\n| **Formal Operational** | 12+ years | Abstract logic, hypothetical 'what if' reasoning, systematic hypothesis testing |"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Vygotsky's Sociocultural Alternative \ud83e\udd1d",
+      "content": "## Scaffolding & The Social Mind\n\nRussian psychologist **Lev Vygotsky** offered a contrasting perspective: cognitive development is guided by social culture, tools, and adult language.\n\n* **Zone of Proximal Development (ZPD)**: The sweet spot between what a learner can do independently and what they can achieve with the guidance of a more knowledgeable mentor.\n* **Scaffolding** (Jerome Bruner): Adjusting the level of support to fit the child's current competence, gradually removing assistance as mastery increases.\n* **Private Speech**: Children speaking aloud to themselves while solving problems functions as self-regulation that later internalizes into silent inner thought."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Cognitive Milestone Check \ud83e\udd5b",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A 5-year-old insists that pouring juice from a wide short glass into a tall thin cylinder creates 'more juice'. In Piaget's framework, this child lacks:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Object Permanence",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Conservation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Sensorimotor reflexes",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Abstract formal logic",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Conservation is the realization that fundamental physical properties (volume, mass) remain identical despite superficial transformations in shape.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Piaget vs. Vygotsky in One Sentence \ud83d\udca1",
+      "content": "## Independent Discovery vs. Guided Apprenticeship\n\nWhile Piaget viewed the child as an independent **little scientist** exploring physical laws through hands-on assimilation and accommodation, Vygotsky saw the child as a **young apprentice** co-constructing understanding through cultural language and social collaboration within their ZPD."
+    }
+  ]
+}

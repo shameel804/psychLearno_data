@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_1",
+  "title": "What is Psychology? Science vs. Pseudoscience",
+  "description": "Understand the definition, primary goals of psychology, and how empirical science differs from pseudoscience.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Defining Psychology \ud83e\udde0",
+      "content": "# The Science of Mind and Behavior\n\nPsychology is the **scientific study** of mental processes and observable behaviors.\n\n* **Mind**: Internal subjective experiences such as sensations, perceptions, thoughts, memories, emotions, and dreams.\n* **Behavior**: Any outwardly observable and measurable action by an organism, from smiling to solving a complex puzzle.\n\n### The 4 Goals of Psychology\n1. **Describe**: What is happening?\n2. **Explain**: Why is it happening?\n3. **Predict**: When will it happen again?\n4. **Control / Influence**: How can we change or modify it for human well-being?"
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83d\udca1",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A psychologist tracking how often a child speaks during recess to establish a baseline is fulfilling which goal of psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Control",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Describe",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Explain",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Predict",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Describing involves carefully recording and detailing behaviors without necessarily intervening or explaining why they happen.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Science vs. Pseudoscience \u2696\ufe0f",
+      "content": "## Empirical Science vs. Belief Systems\n\nPsychology relies on the **empirical method**, collecting data through objective observation and rigorous measurement.\n\n| Feature | Genuine Science | Pseudoscience |\n| :--- | :--- | :--- |\n| **Core Basis** | Rigorous empirical data & peer review | Anecdotes, testimonials & tradition |\n| **Falsifiability** | Open to being proven false | Explanations can never be disproven |\n| **Progress** | Adapts when new evidence emerges | Rigid; ignores contradicting data |\n| **Mechanism** | Identifies plausible mechanisms | Relies on vague or supernatural forces |\n\nPhilosopher Karl Popper stressed **falsifiability**: for an assertion to be scientific, there must be a conceivable test that could prove it false."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "warning",
+      "title": "Beware of Intuitive Traps \u26a0\ufe0f",
+      "content": "### Hindsight Bias and Confirmation Bias\n\n* **Hindsight Bias**: The 'I-knew-it-all-along' phenomenon. Once an outcome happens, people believe they anticipated it all along.\n* **Confirmation Bias**: The tendency to seek out and remember information that confirms our pre-existing beliefs while ignoring disconfirming facts.\n\nPsychology replaces intuitive hunches with controlled experimentation!"
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Scientific Thinking Check \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Which criterion is essential for a psychological hypothesis to be deemed scientifically testable?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It must agree with common-sense intuition",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It must be supported by famous testimonials",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "It must be falsifiable through empirical observation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "It must never be modified once published",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Scientific hypotheses must be falsifiable\u2014there must be specific empirical evidence that could demonstrate the claim is incorrect.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip \ud83d\ude80",
+      "content": "## Think Like a Skeptic\n\nWhenever you encounter an astonishing psychological headline (e.g., 'Listening to Mozart makes babies geniuses!'), ask three questions:\n1. Who conducted the study, and was it peer-reviewed?\n2. What was the sample size and control group?\n3. Has the finding been replicated by independent researchers?"
+    }
+  ]
+}

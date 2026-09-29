@@ -1,0 +1,220 @@
+{
+  "id": "sq_intro_psychology_2",
+  "title": "Case Investigation: Perception & Learned Behaviors",
+  "triggerChapterIndex": 3,
+  "metadata": {
+    "type": "case_study"
+  },
+  "questions": [
+    {
+      "id": "sq2_q1",
+      "type": "multiple_choice",
+      "question": "Case Study: 6-year-old Leo developed a paralyzing fear of thunder after a violent storm. Now, whenever he sees a bright camera flash, his heart races with fear. What classical conditioning mechanism explains his reaction to the camera flash?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Stimulus Generalization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus Discrimination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Spontaneous Recovery",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory Adaptation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Generalization occurs when stimuli resembling the conditioned stimulus (lightning/flash) evoke the conditioned emotional response.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q2",
+      "type": "multiple_choice",
+      "question": "Case Study: In the storm scenario above, what was the original Unconditioned Stimulus (US) that triggered the innate startle response?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The loud booming thunderclap",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The camera flash",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The heart racing response",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The room lighting",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The loud noise of the thunderclap naturally and automatically triggered an unconditioned startle response.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq2_q3",
+      "type": "multiple_choice",
+      "question": "Case Study: A graphic design firm creates a brand logo featuring an incomplete silhouette of a lion. Customers effortlessly perceive a complete, majestic lion. Which Gestalt grouping principle explains this?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Closure",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Proximity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Trichromatic vision",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Linear perspective",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Closure causes the human perceptual system to automatically fill in visual gaps to perceive a unified form.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq2_q4",
+      "type": "multiple_choice",
+      "question": "Case Study: A sleep lab patient exhibits irregular breathing, high brain metabolic activity on EEG resembling wakefulness, but their limbs are completely paralyzed. What sleep stage are they in?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "REM Sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "NREM-3 Slow-wave sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "NREM-1 Transitional stage",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hypnagogic sleep paralysis only",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "REM sleep features paradoxical physiological activity: alert brainwaves with profound skeletal muscle atonia.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q5",
+      "type": "multiple_choice",
+      "question": "Case Study: A mobile game gives players a mystery prize box after an unpredictable number of completed levels (sometimes after 3 levels, sometimes after 9, averaging 5). What reinforcement schedule is this?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Variable-Ratio (VR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fixed-Interval (FI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed-Ratio (FR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Variable-Interval (VI)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Reinforcing behavior after an unpredictable number of responses is a Variable-Ratio schedule.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q6",
+      "type": "multiple_choice",
+      "question": "Case Study: A patient is prescribed a dopamine antagonist to treat hallucinations. As a side effect, the patient begins experiencing muscle tremors and stiffness. Which neurological structure is being impacted?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Basal Ganglia and Substantia Nigra motor pathways",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Primary Visual Cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Cochlea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Corpus Callosum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Blocking dopamine in motor basal ganglia circuits mimics Parkinsonian extrapyramidal symptoms.",
+      "xpReward": 25,
+      "difficulty": 3
+    },
+    {
+      "id": "sq2_q7",
+      "type": "multiple_choice",
+      "question": "Case Study: In an observational study, preschool children who watched an adult solve a puzzle by singing a specific rhythm imitated the song while solving the puzzle, while children who saw silent solving did not. This demonstrates:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Albert Bandura's Social Observational Modeling",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "B.F. Skinner's Aversive Extinction",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Signal Detection Hit Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Vestibular Accommodation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Bandura demonstrated that children reproduce novel behavioral routines through vicarious observational modeling.",
+      "xpReward": 20,
+      "difficulty": 2
+    }
+  ]
+}

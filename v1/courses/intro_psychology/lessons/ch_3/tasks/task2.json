@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_3",
+  "title": "24-Hour Sleep Architecture & Circadian Log Analysis",
+  "description": "Track environmental light exposure, sleep onset, sleep stages, and cognitive alertness across a 24-hour cycle.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Construct a hypothetical or real 24-hour circadian log detailing daily physiological oscillations.\n\n### Requirements:\n1. Map out light exposure times and explain how the Suprachiasmatic Nucleus (SCN) and pineal gland modulate melatonin release accordingly.\n2. Model the typical 90-minute cycle progression across an 8-hour sleep period, showing the ratio of NREM-3 deep sleep to REM sleep from early night to morning.\n3. Identify the consequences of blue-light exposure from screens within 60 minutes of bedtime on sleep latency and stage distribution.",
+  "hints": [
+    "Hint 1: Blue-spectrum light mimics morning sunlight, tricking the SCN into suppressing melatonin.",
+    "Hint 2: Slow-wave sleep dominates early sleep cycles, while REM periods lengthen before morning awakening."
+  ]
+}

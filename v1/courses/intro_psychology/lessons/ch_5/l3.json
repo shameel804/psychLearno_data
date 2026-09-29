@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_5",
+  "title": "Thinking, Problem-Solving, Heuristics & Cognitive Biases",
+  "description": "Explore algorithms, heuristics, functional fixedness, confirmation bias, and the availability shortcut.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Cognitive Shortcuts",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Concepts & Prototypes \ud83d\udca1",
+      "content": "# Organizing Knowledge in the Mind\n\n* **Concepts**: Mental groupings of similar objects, events, ideas, or people that reduce cognitive load.\n* **Prototypes**: A mental image or best example of a specific category.\n  * When asked to imagine a 'bird', most people think of a robin or sparrow (prototypical), rather than a penguin or ostrich.\n  * Objects that match our prototype are categorized much faster."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Problem-Solving Strategy Check \ud83e\udde9",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "A step-by-step mathematical formula or exhaustive logical procedure that guarantees a correct solution is called a(n):",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Algorithm",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Heuristic",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Insight leap",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Mental set",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Algorithms are methodical, rule-based procedures that guarantee a solution if executed correctly.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Algorithms vs. Heuristics \ud83c\udfce\ufe0f",
+      "content": "## Speed vs. Accuracy\n\n* **Algorithm**: Exhaustive, rule-governed procedure. Guarantees finding the correct answer, but can be laboriously slow.\n  * *Example*: Trying every possible letter combination in a 10-letter anagram.\n* **Heuristic**: An efficient mental shortcut or rule-of-thumb that allows rapid decision-making, though prone to systematic errors.\n  * *Example*: Looking for common letter pairs like 'CH' or 'TH' when solving an anagram.\n* **Insight**: A sudden and often novel realization of the solution to a problem without deliberate step-by-step calculation (Wolfgang K\u00f6hler's chimpanzee experiments)."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Common Heuristics & Obstacles \ud83d\udeab",
+      "content": "## When Mental Shortcuts Go Astray\n\n* **Availability Heuristic**: Estimating the probability of an event based on how easily instances come to mind.\n  * *Example*: People fear commercial airplane crashes more than car accidents because vivid plane crashes dominate news headlines.\n* **Representativeness Heuristic**: Estimating probability by comparing an event to a prototype while neglecting base rates.\n  * *Example*: Assuming a shy man who loves poetry is an Ivy League literature professor rather than a truck driver.\n* **Functional Fixedness**: The cognitive inability to see an object having a function beyond its traditional use (e.g., failing to use a coin as an impromptu screwdriver).\n* **Framing Effect**: How an issue is presented drastically impacts decisions (e.g., '95% lean beef' is favored over '5% fat')."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Heuristics Mastery Check \u2708\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "After watching dramatic news coverage of a shark attack, beachgoers refuse to enter the ocean despite the statistical odds of being attacked being 1 in 3.7 million. This illustrates the:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Availability Heuristic",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Representativeness Heuristic",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Fundamental Attribution Error",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Functional Fixedness",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The availability heuristic inflates risk assessments based on the vividness and ease of recalling dramatic media memories.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Overcoming Mental Sets \ud83d\udca1",
+      "content": "## Duncker's Candle Problem\n\nIn Karl Duncker's classic experiment, participants were given a candle, a box of thumbtacks, and matches, and told to mount the candle on a wall so wax wouldn't drip on the table. Most failed because they viewed the box solely as a container for tacks (functional fixedness). The creative solution was to empty the box, tack the box to the wall, and place the candle inside!"
+    }
+  ]
+}

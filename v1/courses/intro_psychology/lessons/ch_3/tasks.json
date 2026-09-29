@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Gestalt Perceptual Analysis in Everyday Design",
+      "description": "Examine digital interfaces and graphic logos to identify how Gestalt grouping laws direct human visual attention.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "24-Hour Sleep Architecture & Circadian Log Analysis",
+      "description": "Track environmental light exposure, sleep onset, sleep stages, and cognitive alertness across a 24-hour cycle.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Neurons, Action Potentials, and Synaptic Transmission",
+      "description": "Explore the structural anatomy of the neuron, electrochemical signaling, and the all-or-none law.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Neural Biology"
+    },
+    {
+      "id": "l2",
+      "title": "Neurotransmitters & Chemical Signaling",
+      "description": "Understand key chemical messengers like dopamine, serotonin, and GABA, plus agonist/antagonist pharmacology.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Neurochemistry"
+    },
+    {
+      "id": "l3",
+      "title": "The Nervous System & Subcortical Brain Structures",
+      "description": "Examine the central and peripheral nervous systems, the brainstem, cerebellum, and limbic system.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Brain Systems"
+    },
+    {
+      "id": "l4",
+      "title": "Cerebral Cortex, Lateralization & Neuroplasticity",
+      "description": "Master the four lobes of the cortex, split-brain research, language areas, and the brain's capacity to adapt.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Cortex & Plasticity"
+    }
+  ]
+}

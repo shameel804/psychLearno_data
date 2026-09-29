@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Evaluating Parenting Styles and Attachment Vignettes",
+      "description": "Analyze clinical case vignettes of child-parent interactions to identify attachment and Baumrind styles.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Moral Dilemma Analysis: Applying Kohlberg's Framework",
+      "description": "Formulate preconventional, conventional, and postconventional arguments for a contemporary ethical dilemma.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

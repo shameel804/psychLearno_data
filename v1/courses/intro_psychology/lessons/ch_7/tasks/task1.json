@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_7",
+  "title": "Analyzing Social Conformity & Compliance in Public Life",
+  "description": "Examine a historical or corporate failure through the lens of Groupthink, deindividuation, and obedience.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Select a well-documented group disaster (e.g., the Space Shuttle Challenger launch disaster, the Enron financial collapse, or the Bay of Pigs invasion).\n\n### Requirements:\n1. Identify symptoms of **Groupthink** that contributed to the catastrophic decision (e.g., illusion of invulnerability, suppression of dissenting opinions, out-group stereotyping).\n2. Detail how **informational or normative conformity** pressured junior team members into silence.\n3. Propose structural management reforms (e.g., appointing a formal Devil's Advocate, anonymous voting) to prevent future groupthink failures.",
+  "hints": [
+    "Hint 1: Strong directive leaders who voice their opinion early in meetings amplify groupthink.",
+    "Hint 2: Appointing a formal Devil's Advocate legitimizes dissent."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_2",
+  "title": "Neurons, Action Potentials, and Synaptic Transmission",
+  "description": "Explore the structural anatomy of the neuron, electrochemical signaling, and the all-or-none law.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Neural Biology",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Anatomy of the Neuron \ud83e\uddec",
+      "content": "# The Building Block of the Nervous System\n\nThe human brain contains approximately **86 billion neurons**. Each neuron consists of specialized anatomical structures:\n\n* **Dendrites**: Branching extensions that receive chemical messages from neighboring cells.\n* **Soma (Cell Body)**: Contains the cell nucleus and maintains metabolic life support.\n* **Axon**: Long, slender fiber that conducts electrical impulses away from the cell body toward terminal buttons.\n* **Myelin Sheath**: Fatty insulating layer formed by glial cells (Schwann cells / oligodendrocytes) that drastically accelerates impulse conduction.\n* **Nodes of Ranvier**: Periodic gaps in the myelin sheath where action potentials regenerate via **saltatory conduction**.\n* **Terminal Buttons**: Knobs at the axon tips that house synaptic vesicles filled with neurotransmitters."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Neuron Structure Check \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which component of a neuron is primarily responsible for receiving incoming chemical signals from other neurons?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Axon terminal",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Dendrite",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Myelin sheath",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Node of Ranvier",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Dendrites are branching structures specialized to receive incoming neurotransmitter messages from adjacent neurons.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Action Potential \u26a1",
+      "content": "## Electrochemical Firing of a Neuron\n\nCommunication within a neuron is **electrical**, governed by ion movements across the semi-permeable cell membrane.\n\n| Phase | Membrane Potential | Primary Ion Movement |\n| :--- | :--- | :--- |\n| **Resting State** | Approximately -70 mV | Sodium ($Na^+$) outside, Potassium ($K^+$) inside |\n| **Depolarization** | Reaches threshold (-55 mV) | Voltage-gated $Na^+$ channels snap open, $Na^+$ rushes in |\n| **Peak Action Potential**| Surges to +30 to +40 mV | $Na^+$ channels close; $K^+$ channels open |\n| **Repolarization** | Plummets back downward | $K^+$ ions rapidly exit the cell |\n| **Refractory Period** | Hyperpolarized below -70 mV | Sodium-Potassium pumps restore baseline ion balance |\n\n### The All-or-None Principle\nA neuron either fires completely or does not fire at all. A stronger stimulus causes the neuron to fire **more frequently**, never with a 'stronger' electrical voltage."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "warning",
+      "title": "Common Misconceptions \u26a0\ufe0f",
+      "content": "### Neural Speed is Not the Speed of Light!\n\nUnlike electricity flowing through a copper wire at near light speed, neural action potentials travel between **1 and 120 meters per second** because they rely on chemical ion exchange across physical membranes.\n\nDamage to the myelin sheath impairs this transmission, as seen in **Multiple Sclerosis (MS)**, leading to motor weakness, loss of coordination, and visual impairments."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Action Potential Mastery \u26a1",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "According to the All-or-None Law, how does the nervous system encode a very intense stimulus (such as a scalding hot pan) compared to a mild warmth?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "By producing action potentials with 10x higher voltage",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "By increasing the frequency and total number of neurons firing",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "By slowing down the speed of the action potential",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "By releasing larger neurotransmitter molecules",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Because individual action potentials cannot vary in size, stimulus intensity is coded via firing rate (frequency) and recruitment of multiple neurons.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Memory Pathway Hook \ud83d\udca1",
+      "content": "## Remember DSAT for Neural Impulse Flow\n\nFollow the electrical journey:\n* **D**endrite (Receives signal)\n* **S**oma (Integrates threshold)\n* **A**xon (Propagates electrical wave)\n* **T**erminal Button (Releases chemical neurotransmitters)"
+    }
+  ]
+}

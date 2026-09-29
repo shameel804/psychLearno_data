@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_7",
+  "title": "Personality Theories: Psychodynamic, Humanistic & Big Five",
+  "description": "Explore Freud's psychoanalytic defense mechanisms, Carl Rogers, and the Big Five OCEAN trait taxonomy.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Personality",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Freud's Structural Personality Model \ud83e\uddca",
+      "content": "# The Psychodynamic Mind\n\nSigmund Freud conceptualized the mind as an iceberg composed of three conflicting agencies:\n\n* **Id**: Completely unconscious; operates on the **Pleasure Principle**, demanding immediate gratification of primal biological drives (eros and thanatos).\n* **Ego**: Largely conscious; operates on the **Reality Principle**, mediating between the impulsive demands of the Id and the realistic constraints of the world.\n* **Superego**: Our internalized moral conscience, striving for perfection and generating feelings of guilt or pride."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Ego Defense Check \ud83d\udee1\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "An aggressive individual who harbors deep unconscious hostile impulses becomes a champion competitive boxer, channeling that aggression into an admired sport. Which Freudian defense mechanism is this?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Sublimation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Projection",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Regression",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Reaction Formation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Sublimation is redirecting unacceptable instinctual desires into socially constructive and culturally valued activities.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Humanistic Perspectives on Personality \ud83c\udf31",
+      "content": "## Carl Rogers & Self-Actualization\n\nHumanists rejected Freud's dark determinism and behaviorist mechanization, emphasizing conscious free will and innate human growth.\n\n* **Self-Actualization** (Abraham Maslow): The ultimate psychological drive to fulfill one's authentic unique potential.\n* **Carl Rogers' Person-Centered Theory**:\n  * **Self-Concept**: Our organized set of beliefs about our own nature and qualities.\n  * **Congruence vs. Incongruence**: Harmony between our actual self and our idealized self.\n  * **Unconditional Positive Regard**: Complete acceptance and love without contingent conditions, essential for healthy personality maturation."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "The Big Five Trait Model (OCEAN) \ud83c\udf0a",
+      "content": "## The Contemporary Gold Standard in Trait Psychology\n\nPersonality traits are enduring behavioral patterns. Factor analysis across diverse global cultures converged on the **Five-Factor Model (OCEAN)**:\n\n| Trait | High Scorers | Low Scorers |\n| :--- | :--- | :--- |\n| **Openness** | Creative, intellectually curious, adventurous | Conventional, routine-oriented, pragmatic |\n| **Conscientiousness** | Organized, disciplined, goal-directed, reliable | Careless, spontaneous, disorganized |\n| **Extraversion** | Outgoing, energetic, talkative, assertive | Reserved, reflective, quiet, introverted |\n| **Agreeableness** | Empathetic, trusting, helpful, cooperative | Skeptical, competitive, critical, blunt |\n| **Neuroticism** | Anxious, emotionally reactive, prone to worry | Emotionally stable, calm, composed under stress |"
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Big Five Trait Check \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A person who is highly reliable, meticulously keeps track of deadlines, maintains an organized schedule, and thinks before acting scores high on which Big Five dimension?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Conscientiousness",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Extraversion",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Openness to Experience",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Neuroticism",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Conscientiousness reflects self-discipline, organization, dutifulness, and goal-directed persistence.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Biological Basis of Personality \ud83e\uddec",
+      "content": "## Heritability of Traits\n\nLongitudinal studies of identical twins reared apart indicate that Big Five traits possess an estimated **40% to 50% genetic heritability**, and show remarkable stability across adulthood from age 30 into older age."
+    }
+  ]
+}

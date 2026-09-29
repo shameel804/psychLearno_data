@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_4",
+  "chapterId": "ch_4",
+  "title": "Chapter 4 Mastery Quiz: Learning & Conditioning",
+  "description": "Test your mastery of classical conditioning, operant schedules, behavior modification, and observational modeling.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch4_q1",
+      "type": "multiple_choice",
+      "question": "In Pavlov's classic canine experiment, what was the meat powder placed on the dog's tongue?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Unconditioned Stimulus (US)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conditioned Stimulus (CS)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Conditioned Response (CR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Secondary Reinforcer",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Meat powder reflexively triggers salivation without any prior training, making it an Unconditioned Stimulus.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q2",
+      "type": "multiple_choice",
+      "question": "What is the learned reaction elicited by an originally neutral stimulus that has become conditioned through pairing?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conditioned Response (CR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Unconditioned Response (UR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Spontaneous habituation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Instinctual drift",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The conditioned response is the learned reaction to the previously neutral conditioned stimulus.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q3",
+      "type": "multiple_choice",
+      "question": "The gradual fading and disappearance of a conditioned response when the CS is repeatedly presented alone without the US is known as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Extinction",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Acquisition",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Shaping",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Generalization",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Extinction occurs when the predictive contingency between CS and US is severed.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q4",
+      "type": "multiple_choice",
+      "question": "In the Watson and Rayner Little Albert experiment, what was the Unconditioned Stimulus (US) that produced fear?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A loud metallic clanging sound behind the baby's head",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A live white laboratory rat",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "An electric shock to the foot",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A Santa Claus mask",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The loud clanging noise naturally startled the baby (UR), functioning as the Unconditioned Stimulus.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q5",
+      "type": "multiple_choice",
+      "question": "When Little Albert began crying at the sight of white rabbits, dogs, and cotton wool coats, he exhibited:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Stimulus Generalization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus Discrimination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Latent Learning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Generalization is displaying the conditioned response to stimuli resembling the original conditioned stimulus.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q6",
+      "type": "multiple_choice",
+      "question": "The Garcia Effect demonstrated that conditioned taste aversions can be established after a single trial even with a delay of hours. This supports the concept of:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Biological Preparedness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Equipotentiality",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Vicarious Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Variable Interval Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Biological preparedness explains that evolution predisposes organisms to quickly learn associations crucial for survival.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q7",
+      "type": "multiple_choice",
+      "question": "Thorndike's Law of Effect posits that:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Responses followed by satisfying consequences are more likely to be repeated",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "All learning is innate and unalterable",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Consciousness does not exist in animals",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Punishment is always more effective than reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Thorndike showed that satisfying consequences strengthen behavioral habits.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q8",
+      "type": "multiple_choice",
+      "question": "An employee receives a $500 monetary bonus for surpassing quarterly sales goals. This is an example of:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Positive Reinforcement",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Positive Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Negative Punishment",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adding a desirable stimulus (cash) to increase performance is Positive Reinforcement.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q9",
+      "type": "multiple_choice",
+      "question": "Taking an aspirin to eliminate a painful throbbing headache is an example of which operant principle?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Negative Reinforcement",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Positive Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Positive Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Extinction burst",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Removing an aversive stimulus (the headache pain) strengthens the pill-taking behavior (Negative Reinforcement).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q10",
+      "type": "multiple_choice",
+      "question": "A parent confiscates their teenager's smartphone for two weeks because the teen broke curfew. This is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Negative Punishment",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Positive Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Classical habituation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Removing a valued stimulus (phone) to decrease an unwanted behavior (curfew violation) is Negative Punishment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q11",
+      "type": "multiple_choice",
+      "question": "A police officer issues a speeding fine to a reckless driver. In operant conditioning, the ticket is a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Positive Punishment",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Negative Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Conditioned Stimulus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adding an aversive consequence (fine/penalty) to reduce speeding behavior is Positive Punishment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q12",
+      "type": "multiple_choice",
+      "question": "The process of reinforcing successive approximations toward a complex desired behavior is known as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Shaping",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Spontaneous Recovery",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sensory Priming",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Latent Inhibition",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Shaping rewards progressive steps that come closer and closer to the ultimate target behavior.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q13",
+      "type": "multiple_choice",
+      "question": "A punch-card program that awards a free car wash after every 8 paid washes operates on which reinforcement schedule?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Fixed-Ratio (FR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Variable-Ratio (VR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed-Interval (FI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Variable-Interval (VI)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A reward delivered after a predetermined, predictable number of responses is a Fixed-Ratio schedule.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q14",
+      "type": "multiple_choice",
+      "question": "Which reinforcement schedule yields the highest overall response rate with almost no post-reinforcement pause?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Variable-Ratio (VR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fixed-Interval (FI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed-Ratio (FR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Continuous Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Variable-Ratio schedules (like slot machines) produce relentless, high-velocity response rates.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q15",
+      "type": "multiple_choice",
+      "question": "Checking your postal mailbox once daily around 2:00 PM when the mail carrier typically arrives illustrates a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Fixed-Interval (FI) schedule",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Variable-Ratio schedule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed-Ratio schedule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Primary aversion schedule",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Reinforcement occurs only for a response made after a specific, fixed elapsed time window.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q16",
+      "type": "multiple_choice",
+      "question": "A classroom behavior system where students earn plastic tokens for cooperative behavior that can later be traded for prizes is a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Token Economy",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Pavlovian Conditioning loop",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Latent extinction paradigm",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Biological drive reduction",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Token economies utilize secondary token reinforcers exchangeable for backup rewards.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q17",
+      "type": "multiple_choice",
+      "question": "In Albert Bandura's Bobo Doll study, what occurred when children observed an adult model aggressively attacking the doll?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The children imitated the exact novel physical and verbal aggression of the model",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The children comforted the doll empathetically",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The children fell asleep immediately",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The children showed zero changes in behavior",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Children modeled the violent physical actions and specific aggressive slogans demonstrated by the adult.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q18",
+      "type": "multiple_choice",
+      "question": "Seeing a peer get reprimanded by the teacher for scrolling on their phone during a lecture decreases your own urge to use your phone. This is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Vicarious Punishment",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Vicarious Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Operant Shaping",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Vicarious punishment suppresses an observer's behavior after observing a model suffer negative consequences.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q19",
+      "type": "multiple_choice",
+      "question": "Rats navigating a maze without rewards still develop a cognitive map of the layout, revealing learning only when food is introduced. This is termed:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Latent Learning",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Instinctive Drift",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Classical conditioning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Aversive Counterconditioning",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Edward Tolman showed that latent learning occurs without immediate reinforcement or observable performance.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q20",
+      "type": "multiple_choice",
+      "question": "What are the four cognitive processes required for successful observational modeling according to Bandura?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Attention, Retention, Reproduction, and Motivation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus, Response, Extinction, and Recovery",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Id, Ego, Superego, and Repression",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensation, Transduction, Perception, and Adaptation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Bandura outlined four steps: Attention (noticing), Retention (memory), Reproduction (action), Motivation (incentive).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q21",
+      "type": "true_false",
+      "question": "Negative reinforcement is simply another term for punishment because both serve to decrease unwanted behavior.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Negative reinforcement increases behavior by removing an aversive stimulus, whereas punishment decreases behavior.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q22",
+      "type": "true_false",
+      "question": "Mirror neurons fire both when an organism performs a motor action and when it observes another organism executing that same action.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. Mirror neurons provide a neurobiological basis for observational learning and imitation.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

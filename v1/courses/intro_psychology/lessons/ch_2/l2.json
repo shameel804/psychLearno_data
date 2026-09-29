@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_2",
+  "title": "Neurotransmitters & Chemical Signaling",
+  "description": "Understand key chemical messengers like dopamine, serotonin, and GABA, plus agonist/antagonist pharmacology.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Neurochemistry",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Synaptic Transmission \ud83c\udf09",
+      "content": "# Crossing the Synaptic Cleft\n\nNeurons do not physically touch. Between the presynaptic axon terminal and the postsynaptic dendrite lies a microscopic fluid gap called the **synaptic cleft** (about 20-40 nanometers wide).\n\n1. The incoming action potential triggers **calcium ($Ca^{2+}$) influx** in the terminal button.\n2. Synaptic vesicles fuse with the cell membrane, releasing **neurotransmitters** into the synaptic cleft.\n3. Neurotransmitters diffuse across the gap and bind to specific receptor sites on the postsynaptic dendrite like a **key in a lock**.\n4. **Termination**: Excess neurotransmitters are cleared either via **reuptake** (reabsorption by the presynaptic neuron) or enzymatic breakdown (e.g., acetylcholinesterase)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Synapse Check \ud83d\udddd\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What is the biological process called when excess neurotransmitters in the synaptic gap are taken back up into the sending neuron?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Depolarization",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Reuptake",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Saltatory conduction",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Long-term potentiation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Reuptake is the recycling mechanism where the presynaptic terminal absorbs released neurotransmitters back into the cell.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Master Neurotransmitters \ud83e\uddea",
+      "content": "## Major Neurotransmitters and Clinical Links\n\n| Neurotransmitter | Primary Functions | Clinical Associations |\n| :--- | :--- | :--- |\n| **Acetylcholine (ACh)** | Muscle movement, attention, learning, memory | Low ACh linked to Alzheimer's disease |\n| **Dopamine** | Reward signaling, motor coordination, motivation | Deficit -> Parkinson's; Excess -> Schizophrenia symptoms |\n| **Serotonin** | Mood regulation, sleep, appetite, impulse control | Deficits strongly linked to Clinical Depression |\n| **Norepinephrine** | Alertness, arousal, sympathetic fight-or-flight | Undersupply can depress mood; oversupply causes anxiety |\n| **GABA** | Primary *inhibitory* neurotransmitter in brain | Undersupply linked to seizures, tremors, insomnia |\n| **Glutamate** | Primary *excitatory* neurotransmitter in brain | Oversupply can overstimulate brain (migraines, excitotoxicity) |\n| **Endorphins** | Natural opiate-like pain relief and pleasure | Released during rigorous exercise ('runner's high') |"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Agonists vs. Antagonists \ud83d\udc8a",
+      "content": "## Psychoactive Drugs and Synaptic Chemistry\n\n* **Agonist**: A substance that **enhances** or mimics the effect of a neurotransmitter by binding directly to receptors or preventing reuptake.\n  * *Example*: SSRIs (Selective Serotonin Reuptake Inhibitors) block serotonin reuptake, keeping more serotonin active in the synapse.\n  * *Example*: Morphine and heroin act as powerful endorphin agonists.\n* **Antagonist**: A substance that **inhibits** or blocks neurotransmitter action by occupying receptor sites without activating them.\n  * *Example*: Curare and Botulinum toxin (Botox) block acetylcholine receptors, causing muscular paralysis."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Pharmacology Master Check \ud83d\udc89",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A pharmacological compound that binds to a neurotransmitter receptor site and blocks the normal chemical from activating it is classified as a(n):",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Agonist",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Antagonist",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Enzyme catalyst",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Second messenger",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Antagonists bind to receptors and obstruct the normal endogenous neurotransmitter from triggering an action.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Clinical Perspective \ud83d\udca1",
+      "content": "## How Antidepressants Work\n\nMany patients assume antidepressant SSRIs (like fluoxetine or sertraline) pump new serotonin molecules into the brain. In reality, they simply prevent the natural clearing of existing serotonin from the synaptic cleft, giving neurons more time to bind and absorb the signal."
+    }
+  ]
+}

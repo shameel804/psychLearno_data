@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_3",
+  "title": "Sensory Processing, Thresholds & Signal Detection",
+  "description": "Understand transduction, absolute vs difference thresholds, Weber's Law, and signal detection theory.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Sensory Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Sensation vs. Perception \ud83d\udc41\ufe0f",
+      "content": "# Converting the Physical Universe to Mind\n\n* **Sensation**: The bottom-up process by which sensory receptors and the nervous system receive and detect raw stimulus energies from the physical world.\n* **Transduction**: The critical biological translation process that converts physical stimuli (light photons, sound waves, pressure) into electrochemical neural action potentials.\n* **Perception**: The top-down psychological process of organizing, identifying, and interpreting sensory information to recognize meaningful objects and events."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Transduction Check \u26a1",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What is the biological conversion of physical energy (such as sound waves or light photons) into electrical nerve impulses called?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Transduction",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Accommodation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Habituation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Perceptual constancy",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Transduction is the transformation of environmental stimulus energy into electrochemical neural impulses.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Thresholds of Sensation \ud83d\udccf",
+      "content": "## Measuring Sensitivity\n\n* **Absolute Threshold**: The minimum stimulation required to detect a specific sensory stimulus at least **50% of the time** (e.g., detecting a candle flame 30 miles away on a clear night).\n* **Difference Threshold (Just Noticeable Difference / JND)**: The minimum difference between two stimuli required for detection 50% of the time.\n\n### Weber's Law\nFormulated by Ernst Weber: To perceive a difference, two stimuli must differ by a **constant minimum percentage / proportion**, rather than a constant physical amount.\n* If you add 1 pound to a 10-pound weight, you easily notice it (10% change).\n* If you add 1 pound to a 100-pound barbell, you cannot detect the difference (requires ~10 pounds to notice)."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Signal Detection Theory \ud83c\udfaf",
+      "content": "## Detecting Signals Amidst Background Noise\n\nSignal Detection Theory posits that detecting a stimulus depends not just on sensory intensity, but also on a person's **psychological state** (fatigue, alertness, expectations, motivation).\n\n| | Signal Actually Present | Signal Actually Absent |\n| :--- | :--- | :--- |\n| **Observer Responds 'Yes'** | **Hit** (Correctly heard ringing phone) | **False Alarm** (Thought heard phone, but was wind) |\n| **Observer Responds 'No'** | **Miss** (Phone rang, failed to notice) | **Correct Rejection** (Phone did not ring, no report) |\n\nAir traffic controllers and radiologists train extensively to shift their criteria toward minimizing Misses without drowning in False Alarms."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Detection Matrix Mastery \ud83d\udea6",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "A radiologist examining a healthy, cancer-free lung scan mistakenly diagnoses a cancerous tumor. In Signal Detection terms, this outcome is a:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Hit",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "False Alarm",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Miss",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Correct Rejection",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "A False Alarm occurs when an observer reports the presence of a signal when the signal is physically absent.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Sensory Adaptation \ud83e\udde6",
+      "content": "## Tuning Out the Unchanging\n\n**Sensory Adaptation** occurs when sensory receptors diminish their firing rate in response to a constant, unchanging stimulus. When you put on a wrist watch or enter a room with a mild scent, within minutes you no longer consciously perceive it. This frees up cognitive bandwidth to detect new, changing environmental threats!"
+    }
+  ]
+}

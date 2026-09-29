@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_1",
+  "title": "Historical Roots: From Structuralism to Functionalism",
+  "description": "Trace psychology from Wundt's first laboratory through Structuralism, Functionalism, and Gestalt theory.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "History",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Birth of Modern Psychology \ud83c\udfdb\ufe0f",
+      "content": "# Leipzig, 1879: The Formal Beginning\n\nBefore the late 19th century, questions of the mind belonged to philosophy and physiology.\n\nIn **1879**, German physician **Wilhelm Wundt** founded the first dedicated psychology laboratory at the University of Leipzig, earning him the title 'Father of Psychology'.\n\n### Structuralism\n* **Championed by**: Edward Titchener (Wundt's student).\n* **Core Objective**: Analyze the adult mind in terms of the simplest definable components (sensations, feelings, images).\n* **Method**: **Introspection**\u2014trained observers reported their immediate conscious reactions to controlled stimuli (e.g., sound of a metronome)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "History Checkpoint \u23f1\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Why did early psychologists eventually move away from Titchener's structuralist introspection method?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It was too objective and easy to measure",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It was highly subjective and could not be independently verified",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Computers replaced the need for human participants",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Introspection was strictly illegal in Germany",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Introspection was criticized for being intensely subjective; two different observers could report completely different inner states for the same stimulus.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Functionalism: The Purpose of Consciousness \ud83c\udf0a",
+      "content": "## William James and Evolutionary Adaptation\n\nIn America, **William James** rejected structuralism's static 'building blocks'. Consciousness, James argued, is not a collection of bricks\u2014it is a continuous, dynamic **stream of consciousness**.\n\nInfluenced by Charles Darwin, James asked:\n> *'What is the function of thinking, feeling, and perceiving? How does conscious thought help an organism survive?'*\n\n| Perspective | Structuralism | Functionalism |\n| :--- | :--- | :--- |\n| **Key Pioneer** | Wilhelm Wundt & Edward Titchener | William James |\n| **Core Question** | What are the pieces of the mind? | Why does the mind function as it does? |\n| **Inspiration** | Chemistry & physics (atoms of the mind) | Evolutionary biology (adaptation) |\n| **Legacy** | Sensory research laboratories | Applied psychology, education & animal studies |"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Gestalt Psychology: The Whole Picture \ud83d\uddbc\ufe0f",
+      "content": "## 'The Whole is Greater than the Sum of its Parts'\n\nIn Germany during the 1910s, **Max Wertheimer**, Kurt Koffka, and Wolfgang K\u00f6hler rejected structuralism from another angle:\n\n* When you watch a movie, you do not perceive a sequence of still photos\u2014you perceive smooth, fluid motion (the **phi phenomenon**).\n* The human mind naturally organizes sensory input into coherent, meaningful totalities (**Gestalts**).\n\nGestalt principles laid the groundwork for modern perceptual psychology and cognitive problem-solving."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Conceptual Mastery \ud83e\udde9",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "Which psychological school emphasizes that the conscious experience cannot be understood simply by breaking it down into isolated sensory pieces?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Gestalt Psychology",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Structuralism",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Phrenology",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Dualism",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Gestalt psychology argues that our minds automatically organize perceptions into unified configurations that transcend individual elements.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Memory Anchor \u2693",
+      "content": "## How to Remember Wundt vs. James vs. Wertheimer\n\n* **Wundt / Titchener** = *Structure* (Analytic chemist breaking mind into elements).\n* **James** = *Function* (Engineer asking how the mind adapts to the environment).\n* **Wertheimer** = *Gestalt* (Artist seeing the whole painting rather than individual paint dots)."
+    }
+  ]
+}

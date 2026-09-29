@@ -1,0 +1,105 @@
+{
+  "id": "l3",
+  "chapterId": "ch_6",
+  "title": "Social Development: Attachment & Parenting Styles",
+  "description": "Analyze Harlow's monkeys, Ainsworth's Strange Situation attachment styles, and Baumrind's parenting grid.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Social Attachment",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Harry Harlow & Contact Comfort \ud83d\udc12",
+      "content": "# The Origins of Attachment\n\nBehaviorists argued infants love mothers simply because mothers feed them (primary drive reduction). In 1958, **Harry Harlow** debunked this using infant rhesus monkeys:\n\n* Monkeys were given two surrogate mothers: a bare wire mother with a milk bottle, and a soft terrycloth mother with **no food**.\n* **Results**: The infant monkeys clung to the cloth mother for up to 18 hours a day, only visiting the wire mother briefly to feed.\n* When frightened by a mechanical monster, they ran directly to the cloth mother for refuge.\n* **Conclusion**: **Contact comfort**, emotional security, and tactile warmth\u2014not mere food provision\u2014are the true bedrock of emotional attachment!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Harlow Discovery Check \ud83e\uddf8",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What did Harry Harlow's surrogate mother experiments with rhesus monkeys definitively prove regarding infant attachment?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Attachment is purely driven by food reinforcement",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Tactile contact comfort is vastly more important than nutritional nourishment in forming bonds",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Monkeys have no need for maternal relationships",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Wire surrogates produce healthier psychological outcomes",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Harlow demonstrated that tactile contact comfort and affectionate physical warmth are foundational to attachment.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Mary Ainsworth's Strange Situation \ud83d\udeaa",
+      "content": "## Classifying Attachment Patterns\n\nAinsworth placed 12-month-old infants into an experimental playroom with their mother and a friendly stranger, observing reactions when mother leaves and returns:\n\n* **Secure Attachment (~65%)**: Explores freely while mom is present; distressed when she leaves; eagerly seeks and is quickly comforted upon her reunion.\n* **Insecure-Avoidant (~20%)**: Shows minimal outward distress upon departure; avoids or ignores caregiver upon return; masks physiological stress.\n* **Insecure-Resistant / Ambivalent (~10%)**: Clings nervously; severely distressed on departure; shows mixed, angry hostility upon return (clinging while pushing away).\n* **Disorganized (~5%)**: Dazed, confused, freezing, or contradictory reactions; often linked to caregiver trauma, abuse, or neglect."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Diana Baumrind's Four Parenting Styles \ud83c\udfe1",
+      "content": "## Warmth vs. Demandingness\n\n| Style | Warmth / Responsiveness | Demands / Control | Typical Child Outcome |\n| :--- | :--- | :--- | :--- |\n| **Authoritative** | High | High (Reasonable limits with dialogue) | High self-esteem, self-reliant, socially competent |\n| **Authoritarian** | Low | High ('Because I said so!', rigid punishment) | Anxious, lower self-esteem, obedient but rebellious later |\n| **Permissive** | High | Low (Indulgent, few boundaries) | Impulsive, poor self-control, demanding |\n| **Neglectful / Uninvolved** | Low | Low (Indifferent, emotionally absent) | Poorest outcomes, delinquency, emotional distress |"
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Parenting Style Check \ud83d\udcd0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Parents who set firm, consistent household rules but warmheartedly explain the reasoning behind rules and encourage open democratic discussions are:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Authoritative",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Authoritarian",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Permissive",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Laissez-faire",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Authoritative parenting balances high emotional warmth with firm, reasoned behavioural standards.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Attachment Across the Lifespan \ud83d\udd17",
+      "content": "## Adult Romantic Attachment\n\nResearch by Hazan and Shaver revealed that infant attachment styles predict adult romantic dynamics: securely attached infants tend to form trusting, enduring adult partnerships, while avoidant infants often struggle with emotional intimacy, and ambivalent infants worry constantly about partner abandonment."
+    }
+  ]
+}

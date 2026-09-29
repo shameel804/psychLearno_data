@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_2",
+  "chapterId": "ch_2",
+  "title": "Chapter 2 Mastery Quiz: Biological Bases of Behavior",
+  "description": "Test your mastery of neurons, neurotransmitters, nervous system architecture, and cerebral functions.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch2_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary function of the myelin sheath that covers many neuronal axons?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To manufacture neurotransmitters like dopamine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "To insulate the axon and dramatically increase the speed of electrical conduction",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "To absorb toxic waste products from the blood",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To permanently attach neurons directly to muscle fibers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Myelin acts as an electrical insulator, enabling rapid saltatory conduction across nodes of Ranvier.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q2",
+      "type": "multiple_choice",
+      "question": "What is the typical resting membrane potential of an inactive mammalian neuron?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "+40 mV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "0 mV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "-70 mV",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "-120 mV",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "At rest, the interior of a neuron maintains a negative electrical charge of approximately -70 millivolts.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q3",
+      "type": "multiple_choice",
+      "question": "During the initial rising depolarization phase of an action potential, which ions rush rapidly INTO the intracellular space?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sodium ions (Na+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Potassium ions (K+)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Chloride ions (Cl-)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Calcium ions (Ca2+)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "When threshold is breached, voltage-gated sodium channels open and Na+ ions surge in down their electrochemical gradient.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q4",
+      "type": "multiple_choice",
+      "question": "The 'All-or-None' principle dictates that:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A neuron generates an action potential at full amplitude or not at all",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "All neurons in a brain lobe must fire simultaneously",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Every neurotransmitter is released in equal proportions",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Axons only fire when stimulated by dopamine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Once threshold is reached, an action potential fires with standard invariant voltage regardless of stimulus magnitude.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q5",
+      "type": "multiple_choice",
+      "question": "Which neurotransmitter plays a central role in neuromuscular contractions and is severely depleted in Alzheimer's disease?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Acetylcholine (ACh)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Endorphin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "GABA",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Substance P",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Acetylcholine operates at neuromuscular junctions and supports memory formation in the hippocampus.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q6",
+      "type": "multiple_choice",
+      "question": "Dopamine hypofunction in the substantia nigra produces the motor tremors and rigidity characteristic of which disorder?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Huntington's chorea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Parkinson's disease",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Schizophrenia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Multiple sclerosis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Parkinson's is caused by the progressive death of dopamine-producing neurons in the midbrain substantia nigra.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q7",
+      "type": "multiple_choice",
+      "question": "What is the primary INHIBITORY neurotransmitter in the central nervous system that calms neural firing?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Glutamate",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "GABA (Gamma-Aminobutyric Acid)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Epinephrine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Histamine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "GABA hyperpolarizes postsynaptic membranes, reducing the likelihood of action potentials.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q8",
+      "type": "multiple_choice",
+      "question": "A psychoactive drug that mimics or amplifies the natural effect of a neurotransmitter is termed a(n):",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Agonist",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Antagonist",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Receptor blocker",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Enzymatic inhibitor",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Agonists fit into receptors and stimulate neural activity just like the body's natural neurotransmitters.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q9",
+      "type": "multiple_choice",
+      "question": "Which division of the autonomic nervous system produces pupil dilation, elevated heart rate, and bronchial dilation during an emergency?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sympathetic nervous system",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Parasympathetic nervous system",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Somatic sensory division",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Enteric digestive network",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The sympathetic system mobilizes physiological reserves for fight-or-flight reactions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q10",
+      "type": "multiple_choice",
+      "question": "Which hindbrain structure controls involuntary vital functions including respiration, heart rate, and blood pressure?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Medulla oblongata",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Amygdala",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hippocampus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The medulla sits directly above the spinal cord and sustains vital autonomic cardiovascular and respiratory reflexes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q11",
+      "type": "multiple_choice",
+      "question": "A gymnast who displays exceptional balance and refined motor coordination relies heavily on which brain region?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cerebellum",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Thalamus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hypothalamus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Broca's area",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The cerebellum coordinates voluntary motor routines, posture, balance, and procedural motor sequencing.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q12",
+      "type": "multiple_choice",
+      "question": "All sensory modalities except which one pass through the Thalamus before reaching the cerebral cortex?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Olfaction (Smell)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Vision",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Audition (Hearing)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Somatosensation (Touch)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Olfactory projections bypass the thalamus and project directly to the olfactory bulb and limbic structures.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q13",
+      "type": "multiple_choice",
+      "question": "Which limbic structure is famously known as the key hub for processing fear, threat appraisal, and emotional salience?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Amygdala",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Pons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cerebellum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Basal Ganglia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The amygdala processes emotionally salient stimuli, especially threat detection and fear conditioning.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q14",
+      "type": "multiple_choice",
+      "question": "Surgical bilateral removal of the hippocampus leads to which severe clinical deficit?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Inability to form new declarative long-term memories (anterograde amnesia)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total loss of long-term procedural muscle memories",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Complete visual blindness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Permanent vegetative paralysis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hippocampal damage prevents consolidation of new episodic and semantic information into long-term storage.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q15",
+      "type": "multiple_choice",
+      "question": "The primary somatosensory cortex, responsible for processing sensations of touch and bodily position, is located in which lobe?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Parietal Lobe",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Frontal Lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Occipital Lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Temporal Lobe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The somatosensory cortex occupies the postcentral gyrus of the parietal lobe.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q16",
+      "type": "multiple_choice",
+      "question": "Phineas Gage survived an iron rod piercing his frontal lobes. What was the most dramatic long-term change observed?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He lost all ability to produce speech",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "His personality shifted from conscientious to impulsive, irreverent, and emotionally unstable",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "He completely forgot his childhood identity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He developed severe motor blindness",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Damage to his prefrontal cortex impaired executive control, emotional regulation, and social judgment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q17",
+      "type": "multiple_choice",
+      "question": "A stroke patient can comprehend spoken sentences effortlessly but speaks with immense effort in slow, halting, telegraphic words. Where is the lesion?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Broca's Area in the left frontal lobe",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Wernicke's Area in the left temporal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Occipital visual association cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Right parietal lobe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Broca's aphasia involves non-fluent, effortful speech production with relatively intact comprehension.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q18",
+      "type": "multiple_choice",
+      "question": "What is the dense fiber bundle that bridges and transmits communication between the two cerebral hemispheres?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Corpus Callosum",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Central Sulcus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Internal Capsule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Optic Chiasm",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The corpus callosum contains over 200 million axonal fibers uniting the left and right hemispheres.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q19",
+      "type": "multiple_choice",
+      "question": "What gland is known as the 'master gland' of the endocrine system because it releases hormones that stimulate other endocrine glands?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Pituitary gland",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Thyroid gland",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Adrenal cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pineal body",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The pituitary gland, under hypothalamic direction, orchestrates hormone release throughout the endocrine system.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q20",
+      "type": "multiple_choice",
+      "question": "The brain's dynamic capacity to alter its neural connections and rewire itself following injury or learning is known as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Neuroplasticity",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Hemispheric dominance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Neural senescence",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Saltatory conduction",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Neuroplasticity describes structural and functional adaptations of synaptic networks over the lifespan.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q21",
+      "type": "true_false",
+      "question": "Scientific neuroimaging demonstrates that humans utilize approximately 100% of their brains over the course of daily functioning, thoroughly debunking the 10% myth.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. Brain imaging confirms nearly all areas of the brain show activity during complex everyday tasks.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q22",
+      "type": "true_false",
+      "question": "An antagonist drug works by stimulating synaptic vesicles to produce more neurotransmitters than normal.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Antagonists block or inhibit receptor activation, rather than increasing neurotransmitter synthesis.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

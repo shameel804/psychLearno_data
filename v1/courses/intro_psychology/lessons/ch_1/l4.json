@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_1",
+  "title": "Research Methods & Ethics in Psychological Science",
+  "description": "Master experiments, correlations, naturalistic observations, variables, and ethical principles like informed consent.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Methodology",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Descriptive Research Methods \ud83d\udcdd",
+      "content": "# How Psychologists Gather Data\n\n1. **Naturalistic Observation**: Observing subjects in their real-world environment without manipulation. High ecological validity, but risks observer bias.\n2. **Case Study**: In-depth examination of a single unique individual or small group (e.g., Phineas Gage). Provides rich detail but cannot be broadly generalized.\n3. **Surveys & Questionnaires**: Collecting self-reported data from a representative sample. Fast and cost-effective, but vulnerable to social desirability bias."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "warning",
+      "title": "The Golden Rule of Statistics \u26a0\ufe0f",
+      "content": "### Correlation Does NOT Imply Causation!\n\nA **correlational study** measures the statistical relationship between two variables without experimental manipulation:\n\n* **Positive Correlation**: As variable X increases, variable Y increases (e.g., study time and test scores).\n* **Negative Correlation**: As variable X increases, variable Y decreases (e.g., hours of sleep deprivation and reaction speed).\n\n**The Third Variable Problem**: Ice cream sales and drowning rates are strongly positively correlated. Does eating ice cream cause drowning? No\u2014hot summer weather causes both!"
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Correlation Check \ud83d\udcc8",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A researcher discovers that people who consume more coffee report lower stress levels (correlation r = -0.52). What can be definitively concluded?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Drinking coffee directly causes stress reduction",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Higher coffee intake is statistically associated with lower reported stress",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Stress causes people to abandon coffee",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "There is zero relationship between the two variables",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Correlation only shows that the two variables co-vary in a predictable direction; it cannot establish a causal direction.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "The Controlled Experiment \ud83e\uddea",
+      "content": "## Establishing Cause and Effect\n\nOnly a **formal experiment** can prove causation through controlled manipulation.\n\n* **Independent Variable (IV)**: The factor manipulated by the researcher (the hypothesized cause).\n* **Dependent Variable (DV)**: The outcome factor measured by the researcher (the hypothesized effect).\n* **Experimental Group**: Receives the active treatment.\n* **Control Group**: Receives a placebo or standard condition for comparison.\n* **Random Assignment**: Every participant has an equal chance of being in either group, minimizing pre-existing participant differences."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "text",
+      "title": "Ethical Mandates in Research \ud83d\udee1\ufe0f",
+      "content": "## Protecting Human and Animal Subjects\n\nInstitutional Review Boards (IRBs) enforce rigorous ethical standards:\n\n1. **Informed Consent**: Participants must know the general purpose, potential risks, and their right to withdraw at any time.\n2. **Deception & Debriefing**: If minor deception is essential, full debriefing explaining true goals must follow immediately.\n3. **Protection from Harm**: Physical and psychological harm must be minimized.\n4. **Confidentiality**: All personal data must remain strictly anonymous."
+    },
+    {
+      "id": "s_l4_6",
+      "type": "quiz",
+      "title": "Experimental Rigor Check \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "In a study testing whether a new study app boosts exam performance, what represents the Independent Variable?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The exam scores achieved by participants",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "The use versus non-use of the study app",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "The room temperature of the test center",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The participants' natural IQ",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The independent variable is the condition systematically varied or assigned by researchers (using the app vs not using it).",
+        "xpReward": 10
+      }
+    }
+  ]
+}

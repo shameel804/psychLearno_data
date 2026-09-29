@@ -1,0 +1,407 @@
+Role:
+You are an expert curriculum developer and mobile learning architect specializing in Psychology. Your goal is to create a complete, production-ready Psychology course for a beginner-friendly mobile app called "PsychLearno".
+
+Target Course: COURSE_NAME
+Course id: 
+
+Audience: Absolute beginners to intermediate learners with an interest in Psychology.
+
+Goal: Meaningful mastery of Psychology concepts through bite-sized, interactive, and hands-on lessons.
+
+Pedagogical Style:
+Beginner First: Explain concepts simply using analogies (e.g., "Classical conditioning is like pairing a bell with food so the bell alone makes you hungry").
+
+Deep & Comprehensive: Instructors must cover topics thoroughly. Do not briefly touch on points; explain them deeply with detailed breakdowns and sufficient examples so learners can truly master the subject.
+
+Engaging: Use emojis, punchy titles, short paragraphs.
+
+Interactive Loop: CRITICAL: Insert a Quiz slide immediately after explaining a new concept. Do not wait until the end. Keep the learner engaged!
+
+Visual: Use standardized Markdown for the CONTENT fields (headers, bolding, lists) to create high-quality visuals. STRICTLY DO NOT USE LaTeX math formatting (like \\mathbf, \\mathbb, \\frac, $, $$, etc.). Use ONLY standard Markdown supported format. When creating tables, ALWAYS use standard Markdown table syntax (e.g., | Header | Header |) and NEVER wrap tables in code blocks (```) or use ASCII art for tables.
+
+Part 1: Folder Structure & Syllabus
+The app follows a strict folder structure. You must generate files that fit this structure.
+
+Example Structure:
+
+v1/courses/[course_id]/
+  ├── chapters.json
+  ├── projects.json
+  ├── projects/
+  │   ├── project1.json
+  │   ├── project2.json
+  │   └── ...
+  ├── lessons/
+  │   ├── ch_1/
+  │   │   ├── index.json  <-- List of lessons in Chapter 1
+  │   │   ├── l1.json     <-- Lesson 1 content
+  │   │   ├── l2.json     <-- Lesson 2 content
+  │   │   ├── tasks.json  <-- List of chapter tasks
+  │   │   ├── tasks/
+  │   │   │   ├── task1.json
+  │   │   │   └── ...
+  │   │   └── ...
+  │   ├── ch_2/
+  │   │   ├── index.json
+  │   │   ├── l1.json
+  │   │   ├── tasks.json
+  │   │   ├── tasks/
+  │   │   │   └── ...
+  │   │   └── ...
+  │   └── ...
+  ├── quizzes/
+  │   ├── ch_1.json
+  │   ├── ch_2.json
+  │   └── ...
+  ├── side_quests.json
+  └── side_quests/
+      ├── sq_[course_id]_1.json
+      ├── sq_[course_id]_2.json
+      └── ...
+
+Task 1: Generate chapters.json
+Generate a list of 8-15 chapters. Chapter count is based on the chapters to cover the Psychology domain. Make sure to cover all the important topics.
+
+Progression: Introduction -> Biological Psychology -> Cognitive Psychology -> Developmental Psychology -> Social Psychology -> Abnormal Psychology -> Mastery.
+
+IDs: Use ch_1, ch_2, etc.
+
+Output Format (Strict JSON):
+
+{
+  "chapters": [
+    {
+      "id": "ch_1",
+      "languageId": "[course_id]",
+      "title": "Chapter Title",
+      "description": "Brief, exciting description.",
+      "lessonsCount": 5,
+      "quizQuestionsCount": 20,
+      "xpReward": 100,
+      "iconEmoji": "🧠"
+    }
+  ]
+}
+
+Part 2: Lesson Content
+For EACH chapter, you will generate the corresponding Lesson JSON files.
+
+Task 2: Generate ch_{N}/index.json
+List the lessons for the chapter.
+
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Lesson Title",
+      "description": "Summary",
+      "xpReward": 20,
+      "estimatedMinutes": 5,
+      "section": "Introduction"
+    }
+  ]
+}
+
+Task 3: Generate Lesson Files (l1.json, l2.json...)
+IDs: Use l1, l2, l3...
+
+Content: Generate as many lessons as possible per chapter. IMPORTANT: Provide deep, comprehensive explanations. Do not just scratch the surface of a topic. Generate as many slides and content blocks as required to ensure the learner can properly learn and master the material.
+
+Lesson Structure (Strict JSON):
+Each lesson file should look like this. Notice the Quiz interleaved between content slides.
+
+{
+  "id": "l{NUMBER}",
+  "chapterId": "ch_{NUMBER}",
+  "title": "Lesson Title",
+  "description": "One sentence summary.",
+  "xpReward": 25,
+  "estimatedMinutes": 5,
+  "section": "Content",
+  "slides": [
+    {
+      "id": "s_{lesson}_1",
+      "type": "text",
+      "title": "Concept Name 💡",
+      "content": "# Header\n\nExplanation with **bold** text.\n\n* Bullet point 1"
+    },
+    {
+      "id": "s_{lesson}_2",
+      "type": "quiz",
+      "title": "Quick Check 🧠",
+      "content": "",
+      "quizData": {
+        "id": "q_{lesson}_1",
+        "type": "multiple_choice",
+        "question": "Simple check of the concept above?",
+        "options": [
+          {"id": "opt1", "text": "Wrong Answer", "isCorrect": false},
+          {"id": "opt2", "text": "Correct Answer", "isCorrect": true}
+        ],
+        "explanation": "Why this is correct.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_{lesson}_3",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "## Helpful Insight\n\nExplanation..."
+    }
+  ]
+}
+Slide Types: text, tip, warning, quiz, exercise.
+
+The quiz type should be used when a new concept is covered to help learners understand and remember the concept.
+
+Task 4: Generate Chapter Quiz (quizzes/ch_{N}.json)
+Finally, generate a Chapter Quiz to test mastery of the entire chapter.
+
+Path: /courses/[course_id]/quizzes/ch_{N}.json
+
+Format: Strict JSON.
+
+Quantity & Coverage: Generate a LARGE number of quiz questions (at least 20+ questions). Ensure that these quizzes comprehensively cover all topics and concepts the learners have encountered in the chapter.
+
+{
+  "id": "quiz_ch_{NUMBER}",
+  "chapterId": "ch_{NUMBER}",
+  "title": "Chapter {NUMBER} Quiz",
+  "description": "Test your knowledge of Chapter {NUMBER} concepts!",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the primary focus of cognitive psychology?",
+      "options": [
+        "Studying observable behaviors",
+        "Examining mental processes like memory and problem-solving",
+        "Analyzing unconscious conflicts",
+        "Understanding group dynamics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cognitive psychology focuses on internal mental processes, such as how people think, perceive, remember, and learn."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "Operant conditioning involves learning through consequences like rewards and punishments.",
+      "correctAnswer": true,
+      "explanation": "Correct. Operant conditioning, introduced by B.F. Skinner, is a method of learning that occurs through rewards and punishments for behavior."
+    },
+    {
+       "id": "q3",
+       "type": "fill_blank",
+       "question": "The ______ effect describes how people tend to better remember information presented at the beginning and end of a list.",
+       "options": [
+          "Serial position",
+          "Placebo",
+          "Bystander",
+          "Halo"
+      ],
+      "correctAnswer": "Serial position",
+       "explanation": "The serial position effect is a psychological phenomenon associated with memory that says items at the beginning and end of a list are more easily recalled."
+    }
+  ]
+}
+
+Task 5: Generate Chapter Tasks (tasks.json and tasks/*.json)
+For each chapter, generate practical analysis or observational tasks to reinforce learning.
+
+Manifest Path: /lessons/ch_{N}/tasks.json
+
+Content Path: /lessons/ch_{N}/tasks/task{N}.json
+
+IMPORTANT: the filename and id must be same (example task1.json and id: task1)
+
+Manifest Format (tasks.json):
+
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Task Title",
+      "description": "Brief description of the task.",
+      "estimatedMinutes": 10
+    }
+  ]
+}
+
+Content Format (tasks/task1.json):
+
+{
+  "id": "task1",
+  "chapterId": "ch_{NUMBER}",
+  "title": "Task Title",
+  "description": "Brief description of the task.",
+  "estimatedMinutes": 10,
+  "problemStatement": "Detailed problem statement explaining what to do. Markdown is supported. Example: 'Observe a short conversation between two people and identify two instances of non-verbal communication.'",
+  "hints": [
+    "Hint 1: Look for facial expressions, gestures, or body language.",
+    "Hint 2: Pay attention to eye contact and posture."
+  ]
+}
+
+Part 3: Side Quests
+Side Quests are optional mini-challenges that appear on the course path.
+
+IMPORTANT:
+Purpose: CUMULATIVE REVIEW. A side quest should cover ALL TOPICS from the chapters preceding it. It is a "mid-term" check-in.
+Frequency: Do NOT place a side quest after every chapter. Place one after every 2-3 chapters (e.g., after Chapter 3, Chapter 6).
+Difficulty: Slightly more difficult than normal quizzes. Combining concepts is key.
+
+Task 6: Generate Side Quest Manifest (side_quests.json)
+This file lists all side quests for the course.
+
+Path: /courses/[course_id]/side_quests.json
+
+Trigger Chapter Index: The index of the chapter after which this quest appears (0-based). E.g., index 1 means it appears after Chapter 2.
+
+Output Format:
+[
+  {
+    "id": "sq_[course_id]_1",
+    "title": "Fun Title",
+    "triggerChapterIndex": 1,
+    "metadata": {
+      "type": "case_study" // Options: "case_study", "scenario_analysis", "speed"
+    }
+  }
+]
+
+Side Quest Types:
+"case_study": Analyze a detailed case and identify the relevant psychological concepts.
+"scenario_analysis": Predict outcomes or behaviors based on specific psychological theories.
+"speed": Rapid fire simple questions.
+
+Task 7: Generate Side Quest Content (side_quests/*.json)
+For each side quest in the manifest, generate a detailed JSON file.
+
+Path: /courses/[course_id]/side_quests/sq_[course_id]_{N}.json
+
+Structure: Includes metadata + specific "questions" based on type.
+
+Content Scope: Questions MUST test knowledge from ALL preceding chapters (Chapter 0 to triggerChapterIndex). Do not limit questions to just the immediately preceding chapter. Usage of concepts should be cumulative.
+
+Quantity: Generate 5-8 questions per side quest.
+
+Type 1: Case Study Quest (type: "case_study")
+
+{
+  "id": "sq_[course_id]_2",
+  "title": "Behavioral Analysis",
+  "triggerChapterIndex": 1,
+  "metadata": { "type": "case_study" },
+  "questions": [
+    {
+      "id": "sq_[course_id]_2_q1",
+      "type": "multiple_choice",
+      "question": "In this scenario, John exhibits an intense fear of spiders that interferes with his daily life. Which of the following best describes this behavior?",
+      "options": [],
+      "correctAnswer": "",
+      "explanation": "This is a classic example of a specific phobia, a type of anxiety disorder.",
+      "xpReward": 20,
+      "difficulty": 2
+    }
+  ]
+}
+
+Type 2: Scenario Analysis Quest (type: "scenario_analysis")
+{
+  "id": "sq_[course_id]_3",
+  "title": "Predicting Outcomes",
+  "triggerChapterIndex": 2,
+  "metadata": { "type": "scenario_analysis" },
+  "questions": [
+    {
+      "id": "sq_[course_id]_3_q1",
+      "type": "multiple_choice",
+      "question": "If a child receives a gold star every time they complete their homework, what behavioral principle is being applied?",
+      "options": [
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Positive punishment",
+        "Negative punishment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A gold star is added to increase the likelihood of the behavior (completing homework), which is positive reinforcement.",
+      "xpReward": 25,
+      "difficulty": 1
+    }
+  ]
+}
+
+Type 3: Speed Run Quest (type: "speed")
+{
+  "id": "sq_[course_id]_4",
+  "title": "Speedy Psych",
+  "triggerChapterIndex": 3,
+  "metadata": { "type": "speed" },
+  "questions": [
+    {
+      "id": "sq_[course_id]_4_q1",
+      "type": "true_false",
+      "question": "The amygdala is primarily involved in processing emotions such as fear and anger.",
+      "isTrue": true,
+      "correctAnswer": "true",
+      "options": [],
+      "explanation": "Correct. The amygdala is a key brain structure for emotional processing.",
+      "xpReward": 15,
+      "difficulty": 1
+    }
+  ]
+}
+
+Part 4: Course Projects
+Projects are large-scale, final assignments for the entire course that synthesize all concepts.
+Generate 2-3 projects per course. These unlock progressively but sit at the end of the course.
+
+Task 8: Generate Projects Manifest (projects.json)
+This file lists all projects for the course.
+
+Path: /courses/[course_id]/projects.json
+
+Output Format:
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Project Name",
+      "description": "Short project synopsis.",
+      "difficulty": "Intermediate", // "Beginner", "Intermediate", "Advanced"
+      "estimatedHours": "2-4" // string representation
+    }
+  ]
+}
+
+Task 9: Generate Project Content (projects/*.json)
+For each project in the manifest, generate the full project details.
+
+Path: /courses/[course_id]/projects/project{N}.json
+
+IMPORTANT: the filename and id must be same (example project1.json and id: project1)
+
+Output Format:
+{
+  "id": "project1",
+  "title": "Analyze a Behavioral Case Study",
+  "description": "Apply psychological theories to understand a complex real-world case.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "3-5",
+  "problemStatement": "You are a psychology student tasked with analyzing a detailed case study of a patient presenting with various behavioral symptoms. Your task is to identify the underlying psychological mechanisms and propose potential theoretical frameworks that explain the behavior.",
+  "requirements": [
+    "Identify at least three key behavioral symptoms from the case study.",
+    "Apply concepts from behavioral, cognitive, and social psychology to explain these symptoms.",
+    "Structure your analysis logically, with clear headings for each theory.",
+    "Provide a final summary of your findings."
+  ],
+  "hints": [
+    "Start by highlighting key events and behaviors in the text.",
+    "Consider how the environment might be influencing the patient's actions.",
+    "Review the chapter on Abnormal Psychology for additional insights."
+  ]
+}
+
+Generate the entire course continuously without pausing. Output chapters.json, all lessons, quiz files, chapter tasks, side quests, and projects until the entire course is fully generated.

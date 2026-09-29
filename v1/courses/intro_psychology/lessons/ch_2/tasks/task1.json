@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_2",
+  "title": "Mapping the Spinal Reflex Arc",
+  "description": "Trace sensory afferent neurons, interneurons in the spinal cord, and motor efferents during reflex withdrawal.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A person accidentally touches a scorching hot stove burner and pulls their hand back before consciously feeling the sensation of pain.\n\n### Requirements:\n1. Diagram and trace the precise neural circuitry involved in this spinal reflex arc (Sensory/Afferent Neurons -> Spinal Interneurons -> Motor/Efferent Neurons).\n2. Explain why the motor withdrawal happens *before* the conscious realization of pain in the cerebral cortex.\n3. Identify the role of the somatosensory cortex and the thalamus once the ascending pain signals eventually reach the brain.",
+  "hints": [
+    "Hint 1: Spinal reflex loops bypass the brain entirely for rapid initial motor responses.",
+    "Hint 2: Sensory neurons enter via dorsal roots, and motor signals exit via ventral roots."
+  ]
+}

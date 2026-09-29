@@ -1,0 +1,105 @@
+{
+  "id": "l4",
+  "chapterId": "ch_5",
+  "title": "Theories of Intelligence, IQ Testing & Cognitive Diversity",
+  "description": "Analyze Spearman's g factor, fluid vs crystallized intelligence, Gardner, Sternberg, and the normal curve.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Intelligence",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "What is Intelligence? \ud83e\udde0",
+      "content": "# Models of Intellectual Capacity\n\nPsychologists define intelligence as the global capacity to think rationally, act purposefully, profit from experience, and deal effectively with the environment.\n\n* **Charles Spearman ($g$ Factor)**: Used factor analysis to show that performance across diverse cognitive tasks correlates positively, pointing to a single overarching **General Intelligence ($g$)**.\n* **Raymond Cattell**: Split $g$ into two components:\n  * **Fluid Intelligence ($G_f$)**: Raw problem-solving speed, abstract logic, and spatial reasoning independent of education; peaks in early adulthood.\n  * **Crystallized Intelligence ($G_c$)**: Accumulated knowledge, vocabulary, and facts gained through experience; steadily increases across the lifespan."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Fluid vs. Crystallized Check \u23f3",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A 75-year-old historian excels at crossword puzzles and possesses vast historical knowledge, but solves novel abstract geometric matrix puzzles more slowly than in their youth. This shows high:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Crystallized Intelligence",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Fluid Intelligence",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Kinesthetic Intelligence",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Sensory Acuity",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Crystallized intelligence reflects accumulated lifetime knowledge and vocabulary, which remains robust into late adulthood.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Multiple Intelligences & Sternberg's Triarchic Theory \ud83c\udf1f",
+      "content": "## Broadening Beyond Traditional IQ\n\n* **Howard Gardner (Multiple Intelligences)**: Proposed 8 distinct modular intelligences (Linguistic, Logical-Mathematical, Spatial, Musical, Bodily-Kinesthetic, Interpersonal, Intrapersonal, Naturalistic). Evidence drawn from brain damage and savant syndrome.\n* **Robert Sternberg (Triarchic Theory)**:\n  1. **Analytical Intelligence**: Academic problem-solving assessed by traditional tests.\n  2. **Creative Intelligence**: Ability to adapt to novel situations and generate original ideas.\n  3. **Practical Intelligence**: Street smarts and real-world everyday problem navigation."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "IQ Testing & The Normal Distribution \ud83d\udcca",
+      "content": "## Standardizing the Bell Curve\n\n* **David Wechsler**: Developed the WAIS (adults) and WISC (children), modern standard IQ tests featuring verbal and performance scales.\n* **The Normal Distribution**: IQ tests are standardized with a **mean of 100** and a **standard deviation (SD) of 15**:\n  * **68%** of the population falls between 85 and 115 (within 1 SD).\n  * **95%** falls between 70 and 130 (within 2 SDs).\n* **Test Criteria**:\n  * **Reliability**: Consistency of test scores (test-retest correlation).\n  * **Validity**: Degree to which a test measures what it claims to measure (predictive validity)."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "IQ Standardization Check \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "On modern standardized Wechsler intelligence scales with a mean of 100 and standard deviation of 15, approximately what percentage of the general population scores between 85 and 115?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "50%",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "68%",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "95%",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "99.7%",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "In a Gaussian normal distribution, roughly 68% of scores fall within one standard deviation (\u00b115 points) of the mean.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "The Flynn Effect \ud83d\ude80",
+      "content": "## Rising Intelligence Across Generations\n\nPhilosopher James Flynn discovered that raw performance on standardized IQ tests rose steadily by approximately **3 IQ points per decade** across the globe throughout the 20th century. Because genetic changes occur far too slowly, this 'Flynn Effect' highlights the immense role of environmental factors: improved nutrition, widespread schooling, and technologically enriched environments."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "l1",
+  "chapterId": "ch_4",
+  "title": "Classical Conditioning: Pavlovian Associations",
+  "description": "Master unconditioned/conditioned stimuli, acquisition, extinction, spontaneous recovery, and taste aversion.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Classical Conditioning",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Pavlov and Involuntary Learning \ud83d\udc15",
+      "content": "# Learning Through Association\n\nRussian physiologist **Ivan Pavlov** discovered classical conditioning while investigating canine digestion. Animals learn to connect two or more environmental stimuli to anticipate events.\n\n### The Four Core Components\n* **Unconditioned Stimulus (UCS / US)**: A stimulus that naturally and automatically triggers a response without prior learning (e.g., Meat Powder).\n* **Unconditioned Response (UCR / UR)**: The unlearned, reflexive physiological reaction to the US (e.g., Salivation to meat powder).\n* **Conditioned Stimulus (CS)**: An originally neutral stimulus (e.g., Metronome or Bell) that, after repeated pairing with the US, triggers a learned response.\n* **Conditioned Response (CR)**: The learned reaction elicited by the CS alone (e.g., Salivating to the sound of the bell)."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Conditioning Component Check \ud83d\udd14",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A cancer chemotherapy patient experiences intense nausea whenever they smell the specific hospital antiseptic where treatments occur. What is the hospital smell in this scenario?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Unconditioned Stimulus (US)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Conditioned Stimulus (CS)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Unconditioned Response (UR)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Primary Reinforcer",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The antiseptic smell was initially neutral, but through repeated pairing with toxic chemotherapy drugs (US), it became a learned Conditioned Stimulus (CS).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Conditioning Dynamics \ud83d\udcc8",
+      "content": "## Acquisition, Extinction & Generalization\n\n* **Acquisition**: The initial learning stage where the neutral stimulus is repeatedly paired with the unconditioned stimulus. Forward pairing (CS presented immediately before US) is most effective.\n* **Extinction**: The gradual weakening and disappearance of a Conditioned Response when the CS is repeatedly presented **without the US**.\n* **Spontaneous Recovery**: The reappearance of an extinguished conditioned response after a period of rest or delay.\n* **Stimulus Generalization**: When stimuli similar to the original CS trigger the CR (e.g., salivating to a telephone ring when conditioned to a metronome).\n* **Stimulus Discrimination**: The learned ability to distinguish between a CS and other non-predictive stimuli."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "warning",
+      "title": "The Little Albert Experiment (1920) \u26a0\ufe0f",
+      "content": "### Ethical Infamy: Conditioning Fear\n\nJohn B. Watson and Rosalie Rayner conditioned 9-month-old 'Little Albert' to fear a tame white rat by clanging a steel bar behind his head (US) whenever he reached for the rat (CS).\n\nAlbert soon exhibited a **Conditioned Emotional Response**, crying in terror at the rat (CR). Disturbingly, his fear **generalized** to white rabbits, fur coats, and a Santa Claus mask. The researchers never deconditioned the child\u2014violating foundational ethical principles of non-maleficence."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Conditioning Dynamics Check \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "A dog that stopped salivating to a bell after weeks without food suddenly salivates again when the bell rings after a 3-day quiet break. This illustrates:",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Spontaneous Recovery",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Stimulus Discrimination",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Negative Reinforcement",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Backward Conditioning",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Spontaneous recovery is the temporary reappearance of an extinguished response after an elapsed rest interval.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Biological Preparedness & Taste Aversion \ud83c\udf53",
+      "content": "## The Garcia Effect\n\nJohn Garcia demonstrated that rats develop an intense conditioned aversion to a novel flavor after just **one pairing** with radiation nausea, even if the nausea occurred hours later! Furthermore, rats could not easily be conditioned to associate visual or auditory cues with nausea. Evolutionary survival biologically predisposes organisms to associate certain stimuli (tastes with internal sickness; sights/sounds with external danger)."
+    }
+  ]
+}

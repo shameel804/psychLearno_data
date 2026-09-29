@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_1",
+  "title": "Designing an Unbiased Naturalistic Observation Study",
+  "description": "Develop operational definitions and an observational coding protocol to minimize observer bias.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Design a 20-minute naturalistic observation protocol to observe pro-social behavior (such as holding open doors or sharing seating) in a public setting (e.g., a library or cafe).\n\n### Requirements:\n1. Formulate clear, unambiguous **operational definitions** for the behaviors being observed.\n2. Detail your sampling technique (time sampling vs event sampling).\n3. Outline procedures to minimize **observer bias** and participant reactivity (Hawthorne effect).\n4. Address ethical considerations regarding privacy and public observational data collection.",
+  "hints": [
+    "Hint 1: Operational definitions must specify exact physical actions, not inferred intentions.",
+    "Hint 2: An observer who stays inconspicuous minimizes the Hawthorne effect."
+  ]
+}

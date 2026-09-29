@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Dissecting Pseudoscience vs. Empirical Science Claims",
+      "description": "Evaluate marketing claims using criteria of falsifiability, replication, and empirical proof.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Designing an Unbiased Naturalistic Observation Study",
+      "description": "Develop operational definitions and an observational coding protocol to minimize observer bias.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

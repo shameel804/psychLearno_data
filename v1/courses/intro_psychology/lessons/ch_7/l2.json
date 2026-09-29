@@ -1,0 +1,105 @@
+{
+  "id": "l2",
+  "chapterId": "ch_7",
+  "title": "Conformity, Obedience & Social Influence",
+  "description": "Master Asch's conformity study, Milgram's obedience experiments, and Zimbardo's prison study.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Social Influence",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Solomon Asch & Conformity \ud83d\udccf",
+      "content": "# The Power of Group Consensus\n\n**Conformity** is adjusting our behavior or thinking to coincide with a group standard.\n\nIn **Solomon Asch's classic 1951 line-judgment experiments**:\n* A participant sat with 6 confederates (actors pretending to be participants).\n* They were shown a standard line and three comparison lines, asking which was identical in length.\n* The confederates deliberately gave clearly incorrect answers on critical trials.\n* **Results**: Over **75% of participants conformed** at least once, siding with the blatantly incorrect group consensus!\n\n### Why Do People Conform?\n1. **Normative Social Influence**: Conforming to gain social approval or avoid rejection/embarrassment.\n2. **Informational Social Influence**: Conforming because we believe the group possesses superior knowledge."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Conformity Motivation Check \ud83d\udc65",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A diner quietly eats salad with an unfamiliar specialized fork simply because everyone else at the banquet table is using that fork. Which social influence mechanism is this?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Informational Social Influence",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Normative Social Influence",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Obedience to Authority",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Deindividuation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Informational social influence stems from accepting evidence about reality provided by others when in an ambiguous setting.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Stanley Milgram & Obedience to Authority \u26a1",
+      "content": "## Yale University, 1963\n\nPrompted by the atrocities of WWII, **Stanley Milgram** tested how far ordinary citizens would go in obeying orders that inflicted pain on another human.\n\n* A teacher (participant) was ordered by an authority figure in a gray lab coat to administer electric shocks to a learner (confederate) for wrong answers, increasing by 15 volts up to **450 volts (labeled 'XXX Danger: Severe Shock')**.\n* **Findings**: Despite hearing the learner scream, complain of a heart condition, and fall dead silent, a staggering **65% of participants went all the way to the maximum 450 volts**!\n* Obedience dropped drastically when the authority was absent, when the victim was in the same room, or when another rebel peer refused to comply."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "warning",
+      "title": "The Stanford Prison Experiment (1971) \u26a0\ufe0f",
+      "content": "### The Seduction of Social Roles\n\nPhilip Zimbardo randomly assigned healthy Stanford male college students to act as either 'guards' or 'prisoners' in a simulated basement prison.\n\n* Within 36 hours, guards internalized their roles, becoming tyrannical, abusive, and subjecting prisoners to psychological torment.\n* Prisoners became demoralized, passive, and exhibited signs of extreme emotional breakdowns.\n* The planned two-week study had to be abruptly aborted after just **6 days** due to dangerous ethical deterioration, demonstrating the chilling power of **deindividuation and situational roles**."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Milgram Findings Check \ud83d\udd0c",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "What percentage of normal adult participants complied fully with the researcher's commands to administer the maximum 450-volt shock in Milgram's baseline obedience study?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Less than 1%",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "About 10%",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Approximately 65%",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "100%",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Psychiatrists originally predicted under 1% would comply, but roughly 65% complied fully to 450 volts.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "The Power of One Dissenter \u270a",
+      "content": "## Breaking the Social Spell\n\nIn both Asch's conformity and Milgram's obedience experiments, introducing just **one single confederate who dissented** from the group or refused to shock shattered the pressure, plummeting conformity and obedience rates by over 70%! Never underestimate the power of being the first voice of resistance."
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "id": "quiz_ch_1",
+  "chapterId": "ch_1",
+  "title": "Chapter 1 Mastery Quiz: Foundations & Research",
+  "description": "Demonstrate comprehensive mastery of historical roots, modern perspectives, and research methodology.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "type": "multiple_choice",
+      "question": "Which of the following best defines psychology in its modern scientific form?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The study of supernatural and psychic phenomena",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The scientific study of mental processes and observable behaviors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The biological treatment of psychiatric illnesses only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The philosophical contemplation of consciousness without empirical tests",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Psychology is universally defined as the scientific study of both mind (internal mental processes) and behavior (observable actions).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q2",
+      "type": "multiple_choice",
+      "question": "In what year and country did Wilhelm Wundt establish the first formal experimental psychology laboratory?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "1879 in Leipzig, Germany",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "1905 in Vienna, Austria",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "1890 in Boston, USA",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "1920 in London, England",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wilhelm Wundt founded the first dedicated laboratory of psychology at the University of Leipzig in 1879.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q3",
+      "type": "multiple_choice",
+      "question": "Which primary goal of psychology is involved when an intervention is developed to help patients stop compulsive smoking?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Describe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Predict",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Control / Change",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "Observe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The fourth goal of psychology\u2014control or change\u2014involves applying psychological principles to modify behavior constructively.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q4",
+      "type": "multiple_choice",
+      "question": "What primary method did Edward Titchener employ to identify the constituent elements of conscious sensation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Analytic Introspection",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Operant Skinner Boxes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Functional Magnetic Resonance Imaging",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Archival Case Histories",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Structuralism relied heavily on trained subjects introspecting on their immediate sensory reactions to controlled stimuli.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q5",
+      "type": "multiple_choice",
+      "question": "William James was deeply inspired by which scientific theory when articulating Functionalism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Newton's laws of universal gravitation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Darwin's theory of evolution by natural selection",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Einstein's theory of general relativity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Mendelian pea plant inheritance genetics",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "William James viewed consciousness as an evolutionary adaptation that helps humans survive and adapt to their environment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q6",
+      "type": "multiple_choice",
+      "question": "What is the core slogan and defining principle of Gestalt psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Tabula Rasa: the mind is an empty slate",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The whole is greater than the sum of its parts",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "All behavior is strictly an involuntary reflex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Consciousness is an illusion created by language",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gestalt psychology asserts that perceptual wholes possess properties that cannot be derived from examining parts in isolation.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q7",
+      "type": "multiple_choice",
+      "question": "Which modern perspective argues that psychological symptoms stem primarily from unconscious conflicts and repressed desires?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Psychodynamic",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Behavioral",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Biological",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cognitive",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Freud's psychodynamic framework focuses on the unconscious mind and early childhood conflicts.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q8",
+      "type": "multiple_choice",
+      "question": "John B. Watson and B.F. Skinner insisted that psychology should focus exclusively on which domain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Subjective dream interpretation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Observable and measurable behavior",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Unconscious archetypes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Spiritual enlightenment",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Behaviorists argued that because internal states cannot be directly observed, psychology must restrict itself to observable behavior.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q9",
+      "type": "multiple_choice",
+      "question": "Which psychological school emphasizes personal growth, self-actualization, and human free will?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Humanistic Psychology",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Behaviorism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Biological Determinism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Structuralism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Humanistic psychologists Carl Rogers and Abraham Maslow championed human dignity, free will, and personal fulfillment.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q10",
+      "type": "multiple_choice",
+      "question": "How does the Cognitive perspective conceptualize the human mind?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "As an active information processor analogous to a complex computer",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "As a passive vessel controlled entirely by demonic spirits",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "As an unchanging set of rigid instincts with no capacity for learning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "As a pure reflex machine without any memory or thoughts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cognitive psychology views the brain as an information-processing system that encodes, stores, retrieves, and manipulates data.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q11",
+      "type": "multiple_choice",
+      "question": "Under the Biopsychosocial model, which factor is considered an element of the 'Social-Cultural' dimension?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dopamine receptor sensitivity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Cultural expectations and socioeconomic status",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Automatic negative thoughts and catastrophizing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Amygdala volume",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Socioeconomic status, cultural norms, and peer influence represent the social-cultural pillar of the model.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q12",
+      "type": "multiple_choice",
+      "question": "What is the defining requirement of Karl Popper's principle of 'falsifiability' in science?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A theory must be completely fabricated before being tested",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "A hypothesis must be framed such that empirical evidence could potentially refute it",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "A scientist must believe their hypothesis is 100% false",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Every study must fail at least once",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Falsifiability requires that a proposition make specific empirical predictions that could be proven false if incorrect.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch1_q13",
+      "type": "multiple_choice",
+      "question": "What cognitive bias describes someone's belief that they knew an event would happen all along after learning the outcome?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hindsight Bias",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Actor-Observer Bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Availability Heuristic",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Self-Serving Bias",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hindsight bias ('knew-it-all-along' effect) leads people to overestimate their prior predictability of an outcome.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q14",
+      "type": "multiple_choice",
+      "question": "A correlation coefficient of r = -0.85 between hours spent playing video games and GPA indicates what?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A weak positive relationship",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "A strong negative relationship",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "That video games cause low grades directly",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Zero relationship between the variables",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A coefficient close to -1.0 indicates a strong inverse relationship (as one variable rises, the other falls).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q15",
+      "type": "multiple_choice",
+      "question": "Why cannot a correlational study establish a causal relationship between two variables?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Because correlations only apply to animal subjects",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Because unmeasured confounding third variables or reverse causation could account for the link",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Because correlation coefficients are purely subjective guesses",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Because correlation studies never use numbers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Without experimental control and manipulation, an unmeasured third variable could be responsible for the observed correlation.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q16",
+      "type": "multiple_choice",
+      "question": "In an experiment evaluating a new antidepressant, what is the Independent Variable?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The patient's depression score at the end of the trial",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The administration of the drug versus a placebo pill",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The age and gender of the participants",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The clinical psychiatrist conducting the interview",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The independent variable is the manipulated treatment condition (antidepressant vs placebo).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q17",
+      "type": "multiple_choice",
+      "question": "What is the primary scientific purpose of utilizing 'Random Assignment' in experimental research?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To ensure that every person in the global population is tested",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "To equalize pre-existing individual differences across experimental and control groups",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "To hide the results of the research from the public",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To save costs during data collection",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Random assignment balances out confounding participant variables across groups before treatment begins.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q18",
+      "type": "multiple_choice",
+      "question": "What experimental design is used when neither the participants nor the administering researchers know who receives the active medication?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Single-blind study",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Double-blind procedure",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Naturalistic observation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Retrospective case review",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A double-blind procedure guards against both participant placebo effects and experimenter expectancy effects.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q19",
+      "type": "multiple_choice",
+      "question": "What does an 'operational definition' accomplish in psychological research?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It provides a dictionary definition written in Latin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It specifies exact, measurable procedures used to quantify a variable",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It guarantees that the hypothesis will be confirmed",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It eliminates the need to collect data",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Operational definitions describe variables in specific measurable terms so other scientists can replicate the experiment.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch1_q20",
+      "type": "multiple_choice",
+      "question": "Which ethical mandate requires researchers to provide participants with a full explanation of the study's purpose and hypotheses upon completion?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Debriefing",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Informed Consent",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Double blinding",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Peer review",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Debriefing occurs post-experiment to explain the research purpose and address any deceptions or participant distress.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q21",
+      "type": "true_false",
+      "question": "A case study allows researchers to definitively establish cause-and-effect relationships that generalize universally.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "False. Case studies offer rich individual insights but cannot establish causality or be safely generalized to the entire population.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q22",
+      "type": "true_false",
+      "question": "Institutional Review Boards (IRBs) exist to evaluate proposed studies to ensure human participants are protected from harm.",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "True. IRBs review research protocols to ensure they comply with ethical standards and protect human subjects.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}
