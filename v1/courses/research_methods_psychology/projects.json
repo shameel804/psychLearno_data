@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Experimental Research Proposal: Sleep Deprivation & Cognitive Control",
+      "description": "Design an exhaustive, production-ready laboratory experiment evaluating how sleep loss impacts prefrontal executive control.",
+      "difficulty": "Intermediate",
+      "estimatedHours": "4-6"
+    },
+    {
+      "id": "project2",
+      "title": "Psychometric Scale Construction: The Algorithmic Anxiety Inventory",
+      "description": "Construct and psychometrically validate a novel 12-item assessment for technological anxiety, establishing reliability and construct validity.",
+      "difficulty": "Advanced",
+      "estimatedHours": "5-7"
+    },
+    {
+      "id": "project3",
+      "title": "Open Science Preregistration & Multi-Site Replication Audit",
+      "description": "Audit a landmark social priming study for QRPs and author a Registered Report preregistration with statistical power calculations.",
+      "difficulty": "Advanced",
+      "estimatedHours": "6-8"
+    }
+  ]
+}

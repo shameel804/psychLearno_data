@@ -1,0 +1,99 @@
+{
+  "id": "l2",
+  "chapterId": "ch_5",
+  "title": "The Visual Pathway: From Retina to Striate Cortex & Dual Processing Streams",
+  "description": "Examine photoreceptors, the retinogeniculate pathway, Hubel & Wiesel's cortical columns, and the dorsal ('where/how') vs. ventral ('what') streams.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Visual System",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Photoreceptors: Rods vs. Cones \ud83d\udc41\ufe0f",
+      "content": "# The Duplicity Theory of Vision\n\nThe human retina contains two fundamentally different classes of photoreceptors:\n\n| Feature | Rods | Cones |\n| :--- | :--- | :--- |\n| **Quantity** | ~120 million per retina | ~6 million per retina |\n| **Retinal Distribution** | Dense in periphery; entirely absent from central fovea | Concentrated heavily in the **fovea centralis** |\n| **Light Sensitivity** | Extremely high; specialized for dim light (**Scotopic vision**) | Lower sensitivity; specialized for daylight (**Photopic vision**) |\n| **Acuity & Resolution** | Low acuity (hundreds of rods converge on one ganglion cell) | High acuity (1:1 cone-to-ganglion cell wiring in fovea) |\n| **Color Vision** | Achromatic (single photopigment: rhodopsin) | **Trichromatic** (3 photopigments: S-blue, M-green, L-red) |"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "text",
+      "title": "The Retinogeniculate Pathway & V1 \ud83d\udcd0",
+      "content": "## From Retina to Striate Cortex\n\n1. Photoreceptors synapse on **bipolar cells**, which synapse on **retinal ganglion cells (RGCs)**.\n2. RGC axons form the **optic nerve** (CN II), exiting through the optic disc (creating our physiological **blind spot**).\n3. At the **optic chiasm**, axons from the nasal hemiretinas decussate (cross the midline), while temporal hemiretinas stay ipsilateral.\n4. Optic tracts project to the **Lateral Geniculate Nucleus (LGN)** of the thalamus (Layers 1-2: Magnocellular / motion; Layers 3-6: Parvocellular / color and fine detail).\n5. Optic radiations carry signals to **Primary Visual Cortex (V1 / Striate Cortex)**.\n\n*Hubel & Wiesel's Discovery*: V1 neurons do not respond to round spots of light; they respond to **oriented bars and edges**:\n* **Simple Cells**: Sensitive to bar orientation in a specific retinal position.\n* **Complex Cells**: Sensitive to orientation and directional movement anywhere in the receptive field."
+    },
+    {
+      "id": "s_l2_3",
+      "type": "quiz",
+      "title": "Check: Visual Pathway & LGN \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Which LGN layers receive inputs from magnocellular retinal ganglion cells specialized for detecting movement and broad outlines?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Layers 1 and 2",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Layers 3 and 4",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Layers 5 and 6",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Layer IVC alpha exclusively",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Layers 1 and 2 of the LGN are the magnocellular layers, specialized for high temporal resolution, flicker, and motion perception.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "The Dual Streams: What vs. Where Pathways \ud83d\udee4\ufe0f",
+      "content": "## Two Visual Processing Streams (Ungerleider & Mishkin)\n\nUpon leaving primary visual cortex, visual information splits into two anatomically and functionally distinct processing streams:\n\n### 1. The Dorsal Stream ('Where / How' Pathway):\n* **Route**: V1 $\\rightarrow$ V2 $\\rightarrow$ V5/MT $\\rightarrow$ **Posterior Parietal Cortex**.\n* **Function**: Computes spatial relationships, motion detection, and visually guided motor action (reaching and grasping).\n* **Lesion Pathology**: **Akinetopsia** (motion blindness\u2014seeing movement as frozen snapshots) and **Optic Ataxia** (inability to guide reaching toward objects despite seeing them).\n\n### 2. The Ventral Stream ('What' Pathway):\n* **Route**: V1 $\\rightarrow$ V2 $\\rightarrow$ V4 $\\rightarrow$ **Inferior Temporal Cortex**.\n* **Function**: Object recognition, high-resolution shape analysis, color perception (V4), and facial identification (FFA).\n* **Lesion Pathology**: **Visual Object Agnosia** (inability to recognize objects by sight) and **Prosopagnosia** (face blindness)."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Check: Dual Visual Streams \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "Patient D.F. suffered carbon monoxide poisoning damaging her ventral stream. She cannot identify a slot's orientation, but can effortlessly slip a card into it. Why?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Her intact dorsal 'how/action' stream guides motor reaching despite ventral stream object recognition failure",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "She has exceptional color vision in her fovea",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Her auditory system compensates by echoing",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Her corpus callosum was severed during surgery",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Milner & Goodale demonstrated that D.F.'s dorsal stream ('vision-for-action') remained intact, allowing accurate motor action despite ventral stream agnosia.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

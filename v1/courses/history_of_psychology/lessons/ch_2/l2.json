@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_2",
+  "title": "The Method of Experimental Introspection",
+  "description": "Understand Wundt's rigorous experimental self-observation, stimulus control, and the tridimensional theory of feeling.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Methodology",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Experimental Self-Observation \ud83d\udd2c",
+      "content": "# Rigorous Introspection (*Selbstbeobachtung*)\n\nCritics often mistake introspection for casual daydreaming or unstructured personal diary entries. In Wundt's Leipzig lab, however, **experimental introspection** followed strict laboratory protocols:\n\n### Wundt's 4 Rules for Valid Introspection\n1. **Observer readiness**: Observers had to be in a state of anticipatory preparation before stimulus presentation.\n2. **Immediate reporting**: Observations had to be made and recorded immediately to prevent memory distortion.\n3. **Strict repeatability**: The experimental trial had to be repeated many times under identical conditions.\n4. **Systematic variation**: The experimenter systematically varied the physical properties of the stimulus (e.g., brightness, pitch, duration).\n\nWundt's observers were trained through as many as **10,000 individual practice trials** before their experimental data was considered reliable!"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "How did Wundt's experimental introspection differ from casual personal self-reflection?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It relied solely on interpreting nighttime dreams",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It utilized tightly controlled sensory stimuli, thousands of trained trials, and immediate reporting",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It excluded all instruments, clocks, and physical stimuli",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It focused exclusively on clinical abnormal patients",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Wundt insisted on rigorous laboratory controls, repeated trials, trained observers, and precise sensory stimulus variation.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Tridimensional Theory of Feeling \ud83d\udcca",
+      "content": "## Mapping the Emotional Spectrum\n\nWundt observed that sensory impressions (e.g., hearing a metronome beat) produce not only raw sensations (pitch, loudness) but also accompanying **feelings** (*Gef\u00fchle*).\n\nTo systematize emotions, Wundt proposed that all feelings can be mapped along **three independent continuum axes**:\n\n| Axis Dimension | Extremes of the Continuum | Experimental Example |\n| :--- | :--- | :--- |\n| **Pleasure \u2014 Displeasure** | *Lust \u2014 Unlust* | Sweet sugar taste vs. bitter quinine |\n| **Tension \u2014 Relaxation** | *Spannung \u2014 L\u00f6sung* | Anticipating a loud gunshot vs. the relief after it fires |\n| **Excitement \u2014 Depression (Calm)** | *Erregung \u2014 Beruhigung* | Rapid metronome pulse vs. slow, gentle rhythm |\n\nUsing a kymograph and pneumograph, Wundt simultaneously recorded breathing and pulse changes, attempting to discover physiological correlates for each affective dimension."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "tip",
+      "title": "Modern Echoes: Affective Circumplex \ud83d\udd04",
+      "content": "## Did Wundt Get Emotions Right?\n\nRemarkably, modern affective neuroscience still utilizes dimensional emotion models! Contemporary psychologist James Russell's famous **Circumplex Model of Affect** (plotting emotions along Valence: Pleasant/Unpleasant and Arousal: High/Low) directly descends from Wundt's tridimensional framework."
+    }
+  ]
+}

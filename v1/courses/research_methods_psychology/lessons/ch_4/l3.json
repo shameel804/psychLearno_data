@@ -1,0 +1,73 @@
+{
+  "id": "l3",
+  "chapterId": "ch_4",
+  "title": "Case Studies & Archival Research",
+  "description": "Learn from rare idiographic cases (H.M., Phineas Gage), archival datasets, and recognize the boundaries of generalizability.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Descriptive Designs",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Idiographic Deep Dive 🔍",
+      "content": "# The Case Study Method\n\nA **case study** is an intensive, comprehensive investigation of a single individual, group, or event. It is particularly valuable for studying rare conditions that cannot be ethically or practically induced experimentally:\n\n* **Patient H.M. (Henry Molaison)**: Underwent bilateral medial temporal lobe resection to treat intractable epilepsy, losing his hippocampus. His resulting dense anterograde amnesia taught neuroscience that the hippocampus is critical for consolidating declarative memories, while procedural motor memory relies on separate neural circuits.\n* **Phineas Gage (1848)**: A railroad foreman whose left frontal lobe was pierced by an iron tamping rod, demonstrating the role of prefrontal cortex in personality, emotional regulation, and social inhibition.\n\nCase studies provide unmatched depth and generate fruitful hypotheses, but they have severe scientific limitations."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Case Study Milestone Check 🧠",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What fundamental discovery about human memory was revealed through the intensive case study of Patient H.M.?",
+        "options": [
+          {"id": "opt1", "text": "Memory is stored exclusively in the spinal cord", "isCorrect": false},
+          {"id": "opt2", "text": "Declarative memory consolidation relies on the hippocampus, while procedural memory is mediated by distinct systems", "isCorrect": true},
+          {"id": "opt3", "text": "Intracranial surgery cures all psychological disorders", "isCorrect": false},
+          {"id": "opt4", "text": "Short-term working memory has unlimited capacity", "isCorrect": false}
+        ],
+        "explanation": "H.M. could learn new motor skills (mirror drawing) despite having no conscious memory of ever practicing them, demonstrating the dissociation between declarative and procedural memory.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Strengths & Weaknesses of Case Studies ⚖️",
+      "content": "## Evaluating the Case Method\n\n| Strengths | Limitations |\n| :--- | :--- |\n| **High Idiographic Depth**: Detailed longitudinal history combining interviews, neuroimaging, and psychometrics. | **Zero Generalizability**: A single unique brain or idiosyncratic individual may not represent the general population. |\n| **Inspiration for Hypotheses**: Sparks new theories that can later be tested experimentally on large samples. | **No Causal Demonstration**: Lacks experimental control, baseline pre-injury data, and comparison groups. |\n| **Investigates Rare Phenomena**: Ethical impossibility of deliberately damaging human brain tissue in experiments. | **Vulnerable to Researcher Bias**: The investigator's subjective theoretical convictions can color case interpretation. |\n\nCase studies can disprove a universal claim (e.g., finding one black swan disproves 'all swans are white'), but they can never establish a general causal law."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Archival Research: Mining Existing Records 📂",
+      "content": "## Science from Existing Data\n\n**Archival research** analyzes previously accumulated records, datasets, or cultural artifacts collected for purposes other than the current study:\n\n* Public health hospital admission databases.\n* Census bureau demographics.\n* Police arrest logs and FBI crime statistics.\n* Social media archives (millions of tweets or forum posts).\n\n*Advantages*: Completely non-reactive (participants cannot alter behaviors that already occurred years ago) and enables longitudinal analysis across decades. *Limitation*: The researcher has no control over how the original data were collected or what variables were omitted."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Archival Research Check 📊",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "A psychologist studies whether national economic recessions increase depression rates by analyzing 50 years of public hospital psychiatric admission records. What methodology is this?",
+        "options": [
+          {"id": "opt1", "text": "Archival research", "isCorrect": true},
+          {"id": "opt2", "text": "Laboratory experiment with random assignment", "isCorrect": false},
+          {"id": "opt3", "text": "Naturalistic participant observation", "isCorrect": false},
+          {"id": "opt4", "text": "Double-blind clinical drug trial", "isCorrect": false}
+        ],
+        "explanation": "Examining historical pre-existing institutional records to test a hypothesis constitutes archival research.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_6",
+      "type": "warning",
+      "title": "Generalization Warning ⚠️",
+      "content": "### The Overgeneralization Fallacy\n\nNever generalize from a sample size of N = 1 to all humanity! While Phineas Gage's personality changed after his accident, some patients with similar prefrontal injuries show remarkably preserved social judgment. Case studies inspire hypotheses; experiments verify them."
+    }
+  ]
+}

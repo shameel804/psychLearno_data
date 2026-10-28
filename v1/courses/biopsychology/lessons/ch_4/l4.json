@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_4",
+  "title": "Synaptic Remodeling: Hebbian Plasticity, LTP, & Adult Neurogenesis",
+  "description": "Explore molecular mechanisms of memory: Hebb's law, NMDA receptor coincidence detection, AMPA insertion, and neurogenesis in the dentate gyrus.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Synaptic Plasticity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Hebb's Postulate: Cells That Fire Together, Wire Together \u26a1",
+      "content": "# The Cellular Basis of Learning\n\nIn 1949, Canadian psychologist **Donald Hebb** proposed a groundbreaking theoretical mechanism for synaptic learning:\n\n> *'When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A's efficiency, as one of the cells firing B, is increased.'*\n\nColloquially known as **Hebb's Law**: **'Neurons that fire together, wire together!'** Synaptic connections are strengthened when presynaptic and postsynaptic neurons fire in close temporal coincidence."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "text",
+      "title": "Long-Term Potentiation (LTP) & The NMDA Coincidence Detector \ud83d\udd2c",
+      "content": "## Molecular Engine of Memory\n\nIn 1973, Terje L\u00f8mo and Timothy Bliss discovered **Long-Term Potentiation (LTP)** in the hippocampus\u2014a persistent strengthening of synapses following high-frequency stimulation (tetanus).\n\n### The Molecular Mechanism:\n1. **Baseline**: Glutamate binds to **AMPA receptors**, allowing $Na^+$ entry and generating modest EPSPs. The adjacent **NMDA receptor** pore is blocked by an extracellular **Magnesium ion ($Mg^{2+}$)**.\n2. **Tetanic Depolarization**: Intense high-frequency stimulation strongly depolarizes the postsynaptic membrane (+20 to +30 mV).\n3. **Expulsion of the $Mg^{2+}$ Plug**: Positive intracellular charge electrostatically repels the $Mg^{2+}$ ion, clearing the NMDA pore.\n4. **$Ca^{2+}$ Influx**: Calcium rushes into the dendritic spine through the open NMDA receptor.\n5. **Intracellular Cascades**: $Ca^{2+}$ activates protein kinases (CaMKII, PKC), which phosphorylate existing AMPA receptors (increasing conductance) and recruit **new AMPA receptors** from intracellular pools to the postsynaptic density.\n6. **Result**: Future glutamate releases produce vastly larger, faster EPSPs!"
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Check: LTP Mechanisms \ud83e\uddea",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What physical barrier blocks the NMDA receptor channel pore at normal resting membrane potential?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "A Magnesium ion (Mg2+)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "A Sodium ion (Na+)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "A molecule of dopamine",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "An astrocyte end-foot",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "At resting membrane potential, an extracellular Mg2+ ion sits in the NMDA channel pore; depolarization repels this plug, allowing Ca2+ influx.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Adult Neurogenesis: Birth of New Neurons \ud83c\udf31",
+      "content": "## Can the Adult Brain Grow New Neurons?\n\nYes! While most adult brain regions cannot generate new neurons, lifelong **adult neurogenesis** occurs robustly in two privileged germinal niches:\n\n1. **Subgranular Zone (SGZ) of the Hippocampal Dentate Gyrus**: Generates thousands of new granule cells daily that integrate into hippocampal circuits, enhancing pattern separation and cognitive flexibility.\n2. **Subventricular Zone (SVZ)**: Progenitor cells migrate along the rostral migratory stream into the olfactory bulb.\n\n### What Boosts vs. Suppresses Neurogenesis?\n* **Enhancers**: Aerobic cardiovascular exercise, cognitive enrichment, healthy sleep, intermittent fasting.\n* **Suppressors**: Chronic glucocorticoid stress (cortisol), sleep deprivation, aging, neuroinflammation, alcohol abuse."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\ude80",
+      "content": "### Long-Term Depression (LTD)\n\nIf synapses were only ever strengthened via LTP, neural circuits would rapidly saturate and run out of storage capacity! **Long-Term Depression (LTD)** is the counter-balancing process: prolonged low-frequency stimulation causes low-level $Ca^{2+}$ entry that internalizes AMPA receptors, weakening unused connections."
+    }
+  ]
+}

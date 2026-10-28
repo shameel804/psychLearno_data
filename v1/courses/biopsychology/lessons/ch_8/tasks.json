@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Deconstructing the Neurobiology of Addiction: Tolerance, Craving & VTA Hijacking",
+      "description": "Analyze the neurochemical progression from initial recreational drug intake to compulsive habit formation and relapse vulnerability.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Translational Psychiatry: Evaluating the Monoamine vs. Neurogenic Hypotheses of Depression",
+      "description": "Contrast classic monoaminergic pharmacotherapy with fast-acting glutamatergic ketamine protocols for treatment-resistant depression.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

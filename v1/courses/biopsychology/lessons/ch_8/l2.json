@@ -1,0 +1,58 @@
+{
+  "id": "l2",
+  "chapterId": "ch_8",
+  "title": "Acute vs. Chronic Stress: Cortisol, Neurotoxicity, & The Vulnerable Brain",
+  "description": "Examine the SAM vs. HPA axes, allostatic load, glucocorticoid neurotoxicity, hippocampal dendritic atrophy, and amygdalar hyper-reactivity.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Stress Neurobiology",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Dual Stress Response: Fast vs. Slow \u23f1\ufe0f",
+      "content": "# Two Biological Engines of Defense\n\nWhen confronting a survival threat, the brain launches two coordinated defense systems:\n\n1. **Sympathetic-Adrenomedullary (SAM) System (Seconds)**:\n   * Autonomic sympathetic preganglionic fibers stimulate the **adrenal medulla**.\n   * Floods the bloodstream with **Epinephrine (Adrenaline)** and **Norepinephrine**.\n   * Immediate cardiovascular surge: heart rate spikes, pupils dilate, bronchioles open, blood shunted to muscles.\n2. **Hypothalamic-Pituitary-Adrenal (HPA) Axis (Minutes to Hours)**:\n   * Endocrine cascade: $CRH \\rightarrow ACTH \\rightarrow$ **Cortisol**.\n   * Mobilizes glucose reserves (gluconeogenesis), elevates blood pressure, and temporarily suppresses non-essential energy expenditures (digestion, reproduction, adaptive immune responses)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "text",
+      "title": "Allostatic Load & Glucocorticoid Neurotoxicity \ud83d\udcc9",
+      "content": "## Bruce McEwen's Concept of Allostatic Load\n\n* **Allostasis**: The process of maintaining stability through physiological change.\n* **Allostatic Load**: The cumulative biological 'wear and tear' on neural and systemic tissues resulting from chronic, unremitting stress activation.\n\n### The Remodeled Brain Under Chronic Stress:\n* **Hippocampus**: Sustained high cortisol causes **dendritic shrinkage**, loss of synaptic spines in CA3 pyramidal neurons, suppression of adult neurogenesis in the dentate gyrus, and memory impairment.\n* **Prefrontal Cortex (dlPFC)**: Loss of dendritic arborization; impairs working memory, cognitive flexibility, and executive impulse control.\n* **Amygdala**: *Opposite reaction!* Chronic stress induces **hypertrophic dendritic growth** and hyper-excitability in the basolateral amygdala, locking the brain in a state of chronic hyper-vigilance, trait anxiety, and fear generalization."
+    },
+    {
+      "id": "s_l2_3",
+      "type": "quiz",
+      "title": "Check: Chronic Stress Remodeling \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "How does chronic, prolonged stress differentially remodel the hippocampus versus the basolateral amygdala?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It causes dendritic atrophy in the hippocampus, but induces dendritic hypertrophy and hyper-reactivity in the amygdala",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "It enlarges the hippocampus by 50% while shrinking the amygdala",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "It destroys all neurons in both structures equally within 24 hours",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It produces zero measurable anatomical changes in either region",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Chronic glucocorticoid elevation shrinks hippocampal dendrites (impairing memory and HPA shut-off) while expanding amygdalar dendrites (amplifying fear).",
+        "xpReward": 10
+      }
+    }
+  ]
+}

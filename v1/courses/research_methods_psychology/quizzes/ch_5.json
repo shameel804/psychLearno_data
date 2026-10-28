@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_5",
+  "chapterId": "ch_5",
+  "title": "Chapter 5 Mastery Quiz: Survey Design & Correlational Research",
+  "description": "Demonstrate mastery of question writing, probability sampling, Pearson's r, and the perils of spurious correlations.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch5_q1",
+      "type": "multiple_choice",
+      "question": "Which of the following is the defining flaw of a 'double-barreled' survey item?",
+      "options": [
+        {"id": "opt1", "text": "It asks participants about two separate issues within a single sentence, permitting only one response", "isCorrect": true},
+        {"id": "opt2", "text": "It uses two different languages simultaneously", "isCorrect": false},
+        {"id": "opt3", "text": "It requires the respondent to answer the question twice", "isCorrect": false},
+        {"id": "opt4", "text": "It contains a typo in the second word", "isCorrect": false}
+      ],
+      "explanation": "Double-barreled questions combine two distinct attitudes or issues, making it impossible to determine which issue the participant's response addresses.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q2",
+      "type": "multiple_choice",
+      "question": "A survey item reads: 'Do you agree with leading health experts that sugar-sweetened beverages should be heavily taxed?' What type of flawed item is this?",
+      "options": [
+        {"id": "opt1", "text": "A leading question", "isCorrect": true},
+        {"id": "opt2", "text": "A double-negative question", "isCorrect": false},
+        {"id": "opt3", "text": "An unobtrusive trace measure", "isCorrect": false},
+        {"id": "opt4", "text": "A ratio measurement scale", "isCorrect": false}
+      ],
+      "explanation": "Leading questions subtly prompt or encourage the respondent toward a particular answer by citing authoritative consensus or using biased wording.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q3",
+      "type": "multiple_choice",
+      "question": "What is Social Desirability Bias?",
+      "options": [
+        {"id": "opt1", "text": "The preference for participating in group experiments rather than solo studies", "isCorrect": false},
+        {"id": "opt2", "text": "The tendency of respondents to answer questions in a manner that will be viewed favorably by others", "isCorrect": true},
+        {"id": "opt3", "text": "The tendency for attractive researchers to obtain higher survey response rates", "isCorrect": false},
+        {"id": "opt4", "text": "A cognitive bias in which people desire more social media followers", "isCorrect": false}
+      ],
+      "explanation": "Social desirability bias leads participants to over-report positive, virtuous behaviors and under-report embarrassing, unhealthy, or taboo actions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q4",
+      "type": "multiple_choice",
+      "question": "How do researchers systematically detect and counteract 'acquiescence bias' (the tendency to agree with all statements)?",
+      "options": [
+        {"id": "opt1", "text": "By incorporating reverse-worded (reverse-scored) items throughout the survey", "isCorrect": true},
+        {"id": "opt2", "text": "By making all questions open-ended essays", "isCorrect": false},
+        {"id": "opt3", "text": "By increasing the font size of the survey instructions", "isCorrect": false},
+        {"id": "opt4", "text": "By administering the survey only at midnight", "isCorrect": false}
+      ],
+      "explanation": "Reverse-scored items require disagreeing to express a positive trait, allowing researchers to flag respondents who unthinkingly agree with every item.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q5",
+      "type": "multiple_choice",
+      "question": "What is the defining condition of Simple Random Sampling?",
+      "options": [
+        {"id": "opt1", "text": "Participants are selected by posting flyers in public university cafeterias", "isCorrect": false},
+        {"id": "opt2", "text": "Every individual in the defined target population has an equal, non-zero probability of being chosen", "isCorrect": true},
+        {"id": "opt3", "text": "The researcher picks whoever looks friendliest on the street", "isCorrect": false},
+        {"id": "opt4", "text": "Participants choose whether they want to be in the study or not", "isCorrect": false}
+      ],
+      "explanation": "In simple random sampling, every single member of the target population has an exact, equal mathematical probability of selection.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q6",
+      "type": "multiple_choice",
+      "question": "A polling firm divides a state population into racial and ethnic subgroups, then randomly samples individuals from each subgroup in exact proportion to the state census. What sampling method is this?",
+      "options": [
+        {"id": "opt1", "text": "Stratified random sampling", "isCorrect": true},
+        {"id": "opt2", "text": "Snowball sampling", "isCorrect": false},
+        {"id": "opt3", "text": "Convenience sampling", "isCorrect": false},
+        {"id": "opt4", "text": "Naturalistic observation", "isCorrect": false}
+      ],
+      "explanation": "Stratified random sampling divides the population into meaningful demographic strata and draws random samples from each stratum proportionally.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q7",
+      "type": "multiple_choice",
+      "question": "Why is convenience sampling (such as using an undergraduate psychology subject pool) vulnerable to external validity criticism?",
+      "options": [
+        {"id": "opt1", "text": "College students are all identical clones", "isCorrect": false},
+        {"id": "opt2", "text": "The sample may not be representative of the broader, diverse human population (the WEIRD problem)", "isCorrect": true},
+        {"id": "opt3", "text": "College students are prohibited from answering survey questions by federal law", "isCorrect": false},
+        {"id": "opt4", "text": "It produces perfect negative correlations in every study", "isCorrect": false}
+      ],
+      "explanation": "Convenience samples often over-represent educated, young, affluent, western demographics, limiting generalizability to wider populations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q8",
+      "type": "multiple_choice",
+      "question": "A researcher sends a postal survey to 1,000 citizens, but only 80 people return it (an 8% response rate). What critical methodological threat does this introduce?",
+      "options": [
+        {"id": "opt1", "text": "Non-response bias (those who replied may differ systematically from those who did not)", "isCorrect": true},
+        {"id": "opt2", "text": "Type I Alpha error", "isCorrect": false},
+        {"id": "opt3", "text": "The Hawthorne effect", "isCorrect": false},
+        {"id": "opt4", "text": "Violation of Occam's Razor", "isCorrect": false}
+      ],
+      "explanation": "A low response rate creates non-response bias because individuals who choose to complete a survey often have stronger opinions or more free time than the majority.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q9",
+      "type": "multiple_choice",
+      "question": "What is the theoretical range of Pearson's correlation coefficient (r)?",
+      "options": [
+        {"id": "opt1", "text": "From 0.00 to 100.00", "isCorrect": false},
+        {"id": "opt2", "text": "From -1.00 to +1.00", "isCorrect": true},
+        {"id": "opt3", "text": "From -0.05 to +0.05", "isCorrect": false},
+        {"id": "opt4", "text": "From negative infinity to positive infinity", "isCorrect": false}
+      ],
+      "explanation": "Pearson's r is mathematically constrained between -1.00 (perfect negative linear relationship) and +1.00 (perfect positive linear relationship).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q10",
+      "type": "multiple_choice",
+      "question": "A psychologist finds that as hours of weekly aerobic exercise increase, scores on a clinical depression inventory consistently decrease. What type of correlation is this?",
+      "options": [
+        {"id": "opt1", "text": "Positive correlation", "isCorrect": false},
+        {"id": "opt2", "text": "Negative (inverse) correlation", "isCorrect": true},
+        {"id": "opt3", "text": "Curvilinear zero correlation", "isCorrect": false},
+        {"id": "opt4", "text": "Spurious correlation", "isCorrect": false}
+      ],
+      "explanation": "When increases in one variable correspond systematically to decreases in another variable, the correlation is negative (inverse).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q11",
+      "type": "multiple_choice",
+      "question": "Which of the following correlation coefficients represents the WEAKEST linear relationship between two variables?",
+      "options": [
+        {"id": "opt1", "text": "r = -0.78", "isCorrect": false},
+        {"id": "opt2", "text": "r = +0.52", "isCorrect": false},
+        {"id": "opt3", "text": "r = -0.07", "isCorrect": true},
+        {"id": "opt4", "text": "r = +0.33", "isCorrect": false}
+      ],
+      "explanation": "Correlation strength is measured by its absolute value distance from zero (|r|). |-0.07| = 0.07, which is closest to zero and thus the weakest.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q12",
+      "type": "multiple_choice",
+      "question": "What graphical chart is universally used to visualize the bivariate relationship between two continuous quantitative variables?",
+      "options": [
+        {"id": "opt1", "text": "Pie chart", "isCorrect": false},
+        {"id": "opt2", "text": "Scatterplot", "isCorrect": true},
+        {"id": "opt3", "text": "Stacked bar graph", "isCorrect": false},
+        {"id": "opt4", "text": "Flowchart diagram", "isCorrect": false}
+      ],
+      "explanation": "A scatterplot displays individual data points across X and Y axes, allowing immediate visual inspection of linear and non-linear bivariate patterns.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q13",
+      "type": "multiple_choice",
+      "question": "If a scatterplot reveals points arranged in a wide, circular cloud with no discernible upward or downward slant, what is the approximate correlation coefficient?",
+      "options": [
+        {"id": "opt1", "text": "r ≈ +1.00", "isCorrect": false},
+        {"id": "opt2", "text": "r ≈ -1.00", "isCorrect": false},
+        {"id": "opt3", "text": "r ≈ 0.00", "isCorrect": true},
+        {"id": "opt4", "text": "r ≈ +0.50", "isCorrect": false}
+      ],
+      "explanation": "A diffuse circular cloud with flat regression slope indicates that changes in X do not predict changes in Y (zero correlation).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q14",
+      "type": "multiple_choice",
+      "question": "What is the primary danger of calculating Pearson's r on data that have a 'curvilinear' relationship (like test anxiety and exam scores)?",
+      "options": [
+        {"id": "opt1", "text": "The computer will crash", "isCorrect": false},
+        {"id": "opt2", "text": "Pearson's r only detects straight linear lines, so it will falsely report a near-zero correlation despite a strong relationship", "isCorrect": true},
+        {"id": "opt3", "text": "Pearson's r will report a value greater than +1.00", "isCorrect": false},
+        {"id": "opt4", "text": "It violates the Belmont Report", "isCorrect": false}
+      ],
+      "explanation": "Pearson's r evaluates exclusively linear trends; an inverted U-curve has opposing slopes that cancel out mathematically to near r = 0.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q15",
+      "type": "multiple_choice",
+      "question": "What effect does 'restriction of range' have on a correlation coefficient?",
+      "options": [
+        {"id": "opt1", "text": "It artificially reduces (deflates) the apparent strength of the correlation", "isCorrect": true},
+        {"id": "opt2", "text": "It artificially inflates the correlation to near +1.00", "isCorrect": false},
+        {"id": "opt3", "text": "It reverses the sign of the correlation from positive to negative", "isCorrect": false},
+        {"id": "opt4", "text": "It has zero impact on correlation magnitude", "isCorrect": false}
+      ],
+      "explanation": "When the variance of one or both variables is truncated or restricted, the calculated correlation coefficient is artificially diminished.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q16",
+      "type": "multiple_choice",
+      "question": "In a cross-sectional study, researchers find that adolescents who play more hours of violent video games commit more acts of school vandalism. What is the 'directionality problem'?",
+      "options": [
+        {"id": "opt1", "text": "We cannot determine whether playing violent games causes vandalism, or whether vandalistic tendencies lead teens to choose violent games", "isCorrect": true},
+        {"id": "opt2", "text": "The games were manufactured in another country", "isCorrect": false},
+        {"id": "opt3", "text": "Vandalism is an illegal act that cannot be studied", "isCorrect": false},
+        {"id": "opt4", "text": "The survey had fewer than 10 questions", "isCorrect": false}
+      ],
+      "explanation": "Because both variables were measured concurrently, it is impossible to determine which variable occurred first temporally to cause the other.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q17",
+      "type": "multiple_choice",
+      "question": "What is the 'third-variable problem' in correlational research?",
+      "options": [
+        {"id": "opt1", "text": "Having to pay three different researchers to enter data", "isCorrect": false},
+        {"id": "opt2", "text": "An unmeasured external variable may be the true common cause of both correlated variables, creating a spurious link", "isCorrect": true},
+        {"id": "opt3", "text": "A study that lasts more than three years", "isCorrect": false},
+        {"id": "opt4", "text": "Using three questionnaires in the same battery", "isCorrect": false}
+      ],
+      "explanation": "The third-variable problem occurs when an unmeasured confounding factor (Z) drives the observed statistical association between X and Y.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q18",
+      "type": "multiple_choice",
+      "question": "A classic study found that the number of churches in a city correlates strongly and positively with the number of crime arrests in that city. What third variable explains this spurious relationship?",
+      "options": [
+        {"id": "opt1", "text": "Total city population size", "isCorrect": true},
+        {"id": "opt2", "text": "Average church choir volume", "isCorrect": false},
+        {"id": "opt3", "text": "The price of communion wafers", "isCorrect": false},
+        {"id": "opt4", "text": "Police vehicle horsepower", "isCorrect": false}
+      ],
+      "explanation": "Larger cities naturally have both more churches and more total crimes simply because they contain many more people.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q19",
+      "type": "multiple_choice",
+      "question": "What statistical technique allows researchers to evaluate the correlation between Variable X and Variable Y while mathematically holding a third confounding variable (Z) constant?",
+      "options": [
+        {"id": "opt1", "text": "Partial Correlation", "isCorrect": true},
+        {"id": "opt2", "text": "Independent samples t-test", "isCorrect": false},
+        {"id": "opt3", "text": "Chi-Square test of independence", "isCorrect": false},
+        {"id": "opt4", "text": "Inter-rater reliability analysis", "isCorrect": false}
+      ],
+      "explanation": "Partial correlation quantifies the linear relationship between two variables while statistically controlling and removing the influence of one or more covariates.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q20",
+      "type": "multiple_choice",
+      "question": "How does a longitudinal 'cross-lagged panel design' help address the directionality problem?",
+      "options": [
+        {"id": "opt1", "text": "By measuring both variables at multiple points in time, allowing researchers to evaluate which variable temporally precedes changes in the other", "isCorrect": true},
+        {"id": "opt2", "text": "By randomly assigning participants to take surveys in different rooms", "isCorrect": false},
+        {"id": "opt3", "text": "By eliminating the need for informed consent", "isCorrect": false},
+        {"id": "opt4", "text": "By automatically making all survey responses anonymous", "isCorrect": false}
+      ],
+      "explanation": "Cross-lagged designs track whether Variable A at Time 1 predicts Variable B at Time 2 more robustly than Variable B at Time 1 predicts Variable A at Time 2.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q21",
+      "type": "multiple_choice",
+      "question": "What is the coefficient of determination (r^2) in correlational statistics?",
+      "options": [
+        {"id": "opt1", "text": "The square root of the sample size", "isCorrect": false},
+        {"id": "opt2", "text": "The proportion of variance in one variable that is predictable from or shared with the other variable", "isCorrect": true},
+        {"id": "opt3", "text": "The probability that the null hypothesis is true", "isCorrect": false},
+        {"id": "opt4", "text": "The standard error of measurement", "isCorrect": false}
+      ],
+      "explanation": "Squaring the correlation coefficient (r^2) gives the proportion of shared or explained variance between the two variables.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q22",
+      "type": "multiple_choice",
+      "question": "If the correlation between childhood exposure to music lessons and spatial cognitive ability is r = 0.50, what percentage of the variance in spatial ability is shared with music lessons?",
+      "options": [
+        {"id": "opt1", "text": "50%", "isCorrect": false},
+        {"id": "opt2", "text": "25% (because 0.50^2 = 0.25)", "isCorrect": true},
+        {"id": "opt3", "text": "5%", "isCorrect": false},
+        {"id": "opt4", "text": "100%", "isCorrect": false}
+      ],
+      "explanation": "The percentage of shared variance is r^2 * 100: (0.50)^2 = 0.25, which corresponds to 25% of shared variance.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_6",
+  "title": "Threats to Internal Validity",
+  "description": "Master Campbell & Stanley's classic threats: history, maturation, testing, regression to the mean, attrition, and double-blind controls.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Internal Validity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Campbell & Stanley's Classic Threats 🛡️",
+      "content": "# The Enemies of Causal Certainty\n\n**Internal validity** is the degree to which an experiment establishes that the independent variable—and *only* the independent variable—produced the observed changes in the dependent variable. In their landmark work (1966), Donald Campbell and Julian Stanley identified classic threats:\n\n* **History**: Specific external events occurring between pretest and posttest that affect participants (e.g., a national economic crisis occurring during a study on financial anxiety).\n* **Maturation**: Natural developmental, physiological, or biological changes occurring within participants over time (e.g., children growing taller, or participants simply getting tired or hungry).\n* **Testing Effects**: Taking a pretest changes performance on subsequent posttests due to practice, familiarity, or sensitization."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Threat Diagnosis: Maturation vs History ⏳",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A researcher measures language skills in 3-year-olds, provides a 12-month educational podcast intervention, and tests them at age 4. Language skills improved significantly. Without a control group, which internal validity threat explains this gain?",
+        "options": [
+          {"id": "opt1", "text": "Biological Maturation (normal cognitive brain development occurring between ages 3 and 4)", "isCorrect": true},
+          {"id": "opt2", "text": "Instrument decay", "isCorrect": false},
+          {"id": "opt3", "text": "Attrition", "isCorrect": false},
+          {"id": "opt4", "text": "Demand characteristics", "isCorrect": false}
+        ],
+        "explanation": "Children naturally undergo massive biological language development between ages 3 and 4; without an untreated control group, gains cannot be attributed to the podcast.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Regression to the Mean & Selective Attrition 📉",
+      "content": "## More Threats to Watch For\n\n| Threat | Mechanism | Classic Danger Scenario |\n| :--- | :--- | :--- |\n| **Statistical Regression to the Mean** | Extreme scores on an initial test naturally drift closer to the average on re-testing simply due to statistical measurement error | Selecting participants who scored in the bottom 2% of a test; on re-test, their scores will improve even if your intervention is completely useless! |\n| **Attrition (Experimental Mortality)** | Participants drop out of the study before completion | If the 15 most depressed patients quit a 12-week drug trial due to side effects, the remaining sample looks artificially healthy! |\n| **Instrumentation** | The measuring instrument or human observer changes its calibration over time | Observers becoming more lenient, fatigued, or skilled as the study progresses. |\n| **Demand Characteristics** | Cues in the study that reveal the hypothesis to participants | Participants altering answers to please the researcher or confirm expectations. |\n\nA **Double-Blind Placebo-Controlled design**—where neither the participant nor the experimenter knows who receives active treatment—protects against both demand characteristics and experimenter expectancy effects."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Internal Validity Check: Regression to the Mean 📊",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A clinic selects the 20 patients with the absolute worst depression scores on Monday, gives them a sugar pill on Tuesday, and retests them on Friday. Their average scores improve significantly. What statistical phenomenon is the most likely cause?",
+        "options": [
+          {"id": "opt1", "text": "Statistical regression to the mean", "isCorrect": true},
+          {"id": "opt2", "text": "The 3Rs animal framework", "isCorrect": false},
+          {"id": "opt3", "text": "Latin square counterbalancing", "isCorrect": false},
+          {"id": "opt4", "text": "A negative correlation", "isCorrect": false}
+        ],
+        "explanation": "When individuals are selected based on extreme scores, statistical regression guarantees that random measurement error will average out, moving retest scores toward the mean.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The True Control Group Cures All\n\nNotice the universal pattern: History, maturation, testing effects, and regression to the mean happen to **both** the treatment group and the control group equally! If your treatment group improves significantly *more* than the control group, you have defeated these threats and proven causality."
+    }
+  ]
+}

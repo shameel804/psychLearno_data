@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Historical Paradigm Debate: Structuralism vs. Functionalism (1898)",
+      "description": "Reconstruct the historic late-19th-century intellectual conflict between Edward Titchener and William James/John Dewey.",
+      "difficulty": "Intermediate",
+      "estimatedHours": "3-5"
+    },
+    {
+      "id": "project2",
+      "title": "Comparative Clinical Case Formulation: Psychoanalysis vs. Behaviorism",
+      "description": "Formulate competing diagnostic explanations and treatment plans for a complex clinical anxiety case study.",
+      "difficulty": "Advanced",
+      "estimatedHours": "4-6"
+    },
+    {
+      "id": "project3",
+      "title": "Historical Replication & Open Science Audit of a Landmark Study",
+      "description": "Audit a classic 20th-century psychological experiment against modern Open Science, preregistration, and replicability criteria.",
+      "difficulty": "Advanced",
+      "estimatedHours": "5-7"
+    }
+  ]
+}

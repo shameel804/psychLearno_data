@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "The Macro Architecture: CNS, PNS, & Somatic vs. Autonomic Networks",
+      "description": "Differentiate the Central and Peripheral Nervous Systems, somatic voluntary pathways, and sympathetic vs. parasympathetic divisions.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Structural Architecture"
+    },
+    {
+      "id": "l2",
+      "title": "Protective Shields: Meninges, Ventricles, CSF, & The Blood-Brain Barrier",
+      "description": "Examine the dura, arachnoid, and pia mater, ventricular circulation of cerebrospinal fluid, and the endothelial blood-brain barrier.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Brain Protection"
+    },
+    {
+      "id": "l3",
+      "title": "The Spinal Cord & Reflex Arcs: Neural Highways & Involuntary Action",
+      "description": "Master the cross-sectional anatomy of the spinal cord (dorsal vs. ventral horns), afferent vs. efferent tracts, and monosynaptic/polysynaptic reflexes.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Spinal Circuitry"
+    },
+    {
+      "id": "l4",
+      "title": "Navigating the Neural Map: Anatomical Directions, Planes, & Brainstem Structures",
+      "description": "Learn spatial axes (rostral/caudal, dorsal/ventral), slicing planes, and the vital centers of the medulla, pons, reticular formation, and cerebellum.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Brainstem & Navigation"
+    }
+  ]
+}

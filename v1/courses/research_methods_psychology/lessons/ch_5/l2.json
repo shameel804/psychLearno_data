@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_5",
+  "title": "Sampling Strategies & Sample Representativeness",
+  "description": "Master probability sampling (random, stratified, cluster) vs. non-probability sampling (convenience, snowball), and response rates.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Sampling Methods",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Population vs. Sample 🎯",
+      "content": "# Who Are You Really Studying?\n\nIn psychological research, we rarely have the resources to test everyone:\n\n* **Population**: The entire, complete group of individuals that a researcher wants to draw conclusions about (e.g., all adolescents aged 13–17 worldwide, or all patients diagnosed with schizophrenia in Canada).\n* **Sample**: The subset of individuals selected from the population to participate in the study.\n* **Representativeness**: A sample is representative if its key demographic and psychological characteristics mirror the broader population.\n\nA study conducted on 10,000 unrepresentative people is scientifically worthless compared to a study conducted on 500 carefully representative individuals!"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Population vs Sample Check 👥",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A clinical team investigates burnout among all 4,000 nurses employed across a state hospital network by surveying 250 randomly selected nurses. In this study, the 4,000 nurses represent:",
+        "options": [
+          {"id": "opt1", "text": "The sample", "isCorrect": false},
+          {"id": "opt2", "text": "The target population", "isCorrect": true},
+          {"id": "opt3", "text": "The independent variable", "isCorrect": false},
+          {"id": "opt4", "text": "The confounding variable", "isCorrect": false}
+        ],
+        "explanation": "The entire group of interest (all 4,000 employed nurses) is the population; the 250 selected individuals form the sample.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Probability vs. Non-Probability Sampling 🎲",
+      "content": "## Methods for Selecting Participants\n\nSampling methods fall into two major categories:\n\n| Sampling Method | Category | How It Works | Strengths & Limitations |\n| :--- | :--- | :--- | :--- |\n| **Simple Random Sampling** | Probability | Every single member of the population has an equal, known chance of selection (e.g., lottery draw from a full registry) | Gold standard for representativeness; requires complete population list. |\n| **Stratified Random Sampling** | Probability | Population divided into subgroups (strata: e.g., ethnicity, age), and random samples drawn from each stratum proportionally | Guarantees adequate representation of small minority subgroups. |\n| **Cluster Sampling** | Probability | Naturally occurring geographic clusters selected at random (e.g., randomly picking 10 schools, then surveying all students within them) | Cost-effective for geographically dispersed populations. |\n| **Convenience Sampling** | Non-Probability | Selecting participants who are easiest to recruit (e.g., college students in an Intro Psych pool) | Cheap and fast; vulnerable to sampling bias and limited generalizability. |\n| **Snowball Sampling** | Non-Probability | Existing participants recruit future participants from their acquaintances | Ideal for hidden or stigmatized populations (e.g., undocumented migrants, illicit drug users). |\n\nMost university psychology studies rely on convenience samples, creating the famous **WEIRD** problem."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Sampling Method Identification 🧭",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A psychologist studies a hidden underground community of extreme urban explorers by interviewing two explorers and asking them to introduce her to other members of their network. What sampling technique is this?",
+        "options": [
+          {"id": "opt1", "text": "Simple random sampling", "isCorrect": false},
+          {"id": "opt2", "text": "Snowball sampling", "isCorrect": true},
+          {"id": "opt3", "text": "Stratified cluster sampling", "isCorrect": false},
+          {"id": "opt4", "text": "True experimental sampling", "isCorrect": false}
+        ],
+        "explanation": "Snowball sampling relies on word-of-mouth referral chains, which is ideal for locating difficult-to-reach or secretive populations.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "warning",
+      "title": "Methodological Warning ⚠️",
+      "content": "### The WEIRD Participant Bias\n\nOver 80% of published psychology research historically sampled populations that are **WEIRD**: *Western, Educated, Industrialized, Rich, and Democratic* (primarily American undergraduate students!). Be extremely cautious before claiming a cognitive or perceptual finding applies to all human beings across cultures."
+    }
+  ]
+}

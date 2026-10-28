@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_4",
+  "title": "Deconstructing Ego Defense Mechanisms in Vignettes",
+  "description": "Identify and analyze primary defense mechanisms across four realistic interpersonal case scenarios.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Anna Freud systematized defense mechanisms as unconscious ego operations that distort reality to neutralize anxiety.\n\n### Scenarios to Analyze:\n1. **Case A**: A student who failed an important exam insists that the test questions were completely illegitimate and that the professor harbors a personal grudge against them.\n2. **Case B**: An executive passed over for promotion goes home and furiously scolds their children for leaving a toy on the living room carpet.\n3. **Case C**: A person with intense unacknowledged aggressive impulses becomes an outspoken anti-violence crusader who patrols social media to censor aggressive comments.\n4. **Case D**: An artist channels deep grief and emotional heartbreak into a critically acclaimed series of paintings.\n\n### Task Requirements:\n* Name the specific defense mechanism demonstrated in each case.\n* Identify which intrapsychic agency (Id, Ego, or Superego) triggered the conflict.\n* Explain how the defense mechanism alters conscious perception to relieve anxiety.",
+  "hints": [
+    "Hint 1: Case B involves redirecting anger onto a safer target (displacement).",
+    "Hint 2: Case C involves converting an impulse into its behavioral opposite (reaction formation)."
+  ]
+}

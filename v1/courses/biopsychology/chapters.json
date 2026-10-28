@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "id": "ch_1",
+      "languageId": "biopsychology",
+      "title": "Neurons, Glia & Neural Communication",
+      "description": "Explore the cellular foundations of the nervous system: neuronal anatomy, glial support, ion channels, resting membrane potential, action potentials, and synaptic transmission.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 100,
+      "iconEmoji": "\u26a1"
+    },
+    {
+      "id": "ch_2",
+      "languageId": "biopsychology",
+      "title": "Functional Neuroanatomy & Nervous System Organization",
+      "description": "Map the central and peripheral nervous systems, the autonomic fight-or-flight networks, protective meninges and ventricles, the spinal cord, and brainstem vital centers.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "\ud83e\udde0"
+    },
+    {
+      "id": "ch_3",
+      "languageId": "biopsychology",
+      "title": "The Forebrain: Subcortical Systems & The Cerebral Cortex",
+      "description": "Investigate the diencephalon, limbic emotional circuits, basal ganglia motor loops, and the specialized functions of the four cerebral lobes.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "\ud83d\udc51"
+    },
+    {
+      "id": "ch_4",
+      "languageId": "biopsychology",
+      "title": "Neuroplasticity, Brain Lateralization & Split-Brain Research",
+      "description": "Discover hemispheric specialization through split-brain studies, structural vs. functional plasticity, Hebbian synaptic remodeling (LTP), and adult neurogenesis.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "\ud83d\udd04"
+    },
+    {
+      "id": "ch_5",
+      "languageId": "biopsychology",
+      "title": "Sensory & Motor Systems: From Physical Stimulus to Perception",
+      "description": "Trace sensory transduction and dual visual pathways (what vs. where), auditory mapping, somatosensation and pain gating, and motor hierarchy pathways.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "\ud83d\udc41\ufe0f"
+    },
+    {
+      "id": "ch_6",
+      "languageId": "biopsychology",
+      "title": "The Endocrine System, Circadian Rhythms & Sleep Neurobiology",
+      "description": "Examine hormonal signaling, the HPA stress axis, suprachiasmatic circadian pacemaking, NREM/REM sleep cycles, and glymphatic waste clearance.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "\ud83c\udf19"
+    },
+    {
+      "id": "ch_7",
+      "languageId": "biopsychology",
+      "title": "Research Methods in Cognitive Neuroscience",
+      "description": "Master structural and functional neuroimaging (MRI, fMRI, PET), electrophysiology (EEG, ERPs, MEG), and causal interventions (TMS, lesions, optogenetics).",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "\ud83d\udd2c"
+    },
+    {
+      "id": "ch_8",
+      "languageId": "biopsychology",
+      "title": "The Biology of Emotion, Motivation, Stress & Psychopathology",
+      "description": "Unpack the mesolimbic dopamine reward pathway, cortisol neurotoxicity, biological models of depression and schizophrenia, and future neural frontiers.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 140,
+      "iconEmoji": "\ud83c\udfad"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "l1",
+  "chapterId": "ch_5",
+  "title": "Principles of Sensation: Transduction, Receptive Fields, & Sensory Coding",
+  "description": "Understand sensory transduction, receptive fields, center-surround antagonism, lateral inhibition, and Weber's law.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Sensory Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Sensory Transduction: Translating the Physical World \ud83c\udf10",
+      "content": "# The Biological Translators\n\nOur brains are locked in a dark, silent cranial vault. Every sight, sound, scent, and touch we experience must first be transformed from physical energy into the universal currency of the nervous system: electrical and chemical signals.\n\n* **Sensory Transduction**: The biophysical process by which specialized sensory receptors convert external energy (photons, mechanical pressure, sound waves, airborne chemicals) into graded **receptor potentials**.\n* **Sensory Adaptation**:\n  * **Phasic Receptors (Rapidly Adapting)**: Fire vigorously at stimulus onset/offset, then fall silent; detect change and movement (e.g., Pacinian corpuscles sensing vibration, ignoring the feel of your clothes).\n  * **Tonic Receptors (Slowly Adapting)**: Maintain continuous firing throughout the duration of a stimulus; monitor ongoing intensity (e.g., pain nociceptors, Merkel discs)."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check: Sensory Adaptation \u23f1\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Why do you stop consciously feeling the pressure of your clothes against your skin seconds after getting dressed?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Rapid sensory adaptation by phasic mechanoreceptors",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Permanent damage to cutaneous nerve endings",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Total inhibition of the spinal cord by the cerebellum",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Depletion of all acetylcholine vesicles at the skin",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Phasic mechanoreceptors adapt rapidly to constant, unvarying pressure, ceasing to fire action potentials and allowing attention to focus on novel changes.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Receptive Fields & Lateral Inhibition \ud83d\udd2c",
+      "content": "## Sharpening Edges: Lateral Inhibition\n\n* **Receptive Field**: The specific region in sensory space (e.g., a patch of retina or skin) where a stimulus alters that neuron's firing rate.\n* **Center-Surround Antagonism**:\n  * **On-Center / Off-Surround**: Light in the center increases firing; light in the surround suppresses firing.\n  * **Off-Center / On-Surround**: Light in the center suppresses firing; light in the surround excites it.\n* **Lateral Inhibition**: Active sensory neurons use inhibitory interneurons (e.g., horizontal cells in the retina) to suppress the firing of adjacent neighbors. This sharpens contrast, exaggerating borders and creating perceptual edge enhancement (e.g., **Mach Bands**)."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Check: Receptive Fields \ud83c\udfaf",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "What is the primary perceptual benefit of lateral inhibition in sensory processing?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Enhancing visual contrast and sharp edge detection",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Increasing overall brightness across uniform areas",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Eliminating all color perception in daylight",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Slowing down action potential propagation to prevent fatigue",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Lateral inhibition suppresses weakly activated neighboring cells, boosting contrast boundaries between light and dark regions.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

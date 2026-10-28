@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_6",
+  "chapterId": "ch_6",
+  "title": "Chapter 6 Mastery Quiz: Endocrine System, Circadian Rhythms & Sleep",
+  "description": "Test your mastery of the HPA axis, cortisol regulation, the SCN master clock, sleep architecture, glymphatic clearance, and sleep disorders.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch6_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary master clock governing circadian rhythms in the mammalian brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Suprachiasmatic Nucleus (SCN) of the anterior hypothalamus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Pineal gland exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Substantia nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cerebellar cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The SCN in the hypothalamus contains cell-autonomous molecular pacemakers that synchronize internal circadian timing.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q2",
+      "type": "multiple_choice",
+      "question": "In the HPA stress axis, what hormone is secreted by the hypothalamus to stimulate ACTH release from the anterior pituitary?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Corticotropin-Releasing Hormone (CRH)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Thyroid-Stimulating Hormone (TSH)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Melatonin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Growth Hormone",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "CRH is synthesized in the paraventricular nucleus of the hypothalamus and triggers pituitary ACTH secretion.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q3",
+      "type": "multiple_choice",
+      "question": "Which endocrine gland synthesizes and secretes the primary glucocorticoid stress hormone Cortisol?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Adrenal cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Posterior pituitary",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Thyroid gland",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Thymus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The adrenal cortex (specifically the zona fasciculata) secretes cortisol in response to circulating ACTH.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q4",
+      "type": "multiple_choice",
+      "question": "What is the biological effect of chronic elevated cortisol on hippocampal CA3/CA1 pyramidal neurons?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dendritic retraction, loss of spines, and neurotoxic vulnerability",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Massive acceleration of neurogenesis by 500%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Immediate calcification into bone tissue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Increased synaptic resistance to glutamate excitotoxicity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Chronic hypercortisolemia causes dendritic atrophy and synaptic loss in the hippocampus, impairing negative feedback shut-off.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q5",
+      "type": "multiple_choice",
+      "question": "What natural environmental cue is the primary Zeitgeber for entraining the human master circadian clock?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sunlight (ambient light exposure)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Ambient air humidity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Atmospheric barometric pressure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Earth's magnetic pole fluctuations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Light is the predominant Zeitgeber that entrains human circadian rhythms via the retinohypothalamic tract.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q6",
+      "type": "multiple_choice",
+      "question": "Intrinsically Photosensitive Retinal Ganglion Cells (ipRGCs) are most sensitive to which wavelength spectrum of light?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Blue light (460 to 480 nanometers)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Far-red light (700 nanometers)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Infrared light",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Ultraviolet-C light",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Melanopsin in ipRGCs exhibits peak absorption around 480 nm (blue light spectrum).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q7",
+      "type": "multiple_choice",
+      "question": "Which endocrine gland synthesizes Melatonin under the regulatory control of the SCN?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Pineal gland",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Anterior pituitary",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Adrenal medulla",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Parathyroid glands",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The pineal gland converts serotonin into melatonin during nocturnal darkness, signaling biological night.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q8",
+      "type": "multiple_choice",
+      "question": "Which brain waves predominate during calm, relaxed wakefulness with eyes closed?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Alpha waves (8 to 12 Hz)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Beta waves (13 to 30 Hz)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Delta waves (0.5 to 4 Hz)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Gamma waves (>40 Hz)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Alpha oscillations emerge prominently over the occipital cortex when an individual rests quietly with eyes shut.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q9",
+      "type": "multiple_choice",
+      "question": "What are Sleep Spindles in polysomnography?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Brief 11-16 Hz bursts of rhythmic EEG activity generated by the thalamus during Stage N2 sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sudden violent muscle contractions of the legs during REM sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Slow delta waves of less than 1 Hz in Stage N3 sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Artifacts produced by cardiac pacemaker leads",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sleep spindles are 11-16 Hz bursts generated by the thalamic reticular nucleus in N2 sleep that aid memory consolidation.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q10",
+      "type": "multiple_choice",
+      "question": "What is the primary function of K-complexes observed during Stage N2 sleep?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Protecting sleep continuity by suppressing cortical processing of non-threatening environmental noises",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Triggering immediate emotional crying",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Stimulating saliva secretion to prevent dry mouth",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Accelerating heart rate during intense nightmare dreams",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "K-complexes provide isolated cortical down-states that protect sleep continuity from disruptive ambient sounds.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q11",
+      "type": "multiple_choice",
+      "question": "Stage N3 Slow-Wave Sleep (SWS) is electrophysiologically characterized by which prominent waves?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "High-amplitude, ultra-slow Delta waves (0.5 to 4 Hz)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Rapid, low-voltage Beta waves (15 to 25 Hz)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sawtooth waves only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Continuous absence of any electrical voltage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Stage N3 (deep slow-wave sleep) requires delta waves occupying more than 20% of an epoch.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q12",
+      "type": "multiple_choice",
+      "question": "During which sleep stage does the highest surge of human Growth Hormone (GH) release occur?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Stage N3 Slow-Wave Sleep",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "REM Sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Stage N1 Sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "During wakefulness immediately before breakfast",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pulsatile secretion of growth hormone peaks sharply during slow-wave sleep (N3), supporting tissue repair and protein synthesis.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q13",
+      "type": "multiple_choice",
+      "question": "What is the biological mechanism preventing people from physically acting out their dreams during REM sleep?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Active motor atonia driven by pontine inhibitory projections using glycine and GABA to paralyze spinal motor neurons",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total exhaustion of ATP inside muscle fibers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Temporary disconnection of the optic nerves from the thalamus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete closure of the spinal central canal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "REM sleep atonia is mediated by pontine subcoeruleus neurons projecting to spinal inhibitory interneurons, hyperpolarizing motor neurons.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q14",
+      "type": "multiple_choice",
+      "question": "In the Glymphatic System discovered by Nedergaard, which astrocytic water channel facilitates bulk flow of CSF through brain tissue?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Aquaporin-4 (AQP4)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Voltage-gated calcium channel",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sodium-potassium pump",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "NMDA receptor pore",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Aquaporin-4 channels clustered on perivascular astrocyte end-feet facilitate convective CSF-interstitial fluid exchange.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q15",
+      "type": "multiple_choice",
+      "question": "By what percentage does the brain's interstitial space expand during deep Slow-Wave Sleep to flush metabolic debris?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Approximately 60%",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Only 2%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Over 500%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It shrinks by 50%",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Nedergaard et al. proved that interstitial space increases by ~60% during natural sleep, reducing hydrodynamic resistance.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q16",
+      "type": "multiple_choice",
+      "question": "What neurotoxic peptides are actively cleared from brain parenchyma by the glymphatic system during sleep?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Amyloid-beta and hyperphosphorylated tau",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Hemoglobin and platelets",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Myelin basic protein exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Keratin and melanin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Glymphatic clearance flushes out metabolic waste products including amyloid-beta and tau, which otherwise form Alzheimer's pathology.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q17",
+      "type": "multiple_choice",
+      "question": "The Synaptic Homeostasis Hypothesis (Tononi & Cirelli) posits that a core function of sleep is to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Downscale overall synaptic strength to baseline levels to restore energy balance and prevent network saturation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Increase every synapse in the cortex by 10-fold",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Eliminate all glial astrocytes from the cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Freeze all neurotransmitter vesicle production",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The SHY hypothesis proposes that slow-wave sleep renormalizes net synaptic weight increases accumulated during waking learning.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q18",
+      "type": "multiple_choice",
+      "question": "Narcolepsy with Cataplexy is caused by the autoimmune loss of neurons producing which neuropeptide?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Orexin (Hypocretin)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dopamine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Substance P",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Oxytocin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Narcolepsy Type 1 is caused by selective destruction of ~70,000 orexin/hypocretin neurons in the lateral hypothalamus.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q19",
+      "type": "multiple_choice",
+      "question": "What is Cataplexy in patients with Narcolepsy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sudden, temporary loss of voluntary muscle tone triggered by strong emotions while consciousness is preserved",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A severe convulsive seizure occurring during swimming",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Uncontrollable sleepwalking in the dark",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Total inability to open the eyes upon waking",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cataplexy involves sudden intrusion of REM atonia into wakefulness, typically provoked by laughing, joy, or surprise.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q20",
+      "type": "multiple_choice",
+      "question": "REM Sleep Behavior Disorder (RBD) is of immense diagnostic importance because it represents a strong early prodrome for:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Alpha-synucleinopathies such as Parkinson's disease and Dementia with Lewy Bodies",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Huntington's disease",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Multiple sclerosis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Amyotrophic lateral sclerosis (ALS)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Loss of REM atonia causing violent dream enactment precedes clinical motor signs of Parkinson's disease in up to 80-90% of cases.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch6_q21",
+      "type": "multiple_choice",
+      "question": "How long is a typical human ultradian NREM-REM sleep cycle in healthy adults?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Approximately 90 to 110 minutes",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Exactly 24 hours",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "15 minutes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "4 hours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adults cycle through NREM and REM stages roughly every 90-110 minutes, repeating 4-5 times per night.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q22",
+      "type": "multiple_choice",
+      "question": "What is the primary underlying pathophysiology of Obstructive Sleep Apnea (OSA)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Repeated mechanical collapse and obstruction of the upper pharyngeal airway during sleep leading to hypoxemia and micro-arousals",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Complete failure of the diaphragm muscle due to spinal trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Excessive accumulation of CSF in the fourth ventricle",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Autoimmune destruction of lung alveoli",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pharyngeal airway collapse blocks airflow, triggering nocturnal oxygen desaturations, sympathetic surges, and sleep fragmentation.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

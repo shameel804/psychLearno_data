@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_2",
+  "title": "Identifying the Stimulus Error in Everyday Perception",
+  "description": "Distinguish between raw phenomenal sensory qualities and object meaning across common objects.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Titchener defined the 'stimulus error' as confusing the physical identity or function of an object with the raw sensory elements of consciousness.\n\n### Your Objective:\nAnalyze three everyday objects (e.g., a lemon, a smartphone ringing, an old leather book) across two distinct columns:\n\n1. **Object Description (Stimulus Error)**: What is the object called, what is it used for, and what cultural meanings does it carry?\n2. **Pure Structuralist Description (Elemental Sensations)**: Describe hue, saturation, acoustic decibels, frequency wave envelopes, olfactory esters, and pressure textures.\n\nConclude by answering: Why did 20th-century functionalists and behaviorists argue that eliminating object meaning was counterproductive to understanding real human behavior?",
+  "hints": [
+    "Hint 1: Words like 'book', 'fruit', or 'call' are forbidden in a structuralist description.",
+    "Hint 2: Consider whether human survival depends on recognizing 'apple' or recognizing 'wavelength 650nm'."
+  ]
+}

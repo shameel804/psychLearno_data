@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Cracks in the Black Box: Tolman & Chomsky",
+      "description": "Trace the fall of radical behaviorism through Tolman's cognitive maps and Chomsky's devastating language critique.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Cognitive Revolution"
+    },
+    {
+      "id": "l2",
+      "title": "Information Processing & The Computer Metaphor",
+      "description": "Examine the 1950s cognitive turn, Broadbent's filter model, sensory registers, and computational architectures of mind.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Information Processing"
+    },
+    {
+      "id": "l3",
+      "title": "Pioneering Cognitive Science: Miller & Neisser",
+      "description": "Master George Miller's magical number seven, chunking mechanisms, and Ulric Neisser's defining 1967 textbook.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Cognitive Pioneers"
+    },
+    {
+      "id": "l4",
+      "title": "Neuropsychology & Memory Dissociation: Hebb & H.M.",
+      "description": "Discover Donald Hebb's synaptic plasticity rule and Brenda Milner's landmark memory findings with Patient H.M.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Cognitive Neuroscience"
+    }
+  ]
+}

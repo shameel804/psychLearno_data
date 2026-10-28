@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_2",
+  "title": "Drafting an APA-Compliant Informed Consent & Debriefing Script",
+  "description": "Construct a fully compliant informed consent document and a dehoaxing debriefing protocol for a study examining acute stress and memory.",
+  "estimatedMinutes": 15,
+  "problemStatement": "You are designing an experimental study investigating whether mild acute stress (induced via the Trier Social Stress Test: speaking in front of a stone-faced evaluation panel) impairs working memory recall in undergraduate college students.\n\n### Your Mission:\n1. **Draft an Informed Consent Form**: Write the core text for the informed consent form. Ensure it includes: (a) description of procedures, (b) realistic statement of potential discomfort, (c) clear statement of voluntary withdrawal without course penalty, (d) data confidentiality protections, and (e) IRB contact information.\n2. **Draft a Post-Study Debriefing Protocol**: Create an immediate debriefing script that explains: (a) the scientific rationale for using the evaluative panel, (b) reassurance that the evaluators were trained actors instructed not to smile (de-attribution of personal inadequacy), and (c) campus mental health resources.",
+  "hints": [
+    "Hint 1: Ensure language is accessible to a layperson (aim for an 8th-grade reading level).",
+    "Hint 2: In debriefing, it is crucial to explicitly emphasize that the panel's stony reaction was scripted and had zero bearing on the participant's actual competence."
+  ]
+}

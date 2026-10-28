@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_7",
+  "title": "Small-N & Single-Case Experimental Designs",
+  "description": "Explore rigorous experimental logic in individual subjects: ABAB reversal designs and multiple-baseline designs across behaviors and settings.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Single-Case Methodology",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Experimental Rigor in a Single Individual 🎯",
+      "content": "# Big Science with Small Samples\n\nMust an experiment test hundreds of participants to achieve causal rigor? Pioneers like B.F. Skinner and modern applied behavior analysts say **no**! In **Small-N (Single-Case) Experimental Designs**, researchers systematically manipulate an independent variable within one individual (or a very small group) using repeated, continuous measurement:\n\n* **Baseline Phase (A)**: The participant's natural, untreated behavior is continuously tracked until a stable behavioral baseline is established.\n* **Treatment Phase (B)**: The independent variable (e.g., behavioral reinforcement, medication) is introduced while tracking continues.\n\nTo rule out historical coincidences and maturation, the researcher must demonstrate that behavior changes *if and only if* the treatment is active."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Single-Case Foundation Check 🔬",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What is the primary function of establishing a stable 'Baseline (A)' phase in single-case experimental research?",
+        "options": [
+          {"id": "opt1", "text": "To establish a reliable benchmark of untreated behavior against which treatment effects can be compared", "isCorrect": true},
+          {"id": "opt2", "text": "To eliminate the need for an Institutional Review Board", "isCorrect": false},
+          {"id": "opt3", "text": "To convert the study into a double-blind trial", "isCorrect": false},
+          {"id": "opt4", "text": "To recruit 100 additional subjects", "isCorrect": false}
+        ],
+        "explanation": "The baseline establishes the natural pattern and stability of behavior prior to manipulation, serving as the subject's own internal control.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The ABAB Reversal Design 🔄",
+      "content": "## Demonstrating Experimental Control through Withdrawal\n\nThe gold standard of single-case logic is the **ABAB Reversal Design**:\n\n1. **A1 (Baseline)**: Measure baseline tantrums in a child with autism.\n2. **B1 (Treatment)**: Introduce positive token reinforcement when calm; tantrums drop dramatically.\n3. **A2 (Withdrawal / Reversal)**: Temporarily withdraw token reinforcement; tantrums return to baseline levels!\n4. **B2 (Re-introduction)**: Reintroduce tokens; tantrums plunge again.\n\nBy showing that tantrums turn 'on' and 'off' in direct lockstep with the presence or absence of the treatment, alternative explanations (history, maturation, spontaneous recovery) are thoroughly eliminated!\n\n*When ABAB Cannot Be Used*:\n* If the behavior cannot be unlearned (e.g., learning to read).\n* If reversing treatment is unethical (e.g., severe self-injurious head-banging)."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Reversal Ethics Check 🚫",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "In which clinical scenario is an ABAB reversal design strictly contraindicated and ethically prohibited?",
+        "options": [
+          {"id": "opt1", "text": "A student who talks out of turn in a classroom", "isCorrect": false},
+          {"id": "opt2", "text": "A severe self-injurious behavior (e.g., a child banging their head against concrete walls)", "isCorrect": true},
+          {"id": "opt3", "text": "An adult trying to increase daily water intake", "isCorrect": false},
+          {"id": "opt4", "text": "A worker organizing desk files", "isCorrect": false}
+        ],
+        "explanation": "Withdrawing an effective treatment that prevents dangerous, life-threatening self-injury violates the ethical principle of Beneficence (Do No Harm).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The Multiple-Baseline Alternative\n\nWhen you cannot ethically or practically reverse a behavior, use a **Multiple-Baseline Design**! Stagger the introduction of the treatment across different times for (a) multiple behaviors in one person, (b) multiple participants, or (c) multiple settings (home vs. school). If each behavior improves only when treatment begins, causality is proven without reversal!"
+    }
+  ]
+}

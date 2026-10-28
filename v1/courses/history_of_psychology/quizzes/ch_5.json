@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_5",
+  "chapterId": "ch_5",
+  "title": "Chapter 5 Mastery Quiz: The Rise of Behaviorism",
+  "description": "Demonstrate comprehensive mastery of Pavlovian conditioning, Watson's manifesto, Skinner's operant technology, and biological limits.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch5_q1",
+      "type": "multiple_choice",
+      "question": "For what scientific discovery did Ivan Pavlov win the Nobel Prize in 1904?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Physiology of digestion",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Classical conditioning of human infants",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Discovery of neurotransmitters",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The structural model of personality",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pavlov received the 1904 Nobel Prize for his physiological research on digestive secretions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q2",
+      "type": "multiple_choice",
+      "question": "In Pavlov's classical conditioning experiments, what was the meat powder placed in the dog's mouth?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conditioned Stimulus (CS)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Unconditioned Stimulus (UCS)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Conditioned Response (CR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Extinction Cue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The meat powder naturally and automatically triggered salivation without training, making it the Unconditioned Stimulus.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q3",
+      "type": "multiple_choice",
+      "question": "What process occurs when a conditioned stimulus is repeatedly presented alone without the unconditioned stimulus, causing the conditioned response to gradually diminish?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Extinction",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Generalization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Discrimination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sublimation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Extinction is the weakening and eventual disappearance of a learned response when the CS is no longer paired with the UCS.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q4",
+      "type": "multiple_choice",
+      "question": "What is 'spontaneous recovery' in classical conditioning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The sudden reappearance of an extinguished conditioned response after a rest interval",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The rapid healing of a brain lesion",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The immediate extinction of a phobia upon first exposure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The recovery of conscious memory under hypnosis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Spontaneous recovery refers to the return of an extinguished conditioned response following a delay without retraining.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q5",
+      "type": "multiple_choice",
+      "question": "A dog conditioned to salivate to a 1000 Hz tone also salivates slightly to an 800 Hz tone. What phenomenon does this illustrate?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Stimulus generalization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus discrimination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Instinctive drift",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Operant shaping",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Stimulus generalization is the tendency for stimuli similar to the CS to evoke similar conditioned responses.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q6",
+      "type": "multiple_choice",
+      "question": "What was the landmark title of John B. Watson's 1913 Columbia University lecture that launched Behaviorism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Psychology as the Behaviorist Views It",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Principles of Psychology",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Beyond Freedom and Dignity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Reflex Arc Concept in Psychology",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Watson delivered his historic 'Psychology as the Behaviorist Views It' lecture in 1913, establishing the school of Behaviorism.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q7",
+      "type": "multiple_choice",
+      "question": "In the Little Albert experiment (1920), what served as the Unconditioned Stimulus (UCS)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The loud clanging noise from striking a steel bar",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The tame white laboratory rat",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A Santa Claus mask",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A piece of burning newspaper",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The loud, frightening acoustic noise created by striking the steel bar naturally induced fear, serving as the UCS.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q8",
+      "type": "multiple_choice",
+      "question": "How did Little Albert demonstrate stimulus generalization after fear conditioning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He showed fear toward other white, furry objects like rabbits, dogs, and a Santa mask",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He refused to eat any solid food",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "He became terrified of loud music only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He refused to look at books",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Albert generalized his fear of the white rat to a white rabbit, dog, fur coat, and cotton beard.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q9",
+      "type": "multiple_choice",
+      "question": "What famous boast did John B. Watson make regarding the power of environmental conditioning over heredity?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "'Give me a dozen healthy infants... and I'll guarantee to train any one to become any type of specialist'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "'Genes determine 90% of all intellectual potential'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "'The unconscious mind cannot be influenced by conditioning'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "'Animals cannot learn without language'",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Watson asserted extreme environmentalism, boasting that he could shape any healthy infant into a doctor, lawyer, artist, or thief through conditioning.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q10",
+      "type": "multiple_choice",
+      "question": "What apparatus did Edward Thorndike construct to study trial-and-error learning in cats?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Puzzle Box",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Operant Chamber",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hipp Chronoscope",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "T-Maze",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Thorndike used custom-built wooden puzzle boxes with latches, pulleys, and treadles to study learning in cats.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q11",
+      "type": "multiple_choice",
+      "question": "What does Edward Thorndike's 'Law of Effect' state?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Responses accompanied or closely followed by satisfaction are more likely to recur",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "All learning requires insight and mental problem-solving",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sensations must be categorized into elements",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Reflexes are genetically unmodifiable",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Law of Effect posits that behaviors producing satisfying outcomes are stamped in, while those producing discomfort are stamped out.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q12",
+      "type": "multiple_choice",
+      "question": "How does Operant Conditioning differ fundamentally from Classical Conditioning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Operant conditioning focuses on voluntary behaviors influenced by consequences; Classical conditioning pairs involuntary reflexes with stimuli",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Operant conditioning uses no food or rewards",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Classical conditioning only works on humans",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Operant conditioning relies exclusively on introspection",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Classical conditioning links involuntary autonomic reflexes to antecedent stimuli; operant conditioning shapes voluntary emitted behaviors through consequences.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q13",
+      "type": "multiple_choice",
+      "question": "What is the defining characteristic of Negative Reinforcement?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Removing an unpleasant stimulus to strengthen a desired behavior",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Delivering an electrical shock to punish bad behavior",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Ignoring behavior until it undergoes extinction",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Taking away a toy to stop a child from fighting",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Negative reinforcement increases behavior frequency by terminating or escaping an aversive stimulus (e.g. taking aspirin removes a headache).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q14",
+      "type": "multiple_choice",
+      "question": "A parent confiscates their teenager's driver's license for breaking curfew, reducing the likelihood of breaking curfew again. What operant contingency is this?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Negative Punishment (Response Cost)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Positive Punishment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Negative Reinforcement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Positive Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Removing a valued stimulus (driver's license) to decrease unwanted behavior is Negative Punishment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q15",
+      "type": "multiple_choice",
+      "question": "Which schedule of reinforcement produces the highest and most steady rates of responding, and is most resistant to extinction (e.g. gambling)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Variable Ratio (VR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fixed Interval (FI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed Ratio (FR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Continuous Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Variable Ratio reinforcement delivers rewards after an unpredictable number of responses, creating powerful, compulsive persistence.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q16",
+      "type": "multiple_choice",
+      "question": "What behavioral method did B.F. Skinner use to teach complex behaviors by reinforcing successive approximations toward a target goal?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Shaping",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Extinction",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Habituation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensitization",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Shaping (differential reinforcement of successive approximations) trains novel complex behaviors step-by-step.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q17",
+      "type": "multiple_choice",
+      "question": "What 1948 utopian novel did B.F. Skinner publish portraying a society engineered entirely through positive operant reinforcement?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Walden Two",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "1984",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Brave New World",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Fahrenheit 451",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Skinner's novel 'Walden Two' depicted an intentional community flourishing through behavioral engineering and positive reinforcement.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q18",
+      "type": "multiple_choice",
+      "question": "In psychiatric hospitals and schools, what name is given to reinforcement systems where patients earn tokens exchangeable for rewards?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Token economy",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Psychoanalytic free association",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sensory deprivation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Catharsis circle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "A token economy uses secondary conditioned reinforcers (tokens) that can be exchanged for primary or backup reinforcers.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q19",
+      "type": "multiple_choice",
+      "question": "What groundbreaking finding did John Garcia establish that violated the traditional behaviorist principle of equipotentiality?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Rats readily associate taste with nausea even with hours of delay, but cannot easily associate sound with nausea",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Animals can never be conditioned with food rewards",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Conditioning only works under bright sunlight",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Extinction is impossible in rodents",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Garcia Effect demonstrated biological preparedness: evolutionary survival mechanisms dictate which stimuli can be readily paired.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q20",
+      "type": "multiple_choice",
+      "question": "What phenomenon did Keller and Marian Breland discover in 'The Misbehavior of Organisms' where animals revert to innate instincts despite operant training?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Instinctive drift",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus error",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sublimation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Latent learning",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Instinctive drift is the tendency of learned operant behaviors to gradually drift back toward innate, biological behavioral patterns.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q21",
+      "type": "multiple_choice",
+      "question": "What therapeutic approach pioneered by Ivar Lovaas relies on operant conditioning principles to treat autism spectrum disorders?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Applied Behavior Analysis (ABA)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Jungian active imagination",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Primal scream therapy",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Psychodynamic catharsis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Applied Behavior Analysis (ABA) uses operant reinforcement and shaping to develop language, academic, and social skills in autistic individuals.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q22",
+      "type": "multiple_choice",
+      "question": "What was Behaviorism's greatest overarching impact on the discipline of psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It established strict operational definitions, objective measurement, and methodological rigor across all psychology",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It proved that thinking and emotions do not biologically exist",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It replaced all pharmaceutical medicine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It eliminated the study of genetics in psychology",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Behaviorism transformed psychology into an objective science by enforcing precise operational definitions and empirical laboratory measurement.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

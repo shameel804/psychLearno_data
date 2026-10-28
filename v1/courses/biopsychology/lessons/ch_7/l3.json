@@ -1,0 +1,99 @@
+{
+  "id": "l3",
+  "chapterId": "ch_7",
+  "title": "Electrical Windows to the Mind: EEG, ERPs, & Magnetoencephalography (MEG)",
+  "description": "Explore millisecond electrophysiology: EEG postsynaptic potentials, ERP components (P300, N400, N170), and magnetic field recording via MEG.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Electrophysiology",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Electroencephalography (EEG): Direct Electrical Speed \u26a1",
+      "content": "# Capturing Thought at the Speed of Light\n\nInvented by Hans Berger in 1924, **EEG** records electrical fluctuations from the scalp with **millisecond precision**:\n\n* **Source of the Signal**: Scalp electrodes do not record individual action potentials (which cancel out over distance). Instead, they record the synchronized summation of **Excitatory and Inhibitory Postsynaptic Potentials (PSPs)** in thousands of large cortical **pyramidal neurons** aligned perpendicular to the cortical surface.\n* **Strengths**: Millisecond temporal resolution, completely non-invasive, safe, and inexpensive.\n* **Weakness**: Poor spatial resolution. The electrical current is smeared and distorted as it passes through the cerebrospinal fluid, skull bone, and scalp tissues (the **Inverse Problem**: infinite source configurations can produce identical scalp fields)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check: EEG Biophysics \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What primary bioelectrical phenomenon is recorded by scalp EEG electrodes?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Synchronous postsynaptic potentials (PSPs) of cortical pyramidal neurons aligned perpendicular to the surface",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Individual action potentials traveling along single axons in the corpus callosum",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Blood flow speed through the middle cerebral artery",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Metabolic breakdown of ATP in glial astrocytes",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "EEG measures the extracellular voltage dipoles created by synchronous postsynaptic potentials across aligned cortical pyramidal cells.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Event-Related Potentials (ERPs): Decoding Cognitive Waves \ud83c\udf0a",
+      "content": "## Averaging Away the Noise\n\nContinuous raw EEG is a chaotic blend of background brain rhythms. To isolate neural processing tied to a specific sensory or cognitive event, researchers use **Event-Related Potentials (ERPs)**:\n\n* Present the stimulus 100+ times, align the EEG epochs to stimulus onset, and **average** them. Random background noise cancels to zero, leaving a stereotyped sequence of positive (P) and negative (N) voltage deflections:\n\n| ERP Component | Latency | Typical Psychological Trigger |\n| :--- | :--- | :--- |\n| **N170** | ~170 ms | Facial processing (deflection is twice as large for faces as for cars or houses) |\n| **P300 (P3b)** | ~300-500 ms | Context updating, attention allocation to an unexpected 'oddball' target stimulus |\n| **N400** | ~400 ms | Semantic anomaly or expectancy violation (e.g., reading: 'He took a sip of his warm *bicycle*') |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Magnetoencephalography (MEG): The Ultimate Hybrid \ud83e\uddf2",
+      "content": "## Superconducting Quantum Interference Devices (SQUIDs)\n\nEvery electrical current generates an orthogonal magnetic field. **Magnetoencephalography (MEG)** records these minuscule magnetic fields (femto-Tesla scale: $10^{-15}$ Tesla, a billion times weaker than Earth's magnetic field!):\n\n* **Why MEG Outperforms EEG in Localization**: Magnetic fields pass through the brain, meninges, skull bone, and scalp **without being distorted or smeared** by skull resistivity!\n* **Best of Both Worlds**: Combines the **millisecond temporal resolution** of EEG with dramatically superior **spatial localization** (~2-5 mm).\n* *Limitation*: Requires an expensive magnetically shielded room and liquid helium cooling for cryogenic SQUID sensors."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Check: EEG vs. MEG \ud83e\uddf2",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Why does MEG achieve far better spatial localization of neural activity than EEG?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Magnetic fields pass through the skull and scalp tissue without being distorted or smeared by biological resistance",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "MEG directly injects radioactive isotopes into neurons",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "MEG freezes the patient's brain during recording",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "MEG records only from unmyelinated axons",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Because skull and scalp tissue are transparent to magnetic fields, MEG avoids the severe spatial smearing that degrades scalp EEG signals.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

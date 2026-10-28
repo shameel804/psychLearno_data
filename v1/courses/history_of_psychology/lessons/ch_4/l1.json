@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_4",
+  "title": "Sigmund Freud & The Unconscious Mind",
+  "description": "Trace Freud's transition from neurology to psychoanalysis, Anna O., free association, and the iceberg model.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Founding Psychoanalysis",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "From Neurology to the Couch \ud83d\udecb\ufe0f",
+      "content": "# The Austrian Neurologist\n\nWhile Wundt and James were analyzing conscious sensations in university laboratories, a Viennese physician named **Sigmund Freud** (1856\u20131939) was treating patients suffering from strange nervous afflictions with no apparent physical cause.\n\nIn late 19th-century Vienna, many patients (predominantly women) presented with paralysis, blindness, speech loss, or convulsions that defied neuroanatomy. This disorder was then termed **hysteria** (now recognized as conversion disorder / functional neurological disorder).\n\n### The Case of 'Anna O.' (Bertha Pappenheim)\n* Treated by Freud's mentor, physician **Josef Breuer**.\n* Breuer discovered that when Anna spoke freely about traumatic memories under hypnosis, her physical symptoms temporarily vanished.\n* Anna O. termed this the **'talking cure'** (or 'chimney sweeping').\n* In 1895, Freud and Breuer published *Studies on Hysteria*, launching psychoanalysis."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What phrase did patient 'Anna O.' (Bertha Pappenheim) coin to describe the therapeutic relief gained by verbalizing repressed feelings?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The talking cure",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The stimulus error",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The conditioned reflex",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Operant shaping",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Anna O. coined the term 'the talking cure' to describe the therapeutic catharsis of recounting distressing memories.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Iceberg of Consciousness \ud83e\uddca",
+      "content": "## Freud's Topographical Model\n\nFreud argued that conscious awareness represents only a tiny fraction of total mental activity, comparing the mind to a floating iceberg:\n\n* **The Conscious Mind**: Thoughts, perceptions, and sensations we are actively aware of right now (the tip of the iceberg visible above water).\n* **The Preconscious Mind**: Memories and latent knowledge not currently in awareness, but easily retrieved at will (just below the water surface, like your phone number).\n* **The Unconscious Mind**: A vast, submerged reservoir containing instinctual biological drives (*Eros* / life instincts, *Thanatos* / death instinct), unacceptable urges, and repressed traumatic memories.\n\nFreud believed the unconscious constantly influences conscious behavior through dreams, neurotic symptoms, artistic creations, and slips of the tongue ('Freudian slips')."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Free Association & Dream Analysis \ud83c\udf19",
+      "content": "## Unlocking the Unconscious\n\nFreud abandoned hypnosis in favor of **Free Association**: instructing the patient to lie relaxed on a couch and say whatever comes to mind without censorship.\n\nIn his 1900 masterwork, *The Interpretation of Dreams*, he called dreams the **'royal road to the unconscious'**, distinguishing between:\n* **Manifest Content**: The remembered storyline of the dream.\n* **Latent Content**: The hidden, symbolic unconscious wish disguised by the dream-work."
+    }
+  ]
+}

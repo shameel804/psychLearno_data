@@ -1,0 +1,58 @@
+{
+  "id": "l2",
+  "chapterId": "ch_6",
+  "title": "Biological Clocks: The Suprachiasmatic Nucleus & Circadian Rhythms",
+  "description": "Explore circadian master pacemaking: SCN molecular clocks, retinohypothalamic blue light cues, and pineal melatonin synthesis.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Circadian Biology",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Master Clock: Suprachiasmatic Nucleus (SCN) \u23f0",
+      "content": "# The Internal 24-Hour Conductor\n\nNearly every physiological process in our bodies\u2014body temperature, hormone release, blood pressure, alertness\u2014oscillates in a roughly **24-hour cycle** known as a **circadian rhythm** (Latin: *circa* = about, *dies* = a day).\n\n* **The Master Biological Pacemaker**: A tiny cluster of ~20,000 neurons located in the **Suprachiasmatic Nucleus (SCN)** of the anterior hypothalamus, perched directly above the optic chiasm.\n* **Autonomous Molecular Oscillators**: Even when isolated in a culture dish, individual SCN neurons maintain a self-sustaining autonomous firing rhythm driven by transcription-translation feedback loops of clock genes (**CLOCK, BMAL1, PER, CRY**) cycling over approximately 24.2 hours!"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "text",
+      "title": "Zeitgebers & The Retinohypothalamic Tract \u2600\ufe0f",
+      "content": "## Entraining to Solar Time\n\nBecause the human endogenous clock runs slightly longer than 24 hours (~24.2 hrs), it must be reset (entrained) daily by environmental time cues called **Zeitgebers** ('time-givers'), the most powerful of which is sunlight.\n\n### The Blue Light Pathway:\n1. A specialized subset of retinal cells called **Intrinsically Photosensitive Retinal Ganglion Cells (ipRGCs)** express the photopigment **melanopsin**.\n2. ipRGCs do not process images; they detect diffuse ambient irradiance, responding maximally to **short-wavelength blue light (460-480 nm)**.\n3. ipRGC axons travel along the **Retinohypothalamic Tract (RHT)** directly to the SCN, releasing glutamate to synchronize the internal clock.\n4. **Pineal Gland & Melatonin**: The SCN projects multi-synaptic inhibitory signals to the pineal gland during daylight. When darkness falls, SCN inhibition ceases, allowing the pineal gland to synthesize and surge **Melatonin** into circulation, opening the 'sleep gate'!"
+    },
+    {
+      "id": "s_l2_3",
+      "type": "quiz",
+      "title": "Check: Circadian Entrainment \ud83c\udf05",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Which photopigment in retinal ganglion cells mediates circadian entrainment by detecting ambient blue light?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Melanopsin",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Rhodopsin",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Hemoglobin",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Myoglobin",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Melanopsin is expressed in intrinsically photosensitive retinal ganglion cells (ipRGCs) and responds directly to blue light to entrain the SCN master clock.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

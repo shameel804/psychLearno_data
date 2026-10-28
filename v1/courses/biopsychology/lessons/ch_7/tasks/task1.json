@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_7",
+  "title": "Evaluating Temporal vs. Spatial Resolution Trade-Offs in Neuroimaging",
+  "description": "Select and justify optimal neuroimaging methodologies across distinct cognitive neuroscience research paradigms.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A grant panel reviews three proposed cognitive neuroscience studies:\n* **Study 1**: Investigate the exact microsecond latency differences between syntactic and semantic violation processing during sentence reading.\n* **Study 2**: Map the precise structural connectivity changes and tract integrity of the arcuate fasciculus in patients with primary progressive aphasia.\n* **Study 3**: Measure dopamine D2 receptor availability and binding density in the ventral striatum of individuals with severe gambling addiction.\n\n### Your Mission:\n1. **Methodology Pairing**: Assign the single best neuroimaging technique (ERP/EEG, DTI, or PET with [11C]-Raclopride) to each study.\n2. **Trade-Off Justification**: Explain why fMRI is inferior to ERP for Study 1, and why MRI cannot replace PET in Study 3.\n3. **Multimodal Fusion**: Propose a combined multimodal protocol (e.g., simultaneous EEG-fMRI) that circumvents individual technical limitations.",
+  "hints": [
+    "Hint 1: ERPs resolve millisecond latencies, whereas fMRI BOLD signals take 4-6 seconds to peak.",
+    "Hint 2: Only radioligand PET can selectively quantify neurotransmitter receptor binding densities."
+  ]
+}

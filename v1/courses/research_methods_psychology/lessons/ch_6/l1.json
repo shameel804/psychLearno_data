@@ -1,0 +1,67 @@
+{
+  "id": "l1",
+  "chapterId": "ch_6",
+  "title": "The Logic of the True Experiment",
+  "description": "Unlock the gold standard of causal inference: IV manipulation, experimental control, and random assignment vs. random sampling.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Experimental Logic",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Gold Standard of Causality 👑",
+      "content": "# The Architecture of a True Experiment\n\nHow do psychologists prove that X *causes* Y, rather than merely co-occurring with it? John Stuart Mill established that establishing causality requires three criteria:\n\n1. **Covariation of Cause and Effect**: When X changes, Y changes.\n2. **Temporal Precedence**: The cause (X) must occur before the effect (Y).\n3. **Elimination of Alternative Explanations (Internal Validity)**: Ruling out all confounding extraneous variables.\n\nA **true experiment** achieves this by combining two indispensable pillars: **deliberate manipulation of an independent variable** and **random assignment of participants to conditions**."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Causal Criteria Check 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which of the following is an absolute requirement for establishing that Variable X causes Variable Y?",
+        "options": [
+          {"id": "opt1", "text": "Variable X must be demonstrated to occur before Variable Y in time (temporal precedence)", "isCorrect": true},
+          {"id": "opt2", "text": "Both variables must be measured using a nominal scale", "isCorrect": false},
+          {"id": "opt3", "text": "The correlation coefficient must equal exactly +1.00", "isCorrect": false},
+          {"id": "opt4", "text": "The research must be conducted on non-human primates", "isCorrect": false}
+        ],
+        "explanation": "Temporal precedence dictates that the cause must unambiguously precede the effect in time, which experimental manipulation guarantees.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Random Sampling vs. Random Assignment ⚖️",
+      "content": "## Do Not Confuse These Two Concepts!\n\nStudents frequently confuse these two distinct randomized procedures:\n\n| Procedure | Purpose in Research | Primary Validity Supported | Example |\n| :--- | :--- | :--- | :--- |\n| **Random Sampling (Selection)** | How participants are chosen *from the population* into the study | **External Validity** (Generalizability to broader population) | Randomly drawing 200 registered voters from a national database. |\n| **Random Assignment** | How participants *within the study* are assigned to experimental vs. control groups | **Internal Validity** (Causal Inference) | Flipping a coin to put each participant into the Drug group or Placebo group. |\n\n*Why Random Assignment is Magic*: By assigning participants purely by chance, individual differences (intelligence, motivation, personality, genetics) are distributed evenly across groups, neutralizing them as systematic confounds!"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Random Assignment Discrimination 🪙",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "What is the primary scientific purpose of Random Assignment in an experiment?",
+        "options": [
+          {"id": "opt1", "text": "To ensure that the sample represents the entire nation demographically", "isCorrect": false},
+          {"id": "opt2", "text": "To equalize preexisting participant differences across treatment conditions before the manipulation begins", "isCorrect": true},
+          {"id": "opt3", "text": "To reduce the financial cost of recruiting subjects", "isCorrect": false},
+          {"id": "opt4", "text": "To guarantee that the null hypothesis is rejected", "isCorrect": false}
+        ],
+        "explanation": "Random assignment ensures that prior differences (e.g., baseline anxiety, intelligence) are balanced equally across conditions, preserving internal validity.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The Power of the Control Group\n\nA true experiment must include an adequate comparison condition. If you test a new therapy on 50 depressed patients and 40 improve, you cannot claim the therapy worked unless you compare them to a matched control group that did not receive the therapy (to rule out spontaneous remission and placebo effects)!"
+    }
+  ]
+}

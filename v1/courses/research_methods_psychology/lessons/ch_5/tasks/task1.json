@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_5",
+  "title": "Diagnosing and Rewriting Flawed Survey Items",
+  "description": "Identify double-barreled, leading, and ambiguous items in an employee satisfaction survey, providing validated, neutral rewrites.",
+  "estimatedMinutes": 12,
+  "problemStatement": "An organizational human resources department develops an internal survey intended to assess employee morale, but the survey yields confusing, contradictory results.\n\n### Your Mission:\nFor each of the three flawed items below:\n(a) Identify the exact methodological flaw (e.g., *Double-barreled, Leading/Loaded, Double Negative, Ambiguous Anchor*).\n(b) Explain why the item distorts participant responses and compromises construct validity.\n(c) Rewrite the item into one or more professionally phrased, unbiased, and psychometrically sound survey questions.\n\n* **Item 1**: *'Do you agree that our inspiring leadership team provides supportive guidance and fair quarterly bonuses?'*\n* **Item 2**: *'Do you oppose not enforcing mandatory weekend overtime hours?'*\n* **Item 3**: *'Given the overwhelming stress caused by recent corporate budget cuts, how anxious do you feel at work?'*",
+  "hints": [
+    "Hint 1: Look for conjunctions like 'and' joining two independent evaluations.",
+    "Hint 2: Notice emotionally loaded adjectives like 'inspiring' and 'overwhelming' that presuppose an answer."
+  ]
+}

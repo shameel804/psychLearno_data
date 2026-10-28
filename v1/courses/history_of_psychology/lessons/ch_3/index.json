@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Darwin's Evolutionary Impact & Galton's Legacy",
+      "description": "Examine how evolutionary adaptation reshaped psychology, continuity across species, and Galton's mental testing.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Evolutionary Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "William James & The Stream of Consciousness",
+      "description": "Explore America's foundational psychologist, The Principles of Psychology, stream of thought, and James-Lange emotion.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Functionalism"
+    },
+    {
+      "id": "l3",
+      "title": "The Chicago & Columbia Schools of Functionalism",
+      "description": "Analyze John Dewey's reflex arc manifesto, Angell's functional tenets, and Woodworth's dynamic S-O-R formula.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Functionalist Schools"
+    },
+    {
+      "id": "l4",
+      "title": "Pioneering Women: Calkins, Washburn & Ladd-Franklin",
+      "description": "Highlight the groundbreaking contributions and perseverance of early female leaders in psychological science.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Pioneers & Diversity"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "sq_biopsychology_1",
+  "title": "The Strange Case of Phineas Gage & Traumatic Brain Localization",
+  "triggerChapterIndex": 1,
+  "metadata": {
+    "type": "case_study"
+  },
+  "questions": [
+    {
+      "id": "sq1_q1",
+      "type": "multiple_choice",
+      "question": "A clinical patient presents with severe traumatic brain injury following a high-velocity projectile impact. In the immediate moments following axonal shearing, which ion's massive unregulated influx triggers initial excitotoxic depolarization?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Calcium (Ca2+) and Sodium (Na+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Potassium (K+) only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Chloride (Cl-) exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Magnesium (Mg2+)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Mechanical membrane disruption causes uncontrolled Na+ influx and massive Ca2+ entry, activating catabolic enzymes that digest the cytoskeleton.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q2",
+      "type": "multiple_choice",
+      "question": "In the hours following traumatic brain injury, which glial cells transform into active amoeboid phagocytes to clear cellular debris and apoptotic fragments?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Microglia",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Oligodendrocytes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Schwann cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Ependymal cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Microglia act as the brain's resident phagocytes, becoming amoeboid to engulf dead tissue and cellular debris.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq1_q3",
+      "type": "multiple_choice",
+      "question": "The trauma breaches the patient's cranium, tearing through the outermost, tough fibrous meningeal covering adhering to the inner skull. Which layer was breached first?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dura mater",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Pia mater",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Arachnoid mater",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Subarachnoid trabeculae",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The dura mater is the tough, inelastic outermost meningeal membrane directly adjacent to the cranium.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq1_q4",
+      "type": "multiple_choice",
+      "question": "Following the trauma, the patient exhibits an acute sympathetic surge (tachycardia, pupillary dilation, elevated arterial pressure). What is the primary postganglionic neurotransmitter driving this response at the heart?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Norepinephrine",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Acetylcholine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Serotonin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Glutamate",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Postganglionic sympathetic fibers innervating cardiac beta-1 receptors release norepinephrine.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q5",
+      "type": "multiple_choice",
+      "question": "Neurological testing reveals the patient can still withdraw their foot involuntarily when a noxious pinprick is applied to the sole. What does this confirm about the neuroanatomy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Spinal reflex arcs operate autonomously through the dorsal and ventral roots without requiring conscious cortical command",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The cerebral cortex has already fully regenerated its damaged tissue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The patient is consciously faking motor responses",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The cerebellum has taken over the role of the medulla",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Spinal reflexes are integrated locally within the gray matter of the cord, functioning even if descending cortical tracts are disrupted.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q6",
+      "type": "multiple_choice",
+      "question": "Cranial nerve examination reveals preserved spontaneous respiration, cardiac rhythm regulation, and swallowing reflexes. Which brainstem structure must remain functionally intact?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Medulla oblongata",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Corpus callosum splenium",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Prefrontal cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Lateral geniculate nucleus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The medulla oblongata houses vital autonomic centers controlling automatic respiration, cardiovascular tone, and swallowing.",
+      "xpReward": 20,
+      "difficulty": 1
+    }
+  ]
+}

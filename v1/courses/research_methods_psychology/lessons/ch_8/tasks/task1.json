@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_8",
+  "title": "Calculating Statistical Power and Distinguishing Decision Errors",
+  "description": "Calculate statistical power parameters, determine required sample sizes using effect sizes, and map Type I vs. Type II error scenarios.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A doctoral student plans an experiment testing whether 10 minutes of binaural beat meditation improves sustained attention. The expected population effect size is estimated at Cohen's d = 0.35 (a small-to-moderate effect).\n\n* The student plans to test N = 15 participants per group (Total N = 30) with an alpha level of α = 0.05.\n* A statistical power calculation reveals that with N = 30 and d = 0.35, the study's **Statistical Power is only 0.26 (26%)**.\n\n### Your Mission:\n1. **Diagnose the Risk**: What is the probability that this student will commit a **Type II Error** (failing to detect the true effect)? Explain what this means in practical terms for the student's research project.\n2. **Identify Required Sample Size**: To achieve the standard benchmark of **80% power (Power = 0.80)** at α = 0.05 for d = 0.35, approximately how many total participants would be required? (Refer to standard Cohen power tables: N ≈ 130 per group, Total N ≈ 260).\n3. **Map Decision Realities**: Construct a 2x2 matrix contrasting the student's statistical decision (Reject H0 vs. Fail to Reject H0) against true population reality (H0 True vs. H0 False), labeling Type I error, Type II error, and Power.\n4. **Ethical Implications of Underpowered Research**: Explain why conducting severely underpowered studies is considered an ethical concern regarding participant time and scientific resources.",
+  "hints": [
+    "Hint 1: Type II error probability Beta (β) = 1 - Power. If Power = 0.26, Beta = 0.74 (a 74% chance of missing the real effect!).",
+    "Hint 2: Wasting participant time on studies that have a 74% chance of failing due to statistical underpower violates the Belmont principle of Beneficence."
+  ]
+}

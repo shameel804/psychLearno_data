@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_2",
+  "title": "The Belmont Report & Institutional Review Boards (IRBs)",
+  "description": "Master the three core ethical pillars—Respect for Persons, Beneficence, and Justice—and learn how IRBs evaluate research risk.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Regulatory Governance",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Triad of the Belmont Report (1979) 🏛️",
+      "content": "# The Constitutional Framework of Research Ethics\n\nIn 1979, the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research published the **Belmont Report**, which defines three foundational ethical principles:\n\n1. **Respect for Persons**: Individuals must be treated as autonomous agents capable of self-determination. Those with diminished autonomy (e.g., children, prisoners, individuals with cognitive impairments) are entitled to special protection.\n2. **Beneficence**: Researchers must maximize potential benefits while minimizing potential risks of harm (*'Do no harm'* and conduct thorough risk-benefit analyses).\n3. **Justice**: Fair distribution of both the burdens and the benefits of research. Vulnerable or marginalized populations must not be exploited simply because they are easily accessible."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Belmont Principle Check ⚖️",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A pharmaceutical company tests a risky new antidepressant exclusively on low-income psychiatric patients, but intends to market the drug exclusively to wealthy private clinics. Which Belmont principle is violated?",
+        "options": [
+          {"id": "opt1", "text": "Respect for Persons", "isCorrect": false},
+          {"id": "opt2", "text": "Justice", "isCorrect": true},
+          {"id": "opt3", "text": "Parsimony", "isCorrect": false},
+          {"id": "opt4", "text": "Falsifiability", "isCorrect": false}
+        ],
+        "explanation": "The principle of Justice requires that the group bearing the burdens and risks of research must also share in its eventual benefits.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Institutional Review Boards (IRB) 🛡️",
+      "content": "## Who Evaluates Research Proposals?\n\nAn **Institutional Review Board (IRB)** is an independent multidisciplinary committee mandated by federal law to review and approve all research involving human participants before data collection can begin.\n\n| Level of IRB Review | Risk Threshold | Example Research Protocols |\n| :--- | :--- | :--- |\n| **Exempt Review** | Less than minimal risk | Anonymous surveys, analysis of de-identified public datasets, standard educational tests. |\n| **Expedited Review** | Minimal risk (no greater than risks encountered in daily life or routine physical exams) | Non-invasive physiological recordings (heart rate, EEG), recording healthy voice samples. |\n| **Full Board Review** | Greater than minimal risk or involves vulnerable groups | Experimental manipulation of acute stress, invasive drugs, deception, research on prisoners or children. |\n\nResearchers cannot self-certify that their study is exempt; only the IRB makes that determination."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "IRB Level Assessment 📋",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A graduate student designs an online anonymous survey investigating sleep patterns and coffee consumption in healthy adults. What level of IRB review does this typically require?",
+        "options": [
+          {"id": "opt1", "text": "Full Board Review by 10 senior physicians", "isCorrect": false},
+          {"id": "opt2", "text": "Exempt Review", "isCorrect": true},
+          {"id": "opt3", "text": "Criminal background check by state police", "isCorrect": false},
+          {"id": "opt4", "text": "No ethics compliance check of any kind", "isCorrect": false}
+        ],
+        "explanation": "Anonymous educational or behavioral surveys with adult participants presenting less than minimal risk qualify for an Exempt IRB determination.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "warning",
+      "title": "Ethical Warning ⚠️",
+      "content": "### Never Collect Data Prior to IRB Approval\n\nCollecting a single data point from a human participant before formal written IRB approval is a severe compliance violation. Federal regulators can halt all research funding at an entire university if unapproved data collection occurs!"
+    }
+  ]
+}

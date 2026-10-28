@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_6",
+  "title": "Designing Between-Subjects vs. Within-Subjects Cognitive Protocols",
+  "description": "Construct competing between-subjects and within-subjects experimental designs testing the effect of binaural beat audio on working memory.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A cognitive neuroscience laboratory wants to test whether listening to 40-Hz gamma binaural beats improves performance on an N-back working memory task compared to pink noise and silent baseline conditions.\n\n### Your Mission:\n1. **Between-Subjects Architecture**: Design a between-subjects protocol. Specify how 90 recruited participants will be randomly assigned across the three conditions (gamma beats vs. pink noise vs. silence), and explain how individual difference variance will be managed.\n2. **Within-Subjects Architecture**: Design a within-subjects repeated measures protocol for 30 participants. How many condition sequences are possible? Construct a complete counterbalancing scheme or a 3x3 Latin Square matrix to control for practice and fatigue.\n3. **Carryover Threat Assessment**: Identify one physiological or cognitive carryover risk (e.g., neural entrainment lasting after audio stops) that could compromise the within-subjects design, and specify how a 'washout period' should be implemented.\n4. **Final Recommendation**: Choose which design you recommend for the laboratory and justify your decision based on statistical power vs. internal validity.",
+  "hints": [
+    "Hint 1: For 3 conditions, complete counterbalancing requires 3! = 6 sequence orders (ABC, ACB, BAC, BCA, CAB, CBA).",
+    "Hint 2: A washout period is a rest delay between conditions allowing biological or cognitive effects to return to baseline."
+  ]
+}

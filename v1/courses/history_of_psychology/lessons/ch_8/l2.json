@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_8",
+  "title": "Evolutionary Psychology & Behavioral Genetics",
+  "description": "Understand modern sociobiology, David Buss's evolved mating strategies, twin heritability, and epigenetics.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Biological Paradigms",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Modern Evolutionary Synthesis \ud83e\uddec",
+      "content": "# The Adapted Mind\n\nIn the late 20th century, psychologists **Leda Cosmides, John Tooby, and David Buss** revitalized Darwin's insights, establishing modern **Evolutionary Psychology**.\n\nInstead of viewing the mind as a general-purpose blank computer, evolutionary psychologists argue that the human brain is a **Swiss Army Knife**: a collection of specialized, domain-specific computational modules that evolved during the Pleistocene epoch (the Environment of Evolutionary Adaptedness, or EEA) to solve recurring ancestral survival challenges:\n\n* Predator detection\n* Mate selection and reproductive competition\n* Cheater detection in social exchange\n* Kin altruism and childcare"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What metaphor do evolutionary psychologists use to depict the human brain as a collection of specialized, domain-specific modules evolved for ancestral survival?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "A Swiss Army Knife",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "A blank sheet of paper",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "A steam engine boiler",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "A single magnetic coil",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Evolutionary psychologists use the 'Swiss Army Knife' metaphor to convey that the mind possesses distinct tools evolved for specific adaptive challenges.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Behavioral Genetics & Epigenetics \ud83e\uddea",
+      "content": "# Nature AND Nurture in the Genome\n\nModern **Behavioral Genetics** utilizes large-scale twin registries (like the Minnesota Twin Study led by Thomas Bouchard) to calculate the **heritability ($h^2$)** of human traits:\n\n* General Cognitive Ability (IQ): ~50% to 70% heritable in adulthood.\n* Big Five Personality Traits (OCEAN): ~40% to 50% heritable.\n* Psychiatric Disorders (Schizophrenia, Bipolar): ~70% to 80% heritable.\n\n### The Revolution of Epigenetics\nCrucially, genes do not act as rigid deterministic puppet masters. **Epigenetics** studies how environmental factors (stress, trauma, nutrition, maternal care) add molecular chemical tags (such as DNA methylation and histone acetylation) that turn genes on or off without altering the underlying genetic code!\n\nExperience and environment directly regulate gene expression across the human lifespan."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "tip",
+      "title": "The Gene-Environment Interaction (G x E) \ud83c\udf3f",
+      "content": "## Nature via Nurture\n\nFamous studies by Terrie Moffitt and Avshalom Caspi showed that individuals carrying the low-activity MAOA gene are significantly more likely to develop antisocial behavior\u2014**but ONLY if they experienced severe child abuse**. Genetic vulnerability requires environmental triggers to manifest."
+    }
+  ]
+}

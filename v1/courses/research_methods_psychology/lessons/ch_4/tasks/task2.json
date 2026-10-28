@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_4",
+  "title": "Conducting Thematic Analysis on Qualitative Interview Transcripts",
+  "description": "Apply Braun and Clarke's 6-phase thematic framework to code qualitative transcripts from first-generation university students.",
+  "estimatedMinutes": 15,
+  "problemStatement": "You are analyzing an interview excerpt from a first-generation university student describing their transition to college: *'When I arrived at the dorms, everyone seemed to already know the hidden rules—like how to email professors or where to get textbooks cheap. I felt like an imposter who snuck in through the back door. I never asked for tutoring because I thought asking for help would prove I didn't belong here. Instead, I called my mom every night crying until she reminded me how hard our family worked to get me here.'*\n\n### Your Mission:\n1. **Generate 3 Initial Codes**: Identify three distinct text excerpts and assign each a concise conceptual code tag.\n2. **Develop a Candidate Theme**: Group your codes under one overarching candidate theme (e.g., 'Navigating the Hidden Curriculum' or 'Imposterism and Relational Buffering').\n3. **Reflexivity Check**: Qualitative researchers must practice reflexivity. Briefly reflect on how a researcher's own socioeconomic or educational background might bias their coding of this excerpt.\n4. **Triangulation Proposal**: Suggest one quantitative data source that could be combined with these qualitative interviews in a mixed-methods study design.",
+  "hints": [
+    "Hint 1: Codes should capture the essence of small text units (e.g., 'Hidden institutional rules', 'Fear of revealing perceived inadequacy').",
+    "Hint 2: A theme is an overarching pattern of shared meaning organized around a central concept."
+  ]
+}

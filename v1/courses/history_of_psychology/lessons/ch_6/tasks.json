@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Deconstructing Everyday Perceptual Illusions Using Gestalt Laws",
+      "description": "Analyze three visual optical illusions and corporate logos using Gestalt principles of organization.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Applying Maslow's Hierarchy to Modern Workplace Motivation",
+      "description": "Design an organizational talent retention framework mapping job benefits to Maslow's five need levels.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

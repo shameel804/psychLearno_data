@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Reward, Wanting vs. Liking, & The Mesolimbic Dopamine Circuit",
+      "description": "Explore motivation neurocircuitry: VTA-to-NAc dopamine, Berridge's wanting vs. liking, Schultz's reward prediction error, and addiction.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Reward & Motivation"
+    },
+    {
+      "id": "l2",
+      "title": "Acute vs. Chronic Stress: Cortisol, Neurotoxicity, & The Vulnerable Brain",
+      "description": "Examine the SAM vs. HPA axes, allostatic load, glucocorticoid neurotoxicity, hippocampal dendritic atrophy, and amygdalar hyper-reactivity.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Stress Neurobiology"
+    },
+    {
+      "id": "l3",
+      "title": "Neurobiology of Mental Illness: Neural Circuitry of Depression, Anxiety, & Schizophrenia",
+      "description": "Deconstruct psychiatric pathophysiology: monoamine and BDNF models of depression, prefrontal-amygdala decoupling in anxiety, and dopamine/NMDA models of schizophrenia.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Psychopathology"
+    },
+    {
+      "id": "l4",
+      "title": "Frontiers of Neuroscience: Brain-Computer Interfaces, Optogenetics, & Future Horizons",
+      "description": "Discover cutting-edge neurotechnologies: intracortical motor BCIs, closed-loop DBS, neural prosthetics, and the emerging neuroethics of mind decoding.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Frontiers & Neuroethics"
+    }
+  ]
+}

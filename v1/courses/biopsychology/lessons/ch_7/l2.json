@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_7",
+  "title": "Functional Brain Imaging: fMRI, BOLD Contrast, & PET Radiotracers",
+  "description": "Master hemodynamic imaging: PET positron annihilation, fMRI BOLD hemodynamic response, subtraction logic, and neurovascular coupling.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Functional Imaging",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Positron Emission Tomography (PET): Molecular Tracers \u2622\ufe0f",
+      "content": "# Visualizing Chemistry & Metabolism\n\n**Positron Emission Tomography (PET)** measures regional metabolism, blood flow, and receptor pharmacology:\n\n1. A minute amount of a biologically active molecule tagged with a short-lived positron-emitting radioisotope (e.g., $^{18}F$-fluorodeoxyglucose - FDG) is injected into the bloodstream.\n2. Active brain regions consuming more glucose accumulate more FDG.\n3. The isotope decays, releasing a positron that collides with an electron. This **annihilation event** emits two high-energy **511 keV gamma rays** traveling in exact opposite directions (180 degrees apart).\n4. Ring detectors calculate the coincidence lines to reconstruct 3D tracer distribution.\n\n*Clinical Limitation*: Involves ionizing radiation; temporal resolution is poor (tens of seconds to minutes)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "text",
+      "title": "Functional MRI & The BOLD Signal \ud83c\udf0a",
+      "content": "# Blood Oxygen Level-Dependent (BOLD) Contrast\n\nIntroduced by Seiji Ogawa in 1990, **fMRI** does not directly record electrical neural firing; it records **neurovascular coupling** via the **BOLD effect**:\n\n1. **Neural Activation**: When a brain area engages in cognitive work, local neurons consume oxygen.\n2. **Overcompensating Blood Influx**: Within 1-2 seconds, cerebral vessels dilate, flooding the local capillary bed with oxygenated blood that vastly exceeds metabolic consumption.\n3. **Magnetic Contrast**:\n   * **Deoxygenated Hemoglobin**: Paramagnetic (distorts the local magnetic field, accelerating signal decay).\n   * **Oxygenated Hemoglobin**: Diamagnetic (does not disrupt the magnetic field).\n4. **Result**: The sudden surge of diamagnetic oxyhemoglobin elevates the local MR signal! This rise peaks at ~4-6 seconds, forming the **Hemodynamic Response Function (HRF)**."
+    },
+    {
+      "id": "s_l2_3",
+      "type": "quiz",
+      "title": "Check: The BOLD Signal \ud83d\udcc8",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What physiological change directly generates the increased signal measured in BOLD fMRI?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "A local influx of oxygenated hemoglobin that displaces paramagnetic deoxygenated hemoglobin",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Direct detection of sodium ions flowing through voltage-gated channels",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Rapid proliferation of new astrocytes during mental concentration",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Annihilation of positrons with electrons in cerebral veins",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "fMRI detects the BOLD signal: active neural regions trigger hyperemic oversupply of diamagnetic oxyhemoglobin, reducing field distortion.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Cognitive Subtraction: Isolating Mental Processes \ud83e\uddee",
+      "content": "## The Subtraction Logic (Donders)\n\nThe brain is never 'silent'; it consumes ~20% of the body's energy even at complete rest! Therefore, an fMRI image cannot simply show absolute activation.\n\n* **Cognitive Subtraction**: Researchers compare brain activation during an **experimental task** with a carefully matched **control baseline task** that differs by only one specific cognitive operation.\n* *Example*:\n  * Experimental Task: Viewing pictures of faces.\n  * Control Task: Viewing scrambled pictures of the same colors and luminance.\n  * Subtraction: $[Activation_{Faces}] - [Activation_{Scrambled}] = [Face-Specific\text{ }Processing\text{ }(FFA)]$\n* *Trade-off*: fMRI provides excellent spatial resolution (~1-3 mm), but sluggish temporal resolution (2-3 seconds) due to hemodynamic latency."
+    }
+  ]
+}

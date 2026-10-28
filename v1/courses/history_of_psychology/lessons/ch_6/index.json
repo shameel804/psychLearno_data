@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Gestalt Principles: The Whole & Perception",
+      "description": "Explore Wertheimer's Phi Phenomenon, the revolt against elementalism, and Gestalt laws of perceptual organization.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Gestalt Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "Insight Learning & Field Theory: K\u00f6hler & Lewin",
+      "description": "Analyze K\u00f6hler's chimpanzee experiments on Tenerife, 'Aha!' problem-solving, and Lewin's social field theory.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Gestalt Applications"
+    },
+    {
+      "id": "l3",
+      "title": "Humanism: The Third Force & Carl Rogers",
+      "description": "Understand the humanistic revolt against determinism, person-centered therapy, and unconditional positive regard.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Humanistic Psychology"
+    },
+    {
+      "id": "l4",
+      "title": "Abraham Maslow & Self-Actualization",
+      "description": "Examine the hierarchy of needs, deficiency vs growth motives, peak experiences, and positive psychology roots.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Human Flourishing"
+    }
+  ]
+}

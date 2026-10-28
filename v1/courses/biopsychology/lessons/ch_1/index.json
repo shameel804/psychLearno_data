@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Cellular Architecture: Neurons & The Glial Support Matrix",
+      "description": "Understand the morphology of neurons, dendritic spines, axonal transport, and the vital functions of astrocytes, oligodendrocytes, and microglia.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Cellular Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "The Electrochemical Spark: Resting Potential & The Action Potential",
+      "description": "Master membrane biophysics: ion distributions, the sodium-potassium pump, voltage-gated ion channels, refractory periods, and saltatory conduction.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Electrophysiology"
+    },
+    {
+      "id": "l3",
+      "title": "Synaptic Transmission: Chemical Messengers & Receptor Mechanisms",
+      "description": "Explore calcium influx, vesicular exocytosis, ligand-gated ionotropic vs. metabotropic receptors, EPSPs, IPSPs, and spatial/temporal summation.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Synaptic Dynamics"
+    },
+    {
+      "id": "l4",
+      "title": "Neurotransmitters & Neuromodulators: The Chemical Palette",
+      "description": "Examine the major neurotransmitter systems: Glutamate, GABA, Acetylcholine, Dopamine, Serotonin, and Norepinephrine, along with receptor kinetics.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Neurochemistry"
+    }
+  ]
+}

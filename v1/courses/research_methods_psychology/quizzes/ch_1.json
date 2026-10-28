@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_1",
+  "chapterId": "ch_1",
+  "title": "Chapter 1 Mastery Quiz: Scientific Foundations & Research Methods",
+  "description": "Test your mastery of empiricism, falsifiability, theories vs. hypotheses, operational definitions, and scientific goals.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "type": "multiple_choice",
+      "question": "What is the defining characteristic of systematic empiricism in psychological science?",
+      "options": [
+        {"id": "opt1", "text": "Relying on philosophical meditation and pure logical deductions", "isCorrect": false},
+        {"id": "opt2", "text": "Basing conclusions on structured, verifiable observations of the natural world", "isCorrect": true},
+        {"id": "opt3", "text": "Trusting the personal testimonials of charismatic authorities", "isCorrect": false},
+        {"id": "opt4", "text": "Accepting beliefs that feel intuitively self-evident", "isCorrect": false}
+      ],
+      "explanation": "Empiricism means gaining knowledge through direct, systematic observation and structured sensory experience rather than intuition or dogma.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q2",
+      "type": "multiple_choice",
+      "question": "Which cognitive bias leads people to falsely believe after an event that they predicted it all along?",
+      "options": [
+        {"id": "opt1", "text": "Confirmation bias", "isCorrect": false},
+        {"id": "opt2", "text": "Hindsight bias", "isCorrect": true},
+        {"id": "opt3", "text": "Availability heuristic", "isCorrect": false},
+        {"id": "opt4", "text": "Anchoring effect", "isCorrect": false}
+      ],
+      "explanation": "Hindsight bias (the 'knew-it-all-along' effect) makes outcomes appear inevitable after they have occurred.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q3",
+      "type": "multiple_choice",
+      "question": "According to Karl Popper, what quality must an empirical theory possess to be considered genuinely scientific?",
+      "options": [
+        {"id": "opt1", "text": "It must be mathematically impossible to refute", "isCorrect": false},
+        {"id": "opt2", "text": "It must be capable of explaining every conceivable outcome", "isCorrect": false},
+        {"id": "opt3", "text": "It must be falsifiable through observable evidence", "isCorrect": true},
+        {"id": "opt4", "text": "It must align with common-sense folk wisdom", "isCorrect": false}
+      ],
+      "explanation": "Popper established falsifiability: a scientific theory must specify conditions or observations that could theoretically prove it false.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q4",
+      "type": "multiple_choice",
+      "question": "A researcher begins with a broad theory of working memory and deduces a specific prediction about driving performance while talking on a phone. This process is an example of:",
+      "options": [
+        {"id": "opt1", "text": "Inductive reasoning", "isCorrect": false},
+        {"id": "opt2", "text": "Deductive reasoning", "isCorrect": true},
+        {"id": "opt3", "text": "Serendipitous discovery", "isCorrect": false},
+        {"id": "opt4", "text": "Spurious correlation", "isCorrect": false}
+      ],
+      "explanation": "Deductive reasoning is top-down logic that moves from general premises or theories to specific testable hypotheses.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q5",
+      "type": "multiple_choice",
+      "question": "What is the primary function of an operational definition in psychology?",
+      "options": [
+        {"id": "opt1", "text": "To define terms using complex philosophical vocabulary", "isCorrect": false},
+        {"id": "opt2", "text": "To specify the exact procedures and measurements used to quantify an abstract construct", "isCorrect": true},
+        {"id": "opt3", "text": "To ensure that experiments yield statistically significant results", "isCorrect": false},
+        {"id": "opt4", "text": "To obtain legal copyright protection for a survey instrument", "isCorrect": false}
+      ],
+      "explanation": "An operational definition translates an abstract psychological construct into concrete, observable, and measurable operations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q6",
+      "type": "multiple_choice",
+      "question": "Which of the following is an operational definition of 'sleep deprivation'?",
+      "options": [
+        {"id": "opt1", "text": "Feeling very tired and drowsy throughout the afternoon", "isCorrect": false},
+        {"id": "opt2", "text": "Remaining awake continuously for exactly 36 consecutive hours under EEG monitoring", "isCorrect": true},
+        {"id": "opt3", "text": "Having a deficient circadian spirit", "isCorrect": false},
+        {"id": "opt4", "text": "Desiring to stay in bed longer than usual", "isCorrect": false}
+      ],
+      "explanation": "Continuous wakefulness for 36 hours under EEG monitoring provides an objective, precise, and replicable operational procedure.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q7",
+      "type": "multiple_choice",
+      "question": "Which scientific goal is addressed when an investigator discovers that high school GPA correlates strongly with college graduation rates?",
+      "options": [
+        {"id": "opt1", "text": "Prediction", "isCorrect": true},
+        {"id": "opt2", "text": "Causal explanation", "isCorrect": false},
+        {"id": "opt3", "text": "Behavioral control", "isCorrect": false},
+        {"id": "opt4", "text": "Intuitive synthesis", "isCorrect": false}
+      ],
+      "explanation": "Using knowledge of one variable (GPA) to forecast the likelihood of another outcome (graduation) represents scientific prediction.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q8",
+      "type": "multiple_choice",
+      "question": "Which of the four core goals of psychological science requires a true experiment with random assignment?",
+      "options": [
+        {"id": "opt1", "text": "Description", "isCorrect": false},
+        {"id": "opt2", "text": "Prediction", "isCorrect": false},
+        {"id": "opt3", "text": "Explanation (Cause and Effect)", "isCorrect": true},
+        {"id": "opt4", "text": "Documentation", "isCorrect": false}
+      ],
+      "explanation": "Only true experimental designs with manipulation of an independent variable and random assignment can establish causal explanation.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q9",
+      "type": "multiple_choice",
+      "question": "The principle of parsimony (Occam's Razor) advises researchers to:",
+      "options": [
+        {"id": "opt1", "text": "Always select the theory with the most complex mathematical formulas", "isCorrect": false},
+        {"id": "opt2", "text": "Prefer the simplest explanation that successfully accounts for all observed evidence", "isCorrect": true},
+        {"id": "opt3", "text": "Reject any theory that contradicts religious tradition", "isCorrect": false},
+        {"id": "opt4", "text": "Only collect data that can be analyzed in under one hour", "isCorrect": false}
+      ],
+      "explanation": "Parsimony dictates that when multiple explanations account for the empirical data, the one making the fewest assumptions should be preferred.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q10",
+      "type": "multiple_choice",
+      "question": "Why is peer review considered a critical safeguard in psychological science?",
+      "options": [
+        {"id": "opt1", "text": "It guarantees that no published study will ever contain errors", "isCorrect": false},
+        {"id": "opt2", "text": "Independent experts critically evaluate study methodology, statistics, and conclusions before publication", "isCorrect": true},
+        {"id": "opt3", "text": "It ensures that only government-funded studies get published", "isCorrect": false},
+        {"id": "opt4", "text": "It eliminates the need for replication studies", "isCorrect": false}
+      ],
+      "explanation": "Peer review acts as quality control where external experts scrutinize methods, validity, and conclusions to prevent flawed or fraudulent work from entering scientific literature.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q11",
+      "type": "multiple_choice",
+      "question": "A fortune teller states: 'A mysterious event will surprise someone you care about sometime soon.' Why does this claim fail scientific standards?",
+      "options": [
+        {"id": "opt1", "text": "It is written in English rather than Latin", "isCorrect": false},
+        {"id": "opt2", "text": "It is so vague that it cannot be disproven, violating falsifiability", "isCorrect": true},
+        {"id": "opt3", "text": "It violates the principle of informed consent", "isCorrect": false},
+        {"id": "opt4", "text": "It requires an excessive sample size to test", "isCorrect": false}
+      ],
+      "explanation": "Because any event can be construed as 'mysterious' and 'someone you care about' is ill-defined, the statement cannot be falsified.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q12",
+      "type": "multiple_choice",
+      "question": "What is confirmation bias?",
+      "options": [
+        {"id": "opt1", "text": "A psychological condition characterized by persistent memory loss", "isCorrect": false},
+        {"id": "opt2", "text": "The tendency to search for, interpret, and recall information that confirms preexisting beliefs", "isCorrect": true},
+        {"id": "opt3", "text": "The statistical test used to verify the normality of a distribution", "isCorrect": false},
+        {"id": "opt4", "text": "The requirement that participants confirm their attendance before an experiment", "isCorrect": false}
+      ],
+      "explanation": "Confirmation bias leads individuals to selectively focus on evidence confirming their existing theories while ignoring conflicting facts.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q13",
+      "type": "multiple_choice",
+      "question": "A researcher observes 100 toddlers in different daycare centers and notices that children who share toys receive more reciprocal smiles. From these observations, the researcher proposes a general theory of prosocial reciprocity. What type of reasoning is this?",
+      "options": [
+        {"id": "opt1", "text": "Inductive reasoning", "isCorrect": true},
+        {"id": "opt2", "text": "Deductive reasoning", "isCorrect": false},
+        {"id": "opt3", "text": "Reductionist reasoning", "isCorrect": false},
+        {"id": "opt4", "text": "Circular reasoning", "isCorrect": false}
+      ],
+      "explanation": "Inductive reasoning moves from specific observations (daycare interactions) to general theoretical principles (theory of reciprocity).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q14",
+      "type": "multiple_choice",
+      "question": "Which of the following best exemplifies a 'hypothetical construct'?",
+      "options": [
+        {"id": "opt1", "text": "Number of words recalled on a memory test", "isCorrect": false},
+        {"id": "opt2", "text": "Systolic blood pressure in mmHg", "isCorrect": false},
+        {"id": "opt3", "text": "Emotional resilience", "isCorrect": true},
+        {"id": "opt4", "text": "Reaction time in milliseconds", "isCorrect": false}
+      ],
+      "explanation": "Emotional resilience is an unobservable, theoretical construct that must be inferred from observable indicators.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q15",
+      "type": "multiple_choice",
+      "question": "Triangulation in psychological research refers to:",
+      "options": [
+        {"id": "opt1", "text": "Using a triangular geometric chart to display correlation matrices", "isCorrect": false},
+        {"id": "opt2", "text": "Employing multiple methods or operational definitions to assess the same theoretical construct", "isCorrect": true},
+        {"id": "opt3", "text": "Testing three independent variables simultaneously in every study", "isCorrect": false},
+        {"id": "opt4", "text": "Conducting studies exclusively across three geographical locations", "isCorrect": false}
+      ],
+      "explanation": "Triangulation involves converging multiple operational measures (e.g., behavioral, self-report, physiological) to robustly measure a single construct.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q16",
+      "type": "multiple_choice",
+      "question": "Which of the following statements about scientific theories is accurate?",
+      "options": [
+        {"id": "opt1", "text": "A theory is simply a casual guess that lacks empirical support", "isCorrect": false},
+        {"id": "opt2", "text": "Once a theory is validated, it becomes immutable dogma and cannot be modified", "isCorrect": false},
+        {"id": "opt3", "text": "Theories organize existing empirical findings and generate new, testable hypotheses", "isCorrect": true},
+        {"id": "opt4", "text": "Theories can be proven with 100% mathematical certainty in psychology", "isCorrect": false}
+      ],
+      "explanation": "Theories serve as structured frameworks that synthesize existing data and guide future empirical hypotheses; science never claims absolute 100% proof.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q17",
+      "type": "multiple_choice",
+      "question": "If a clinical psychologist develops a novel biofeedback protocol to help veterans lower their heart rate during panic episodes, which scientific goal is being fulfilled?",
+      "options": [
+        {"id": "opt1", "text": "Description", "isCorrect": false},
+        {"id": "opt2", "text": "Prediction", "isCorrect": false},
+        {"id": "opt3", "text": "Control & Application", "isCorrect": true},
+        {"id": "opt4", "text": "Demarcation", "isCorrect": false}
+      ],
+      "explanation": "Applying psychological methods to manage, improve, or alter real-world behavior or symptoms falls under the goal of Control and Application.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q18",
+      "type": "multiple_choice",
+      "question": "What is the primary danger of relying on anecdotal evidence to draw psychological conclusions?",
+      "options": [
+        {"id": "opt1", "text": "Anecdotes are too difficult to read", "isCorrect": false},
+        {"id": "opt2", "text": "Anecdotes lack systematic controls, are vulnerable to bias, and cannot be generalized", "isCorrect": true},
+        {"id": "opt3", "text": "Anecdotes require expensive laboratory equipment", "isCorrect": false},
+        {"id": "opt4", "text": "The APA strictly prohibits publishing personal case studies under any circumstances", "isCorrect": false}
+      ],
+      "explanation": "Anecdotes do not account for confounding variables, placebo effects, or spontaneous recovery, making them unreliable for causal or generalizable claims.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q19",
+      "type": "multiple_choice",
+      "question": "Why is exact replication essential to the integrity of psychological science?",
+      "options": [
+        {"id": "opt1", "text": "It guarantees that researchers receive double the citation count", "isCorrect": false},
+        {"id": "opt2", "text": "It verifies that findings are genuine and robust rather than artifacts of chance or specific sample quirks", "isCorrect": true},
+        {"id": "opt3", "text": "It allows researchers to skip institutional ethics review", "isCorrect": false},
+        {"id": "opt4", "text": "It converts correlational studies into true experiments automatically", "isCorrect": false}
+      ],
+      "explanation": "Replication confirms that an empirical finding is reproducible across different laboratories, samples, and contexts rather than being a random fluke.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q20",
+      "type": "multiple_choice",
+      "question": "In what way does scientific psychology differ from folk psychology (common sense)?",
+      "options": [
+        {"id": "opt1", "text": "Folk psychology uses double-blind experiments, whereas scientific psychology relies on introspection", "isCorrect": false},
+        {"id": "opt2", "text": "Scientific psychology empirically tests assumptions and controls for cognitive biases", "isCorrect": true},
+        {"id": "opt3", "text": "Folk psychology is always 100% false, whereas scientific psychology is infallible", "isCorrect": false},
+        {"id": "opt4", "text": "Scientific psychology only studies non-human animals", "isCorrect": false}
+      ],
+      "explanation": "While folk psychology relies on unexamined intuitions and contradictory proverbs, scientific psychology systematically tests claims with rigorous empirical controls.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q21",
+      "type": "multiple_choice",
+      "question": "Which of the following is an example of an operational definition of 'romantic attraction'?",
+      "options": [
+        {"id": "opt1", "text": "A mystical bond joining two kindred spirits together", "isCorrect": false},
+        {"id": "opt2", "text": "Seconds of mutual eye contact maintained during a 5-minute unstructured conversation", "isCorrect": true},
+        {"id": "opt3", "text": "A deep feeling of warmth in one's chest", "isCorrect": false},
+        {"id": "opt4", "text": "The subconscious yearning for psychological completion", "isCorrect": false}
+      ],
+      "explanation": "Duration of mutual eye contact in seconds is an observable, quantifiable behavioral measurement.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q22",
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the relationship between data collection and theory revision in the scientific loop?",
+      "options": [
+        {"id": "opt1", "text": "If data contradict a theory, the data must be discarded to preserve theoretical coherence", "isCorrect": false},
+        {"id": "opt2", "text": "Empirical data provide the reality check that forces scientists to refine, narrow, or replace existing theories", "isCorrect": true},
+        {"id": "opt3", "text": "Theories are developed only after 100 years of data collection without hypotheses", "isCorrect": false},
+        {"id": "opt4", "text": "Data collection is optional if the theory is mathematically elegant", "isCorrect": false}
+      ],
+      "explanation": "In science, empirical observation is paramount: when reproducible data conflict with a theory, the theory must be revised or discarded.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

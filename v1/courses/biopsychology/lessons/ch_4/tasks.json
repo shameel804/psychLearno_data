@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Designing a Tachistoscopic Split-Brain Visual Field Protocol",
+      "description": "Construct an experimental protocol to test lateralized processing in surgical callosotomy patients using chimeric faces and words.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Molecular Modeling of Hebbian Long-Term Potentiation (LTP) at the Synapse",
+      "description": "Deconstruct the biophysical cascade of LTP induction, NMDA coincidence detection, CaMKII activation, and AMPA receptor insertion.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

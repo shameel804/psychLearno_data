@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_5",
+  "chapterId": "ch_5",
+  "title": "Chapter 5 Mastery Quiz: Sensory & Motor Systems",
+  "description": "Test your mastery of sensory transduction, retinal pathways, dual visual streams, audition, somatosensory homunculus, gate control theory, and motor tracts.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch5_q1",
+      "type": "multiple_choice",
+      "question": "What is the biological definition of 'sensory transduction'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The transformation of physical environmental energy into electrical receptor potentials",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The conscious emotional appraisal of a sensory memory",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The voluntary motor command sent to a contracting muscle",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The transport of cerebrospinal fluid through the central canal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Transduction converts physical stimuli (light, pressure, chemicals) into neuronal graded potentials.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q2",
+      "type": "multiple_choice",
+      "question": "Which photoreceptors are concentrated in the central fovea and are responsible for high-acuity color vision in daylight?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cones",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Rods",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pacinian corpuscles",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Horizontal cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cones mediate photopic (daylight) high-acuity color vision and are packed densely in the fovea centralis.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q3",
+      "type": "multiple_choice",
+      "question": "Rods differ fundamentally from cones in that rods:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Possess extreme light sensitivity, operate in dim light, and exhibit high neural convergence",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Contain three distinct photopigments for red, green, and blue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Are found exclusively inside the fovea centralis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Synapse directly onto corticospinal motor neurons",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rods operate in scotopic (dim) lighting, lack color discrimination, and exhibit high convergence onto ganglion cells.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q4",
+      "type": "multiple_choice",
+      "question": "What causes the physiological 'blind spot' in each human eye?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The optic disc where ganglion cell axons bundle to exit the eye as the optic nerve, devoid of photoreceptors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A natural tear in the corneal epithelium",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Excessive density of rods blocking incoming photons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The shadow cast by the iris under bright light",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The optic disc contains no rods or cones because it is the exit point for the optic nerve bundle.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q5",
+      "type": "multiple_choice",
+      "question": "At the Optic Chiasm, what happens to axons originating from the nasal hemiretinas?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They cross the midline to the contralateral optic tract",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "They continue straight without crossing on the ipsilateral side",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "They terminate in the olfactory bulb",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They synapse directly onto the primary motor cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Nasal hemiretina axons decussate at the chiasm, while temporal hemiretina axons stay uncrossed.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q6",
+      "type": "multiple_choice",
+      "question": "What Nobel Prize-winning feature did David Hubel and Torsten Wiesel discover about Primary Visual Cortex (V1) neurons?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They respond selectively to bars and edges of specific orientations",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "They respond exclusively to pure diffuse circular light flashes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "They fire only when the subject is completely asleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They can directly synthesize glucose from sunlight",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hubel & Wiesel demonstrated that V1 simple and complex cortical neurons act as feature detectors tuned to oriented bars and edges.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q7",
+      "type": "multiple_choice",
+      "question": "The Dorsal Visual Stream projects from V1 toward which cortical destination?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Posterior parietal cortex ('Where / How' pathway)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Inferior temporal cortex ('What' pathway)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Broca's area exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Primary somatosensory postcentral gyrus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The dorsal stream terminates in the posterior parietal cortex, governing spatial awareness and visually guided action.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q8",
+      "type": "multiple_choice",
+      "question": "Akinetopsia (the selective inability to perceive fluid visual motion) is caused by damage to which cortical visual area?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Area MT / V5",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Area V4",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fusiform Face Area",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Primary auditory cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cortical area MT/V5 in the dorsal stream is specialized for motion processing; bilateral lesions produce motion blindness (akinetopsia).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q9",
+      "type": "multiple_choice",
+      "question": "Visual Object Agnosia (inability to recognize objects visually despite intact visual acuity) results from damage to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The ventral visual stream in the inferior temporal cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The dorsal visual stream in the parietal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The optic chiasm exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The semicircular canals of the inner ear",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Damage to the ventral 'what' pathway in the inferior temporal cortex produces apperceptive or associative visual agnosia.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q10",
+      "type": "multiple_choice",
+      "question": "The three auditory ossicles that amplify sound pressure in the middle ear are the:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Malleus (hammer), Incus (anvil), and Stapes (stirrup)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cochlea, Vestibule, and Semicircular canal",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Tympanum, Pinna, and Lobule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dura, Arachnoid, and Pia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The malleus, incus, and stapes form an impedance-matching mechanical lever system amplifying airborne vibrations onto the oval window.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q11",
+      "type": "multiple_choice",
+      "question": "What mechanically gated ion influx directly depolarizes inner hair cells in the cochlea when stereocilia deflect?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Potassium (K+) influx from the high-potassium endolymph",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Chloride (Cl-) influx",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hydrogen ion influx",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Magnesium ion efflux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Endolymph surrounding stereocilia has an unusually high K+ concentration (~150 mM); opening tip link channels drives K+ into hair cells, causing depolarization.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q12",
+      "type": "multiple_choice",
+      "question": "Tonotopic organization of the basilar membrane dictates that low-frequency sounds (e.g., 50 Hz) maximally displace:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The wide, flexible apex of the cochlea near the helicotrema",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The narrow, stiff base near the oval window",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The ossicles in the middle ear only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The auditory nerve sheath",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Low frequencies travel to the wide, floppy cochlear apex before causing peak basilar membrane displacement.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q13",
+      "type": "multiple_choice",
+      "question": "In Wilder Penfield's Sensory Homunculus, why do the human hands and lips occupy vastly more cortical area than the back or legs?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They possess an exceptionally high density of sensory receptors with small receptive fields (cortical magnification)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "They contain more bone mass than the trunk",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "They receive direct blood flow from the carotid artery without capillaries",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Their sensory neurons have no myelin sheaths",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cortical magnification reflects the disproportionate number of sensory afferents and fine discrimination capacity of hands and lips.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q14",
+      "type": "multiple_choice",
+      "question": "Which cutaneous mechanoreceptor adapts rapidly and is exquisitely sensitive to high-frequency vibrations (e.g., 250 Hz)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Pacinian corpuscle",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Merkel disc",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Ruffini ending",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Free nerve ending",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pacinian corpuscles have concentric lamellar onion-like capsules that filter static pressure, responding maximally to rapid vibrations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q15",
+      "type": "multiple_choice",
+      "question": "Fast, sharp, localized 'first pain' is conducted to the central nervous system via which fibers?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A-delta (A\u03b4) fibers",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Unmyelinated C fibers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A-alpha fibers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Postganglionic sympathetic fibers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Lightly myelinated A-delta fibers conduct initial sharp pain rapidly, whereas unmyelinated C fibers conduct slow, dull, burning secondary pain.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q16",
+      "type": "multiple_choice",
+      "question": "According to the Gate Control Theory of pain, descending analgesic signals from the brainstem periaqueductal gray (PAG) suppress pain by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Releasing endogenous endorphins and activating inhibitory interneurons in the spinal cord dorsal horn",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Severing the peripheral motor nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Shutting down all brain oxygen consumption",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Paralyzing the vocal cords so the person cannot complain",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "PAG activation drives descending serotonergic and noradrenergic pathways that stimulate enkephalinergic spinal interneurons to close the pain gate.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q17",
+      "type": "multiple_choice",
+      "question": "What type of neurons in the premotor cortex fire both when executing an action and when observing another individual perform that same action?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Mirror neurons",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Purkinje cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Betz cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Granule cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Mirror neurons, discovered by Rizzolatti et al., provide a potential neural substrate for action understanding, imitation, and empathy.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch5_q18",
+      "type": "multiple_choice",
+      "question": "Approximately what percentage of fibers in the human corticospinal tract cross the midline at the medullary pyramidal decussation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Approximately 85% to 90%",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Exactly 100%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Only 10%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Fibers never cross the midline",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "About 90% of corticospinal axons cross in the medullary pyramids to form the lateral corticospinal tract.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q19",
+      "type": "multiple_choice",
+      "question": "A patient with an Upper Motor Neuron (UMN) lesion (e.g., following a cortical stroke) typically exhibits:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Spasticity, hyperreflexia, and a positive Babinski sign",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Flaccid paralysis, absent reflexes, and severe rapid muscle fasciculations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Total loss of pain sensation with completely normal motor tone",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Intention tremor only without any weakness",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "UMN damage removes descending cortical inhibition, resulting in spastic hypertonia, hyperactive deep tendon reflexes, and an extensor plantar (Babinski) response.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q20",
+      "type": "multiple_choice",
+      "question": "A Lower Motor Neuron (LMN) lesion affecting the ventral horn motor cells produces:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Flaccid paralysis, muscle atrophy, fasciculations, and hyporeflexia",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Clasp-knife spastic rigidity and hyperreflexia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Resting pill-rolling tremor and chorea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of short-term declarative memory",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "LMN lesions disconnect muscles from nervous input entirely, causing flaccid paralysis, loss of reflexes, fasciculations, and severe denervation atrophy.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q21",
+      "type": "multiple_choice",
+      "question": "What is Weber's Law in sensory psychophysics?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Just Noticeable Difference (JND) is a constant proportion of the initial stimulus intensity (\u0394I / I = k)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sensory perception increases as an exponential square of action potential velocity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "All sensory modalities travel along the exact same speed in unmyelinated axons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pain thresholds are identical in all human beings regardless of age",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Weber's Law states that the ratio of the increment threshold to the background intensity is a constant fraction across sensory dimensions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch5_q22",
+      "type": "multiple_choice",
+      "question": "Prosopagnosia is a selective neurovisual deficit characterized by the inability to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Recognize familiar human faces, despite preserved ability to recognize other common objects",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Perceive visual objects moving across the visual field",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Distinguish between red and green colors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Guide the hand to reach out and grasp an object in space",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Prosopagnosia ('face blindness') results from lesions to the fusiform face area (FFA) in the ventral temporal cortex.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

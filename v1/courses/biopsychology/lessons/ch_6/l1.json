@@ -1,0 +1,93 @@
+{
+  "id": "l1",
+  "chapterId": "ch_6",
+  "title": "Hormonal Messengers: The Endocrine System & The HPA Stress Axis",
+  "description": "Distinguish peptide vs. steroid hormones, hypothalamic releasing factors, pituitary master control, and the HPA cortisol feedback loop.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Neuroendocrine System",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Neurotransmitters vs. Hormones: Wire vs. Broadcast \ud83d\udce1",
+      "content": "# The Body's Chemical Broadcast Network\n\nWhile neurotransmitters deliver rapid, point-to-point signals across nanometer-wide synaptic clefts in milliseconds, **hormones** are chemical messengers released by endocrine glands into the bloodstream, traveling throughout the entire body to coordinate long-term physiological states.\n\n### Major Classes of Hormones:\n* **Peptide & Protein Hormones** (e.g., Insulin, Oxytocin, ACTH): Water-soluble chains of amino acids; bind to cell-surface metabotropic receptors.\n* **Steroid Hormones** (e.g., Cortisol, Testosterone, Estrogen): Lipid-soluble molecules synthesized from cholesterol; pass directly through the cell membrane to bind intracellular and nuclear receptors, altering gene transcription directly!"
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check: Hormone Classification \ud83e\uddea",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Why can steroid hormones like cortisol directly diffuse across cell membranes without requiring a surface receptor channel?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "They are lipid-soluble molecules derived from cholesterol that cross phospholipid bilayers",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "They are smaller than individual electrons",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "They are actively pumped inside by ependymal cilia",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "They dissolve the cell membrane permanently upon contact",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Because steroid hormones are lipophilic, they pass freely through lipid membranes to bind intracellular receptors that regulate gene expression.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The HPA Stress Axis: The Cascade of Survival \ud83d\udcc8",
+      "content": "## The Hypothalamic-Pituitary-Adrenal (HPA) Axis\n\nWhen a physical or psychological stressor is perceived, the brain initiates a three-tiered neuroendocrine cascade:\n\n1. **Hypothalamus**: Paraventricular nucleus secretes **Corticotropin-Releasing Hormone (CRH)** into the hypophyseal portal blood supply.\n2. **Anterior Pituitary**: CRH stimulates the release of **Adrenocorticotropic Hormone (ACTH)** into systemic circulation.\n3. **Adrenal Cortex**: ACTH triggers the adrenal glands (atop the kidneys) to release glucocorticoids: primarily **Cortisol** in humans.\n\n### Negative Feedback Homeostasis:\nUnder healthy conditions, rising cortisol levels cross the blood-brain barrier and bind glucocorticoid receptors in the **hippocampus** and hypothalamus, signaling the system to shut off CRH and ACTH production.\n\n*Chronic Stress Pathology*: Prolonged hypercortisolemia damages hippocampal CA3/CA1 neurons, downregulating receptors and destroying the 'off switch', leading to sustained systemic inflammation, cognitive impairment, and mood disorders."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Check: The HPA Axis \ud83e\ude7a",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "What is the primary negative feedback structure in the limbic system that dampens HPA axis activity when cortisol levels rise?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Hippocampus",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Occipital lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Medulla oblongata",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Lateral geniculate nucleus",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The hippocampus contains dense glucocorticoid receptors; when activated by cortisol, it sends inhibitory GABAergic projections to shut down hypothalamic CRH release.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

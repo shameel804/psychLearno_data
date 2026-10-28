@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sq_history_of_psychology_1",
+    "title": "From Soul to Science: Philosophy to the First Laboratory",
+    "triggerChapterIndex": 1,
+    "metadata": {
+      "type": "case_study"
+    }
+  },
+  {
+    "id": "sq_history_of_psychology_2",
+    "title": "The Great Paradigm Clash: Structuralism, Evolution & The Unconscious",
+    "triggerChapterIndex": 3,
+    "metadata": {
+      "type": "scenario_analysis"
+    }
+  },
+  {
+    "id": "sq_history_of_psychology_3",
+    "title": "Speed Run: The Behaviorist, Gestalt & Cognitive Revolutions",
+    "triggerChapterIndex": 6,
+    "metadata": {
+      "type": "speed"
+    }
+  }
+]

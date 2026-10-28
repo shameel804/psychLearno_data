@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Cross-Cultural Psychology & WEIRD Populations",
+      "description": "Examine sampling biases, the WEIRD dilemma, cultural differences in perception, and global psychological science.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Cultural Diversity"
+    },
+    {
+      "id": "l2",
+      "title": "Evolutionary Psychology & Behavioral Genetics",
+      "description": "Understand modern sociobiology, David Buss's evolved mating strategies, twin heritability, and epigenetics.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Biological Paradigms"
+    },
+    {
+      "id": "l3",
+      "title": "The Replication Crisis & The Open Science Movement",
+      "description": "Investigate p-hacking, publication bias, the 2015 reproducibility project, preregistration, and open science reforms.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Methodological Reform"
+    },
+    {
+      "id": "l4",
+      "title": "The Future: Integrative Neuroscience & AI",
+      "description": "Analyze artificial neural networks, big data phenotyping, connectomics, and the grand synthesis of mind and machine.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "The Future of Psychology"
+    }
+  ]
+}

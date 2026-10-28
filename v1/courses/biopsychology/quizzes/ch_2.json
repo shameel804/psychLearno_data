@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_2",
+  "chapterId": "ch_2",
+  "title": "Chapter 2 Mastery Quiz: Functional Neuroanatomy & Nervous System Organization",
+  "description": "Test your mastery of nervous system divisions, autonomic balance, meningeal coverings, ventricles, spinal tracts, and brainstem centers.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch2_q1",
+      "type": "multiple_choice",
+      "question": "Which two primary structures constitute the Central Nervous System (CNS)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Brain and spinal cord",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Brainstem and cranial nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Somatic and autonomic nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Spinal cord and sympathetic ganglia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The CNS is anatomically defined as the brain and spinal cord, protected by the skull and spinal vertebrae.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q2",
+      "type": "multiple_choice",
+      "question": "What is the primary role of the Somatic Nervous System (SNS)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Mediating voluntary control of skeletal muscles and conveying conscious sensory input",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Controlling unconscious visceral gut motility and heart rate",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Synthesizing cerebrospinal fluid in cerebral ventricles",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Triggering REM sleep muscle paralysis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The somatic branch of the PNS controls voluntary skeletal musculature and conveys conscious sensory sensations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q3",
+      "type": "multiple_choice",
+      "question": "The Sympathetic Nervous System is anatomically described as having which spinal outflow?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Thoracolumbar outflow (T1 to L2)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Craniosacral outflow (Cranial nerves + Sacral)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cervical-only outflow (C1 to C8)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Coccygeal-only outflow",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sympathetic preganglionic neurons emerge from the thoracolumbar region of the spinal cord (T1 to L2).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q4",
+      "type": "multiple_choice",
+      "question": "Which cranial nerve provides the predominant parasympathetic innervation to the heart, lungs, and upper gastrointestinal tract?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Vagus Nerve (Cranial Nerve X)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Trigeminal Nerve (Cranial Nerve V)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Optic Nerve (Cranial Nerve II)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hypoglossal Nerve (Cranial Nerve XII)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Vagus nerve (CN X) accounts for approximately 75% of all parasympathetic fibers in the body, innervating thoracic and abdominal viscera.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q5",
+      "type": "multiple_choice",
+      "question": "What is the innermost, delicate vascular layer of the meninges that adheres tightly to the surface of the brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dura mater",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Arachnoid mater",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pia mater",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The pia mater is the innermost, highly vascularized translucent meningeal layer that clings directly to the brain's contours.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q6",
+      "type": "multiple_choice",
+      "question": "Where does Cerebrospinal Fluid (CSF) circulate around the external surface of the brain and spinal cord?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Epidural space",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Subdural space",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Subarachnoid space",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "Corpus striatum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "CSF flows within the subarachnoid space between the arachnoid membrane and the pia mater.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q7",
+      "type": "multiple_choice",
+      "question": "Which specialized vascular structure inside the ventricles produces Cerebrospinal Fluid?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Choroid plexus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Circle of Willis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Arachnoid villi",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Superior sagittal sinus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The choroid plexus, composed of modified ependymal cells and capillaries, filters blood plasma to produce CSF.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q8",
+      "type": "multiple_choice",
+      "question": "Hydrocephalus is caused by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Excessive accumulation and abnormal buildup of CSF within the ventricular system",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A sudden rupture of the myelin sheath in the cerebellum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Autoimmune destruction of acetylcholine receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete absence of glial astrocytes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hydrocephalus occurs when CSF production exceeds reabsorption or when ventricular outflow is obstructed, elevating intracranial pressure.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q9",
+      "type": "multiple_choice",
+      "question": "Which glial cell extension is critical for inducing and maintaining the tight junctions of the Blood-Brain Barrier?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Astrocyte end-feet",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Microglial lamellipodia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Schwann cell nodes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Ependymal cilia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Perivascular astrocyte end-feet envelop capillary walls and secrete signaling molecules that maintain endothelial tight junctions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q10",
+      "type": "multiple_choice",
+      "question": "Why can lipid-soluble substances like alcohol and nicotine cross the blood-brain barrier rapidly?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "They dissolve directly through the endothelial cell phospholipid bilayer",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "They destroy the tight junctions upon contact",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "They are actively transported by ependymal cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "They travel exclusively inside white blood cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Lipophilic compounds easily diffuse across the hydrophobic lipid bilayers of capillary endothelial cells without requiring transport channels.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q11",
+      "type": "multiple_choice",
+      "question": "The cell bodies of primary sensory afferent neurons entering the spinal cord are clustered within the:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ventral root ganglion",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Dorsal root ganglion (DRG)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Lateral ventricles",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Substantia nigra",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sensory pseudo-unipolar neuronal cell bodies reside in the dorsal root ganglia situated immediately outside the spinal cord.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q12",
+      "type": "multiple_choice",
+      "question": "Motor neurons that directly innervate voluntary skeletal muscles reside in which region of spinal gray matter?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ventral horn",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dorsal horn",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Subarachnoid space",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Alpha and gamma motor neurons reside in the ventral horn of the spinal cord and project their axons via the ventral roots.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q13",
+      "type": "multiple_choice",
+      "question": "What is the primary ascending spinal tract responsible for transmitting pain and temperature sensations to the brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Spinothalamic tract",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dorsal column-medial lemniscal tract",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Lateral corticospinal tract",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Rubrospinal tract",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The spinothalamic (anterolateral) tract conveys pain and temperature sensations from peripheral nociceptors/thermoreceptors up to the thalamus.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q14",
+      "type": "multiple_choice",
+      "question": "An anatomical section cut parallel to the forehead, separating the front of the brain from the back, is called a:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Coronal (frontal) section",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sagittal section",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Horizontal section",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Midsagittal section",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Coronal sections slice vertically perpendicular to the anterior-posterior axis, resembling slices of a bread loaf.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q15",
+      "type": "multiple_choice",
+      "question": "In the human cerebral cortex, the anatomical term 'Dorsal' refers to which direction?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Toward the top of the head",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Toward the bottom of the chin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Toward the tip of the nose",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Toward the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "In the human brain above the midbrain flexure, dorsal corresponds to superior (toward the crown/top of the skull).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q16",
+      "type": "multiple_choice",
+      "question": "Bilateral damage to which brainstem structure causes immediate cessation of breathing and fatal cardiovascular collapse?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Medulla oblongata",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Superior colliculus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hippocampus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The medulla contains the autonomic pre-B\u00f6tzinger complex and vasomotor centers essential for sustaining automatic respiration and blood pressure.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q17",
+      "type": "multiple_choice",
+      "question": "Which structure in the midbrain tectum is responsible for mediating visual orienting reflexes, such as tracking a sudden movement in peripheral vision?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Superior colliculi",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Inferior colliculi",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Substantia nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pons",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The superior colliculi coordinate saccadic eye movements and visual orienting reflexes; the inferior colliculi handle auditory orienting.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q18",
+      "type": "multiple_choice",
+      "question": "The Ascending Reticular Activating System (ARAS) running through the core of the brainstem is essential for maintaining:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conscious cortical arousal, wakefulness, and alertness",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Color vision discrimination in the fovea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fine motor finger articulation for playing piano",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Short-term episodic memory storage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The ARAS projects diffuse monoaminergic and cholinergic projections across the cortex to maintain consciousness; bilateral lesions cause coma.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q19",
+      "type": "multiple_choice",
+      "question": "What is the primary neuroanatomical consequence of damage to the Cerebellum?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ataxia: loss of coordination, unsteady gait, and intention tremors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Flaccid paralysis and total loss of voluntary muscle control",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Total cortical blindness despite healthy retinas",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete anterograde amnesia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cerebellar lesions impair movement calibration, timing, and balance without causing paralysis, presenting as cerebellar ataxia.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q20",
+      "type": "multiple_choice",
+      "question": "A massive infarction in the ventral pons that spares the midbrain reticular formation characteristically produces:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Locked-In Syndrome (quadriplegia and anarthria with preserved vertical eye movements and consciousness)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Deep unarousable coma with loss of all pupillary reflexes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Kluver-Bucy syndrome with hyperorality and psychic blindness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of all long-term autobiographical memories",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Locked-In Syndrome results from ventral pontine damage severing descending motor tracts while sparing consciousness and vertical eye tracking.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch2_q21",
+      "type": "multiple_choice",
+      "question": "The postganglionic neurotransmitter released at most sympathetic target organs (e.g., cardiac pacemaker cells) is:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Norepinephrine",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Acetylcholine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Dopamine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "GABA",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Most postganglionic sympathetic fibers release norepinephrine onto adrenergic receptors (exceptions include sweat glands, which use acetylcholine).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q22",
+      "type": "multiple_choice",
+      "question": "The 'crossed-extensor reflex' that accompanies the flexor withdrawal reflex serves to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Extend the opposite leg to maintain upright postural support and prevent falling",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Instantly freeze both arms in a protective defensive posture",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Send a conscious warning signal to the visual cortex before pain is perceived",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Contract the abdominal wall to protect visceral organs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "When the stimulated limb withdraws, contralateral spinal circuits extend the opposite limb to maintain balance and support body weight.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

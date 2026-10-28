@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_2",
+  "title": "Critiques & The Decline of Structuralism",
+  "description": "Evaluate the fatal methodological vulnerabilities of introspection and Structuralism's enduring legacy on scientific rigor.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Historical Impact",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Fatal Flaws of Introspection \ud83d\udcc9",
+      "content": "# Why Did Structuralism Collapse?\n\nDespite its rigorous laboratory facade, Structuralism crumbled shortly after Titchener's death in 1927. The methodology of introspection suffered from fatal inherent weaknesses:\n\n1. **Unreliability & Subjectivity**: Two labs using identical stimuli regularly obtained conflicting introspective reports. In W\u00fcrzburg, Oswald K\u00fclpe found evidence of 'imageless thought', while Titchener fiercely insisted that all thoughts must contain sensory images!\n2. **Observer Interference**: The very act of introspecting alters the conscious experience. Trying to coldly analyze anger while experiencing rage dissolves the emotion.\n3. **Exclusion of Non-Verbal Populations**: Introspection could not be applied to animals, infants, young children, or psychiatric patients with severe mental illness.\n4. **Blind to the Unconscious**: Introspection could only access conscious states, completely ignoring subconscious and automated cognitive processes."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What was one of the most fatal scientific vulnerabilities that led to the collapse of Structuralist introspection?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It required computers that had not yet been invented",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Different laboratories reported contradictory introspective findings that could not be independently verified",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It was completely rejected by university philosophy departments",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It focused exclusively on observable external behaviors",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Because introspection is private and subjective, independent researchers could not objectively replicate or verify conflicting introspective claims.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Structuralism's Enduring Legacy \ud83c\udfc6",
+      "content": "## What Survived the Fall?\n\nAlthough Structuralism proved to be a theoretical dead end, its contributions were vital to the survival of psychology:\n\n* **Scientific Identity**: It permanently separated psychology from armchair speculative metaphysics, demanding laboratory equipment, chronometry, and empirical data.\n* **The Target for Future Revolutions**: Every subsequent major school in psychology defined itself in opposition to Structuralism:\n  * **Functionalism** asked: *'Who cares what consciousness looks like? What does it DO?'*\n  * **Gestalt Psychology** declared: *'The whole is other than the sum of sensory parts!'*\n  * **Behaviorism** concluded: *'Consciousness cannot be observed scientifically at all; study only behavior!'*"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "Summary Comparison Table \ud83d\udccb",
+      "content": "## The Founding Era at a Glance\n\n| Attribute | Wilhelm Wundt (Voluntarism) | Edward Titchener (Structuralism) |\n| :--- | :--- | :--- |\n| **Core Goal** | Understand conscious process, apperception, and cultural mind | Catalog static elements of conscious structure |\n| **View of Mind** | Active, organizing, synthesizing (*creative synthesis*) | Passive mosaic of sensory atoms |\n| **Key Methods** | Controlled experimental introspection + cultural analysis | Rigorous sensory dissection without stimulus error |\n| **Major Legacy** | Established psychology's first lab and academic discipline | Popularized rigorous experimental lab psychology in the USA |"
+    }
+  ]
+}

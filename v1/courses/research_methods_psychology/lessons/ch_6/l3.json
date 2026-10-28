@@ -1,0 +1,67 @@
+{
+  "id": "l3",
+  "chapterId": "ch_6",
+  "title": "Controlling Order & Carryover Effects",
+  "description": "Neutralize practice, fatigue, and carryover effects using complete counterbalancing, partial counterbalancing, and Latin Square matrices.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Counterbalancing Methods",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Achilles Heel of Within-Subjects Designs 🔄",
+      "content": "# When Order Distorts Reality\n\nIn repeated measures designs, the order in which conditions are presented introduces severe threats:\n\n* **Practice Effects**: Participants perform better on later conditions simply because they got better at the task through practice.\n* **Fatigue / Boredom Effects**: Participants perform worse on later conditions because they are exhausted, eye-strained, or bored.\n* **Carryover Effects**: The lingering psychological or biochemical impact of one condition bleeds into the next (e.g., caffeine consumed in Condition 1 remains active in the bloodstream during Condition 2).\n\nIf Condition A always precedes Condition B, you cannot tell whether Condition B was superior or if participants simply learned how to do the task!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Order Effect Identification ⏱️",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Participants solve math puzzles under Silence first, and then under Rock Music. Their scores drop during the Rock Music condition, but post-study interviews reveal they were mentally exhausted after 90 minutes of continuous testing. What threat is this?",
+        "options": [
+          {"id": "opt1", "text": "Fatigue (Order) Effect", "isCorrect": true},
+          {"id": "opt2", "text": "Selection bias", "isCorrect": false},
+          {"id": "opt3", "text": "Falsification", "isCorrect": false},
+          {"id": "opt4", "text": "The Hawthorne effect", "isCorrect": false}
+        ],
+        "explanation": "Mental exhaustion accumulated across sequential testing conditions that impairs later performance is a classic fatigue order effect.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Counterbalancing Strategies 🎲",
+      "content": "## Mixing Up the Presentation Order\n\nTo neutralize order effects, researchers use **counterbalancing**—presenting conditions in different sequences across participants so that order effects balance out equally:\n\n| Counterbalancing Strategy | Mechanism | Calculation / Complexity |\n| :--- | :--- | :--- |\n| **Complete Counterbalancing** | Every possible condition sequence is tested. Equal numbers of participants are randomly assigned to each sequence. | For *k* conditions, there are *k!* (factorial) sequences. (2 conditions = 2 orders: AB, BA. 3 conditions = 6 orders: ABC, ACB, BAC, BCA, CAB, CBA). |\n| **Partial Counterbalancing: Latin Square** | A formal square matrix ensuring that: (1) each condition appears at each ordinal position once, and (2) each condition precedes and follows every other condition an equal number of times. | Scales efficiently: For 4 conditions, requires only 4 orders instead of 24! |\n| **Randomized Block Order** | In cognitive psychophysics with hundreds of trials, conditions are presented in randomly mixed trial blocks. | Used when participants perform hundreds of rapid stimulus trials. |\n\nCounterbalancing does not eliminate order effects; it spreads them out evenly across all conditions."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Counterbalancing Calculation Check 🧮",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "An experimenter has 4 experimental conditions (A, B, C, D) in a within-subjects design. How many unique presentation orders are required for Complete Counterbalancing?",
+        "options": [
+          {"id": "opt1", "text": "4 orders", "isCorrect": false},
+          {"id": "opt2", "text": "8 orders", "isCorrect": false},
+          {"id": "opt3", "text": "24 orders (4! = 4 x 3 x 2 x 1)", "isCorrect": true},
+          {"id": "opt4", "text": "16 orders", "isCorrect": false}
+        ],
+        "explanation": "Complete counterbalancing requires k! orders. For 4 conditions: 4 x 3 x 2 x 1 = 24 unique sequence orders.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "warning",
+      "title": "Methodological Warning ⚠️",
+      "content": "### The Fatal Flaw: Asymmetrical Carryover\n\nCounterbalancing only works if the order effect is symmetrical (Condition A affects B by the exact same amount that B affects A). If learning in Condition A permanently alters neural pathways so Condition B can never be experienced afresh (asymmetrical carryover), counterbalancing will fail! You must switch to a between-subjects design."
+    }
+  ]
+}

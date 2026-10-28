@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_3",
+  "title": "Classifying Variables and Measurement Scales (NOIR)",
+  "description": "Analyze a series of experimental variables and classify each according to independent/dependent status and Stevens' NOIR measurement level.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A clinical psychology laboratory conducts a study examining the efficacy of an 8-week virtual reality exposure therapy program for arachnophobia.\n\n### Your Mission:\nFor each of the five variables below, identify:\n(a) Whether it is an **Independent Variable (IV)**, **Dependent Variable (DV)**, or **Extraneous/Subject Variable**.\n(b) Its exact level of measurement according to Stevens' taxonomy (**Nominal, Ordinal, Interval, or Ratio**).\n(c) The most appropriate measure of central tendency (Mode, Median, or Mean).\n\n1. **Treatment Condition**: Virtual Reality Exposure vs. In Vivo Live Exposure vs. Waitlist Control.\n2. **Avoidance Distance**: Centimeters distance maintained from an enclosed tarantula during a behavioral avoidance test.\n3. **Fear Severity Rating**: Self-reported fear ranked by the participant as 'Mild', 'Moderate', 'Severe', or 'Extreme'.\n4. **Depression Symptom Score**: Total score on the Beck Depression Inventory-II (BDI-II), ranging from 0 to 63.\n5. **Heart Rate Spike**: Increase in beats per minute (BPM) above baseline when entering the room.",
+  "hints": [
+    "Hint 1: Check whether there is an absolute zero where the attribute is completely absent (Ratio), equal spacing without a true zero (Interval), ordered categories with unequal spacing (Ordinal), or unordered labels (Nominal).",
+    "Hint 2: Treatment condition is manipulated by the researcher, making it an IV."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "sq_history_of_psychology_2",
+  "title": "The Great Paradigm Clash: Structuralism, Evolution & The Unconscious",
+  "triggerChapterIndex": 3,
+  "metadata": {
+    "type": "scenario_analysis"
+  },
+  "questions": [
+    {
+      "id": "sq2_q1",
+      "type": "multiple_choice",
+      "question": "Case Scenario: A researcher observes that when hiking along a ridge, seeing a coiled rattlesnake instantly causes a hiker's heart to race and legs to leap backward before conscious terror is felt. Which historical theory of emotion explains this sequence?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The James-Lange theory of emotion",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Freudian sublimation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Titchenerian structural introspection",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Aristotelian vegetative soul",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The James-Lange theory states that physiological and motor arousal precede and directly produce the subjective experience of emotion.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q2",
+      "type": "multiple_choice",
+      "question": "Contrast William James's view of consciousness with Edward Titchener's view. How do their core metaphors diverge?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "James viewed consciousness as a fluid, flowing stream; Titchener viewed it as an inventory of static sensory atoms",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "James viewed consciousness as nonexistent; Titchener viewed it as divine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Both agreed that consciousness consists of 44,000 independent bricks",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Titchener studied animal habits while James studied only brain anatomy",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "James opposed structuralism's elemental brick-and-mortar view, championing the continuous, dynamic 'stream of consciousness'.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q3",
+      "type": "multiple_choice",
+      "question": "Scenario: An adult employee with unconscious hostile feelings toward an unfair supervisor channels that energy into training for and winning an Olympic marathon. How would Anna Freud and Sigmund Freud classify this defense mechanism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sublimation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Projection",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Reaction formation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Denial",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sublimation channels primitive aggressive or sexual drives into socially celebrated, productive, and creative achievements.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q4",
+      "type": "multiple_choice",
+      "question": "How did John Dewey's 1896 critique of the 'reflex arc' harmonize with William James's functionalist philosophy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dewey insisted that behavior cannot be broken into disjointed sensory-motor segments, but is an integrated adaptive feedback circuit",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dewey argued that reflexes only occur in hypnotized subjects",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Dewey demanded that all psychology laboratories be shut down",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dewey claimed that the unconscious mind controls all physical reflexes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dewey rejected artificial S-R dissection, viewing perception and action as continuous coordinated adaptations to the environment.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q5",
+      "type": "multiple_choice",
+      "question": "Why did Alfred Adler argue that Sigmund Freud's theory was overly deterministic and biologically reductionist?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Adler asserted that humans are driven by subjective future goals and social interest, not just blind childhood sexual drives",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Adler believed that only animals possess unconscious drives",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Adler claimed that heredity has 100% control over human behavior",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Adler rejected all clinical talking therapies",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adler emphasized teleological motivation (striving toward future goals), community feeling, and overcoming childhood vulnerability.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q6",
+      "type": "multiple_choice",
+      "question": "Which historical pioneer overcame systemic institutional gender discrimination at Harvard, invented paired-associate memory testing, and became the first female APA President in 1905?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Mary Whiton Calkins",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Margaret Floy Washburn",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Karen Horney",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anna Freud",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Mary Whiton Calkins completed all doctoral requirements under William James but was denied a Harvard PhD, persevering to become APA president.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq2_q7",
+      "type": "multiple_choice",
+      "question": "What shared evolutionary assumption connects Francis Galton's anthropometric testing with William James's functionalism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Both were inspired by Charles Darwin's insight that psychological traits vary and serve adaptive survival functions",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Both believed the human mind is an unalterable tabula rasa",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Both rejected quantitative measurement",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Both advocated Freudian dream analysis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Both Galton and James built their psychological frameworks upon Darwinian evolutionary principles of variation and adaptation.",
+      "xpReward": 20,
+      "difficulty": 2
+    }
+  ]
+}

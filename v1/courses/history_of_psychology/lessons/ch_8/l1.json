@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_8",
+  "title": "Cross-Cultural Psychology & WEIRD Populations",
+  "description": "Examine sampling biases, the WEIRD dilemma, cultural differences in perception, and global psychological science.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Cultural Diversity",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The WEIRD Problem in Psychological Science \ud83c\udf0d",
+      "content": "# The Sampling Bias of a Century\n\nFor more than a century, academic psychology claimed to be discovering universal laws of the human mind. Yet, in a bombshell 2010 paper published in *Behavioral and Brain Sciences*, researchers **Joseph Henrich, Steven Heine, and Ara Norenzayan** revealed a startling truth:\n\n* **96% of all psychological research subjects** came from Western industrialized nations representing just **12% of the world's population**!\n* Over 70% of participants were American undergraduate students participating for course credit!\n\nThey coined the acronym **WEIRD**:\n* **W**estern\n* **E**ducated\n* **I**ndustrialized\n* **R**ich\n* **D**emocratic\n\nFar from representing universal human nature, WEIRD populations are global psychological outliers across perception, spatial reasoning, fairness, and individualism!"
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What does the acronym 'WEIRD' stand for in Henrich, Heine, and Norenzayan's famous critique of psychology's sampling bias?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Western, Educated, Industrialized, Rich, Democratic",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "White, European, Individualistic, Rational, Determined",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Working, Empirical, Institutionalized, Rigorous, Diverse",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Worldwide, Evolutionary, Integrated, Replicated, Definitive",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "WEIRD stands for Western, Educated, Industrialized, Rich, and Democratic societies.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Cultural Differences in Perception: The M\u00fcller-Lyer Illusion \ud83d\udcd0",
+      "content": "# Are Optical Illusions Universal?\n\nFor decades, introductory psychology textbooks taught the **M\u00fcller-Lyer Illusion** (two identical line segments, one with inward arrows and one with outward fins) as an innate, hardwired human visual reflex:\n* American college students overwhelmingly perceive the line with outward fins as significantly longer.\n\n### The Cross-Cultural Shock\nWhen cross-cultural anthropologists tested the San hunter-gatherers of the Kalahari Desert in southern Africa:\n* The San people **did not perceive the illusion at all**! They saw both lines as identical in length.\n\n### The 'Carpentered World' Hypothesis\nGrowing up in urbanized Western societies surrounded by rectangular buildings, right angles, and carpentered geometric corners trains the visual cortex to interpret acute and obtuse angles as depth and distance cues. Perception is shaped by culture and environment!"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Analytical vs. Holistic Cognition \ud83e\udd62",
+      "content": "## East Asian vs. Western Cognitive Styles\n\nPsychologist **Richard Nisbett** (*The Geography of Thought*) demonstrated that:\n* **Westerners** tend to use **analytical cognition**: focusing on individual focal objects in isolation and categorizing them using formal rules.\n* **East Asians** tend to use **holistic cognition**: attending to the entire contextual field, background relationships, and dialectical harmony."
+    }
+  ]
+}

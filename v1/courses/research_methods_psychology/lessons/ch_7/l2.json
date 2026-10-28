@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_7",
+  "title": "Main Effects vs. Interaction Effects",
+  "description": "Calculate marginal means, detect crossover and spreading interactions, and learn why interactions supersede main effects.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Interactions & Moderation",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Main Effects: The Isolated Impact 🎯",
+      "content": "# Deconstructing the Results of a Factorial Study\n\nA 2 x 2 factorial design yields three distinct statistical hypotheses:\n\n1. **Main Effect of Factor A**: The overall effect of Factor A on the dependent variable, averaged across all levels of Factor B.\n2. **Main Effect of Factor B**: The overall effect of Factor B on the dependent variable, averaged across all levels of Factor A.\n3. **Interaction Effect (A x B)**: Occurs when the effect of Factor A *depends upon* the specific level of Factor B!\n\nTo find a Main Effect, you calculate **marginal means** (the averages in the outer margins of the data table)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Main Effect Calculation Check 🧮",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "In a 2x2 study on exam scores: under Silence, Study Method A averages 80 and Method B averages 80 (margin = 80). Under Loud Music, Method A averages 60 and Method B averages 60 (margin = 60). Is there a main effect of Study Method?",
+        "options": [
+          {"id": "opt1", "text": "Yes, Method A is vastly superior to Method B", "isCorrect": false},
+          {"id": "opt2", "text": "No, the marginal mean for Method A is 70 and Method B is 70, showing zero main effect of Study Method", "isCorrect": true},
+          {"id": "opt3", "text": "Yes, because loud music reduced performance", "isCorrect": false},
+          {"id": "opt4", "text": "It cannot be determined without knowing the sample size", "isCorrect": false}
+        ],
+        "explanation": "Because the overall marginal means for Method A (80+60)/2 = 70 and Method B (80+60)/2 = 70 are identical, there is no main effect of Study Method.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Magic of Interaction Effects 🌟",
+      "content": "## When 'It Depends' is the Real Story\n\nAn **interaction effect** is often the most important finding in psychology. An interaction means the effect of one independent variable changes depending on the level of another variable (also known as **moderation**):\n\n* Consider taking an exam with or without caffeine: Caffeine improves performance when tasks are simple and well-practiced, but impairs performance when tasks are novel, complex, and high-stakes.\n\n| Interaction Type | Visual Plot Pattern | Conceptual Meaning |\n| :--- | :--- | :--- |\n| **No Interaction** | The lines are **strictly parallel** | The effect of Factor A is identical across all levels of Factor B. |\n| **Spreading Interaction** | The lines diverge from a common point | Factor A has an effect at Level 1 of Factor B, but has zero effect at Level 2. |\n| **Crossover Interaction** | The lines cross like an 'X' | Factor A has an opposite effect depending on the level of Factor B (e.g., cold ice cream is liked, cold soup is disliked). |\n\nRule of thumb: If the lines on an interaction plot are **not parallel**, an interaction is present!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Interaction Graph Check 📈",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "When plotting cell means on a line graph with Factor A on the X-axis and separate lines for Factor B, what visual pattern indicates the presence of an interaction effect?",
+        "options": [
+          {"id": "opt1", "text": "The lines are completely parallel and never touch", "isCorrect": false},
+          {"id": "opt2", "text": "The lines are non-parallel (they cross, diverge, or converge)", "isCorrect": true},
+          {"id": "opt3", "text": "Both lines are perfectly horizontal at zero", "isCorrect": false},
+          {"id": "opt4", "text": "The graph contains circular scatterplot dots", "isCorrect": false}
+        ],
+        "explanation": "Non-parallel lines (converging, diverging, or crossing) indicate that the difference between levels of Factor A varies across levels of Factor B, signaling an interaction.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "warning",
+      "title": "Interpretation Warning ⚠️",
+      "content": "### Interactions Supersede Main Effects!\n\nWhenever a significant interaction is present, **you must interpret the main effects with extreme caution**! If hot coffee is loved and cold coffee is disliked, but cold soda is loved and hot soda is disliked, reporting a 'main effect of beverage temperature' is misleading nonsense. The interaction is the real psychological reality."
+    }
+  ]
+}

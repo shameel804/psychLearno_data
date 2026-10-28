@@ -1,0 +1,67 @@
+{
+  "id": "l3",
+  "chapterId": "ch_3",
+  "title": "Psychometric Reliability: Precision and Consistency",
+  "description": "Explore test-retest, inter-rater, split-half reliability, and internal consistency indexed by Cronbach's alpha.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Measurement Reliability",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "What is Psychometric Reliability? 🎯",
+      "content": "# Consistency Across Repeated Measurements\n\nIn psychology, **reliability** refers to the consistency, stability, or repeatability of a measurement instrument. A reliable test produces similar results under consistent conditions:\n\n* Under Classical Test Theory:\n  **Observed Score = True Score + Measurement Error**\n* If measurement error is low, the observed score closely reflects the true underlying construct, and reliability is high.\n* A broken bathroom scale that always adds exactly 5 pounds is highly *reliable* (consistent), even though it is completely *invalid* (inaccurate)!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Reliability vs Validity Distinction ⚖️",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "A researcher measures adult intelligence by wrapping a tape measure around their head (cranial circumference). Every time she measures the same person, she gets the exact same measurement of 56 cm. This measure is:",
+        "options": [
+          {"id": "opt1", "text": "Both highly reliable and highly valid", "isCorrect": false},
+          {"id": "opt2", "text": "Highly reliable, but invalid as a measure of intelligence", "isCorrect": true},
+          {"id": "opt3", "text": "Highly valid, but unreliable", "isCorrect": false},
+          {"id": "opt4", "text": "Neither reliable nor valid", "isCorrect": false}
+        ],
+        "explanation": "Head circumference is reliably repeatable (low measurement error), but it does not validly reflect cognitive ability.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Four Core Types of Reliability 🔄",
+      "content": "## How Psychologists Assess Consistency\n\n| Type of Reliability | How It Is Assessed | When to Use It | Standard Metric |\n| :--- | :--- | :--- | :--- |\n| **Test-Retest** | Administer the exact same test to the same group at two different time points | Measuring stable traits (personality, IQ) | Pearson correlation coefficient (r >= 0.70 or 0.80) |\n| **Inter-Rater** | Have two or more independent raters score the same behaviors or responses | Observational studies, diagnostic interviews | Cohen's Kappa (categorical) or Intra-class Correlation (ICC) |\n| **Internal Consistency** | Correlate responses across all items within a multi-item scale | Multi-item self-report questionnaires | **Cronbach's alpha (α >= 0.70 or 0.80)** |\n| **Parallel-Forms** | Administer two equivalent versions of a test designed from the same specifications | Standardized testing (GRE, SAT) to prevent cheating | Correlation between Form A and Form B |\n\nA low Cronbach's alpha indicates that the questions are not measuring a coherent, unified construct."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Internal Consistency Check 📋",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "A psychometrician develops a new 15-item 'Social Anxiety Scale' and calculates Cronbach's alpha as α = 0.42. What does this score indicate?",
+        "options": [
+          {"id": "opt1", "text": "The scale has excellent internal consistency", "isCorrect": false},
+          {"id": "opt2", "text": "The scale has poor internal consistency; items may be measuring multiple conflicting constructs or contain high noise", "isCorrect": true},
+          {"id": "opt3", "text": "The scale is ready for nationwide clinical deployment", "isCorrect": false},
+          {"id": "opt4", "text": "The sample size was too large", "isCorrect": false}
+        ],
+        "explanation": "In psychology, Cronbach's alpha should generally exceed 0.70 (and ideally 0.80). An alpha of 0.42 indicates very poor internal consistency.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Reliability Sets the Ceiling for Validity\n\nRemember this golden psychometric rule:\n> *A test can be reliable without being valid, but a test can NEVER be valid unless it is first reliable.*\n\nIf your measurement tool is erratic and fluctuates wildly by chance, it cannot possibly measure the true underlying psychological construct!"
+    }
+  ]
+}

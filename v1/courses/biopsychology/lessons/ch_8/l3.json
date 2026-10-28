@@ -1,0 +1,93 @@
+{
+  "id": "l3",
+  "chapterId": "ch_8",
+  "title": "Neurobiology of Mental Illness: Neural Circuitry of Depression, Anxiety, & Schizophrenia",
+  "description": "Deconstruct psychiatric pathophysiology: monoamine and BDNF models of depression, prefrontal-amygdala decoupling in anxiety, and dopamine/NMDA models of schizophrenia.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Psychopathology",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Major Depressive Disorder: Beyond the Monoamine Hypothesis \ud83c\udf27\ufe0f",
+      "content": "# Re-evaluating the Chemical Imbalance Theory\n\n* **The Classic Monoamine Hypothesis**: Proposed in the 1960s; argued that depression stems from a simple deficiency of serotonin (5-HT) or norepinephrine (NE).\n* **The Fatal Therapeutic Lag Paradox**: SSRIs elevate synaptic serotonin within *hours*, yet clinical therapeutic improvement requires **3 to 6 weeks** of treatment! Why?\n\n### The Neurogenic & Synaptogenic Hypothesis:\n* Depression is characterized by decreased **Brain-Derived Neurotrophic Factor (BDNF)**, impaired neurogenesis, and synaptic loss in the hippocampus and PFC.\n* Chronic SSRI administration stimulates intracellular cAMP-PKA-CREB signaling cascades that boost BDNF transcription and restore hippocampal neurogenesis over several weeks.\n* **Ketamine Revolution**: Low-dose sub-anesthetic infusions of **Ketamine** (an NMDA receptor antagonist) trigger a rapid glutamate surge, activating AMPA and mTOR pathways to stimulate new dendritic spine synaptogenesis within **hours**, relieving treatment-resistant depression rapidly!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check: Depression & BDNF \ud83e\uddec",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What pharmacological paradox challenged the simplistic monoamine hypothesis of depression?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Antidepressants raise synaptic serotonin levels within hours, yet clinical symptom relief takes several weeks",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Serotonin cannot cross the blood-brain barrier under any circumstances",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Patients with depression have higher serotonin than healthy controls",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Dopamine antagonists cure depression immediately",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The therapeutic lag between immediate monoamine reuptake inhibition and delayed clinical response prompted neurotrophic and synaptic plasticity models.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Schizophrenia: Dopamine & Glutamate Hypotheses \ud83e\udde9",
+      "content": "## Neural Circuitry of Psychosis\n\nSchizophrenia affects ~1% of the global population, presenting with positive symptoms (hallucinations, delusions), negative symptoms (avolition, flat affect), and cognitive deficits.\n\n### 1. The Dopamine Hypothesis (Dual Pathway Model):\n* **Mesolimbic Pathway (Hyperactivity)**: Excessive D2 dopamine stimulation in the ventral striatum drives **positive symptoms** (hallucinations/delusions). All effective antipsychotics block D2 receptors.\n* **Mesocortical Pathway (Hypoactivity)**: Deficient D1 dopamine signaling in the dorsolateral prefrontal cortex underlies **negative and cognitive symptoms**.\n\n### 2. The NMDA Receptor Hypofunction Model:\n* Anesthetic drugs like **PCP (phencyclidine)** and **ketamine** block NMDA receptors in healthy humans, producing both positive AND negative/cognitive symptoms indistinguishable from schizophrenia.\n* Post-mortem studies show hypofunction of NMDA receptors on parvalbumin-positive GABAergic interneurons in the cortex, causing cortical disinhibition and dysregulated gamma oscillations."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Check: Schizophrenia Neurobiology \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Which dopaminergic pathway is characterized by hyperactivity that drives positive psychotic symptoms (hallucinations and delusions) in schizophrenia?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Mesolimbic pathway projecting to the ventral striatum",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Nigrostriatal pathway to the putamen",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Tuberoinfundibular pathway to the pituitary",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Reticulospinal pathway to the legs",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Mesolimbic hyperdopaminergia drives positive symptoms (hallucinations/delusions), which are treated by D2 receptor antagonists.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

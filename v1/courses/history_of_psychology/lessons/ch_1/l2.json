@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_1",
+  "title": "Mind-Body Dualism: Ren\u00e9 Descartes",
+  "description": "Analyze substance dualism, res cogitans vs res extensa, the reflex arc, and pineal gland interactionism.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Enlightenment Philosophy",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Mechanical Mind \u2699\ufe0f",
+      "content": "# Ren\u00e9 Descartes & The Scientific Revolution\n\nIn the 17th century, French philosopher and mathematician **Ren\u00e9 Descartes** (1596\u20131650) introduced a conceptual framework that transformed the study of human action.\n\nDescartes was captivated by mechanical hydraulic automata in the royal gardens\u2014statues that moved and played music when water valves were stepped on. He hypothesized that the animal and human physical body operated according to similar mechanical principles.\n\n### Substance Dualism\nDescartes divided reality into two distinct fundamental substances:\n1. **Res Extensa** (Extended Substance): The physical body, operating mechanically in physical space according to physical laws.\n2. **Res Cogitans** (Thinking Substance): The immaterial, indivisible mind/soul, possessing conscious awareness, free will, and rational thought."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "In Cartesian dualism, what term did Descartes give to the physical, spatially extended substance of the body?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Res cogitans",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Res extensa",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Tabula rasa",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Vis viva",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Descartes designated the material physical body as 'res extensa' (extended substance) and the immaterial mind as 'res cogitans' (thinking substance).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Reflex Arc & Pineal Interactionism \ud83d\udd0c",
+      "content": "## How Does Mind Move Matter?\n\nIf the mind is immaterial (non-physical) and the body is physical, how do thoughts cause physical movements, and how do physical wounds produce mental pain?\n\nThis is the classic **Mind-Body Problem**.\n\n### 1. The Early Conception of Reflexes\nDescartes noted that touching a hot flame immediately produces an involuntary withdrawal before conscious thought occurs. He described 'animal spirits' (fine fluids) moving through hollow nerve tubes, creating the first precursor to the modern biological reflex arc.\n\n### 2. The Pineal Gland (*Conarium*)\nDescartes proposed that the immaterial mind and physical body interact at a single unitary structure at the base of the brain: the **pineal gland**.\n* He chose the pineal gland because, unlike most cerebral structures, it appeared un-duplicated across both hemispheres."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "warning",
+      "title": "Conceptual Pitfall: The Ghost in the Machine \u26a0\ufe0f",
+      "content": "## Gilbert Ryle's Category Mistake\n\nModern 20th-century philosopher Gilbert Ryle criticized Cartesian dualism as introducing the dogma of the **'Ghost in the Machine'**.\n\nRyle argued that viewing the mind as a separate ghostly entity driving the mechanical body is a **category mistake**\u2014like a tourist visiting Oxford, seeing the colleges, libraries, and dormitories, and asking: *'Where is the University?'*\n\nToday, mainstream cognitive neuroscience rejects substance dualism in favor of **materialist monism**: mental phenomena are understood as functions and emergent processes of biological neural computation."
+    }
+  ]
+}

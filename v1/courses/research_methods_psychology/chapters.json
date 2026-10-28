@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "id": "ch_1",
+      "languageId": "research_methods_psychology",
+      "title": "The Foundations of Psychological Science & Research Methods",
+      "description": "Discover how psychologists use empirical inquiry, falsifiability, and operational definitions to move from everyday intuition to rigorous scientific discovery.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 100,
+      "iconEmoji": "🔬"
+    },
+    {
+      "id": "ch_2",
+      "languageId": "research_methods_psychology",
+      "title": "Ethical Principles & Human Participant Protections",
+      "description": "Examine historical controversies, Belmont Report pillars, Institutional Review Boards (IRBs), informed consent, deception protocols, and animal welfare.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "⚖️"
+    },
+    {
+      "id": "ch_3",
+      "languageId": "research_methods_psychology",
+      "title": "Variables, Measurement & Psychometric Validity",
+      "description": "Master independent and dependent variables, confounding factors, NOIR measurement scales, and the vital dimensions of reliability and construct validity.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "📏"
+    },
+    {
+      "id": "ch_4",
+      "languageId": "research_methods_psychology",
+      "title": "Observational, Descriptive & Qualitative Methodologies",
+      "description": "Explore naturalistic and structured observation, participant reactivity, observer bias, single case study investigations, archival data, and thematic coding.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "👁️"
+    },
+    {
+      "id": "ch_5",
+      "languageId": "research_methods_psychology",
+      "title": "Survey Research & Correlational Designs",
+      "description": "Design unbiased survey items, understand sampling methods, interpret correlation coefficients, and navigate the directionality and third-variable dilemmas.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "📊"
+    },
+    {
+      "id": "ch_6",
+      "languageId": "research_methods_psychology",
+      "title": "Experimental Design & Threats to Internal Validity",
+      "description": "Unpack the gold standard of causal inference: random assignment, between-subjects and within-subjects designs, counterbalancing, and internal validity threats.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "🧪"
+    },
+    {
+      "id": "ch_7",
+      "languageId": "research_methods_psychology",
+      "title": "Complex Factorial Designs & Quasi-Experiments",
+      "description": "Investigate multi-variable factorial experiments, main effects and interactions, non-equivalent control groups, interrupted time series, and small-N reversal designs.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "🧩"
+    },
+    {
+      "id": "ch_8",
+      "languageId": "research_methods_psychology",
+      "title": "Statistical Inference & The Replication Crisis in Psychological Science",
+      "description": "Master hypothesis testing, Type I and II errors, effect size, statistical power, p-hacking pitfalls, and modern open science practices like preregistration.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 140,
+      "iconEmoji": "📈"
+    }
+  ]
+}

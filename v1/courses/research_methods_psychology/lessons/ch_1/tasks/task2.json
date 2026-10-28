@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_1",
+  "title": "Developing Multi-Modal Operational Definitions",
+  "description": "Construct behavioral, physiological, and self-report operational definitions for the complex psychological construct of 'empathy'.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A developmental psychology lab wants to investigate whether reading fiction increases **empathy** in children aged 9 to 12. Empathy is an abstract, unobservable internal construct.\n\n### Your Mission:\n1. **Self-Report Operationalization**: Draft a 3-item self-report scale (using a 1-to-5 Likert format) suitable for measuring cognitive or emotional empathy in this age group.\n2. **Behavioral Operationalization**: Design an observable behavioral scenario (e.g., an staged interaction in the waiting room or a resource-sharing game) that objectively quantifies empathic action.\n3. **Physiological Operationalization**: Propose a non-invasive physiological indicator (e.g., facial electromyography of the zygomatic/corrugator muscles, pupillometry, or heart rate variability) that could index affective resonance.\n4. **Triangulation Evaluation**: Briefly explain how synthesizing these three divergent data sources provides stronger construct validity than relying on any single measurement.",
+  "hints": [
+    "Hint 1: For behavioral measures, consider counting measurable actions (e.g., helping pick up dropped crayons, donating game tokens).",
+    "Hint 2: For self-report, make items simple and age-appropriate (e.g., 'When my friend is crying, I feel sad too')."
+  ]
+}

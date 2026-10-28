@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_2",
+  "title": "Edward Titchener & American Structuralism",
+  "description": "Analyze Titchener's translation of German psychology to Cornell, conscious elements, and the stimulus error.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Structuralism",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Titchener at Cornell \ud83c\udfdb\ufe0f",
+      "content": "# The Architect of Structuralism\n\nEnglish student **Edward Bradford Titchener** (1867\u20131927) studied directly under Wundt at Leipzig before taking charge of the psychology laboratory at Cornell University in New York.\n\nWhile Titchener claimed to be propagating Wundt's system in America, he created a fundamentally different, narrower school of thought that he christened **Structuralism**.\n\n### The Periodic Table of the Mind\nTitchener viewed psychology as analogous to chemistry or anatomy:\n* Chemists break chemical compounds down into basic atomic elements.\n* Anatomists dissect complex bodies down into tissues and cells.\n* Structuralist psychologists must dissect conscious experience into its most basic, irreducible mental elements!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What primary scientific analogy did Edward Titchener use to define the goal of Structuralism?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "A computer processing binary algorithms",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "A periodic table of chemical elements breaking complex compounds into atoms",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "A biological organism adapting to environmental pressures",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "A steam engine releasing repressed hydraulic pressure",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Titchener explicitly modeled Structuralism after chemistry, seeking to break complex conscious experiences down into irreducible elemental building blocks.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Stimulus Error \ud83d\udeab",
+      "content": "## Confusing Object with Sensation\n\nTitchener warned his students against the cardinal sin of structuralist research: the **Stimulus Error**.\n\n* **Definition**: The stimulus error occurs when an observer describes the physical identity or meaning of the object itself, rather than the raw conscious sensory elements experienced.\n\n### Example: Looking at an Apple\n* \u274c **Stimulus Error**: *'I see a ripe red apple.'* (This refers to a learned cultural object and utility, not raw sensory consciousness).\n* \u2705 **Proper Structuralist Introspection**: *'I experience a circular patch of crimson hue, higher intensity in the center, accompanied by a cool, smooth tactile sensation and a mild acidic-sweet gustatory quality.'*\n\nBy cataloging raw sensations, Titchener identified over **44,000 elemental qualities of conscious sensation**, primarily visual and auditory!"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "warning",
+      "title": "Wundt vs. Titchener: A Critical Distinction \u26a0\ufe0f",
+      "content": "## Don't Confuse the Two!\n\nMany intro textbooks incorrectly conflate Wundt and Titchener. Remember their crucial difference:\n\n* **Wundt (Voluntarism)**: Believed consciousness is dynamic, creative, and actively organized by attention and apperception.\n* **Titchener (Structuralism)**: Believed consciousness is a passive mosaic of static sensory elements waiting to be mechanically inventoried."
+    }
+  ]
+}

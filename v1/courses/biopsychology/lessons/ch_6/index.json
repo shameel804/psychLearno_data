@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Hormonal Messengers: The Endocrine System & The HPA Stress Axis",
+      "description": "Distinguish peptide vs. steroid hormones, hypothalamic releasing factors, pituitary master control, and the HPA cortisol feedback loop.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Neuroendocrine System"
+    },
+    {
+      "id": "l2",
+      "title": "Biological Clocks: The Suprachiasmatic Nucleus & Circadian Rhythms",
+      "description": "Explore circadian master pacemaking: SCN molecular clocks, retinohypothalamic blue light cues, and pineal melatonin synthesis.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Circadian Biology"
+    },
+    {
+      "id": "l3",
+      "title": "The Architecture of Sleep: NREM Stages, REM Paradox, & Sleep Cycles",
+      "description": "Master polysomnography: EEG sleep wave progression, N1, N2 spindles/K-complexes, N3 slow-wave sleep, and REM atonia.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Sleep Architecture"
+    },
+    {
+      "id": "l4",
+      "title": "Why We Sleep: Memory Consolidation, Glymphatic Waste Clearance, & Sleep Pathology",
+      "description": "Examine memory replay, synaptic downscaling, glymphatic amyloid clearance, and disorders including narcolepsy and REM behavior disorder.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Sleep Functions & Disorders"
+    }
+  ]
+}

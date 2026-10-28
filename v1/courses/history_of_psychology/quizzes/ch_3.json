@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_3",
+  "chapterId": "ch_3",
+  "title": "Chapter 3 Mastery Quiz: Functionalism, Evolutionary Thought & Pragmatism",
+  "description": "Demonstrate comprehensive mastery of Darwin's impact, William James, Functionalist schools, and early women pioneers.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch3_q1",
+      "type": "multiple_choice",
+      "question": "How did Charles Darwin's evolutionary theory influence the emerging discipline of psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It eliminated interest in animal behavior",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It encouraged studying the adaptive function of consciousness and comparative animal minds",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It established that all human behavior is fixed by instincts without learning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It outlawed experimental laboratory research",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Darwin shifted psychology's focus toward how mental faculties help organisms adapt and survive in their environments.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q2",
+      "type": "multiple_choice",
+      "question": "Who coined the phrase 'Nature and Nurture' and pioneered the use of twin studies to examine heredity?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "William James",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Francis Galton",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "John Dewey",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Alfred Binet",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Francis Galton coined 'nature and nurture' and pioneered twin study methodology in the late 19th century.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q3",
+      "type": "multiple_choice",
+      "question": "What statistical concept did Francis Galton invent, which was later mathematically perfected by Karl Pearson?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Correlation coefficient",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Analysis of variance (ANOVA)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Chi-square test",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Factor analysis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Galton introduced the concept of co-relation (correlation) and regression to quantify relationships between variables.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q4",
+      "type": "multiple_choice",
+      "question": "What controversial and harmful movement did Francis Galton found in 1883 that advocated selective human breeding?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Phrenology",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Eugenics",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Social Darwinism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Structuralism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Galton founded eugenics, proposing that human society should encourage reproduction of the 'fit' and suppress reproduction of the 'unfit'.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q5",
+      "type": "multiple_choice",
+      "question": "Who is universally celebrated as the foundational figure and 'father' of American psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Wilhelm Wundt",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "William James",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Edward Titchener",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "B.F. Skinner",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "William James established Harvard's first psychology demonstrations and authored 'The Principles of Psychology'.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q6",
+      "type": "multiple_choice",
+      "question": "What metaphor did William James famously use to refute Structuralism's view of consciousness as composed of static parts?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A clockwork mechanism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "A stream or river",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "A blank slate",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A telephone switchboard",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "James insisted that consciousness is an ongoing, fluid, undivided 'stream of consciousness'.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q7",
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT one of William James's five characteristics of consciousness?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It is personal and unique to the individual",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It is constantly changing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It can be cleanly broken down into 44,000 independent sensory atoms",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "It is selective in choosing what to attend to",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "James directly opposed the idea that consciousness can be dissected into independent sensory atoms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q8",
+      "type": "multiple_choice",
+      "question": "According to the James-Lange theory of emotion, what is the sequence of emotional experience?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Emotional feeling -> Bodily change -> Behavioral response",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Stimulus -> Physiological bodily response -> Perception of bodily change (Emotion)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Cognitive appraisal -> Conscious emotion -> Reflex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Stimulus -> Subconscious repression -> Neurotic anxiety",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "James-Lange posits that the perception of physiological bodily responses to a stimulus IS the emotional feeling.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q9",
+      "type": "multiple_choice",
+      "question": "What philosophical perspective, co-founded by William James, judges the validity of ideas based on their practical real-world utility?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Structuralism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Pragmatism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Scholasticism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Nihilism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pragmatism evaluates the truth of an idea by its practical, functional consequences in human living.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q10",
+      "type": "multiple_choice",
+      "question": "John Dewey's 1896 paper criticizing the traditional reflex arc concept argued that behavior should be understood as what?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A sequence of isolated, independent stimulus and response links",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "A coordinated, continuous functional circuit adapting the organism to its environment",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "An illusion governed entirely by unconscious sexual complexes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A purely physical muscle contraction devoid of perception",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dewey argued that stimulus and response are continuous, coordinated functional processes rather than disjointed links.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q11",
+      "type": "multiple_choice",
+      "question": "Which university was the premier Midwestern hub for the early Functionalist movement under Dewey, Angell, and Carr?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "University of Chicago",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Stanford University",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Princeton University",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Yale University",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The University of Chicago was the primary cradle of American Functionalism.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q12",
+      "type": "multiple_choice",
+      "question": "In his 1906 APA presidential address, James Rowland Angell declared that Functionalism is primarily interested in answering what question?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "'What are the constituent sensory atoms of mind?'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "'What does consciousness do and what is its utility for survival?'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "'How can we eliminate all mental terminology from science?'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "'How do early childhood traumas produce hysteria?'",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Angell underscored that functionalism asks 'how' and 'why' mental processes operate to serve adaptive goals.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q13",
+      "type": "multiple_choice",
+      "question": "What formula did Robert S. Woodworth introduce in his 'dynamic psychology' to highlight the organism's internal state?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "S -> R",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "S -> O -> R",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "E = mc^2",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Id -> Ego -> Superego",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Woodworth proposed S -> O -> R, emphasizing that the internal state, drive, and motivation of the Organism (O) mediate between Stimulus and Response.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q14",
+      "type": "multiple_choice",
+      "question": "How did Functionalism differ most radically from German Structuralism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Functionalism embraced applied fields like education, business, and child development",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Functionalism only studied dead brains",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Functionalism rejected the theory of biological evolution",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Functionalism strictly banned field research",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Functionalism opened psychology to real-world applied issues, education, child study, and mental testing.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q15",
+      "type": "multiple_choice",
+      "question": "Why did Harvard University refuse to award Mary Whiton Calkins her doctorate in psychology despite unanimous faculty recommendation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "She failed her oral dissertation defense",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Harvard did not grant degrees to women at that time",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Her research was accused of statistical fraud",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "She refused to study with William James",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Harvard's governing boards refused to confer degrees on women, offering her a degree from Radcliffe College instead, which she refused.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q16",
+      "type": "multiple_choice",
+      "question": "Which enduring memory research technique did Mary Whiton Calkins invent?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Paired-associate learning",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Stroop task",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The serial reaction time test",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Skinner box",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Calkins invented the paired-associate learning method (presenting stimulus-response word/color pairs) to study associative memory.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q17",
+      "type": "multiple_choice",
+      "question": "What school of thought did Mary Whiton Calkins develop, placing the experiencing conscious self at the center of psychological science?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Self-Psychology",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Radical Behaviorism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Neuropsychiatry",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Analytical Archetypology",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Calkins developed Self-Psychology, arguing that psychological processes can only be understood in relation to a conscious self.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q18",
+      "type": "multiple_choice",
+      "question": "Who was the first woman to officially earn a PhD in psychology in the United States (Cornell, 1894)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Margaret Floy Washburn",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Mary Whiton Calkins",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Christine Ladd-Franklin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Leta Stetter Hollingworth",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Margaret Floy Washburn earned her PhD under Titchener at Cornell in 1894, the first woman officially granted the doctorate in American psychology.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q19",
+      "type": "multiple_choice",
+      "question": "What pioneering 1908 comparative psychology book was authored by Margaret Floy Washburn?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Animal Mind",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Animal Intelligence",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Behavior of Organisms",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Mentality of Apes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "'The Animal Mind' (1908) by Washburn compiled experimental findings on sensory and cognitive capabilities across diverse animal species.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q20",
+      "type": "multiple_choice",
+      "question": "Christine Ladd-Franklin made significant theoretical contributions to which area of sensory psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Evolutionary theory of color vision",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Vestibular balance mechanisms",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Olfactory pheromone signaling",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Tactile pain receptors",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Ladd-Franklin formulated an evolutionary theory of color vision postulating three stages: achromatic, blue-yellow, and red-green.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q21",
+      "type": "multiple_choice",
+      "question": "What was Hugo M\u00fcnsterberg's major role in the evolution of American functional psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He pioneered applied forensic, industrial, and clinical psychology at Harvard",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He invented the lobotomy",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "He proved that introspection is superior to physiological testing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He created the first intelligence test in Paris",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "M\u00fcnsterberg took over James's Harvard lab and became the pioneer of applied psychology in law, industry, and psychotherapy.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch3_q22",
+      "type": "multiple_choice",
+      "question": "Which of the following best captures the historical transition from Structuralism to Functionalism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "From asking 'What are the pieces of mind?' to asking 'What purpose does mind serve?'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "From studying human brains to studying plant roots",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "From quantitative statistics to armchair philosophy",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "From studying awake adults to studying only dreaming children",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Functionalism replaced Structuralism's quest for static conscious components with an investigation into the adaptive purpose and function of psychological processes.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

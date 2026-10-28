@@ -1,0 +1,220 @@
+{
+  "id": "sq_biopsychology_3",
+  "title": "Speed Run: The Cognitive Neuroscientist's High-Velocity Gauntlet",
+  "triggerChapterIndex": 6,
+  "metadata": {
+    "type": "speed"
+  },
+  "questions": [
+    {
+      "id": "sq3_q1",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 1: Which ion's rapid entry triggers the depolarizing upstroke of an action potential?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sodium (Na+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Potassium (K+)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Chloride (Cl-)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Magnesium (Mg2+)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sodium influx depolarizes the membrane toward +30 mV.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q2",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 2: Which master pacemaker in the anterior hypothalamus regulates the 24-hour circadian cycle?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Suprachiasmatic Nucleus (SCN)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Substantia Nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Nucleus Accumbens",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Mammillary Body",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The SCN entrains internal circadian timing to ambient light.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q3",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 3: In polysomnography, what EEG wave is the defining hallmark of deep Stage N3 slow-wave sleep?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Delta wave (0.5 to 4 Hz)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Beta wave (13 to 30 Hz)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Alpha wave (8 to 12 Hz)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sleep spindle burst only",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "High-voltage slow delta waves define Stage N3 SWS.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q4",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 4: Which neuroimaging methodology records brain activity with millisecond temporal resolution using magnetic field induction?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Magnetoencephalography (MEG)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Structural CT scan",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "FDG PET scan",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "T1-weighted MRI",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "MEG records magnetic fields with millisecond temporal resolution without skull distortion.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q5",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 5: What is the molecular plug that blocks the NMDA receptor at resting membrane potential?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Magnesium ion (Mg2+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sodium ion (Na+)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Glutamate molecule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cholesterol crystal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Mg2+ ion blocks the pore until membrane depolarization expels it.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q6",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 6: The primary auditory cortex (Heschl's gyrus) is situated within which cerebral lobe?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Temporal lobe",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Occipital lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Frontal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Parietal lobe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The superior temporal gyrus houses the primary auditory cortex.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q7",
+      "type": "multiple_choice",
+      "question": "Rapid Fire 7: Which causal perturbation method delivers focal magnetic pulses to create transient 'virtual lesions' in awake humans?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Transcranial Magnetic Stimulation (TMS)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Positron Emission Tomography (PET)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Diffusion Tensor Imaging (DTI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Electroencephalography (EEG)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "TMS non-invasively depolarizes local cortex to test causal necessity in human cognition.",
+      "xpReward": 15,
+      "difficulty": 1
+    }
+  ]
+}

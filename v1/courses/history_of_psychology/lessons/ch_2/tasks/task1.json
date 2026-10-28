@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_2",
+  "title": "Conducting an Introspective Sensory Protocol",
+  "description": "Execute a formal introspection trial on sensory perception and evaluate observer interference.",
+  "estimatedMinutes": 12,
+  "problemStatement": "In this task, you will simulate a 19th-century Leipzig introspection protocol to understand both the methodology and its limitations.\n\n### Protocol Steps:\n1. Choose a simple stimulus (e.g., striking a metal spoon against a glass cup, or looking at an ice cube melting on your palm).\n2. Record your immediate, raw introspective sensations without referencing the physical object (focus on auditory timbre, pitch decay, temperature gradient, tactile pressure).\n3. Repeat the trial 3 times under identical conditions. Note whether your conscious awareness changes simply because you are paying hyper-vigilant attention.\n4. Write a 2-paragraph evaluation: Why does conscious observation alter the target experience, and how does this create methodological challenges for scientific replication?",
+  "hints": [
+    "Hint 1: Notice how difficult it is to separate the sound from the concept 'spoon hitting cup'.",
+    "Hint 2: Pay attention to whether your emotional reaction shifts from spontaneous to analytical."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "l2",
+  "chapterId": "ch_8",
+  "title": "Decision Errors, Effect Size & Statistical Power",
+  "description": "Master Type I vs. Type II errors, statistical power (1 - Beta), Cohen's d effect sizes, and why sample size is vital.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Statistical Decision Making",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Four Outcomes of Hypothesis Testing ⚖️",
+      "content": "# When Statistical Judgments Fail\n\nWhenever a researcher decides whether to reject the Null Hypothesis (H0), four outcomes are possible based on objective reality in the population:\n\n| Researcher Decision | Reality: H0 is Actually TRUE (No Effect) | Reality: H0 is Actually FALSE (Real Effect Exists) |\n| :--- | :--- | :--- |\n| **Reject H0 (Claim an effect)** | **Type I Error (False Positive)**. Probability = **Alpha (α)**, typically set at 0.05. | **Correct Decision (Power)**. Probability = **1 - Beta (1 - β)**. |\n| **Fail to Reject H0 (Claim no effect)** | **Correct Decision**. Probability = 1 - Alpha (0.95). | **Type II Error (False Negative)**. Probability = **Beta (β)**. |\n\n*Analogy*: Type I Error is convicting an innocent person. Type II Error is acquitting a guilty criminal."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Decision Error Discrimination Check 🚨",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A clinical study concludes that a novel memory drug significantly boosts recall, leading to FDA approval. However, subsequent massive replications reveal the drug is totally inert (no better than water). What statistical error occurred in the initial study?",
+        "options": [
+          {"id": "opt1", "text": "Type I Error (False Positive)", "isCorrect": true},
+          {"id": "opt2", "text": "Type II Error (False Negative)", "isCorrect": false},
+          {"id": "opt3", "text": "Attrition error", "isCorrect": false},
+          {"id": "opt4", "text": "Measurement scale shift", "isCorrect": false}
+        ],
+        "explanation": "Rejecting the null hypothesis when H0 is actually true (claiming a drug works when it is actually inert) is a Type I error (false positive).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Effect Size: How Big is the Effect? 📏",
+      "content": "## Beyond Simple Statistical Significance\n\nA p-value tells you *if* an effect exists; **Effect Size** tells you *how large and practically meaningful* the effect is, independent of sample size!\n\nThe most common metric for comparing two group means is **Cohen's d**:\n* **Small Effect (d = 0.20)**: Means differ by 0.20 standard deviations (subtle, hard to see with the naked eye).\n* **Medium Effect (d = 0.50)**: Means differ by 0.50 standard deviations (readily noticeable in daily life).\n* **Large Effect (d = 0.80)**: Means differ by 0.80 standard deviations (gross difference, like height between adult men and women).\n\nNever judge a psychological finding solely by its p-value; always inspect its effect size!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "Statistical Power (1 - Beta) ⚡",
+      "content": "## The Muscle of an Experiment\n\n**Statistical Power** is the probability of correctly rejecting the null hypothesis when a true effect actually exists in the population (1 - β):\n\n* Standard convention sets desired power at **0.80 (80%)**.\n* If power is only 30%, you have a 70% chance of committing a Type II error (failing to find an effect that really exists!).\n\n*How to Boost Statistical Power*:\n1. **Increase Sample Size (N)**: The single most effective way to detect subtle effects.\n2. **Increase Effect Size**: Use stronger manipulations.\n3. **Reduce Error Variance**: Use within-subjects designs or standardize testing conditions.\n4. **Raise Alpha Level**: (e.g., from 0.01 to 0.05), though this increases Type I risk."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "quiz",
+      "title": "Statistical Power Boost Check 🔋",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "What is the most practical and reliable way for an experimental psychologist to increase the statistical power of a study?",
+        "options": [
+          {"id": "opt1", "text": "Increase the sample size (N)", "isCorrect": true},
+          {"id": "opt2", "text": "Decrease the alpha level from 0.05 to 0.001", "isCorrect": false},
+          {"id": "opt3", "text": "Switch to a between-subjects design without a control group", "isCorrect": false},
+          {"id": "opt4", "text": "Use an unstandardized measurement instrument", "isCorrect": false}
+        ],
+        "explanation": "Increasing sample size narrows standard error and confidence intervals, dramatically boosting statistical power to detect real effects.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Conduct an A Priori Power Analysis\n\nNever guess how many participants you need! Before collecting data, use software like G*Power to calculate the exact sample size needed to detect your expected effect size with 80% power. Underpowered studies waste time, participant goodwill, and funding!"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_5",
+  "title": "Mapping the Sensory & Motor Homunculi and Cortical Magnification",
+  "description": "Chart two-point tactile discrimination thresholds across the body and correlate findings with Penfield's cortical homunculus.",
+  "estimatedMinutes": 15,
+  "problemStatement": "In a human psychophysics laboratory, researchers measure the **Two-Point Discrimination Threshold** (the minimal distance between two caliper points where a participant perceives two separate touches rather than one) across five body locations:\n1. Index fingertip\n2. Upper lip\n3. Forearm\n4. Middle of the back\n5. Big toe\n\n### Your Mission:\n1. **Data Prediction**: Rank these five sites from smallest discrimination threshold (highest tactile acuity, ~2-3 mm) to largest threshold (lowest tactile acuity, ~40-50 mm).\n2. **Receptive Field Physiology**: Explain how receptor density and receptive field size in Merkel discs and Meissner corpuscles account for these differences.\n3. **Homunculus Correlation**: Relate these physical findings directly to the proportional surface area of Primary Somatosensory Cortex (S1) dedicated to each body part (cortical magnification).",
+  "hints": [
+    "Hint 1: Fingertips and lips have tiny, densely packed receptive fields that map to huge cortical areas in S1.",
+    "Hint 2: The back has large, overlapping receptive fields with very sparse cortical representation."
+  ]
+}

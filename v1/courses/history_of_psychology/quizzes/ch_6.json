@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_6",
+  "chapterId": "ch_6",
+  "title": "Chapter 6 Mastery Quiz: Gestalt Psychology & The Humanistic Movement",
+  "description": "Demonstrate comprehensive mastery of Gestalt laws, K\u00f6hler's insight, Lewin's field theory, Carl Rogers, and Maslow's hierarchy.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch6_q1",
+      "type": "multiple_choice",
+      "question": "What does the German word 'Gestalt' most closely translate to in English?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Unified form, pattern, or configuration",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Conditioned reflex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Unconscious sexual impulse",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Measurement of reaction time",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gestalt means whole, shape, unified pattern, or configuration.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q2",
+      "type": "multiple_choice",
+      "question": "Which trio of psychologists founded the Gestalt school in Germany in the early 20th century?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Max Wertheimer, Kurt Koffka, and Wolfgang K\u00f6hler",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Wilhelm Wundt, Edward Titchener, and G. Stanley Hall",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Sigmund Freud, Carl Jung, and Alfred Adler",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "John Watson, B.F. Skinner, and Edward Thorndike",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wertheimer, Koffka, and K\u00f6hler were the three co-founders of the Gestalt psychology movement.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q3",
+      "type": "multiple_choice",
+      "question": "What is the precise statement of the Gestalt principle regarding wholes and parts?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The whole is other than the sum of its parts",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The whole is equal to the sum of sensory atoms",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The parts are more important than the whole",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Wholes do not exist in reality",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Kurt Koffka explicitly corrected the mistranslation: Gestalt theory holds that the whole is 'other' (different in kind) than the sum of its parts.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q4",
+      "type": "multiple_choice",
+      "question": "Which Gestalt law explains why you see rows of circles and rows of squares rather than mixed random columns?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Law of Similarity",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Law of Proximity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Law of Closure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Law of Good Continuation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Law of Similarity states that visually similar elements are automatically grouped together into units.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q5",
+      "type": "multiple_choice",
+      "question": "When you look at an incomplete circle with a small gap and automatically perceive a whole circle, which Gestalt law is at work?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Law of Closure",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Law of Proximity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Law of Sublimation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Law of Effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Law of Closure states that the visual system fills in missing contour information to complete recognizable shapes.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q6",
+      "type": "multiple_choice",
+      "question": "What overarching Gestalt principle (Law of Pr\u00e4gnanz) asserts that visual stimuli are organized into the simplest, most regular, and harmonious configuration possible?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Law of Good Figure (Simplicity / Pr\u00e4gnanz)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Law of Association",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Law of Frequency",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Equipotentiality Principle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pr\u00e4gnanz (good figure / simplicity) is the central Gestalt law: the perceptual field organizes into the simplest possible structure.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q7",
+      "type": "multiple_choice",
+      "question": "In his chimpanzee research on Tenerife, what did Wolfgang K\u00f6hler observe that directly contradicted Thorndike's trial-and-error model?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sultan solved the two-stick problem suddenly through insightful mental restructuring of the tools",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Apes required thousands of food pellets before learning anything",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Apes showed zero problem-solving ability",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Conditioning was faster when using electric shocks",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "K\u00f6hler showed that chimpanzees display sudden insight learning (Einsicht)\u2014grasping the relational whole of the problem and tool.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q8",
+      "type": "multiple_choice",
+      "question": "What famous formula did Kurt Lewin formulate to express that behavior is determined by the person interacting with their psychological environment?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "B = f(P, E)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "S -> R",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "I = k * log(S)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "E = mc^2",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Lewin's formula B = f(P, E) states that Behavior is a function of the Person and their subjective Environment.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q9",
+      "type": "multiple_choice",
+      "question": "What psychological phenomenon discovered by Bluma Zeigarnik demonstrates that uncompleted tasks are recalled significantly better than completed ones?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Zeigarnik Effect",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Garcia Effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Hawthorne Effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Placebo Effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Zeigarnik Effect demonstrates that unresolved goals maintain cognitive tension in memory until completed.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q10",
+      "type": "multiple_choice",
+      "question": "Why did Kurt Lewin's research on leadership styles (Autocratic, Democratic, and Laissez-faire) have such a profound historical impact?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It empirically demonstrated that democratic leadership produced higher satisfaction and creative cooperation than authoritarian control",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It showed that leaders should never communicate with subordinates",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It proved that only monarchy works in organizations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It proved that leadership is 100% genetically determined",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Lewin showed that group climates experimentally shape individual behavior, providing empirical support for democratic leadership.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q11",
+      "type": "multiple_choice",
+      "question": "What nickname did Humanistic psychology adopt to distinguish itself from Psychoanalysis and Behaviorism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Third Force",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Second Wave",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Cognitive Coalition",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Behavioral Vanguard",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Humanistic psychology designated itself the 'Third Force' behind Psychoanalysis and Behaviorism.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q12",
+      "type": "multiple_choice",
+      "question": "Carl Rogers replaced the traditional clinical term 'patient' with what word, signaling equality and agency in therapy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Client",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Subject",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Participant",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Analysand",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rogers intentionally used 'client' to abandon medicalized hierarchy and emphasize the individual's self-directing autonomy.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q13",
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT one of Carl Rogers's three necessary and sufficient conditions for therapeutic personality change?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Congruence (Genuineness)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Unconditional Positive Regard (UPR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Accurate Empathic Understanding",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Systematic Electric Shock Desensitization",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Rogers's three core therapeutic conditions are Congruence, Unconditional Positive Regard, and Empathy.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q14",
+      "type": "multiple_choice",
+      "question": "What did Carl Rogers define as 'Unconditional Positive Regard'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Complete, non-judgmental acceptance and valuing of the client without strings attached",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Blindly agreeing with every action the client takes, even criminal acts",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Providing food rewards every time the client arrives on time",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Interpreting unconscious Oedipal complexes gently",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Unconditional Positive Regard is warm, non-possessive caring and acceptance of the client as a human being of inherent worth.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q15",
+      "type": "multiple_choice",
+      "question": "According to Carl Rogers, what causes psychological distress and neurosis in an individual?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Incongruence between the Real Self and the Ideal Self forced by conditions of worth",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Lack of physical punishment in childhood",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A damaged occipital lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Failure to record dreams in childhood",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Rogers posited that when individuals internalize conditions of worth, a painful gap opens between their real self and ideal self.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q16",
+      "type": "multiple_choice",
+      "question": "What is at the very base of Abraham Maslow's original Hierarchy of Needs?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Physiological needs (food, water, sleep)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Self-actualization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Belongingness and love",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Self-esteem",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Physiological needs (survival needs: food, water, air, sleep) form the fundamental foundation of Maslow's pyramid.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q17",
+      "type": "multiple_choice",
+      "question": "What need sits at the apex of Maslow's hierarchy, representing the realization of one's full personal potential?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Self-Actualization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Safety needs",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Operant extinction",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Repression",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Self-Actualization is the desire to fulfill one's creative, intellectual, and human potential ('What a man can be, he must be').",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q18",
+      "type": "multiple_choice",
+      "question": "In Maslow's theory, how do 'Deficiency Needs' (D-Needs) differ from 'Being/Growth Needs' (B-Needs)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "D-needs arise from physical or social deprivation; B-needs arise from the innate desire to grow and flourish",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "D-needs occur only in animals; B-needs occur in humans",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "D-needs are pleasant; B-needs are always painful",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "D-needs cannot be satisfied",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "D-needs (hunger, safety, belonging) stem from deficit; B-needs (self-actualization, truth, beauty) stem from growth.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q19",
+      "type": "multiple_choice",
+      "question": "What term did Abraham Maslow give to transcendent, profound moments of awe, unity, and bliss experienced during self-actualization?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Peak experiences",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cathartic release",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Spontaneous recoveries",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory thresholds",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Maslow described 'peak experiences' as rare, ecstatic moments of universal clarity, harmony, and joy.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q20",
+      "type": "multiple_choice",
+      "question": "What modern subfield of psychology, founded in the late 1990s by Martin Seligman, is the direct scientific heir to humanistic psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Positive Psychology",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Radical Behaviorism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Neuro-Linguistic Programming",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Comparative Sociobiology",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Positive Psychology adopted Humanism's emphasis on human strengths, flourishing, and well-being, while applying rigorous quantitative empirical methods.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q21",
+      "type": "multiple_choice",
+      "question": "What is the primary scientific critique commonly leveled against Maslow's Hierarchy of Needs?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Empirical studies show that human motivation does not follow a strict, rigid hierarchical order (e.g. starving artists still create masterpieces)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It was completely rejected by business and educational leaders",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It was stolen from Ivan Pavlov",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It only works in animals",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Research shows needs do not always follow a rigid stepwise hierarchy\u2014humans frequently pursue esteem, love, or art despite deprivation of lower needs.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q22",
+      "type": "multiple_choice",
+      "question": "What shared conviction united Gestalt psychology and Humanistic psychology against behaviorism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Both insisted that human experience must be understood as an indivisible, meaningful whole rather than dissected into mechanical pieces",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Both believed all mental life is an illusion",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Both rejected university education",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Both argued that humans have no free will",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Both movements championed holism against reductionism: Gestalt in perception and cognition, Humanism in personality and therapy.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

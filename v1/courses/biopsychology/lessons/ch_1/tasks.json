@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Simulating the Action Potential & Refractory Thresholds",
+      "description": "Analyze voltage-gated ion channels, predict membrane potential shifts, and calculate refractory thresholds under altered extracellular ion concentrations.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Pharmacological Mapping: Agonists, Antagonists & Synaptic Fate",
+      "description": "Deconstruct synaptic transmission mechanisms and evaluate how selective drugs alter neurotransmitter concentration in the synaptic cleft.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

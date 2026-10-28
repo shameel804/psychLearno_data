@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_6",
+  "title": "Between-Subjects vs. Within-Subjects Designs",
+  "description": "Compare independent groups against repeated measures designs: statistical power, individual differences, and matched pairs.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Experimental Architecture",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Two Core Experimental Architectures 🏛️",
+      "content": "# How Do Participants Experience Conditions?\n\nEvery experimental psychologist must make a fundamental architectural decision:\n\n* **Between-Subjects Design (Independent Groups)**: Different participants are assigned to each level of the Independent Variable. Group A gets Treatment 1; Group B gets Treatment 2. Each person experiences only ONE condition.\n* **Within-Subjects Design (Repeated Measures)**: The exact same participants experience ALL levels of the Independent Variable sequentially. Each person serves as their own control!\n\nBoth architectures have profound implications for statistical power, participant burden, and internal validity."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Design Architecture Identification 📐",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "An experimenter tests cognitive reaction time under three lighting conditions (Bright, Dim, and Red). Each of the 30 participants completes the task under Bright light, then under Dim light, and finally under Red light. What design is this?",
+        "options": [
+          {"id": "opt1", "text": "Between-subjects independent groups design", "isCorrect": false},
+          {"id": "opt2", "text": "Within-subjects repeated measures design", "isCorrect": true},
+          {"id": "opt3", "text": "Naturalistic observation", "isCorrect": false},
+          {"id": "opt4", "text": "Archival cross-sectional design", "isCorrect": false}
+        ],
+        "explanation": "Because every individual participant experiences all three levels of the Independent Variable, it is a within-subjects repeated measures design.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Strategic Trade-Offs ⚖️",
+      "content": "## Comparing the Two Architectures\n\n| Feature | Between-Subjects Design | Within-Subjects Design |\n| :--- | :--- | :--- |\n| **Sample Size Required** | Larger (e.g., 30 per group x 3 groups = 90 participants) | Smaller (e.g., 30 participants total test all 3 conditions) |\n| **Individual Differences** | Major noise factor; differences between people can obscure subtle IV effects | **Zero individual difference variance between conditions** (each participant is their own baseline control) |\n| **Statistical Power** | Lower statistical power for the same number of participants | **Substantially higher statistical power** due to reduced error variance |\n| **Order & Carryover Effects** | Completely immune (participants never see another condition) | **Highly vulnerable to order, practice, and fatigue effects** |\n| **Demand Characteristics** | Lower (participants only see one manipulation) | Higher (participants can easily guess the hypothesis after seeing multiple conditions) |\n\nWhen carryover effects cannot be eliminated (e.g., surgical interventions or irreversible learning), a between-subjects design is mandatory."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Power & Efficiency Check ⚡",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "What is the primary statistical advantage of a within-subjects design over a between-subjects design?",
+        "options": [
+          {"id": "opt1", "text": "It completely removes order effects", "isCorrect": false},
+          {"id": "opt2", "text": "It eliminates error variance caused by differences between individual participants, dramatically boosting statistical power", "isCorrect": true},
+          {"id": "opt3", "text": "It eliminates the need for informed consent", "isCorrect": false},
+          {"id": "opt4", "text": "It converts ratio scales into nominal scales", "isCorrect": false}
+        ],
+        "explanation": "Because the same people are in every condition, between-person variance is mathematically subtracted from the error term, greatly increasing statistical power.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The Matched Pairs Hybrid\n\nWant the statistical control of a within-subjects design without the carryover risks? Use a **Matched Pairs Design**! Measure participants on a key covariate (e.g., baseline IQ), pair participants with identical scores, and randomly assign one twin of the pair to Condition A and the other to Condition B."
+    }
+  ]
+}

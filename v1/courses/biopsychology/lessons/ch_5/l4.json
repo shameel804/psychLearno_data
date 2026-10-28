@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_5",
+  "title": "The Motor Hierarchy: Planning, Executing, & Calibrating Movement",
+  "description": "Trace motor commands from prefrontal intention to premotor sequencing, primary motor execution, corticospinal decussation, and upper vs. lower motor lesions.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Motor Hierarchy",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Motor Hierarchy: From Goal to Action \ud83e\uddd7",
+      "content": "# Organizing Voluntary Movement\n\nMotor control is organized hierarchically across three descending cortical tiers:\n\n1. **Prefrontal Cortex (Goal / Intention)**: Evaluates behavioral context and decides *what* to do (e.g., 'reach for that water glass').\n2. **Premotor Cortex (PMC) & Supplementary Motor Area (SMA)**: Plans and sequences the complex spatio-temporal program of muscle activations needed.\n   * *Mirror Neurons*: Discovered in premotor cortex (F5); fire both when performing a motor action and when passively observing another individual execute the same goal-directed action!\n3. **Primary Motor Cortex (M1 - Precentral Gyrus)**: Executes the motor plan, sending descending action potentials down the corticospinal tract to spinal motor pools."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "text",
+      "title": "The Corticospinal Tract & Pyramidal Decussation \u26a1",
+      "content": "## The Grand Motor Highway\n\n* **Origin**: Large pyramidal Betz cells in cortical Layer V of M1.\n* **Descent**: Axons travel through the internal capsule, cerebral peduncles, and pons into the **medullary pyramids**.\n* **Pyramidal Decussation**:\n  * **Lateral Corticospinal Tract (~90% of fibers)**: Crosses the midline (decussates) in the lower medulla; descends in the lateral spinal column to control **contralateral distal limb muscles** (independent finger movements, dexterity).\n  * **Anterior Corticospinal Tract (~10% of fibers)**: Descends uncrossed; crosses at spinal levels to control bilateral **axial and trunk posture**."
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Check: Corticospinal Decussation \ud83c\udfc3",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Where does the lateral corticospinal tract cross the midline to control contralateral voluntary limb movement?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "At the decussation of the pyramids in the caudal medulla",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "At the optic chiasm",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Inside the corpus callosum",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Inside the basal ganglia striatum",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Approximately 90% of corticospinal axons cross to the opposite side at the pyramidal decussation in the caudal medulla.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Upper vs. Lower Motor Neuron Lesions \ud83e\ude7a",
+      "content": "## Clinical Neurology: Diagnosing Paralysis\n\n| Clinical Sign | Upper Motor Neuron (UMN) Lesion (Cortex / Corticospinal) | Lower Motor Neuron (LMN) Lesion (Ventral Horn / Peripheral Nerve) |\n| :--- | :--- | :--- |\n| **Muscle Tone** | **Hypertonia** / Spasticity ('clasp-knife' rigidity) | **Hypotonia** / Flaccidity |\n| **Reflexes** | **Hyperreflexia** (clonus) | **Hyporeflexia** or Areflexia |\n| **Babinski Sign** | **Positive** (Great toe extends upward, other toes fan) | **Negative** (Normal plantar flexion or absent) |\n| **Muscle Atrophy** | Disuse atrophy only (mild, late) | Severe, rapid denervation **atrophy** and fasciculations |"
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\udca1",
+      "content": "### The Babinski Reflex\n\nStroking the lateral sole of an infant's foot normally elicits a positive Babinski sign because corticospinal myelination is not yet mature. In an adult, a positive Babinski sign is a classic clinical red flag indicating corticospinal tract (UMN) damage from stroke, trauma, or multiple sclerosis."
+    }
+  ]
+}

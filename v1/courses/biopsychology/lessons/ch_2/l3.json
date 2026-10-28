@@ -1,0 +1,93 @@
+{
+  "id": "l3",
+  "chapterId": "ch_2",
+  "title": "The Spinal Cord & Reflex Arcs: Neural Highways & Involuntary Action",
+  "description": "Master the cross-sectional anatomy of the spinal cord (dorsal vs. ventral horns), afferent vs. efferent tracts, and monosynaptic/polysynaptic reflexes.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Spinal Circuitry",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Spinal Cord Anatomy: The Butterfly Core \ud83e\udd8b",
+      "content": "# The Central Information Superhighway\n\nThe spinal cord extends from the foramen magnum of the skull down to the lumbar region (terminating at the conus medullaris around L1-L2). A cross-section reveals:\n\n* **Inner Gray Matter**: H-shaped or butterfly-shaped region packed with neuronal cell bodies and unmyelinated interneurons.\n  * **Dorsal Horns**: Contain sensory nuclei receiving inputs from sensory neurons.\n  * **Ventral Horns**: Contain large motor neuron cell bodies whose axons command skeletal muscles.\n* **Outer White Matter**: Myelinated fiber tracts carrying information up and down the neuraxis.\n  * **Ascending Tracts**: Sensory highways traveling upward to the brain (e.g., Dorsal Columns, Spinothalamic tract).\n  * **Descending Tracts**: Motor highways carrying commands downward from the brain (e.g., Corticospinal tract)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check: The Bell-Magendie Law \ud83d\udcdc",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "According to the Bell-Magendie Law of spinal nerve roots, what type of signals travel through the dorsal and ventral roots?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Dorsal roots are motor (efferent); ventral roots are sensory (afferent)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Dorsal roots are sensory (afferent); ventral roots are motor (efferent)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Both dorsal and ventral roots carry identical mixed signals",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Dorsal roots control autonomic digestion; ventral roots control conscious thought",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The Bell-Magendie Law dictates: Dorsal = Sensory (Afferent) inputs entering the cord; Ventral = Motor (Efferent) outputs exiting to muscles.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Reflex Arcs: Survival Without Brain Delays \u26a1",
+      "content": "## Reflex Circuitry\n\nA **reflex** is an involuntary, stereotyped motor response to a sensory stimulus that can occur without conscious brain intervention.\n\n### The Patellar (Knee-Jerk) Reflex \u2014 Monosynaptic:\n1. Tapping the patellar tendon stretches the quadriceps muscle.\n2. **Muscle spindles** detect the stretch and fire action potentials along **Ia sensory afferents**.\n3. Sensory afferent enters the dorsal horn and synapses *directly* onto an **alpha motor neuron** in the ventral horn (no interneuron = monosynaptic!).\n4. Motor neuron fires, contracting the quadriceps and causing the lower leg to kick forward.\n\n### The Withdrawal (Flexor) Reflex \u2014 Polysynaptic:\nStepping on a painful nail excites pain nociceptors, which synapse on excitatory and inhibitory spinal interneurons. Interneurons simultaneously contract the ipsilateral flexor muscles (withdrawing the foot) and extend the contralateral leg (crossed-extensor reflex) so you don't collapse!"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Check: Reflex Circuitry \ud83e\uddb5",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Why is the patellar tendon stretch reflex classified as a 'monosynaptic' reflex?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It requires only one single neurotransmitter molecule to complete",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "The sensory afferent neuron synapses directly onto the motor neuron without an intermediate interneuron",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It only fires once in a person's lifetime",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It is completely mediated within a single brain hemisphere",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "A monosynaptic reflex contains only one single central synapse between the primary sensory afferent and the alpha motor neuron.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

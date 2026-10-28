@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Mapping Conditioning Contingencies in Real-World Scenarios",
+      "description": "Classify behavioral modifications across positive/negative reinforcement and punishment contingencies.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Ethical Review of Historic Behavioral Experiments",
+      "description": "Audit Watson's Little Albert experiment against modern APA Institutional Review Board (IRB) ethical standards.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

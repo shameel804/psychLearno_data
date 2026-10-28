@@ -1,0 +1,18 @@
+{
+  "id": "project2",
+  "title": "Comparative Clinical Case Formulation: Psychoanalysis vs. Behaviorism",
+  "description": "Formulate competing diagnostic explanations and treatment plans for a complex clinical anxiety case study.",
+  "difficulty": "Advanced",
+  "estimatedHours": "4-6",
+  "problemStatement": "A 28-year-old software engineer presents with severe elevator phobia (claustrophobia) and panic attacks that prevent them from traveling to their office on the 24th floor. The patient recalls getting trapped in a dark elevator during a power outage at age 7, but also reports intense perfectionism and recurring nightmares about falling from heights while authority figures watch.\n\n### Your Objective:\nDevelop two rigorous, competing clinical case formulations and intervention protocols based on historical paradigm principles.",
+  "requirements": [
+    "Theoretical Framework A (Freudian Psychoanalysis): Explain the symptom through the structural model (Id, Ego, Superego), unconscious conflict, repressed childhood impulses, and specific ego defense mechanisms (displacement, projection, regression). Design a psychoanalytic treatment plan utilizing free association, dream analysis, and working through transference.",
+    "Theoretical Framework B (Watson-Skinner Behaviorism): Deconstruct the phobia using classical conditioning (UCS, UCR, CS, CR) and operant conditioning (how elevator avoidance acts as negative reinforcement). Formulate an evidence-based behavioral intervention utilizing Joseph Wolpe's systematic desensitization (relaxation training + anxiety hierarchy) or in-vivo exposure therapy.",
+    "Epistemological & Empirical Comparison: Compare both paradigms on testability and Karl Popper's falsifiability criterion. Evaluate why 20th-century clinical psychology shifted heavily from psychodynamic to behavioral and cognitive-behavioral therapies.",
+    "Summary Synthesis: Provide a modern biopsychosocial synthesis showing how physiological amygdala reactivity, cognitive threat appraisal, and classical conditioning interact in panic disorder."
+  ],
+  "hints": [
+    "Hint 1: In behaviorism, negative reinforcement maintains phobias: running away from the elevator removes immediate panic, reinforcing avoidance.",
+    "Hint 2: In psychoanalysis, the elevator is not the true object of fear; it is a symbolic displacement of repressed castration anxiety or parental disapproval."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "l2",
+  "chapterId": "ch_3",
+  "title": "The Limbic Engine: Amygdala, Hippocampus, & Emotional Memory",
+  "description": "Examine the neural substrates of emotion and memory: fear conditioning in the amygdala, episodic memory consolidation in the hippocampus, and Patient H.M.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Limbic Circuits",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Amygdala: Threat Detection & Fear Conditioning \ud83d\udea8",
+      "content": "# The Brain's Smoke Detector\n\nThe **Amygdala** (Latin for 'almond') sits deep within the anterior temporal lobe. It is the central coordinator of emotional salience, vigilance, and classical fear conditioning.\n\n### Nuclear Organization:\n* **Basolateral Complex (BLA)**: Receives multisensory input from sensory cortices and the thalamus; site where neutral conditioned stimuli (CS, e.g., a tone) become associated with unconditioned aversive stimuli (US, e.g., an electric shock).\n* **Central Nucleus (CeA)**: The major output hub that projects to the hypothalamus (triggering autonomic sympathetic activation) and periaqueductal gray (triggering freezing behavior).\n\n### Kl\u00fcver-Bucy Syndrome:\nBilateral surgical removal of the anterior temporal lobes and amygdala produces Kl\u00fcver-Bucy syndrome: complete loss of fear, hyperorality (putting inappropriate objects in mouth), visual agnosia, and hypersexuality."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check: The Amygdala & Fear \u26a1",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Which specific amygdala subnucleus projects directly to the hypothalamus and brainstem to initiate autonomic fear responses?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Basolateral complex (BLA)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Central nucleus (CeA)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Lateral geniculate nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Dentate gyrus",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The central nucleus of the amygdala serves as the primary effector/output hub, projecting to the hypothalamus (ANS arousal) and periaqueductal gray (freezing).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Hippocampus & Memory: The Case of Patient H.M. \ud83e\uddec",
+      "content": "## The Seashore of Memory\n\nThe **Hippocampus** (Greek for 'seahorse') folds medially inside the temporal lobe. It is essential for **memory consolidation**\u2014transforming short-term conscious experiences into stable long-term memories distributed across the neocortex.\n\n### The Immortal Case of Patient H.M. (Henry Molaison):\nIn 1953, neurosurgeon William Scoville performed a bilateral medial temporal lobe resection to treat H.M.'s intractable epilepsy, removing both hippocampi.\n\n* **Severe Anterograde Amnesia**: H.M. was permanently unable to form new explicit episodic or semantic memories. He lived forever in the present ~30-second moment.\n* **Temporally Graded Retrograde Amnesia**: Retained childhood memories, proving remote memories are stored in neocortex, not hippocampus.\n* **Preserved Procedural Memory**: H.M. successfully learned motor skills (e.g., mirror-tracing task), improving daily despite having zero conscious recollection of ever practicing the task!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Check: Memory Systems & Patient H.M. \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "What type of memory remained completely intact in Patient H.M. following bilateral hippocampal resection?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Formation of new conscious autobiographical memories",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Motor skill learning / procedural memory",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Memorizing lists of new vocabulary words",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Recognizing faces of doctors introduced to him after surgery",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Patient H.M. could learn new motor skills (mirror-tracing), demonstrating that procedural memory depends on the basal ganglia and cerebellum, not the hippocampus.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

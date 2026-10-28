@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_4",
+  "title": "Comparative Analysis: Freud's Libido vs. Adler's Striving for Competence",
+  "description": "Contrast biological-sexual determinism with teleological socio-cultural striving in explaining human motivation.",
+  "estimatedMinutes": 15,
+  "problemStatement": "The split between Sigmund Freud and Alfred Adler in 1911 marked the first major theoretical schism in psychoanalysis.\n\n### Your Objective:\nConstruct a comparative essay (3-4 paragraphs) contrasting Freud's causal-biological drive model with Adler's teleological (goal-oriented) social model.\n\n### Address the following points:\n1. How does Freud define the primary engine of human motivation (Id, pleasure principle, libido, psychosexual development)?\n2. How does Adler redefine human motivation (universal childhood vulnerability, inferiority complex, striving for superiority/mastery, social interest)?\n3. Compare their views on human agency: Is human behavior dictated by past childhood fixations (Freudian determinism) or drawn forward by future life goals (Adlerian teleology)?\n4. Which framework has exerted greater influence on contemporary humanistic and positive psychology?",
+  "hints": [
+    "Hint 1: Freud looks backward to childhood causes; Adler looks forward to subjective future goals (fictional finalism).",
+    "Hint 2: Adler's emphasis on social interest and self-determination directly influenced Carl Rogers and Abraham Maslow."
+  ]
+}

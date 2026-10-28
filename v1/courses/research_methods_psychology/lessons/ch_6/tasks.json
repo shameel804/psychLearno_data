@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Designing Between-Subjects vs. Within-Subjects Cognitive Protocols",
+      "description": "Construct competing between-subjects and within-subjects experimental designs testing the effect of binaural beat audio on working memory.",
+      "estimatedMinutes": 15
+    },
+    {
+      "id": "task2",
+      "title": "Diagnosing Campbell & Stanley's Threats to Internal Validity",
+      "description": "Evaluate flawed clinical and educational research vignettes, diagnosing threats like history, regression to the mean, and attrition.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

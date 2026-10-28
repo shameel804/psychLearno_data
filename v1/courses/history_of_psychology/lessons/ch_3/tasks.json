@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Documenting the Stream of Consciousness: Phenomenological Protocol",
+      "description": "Record and analyze a continuous flow of conscious thoughts, testing William James's 5 core tenets.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Analyzing Functional Value in Behavioral Habits",
+      "description": "Examine a personal habit loop through William James's theory of neuroplastic habits and adaptation.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

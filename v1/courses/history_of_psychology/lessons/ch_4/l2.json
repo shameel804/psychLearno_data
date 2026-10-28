@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_4",
+  "title": "Psychic Structures: Id, Ego & Superego",
+  "description": "Examine the dynamic structural model of personality, pleasure and reality principles, and intrapsychic conflict.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Personality Structure",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Structural Model of Personality \u2696\ufe0f",
+      "content": "# The Three Battling Forces\n\nIn 1923 (*The Ego and the Id*), Freud introduced his structural model, viewing human personality not as a harmonious unity, but as an eternal battlefield among three conflicting agencies:\n\n| Agency | Guiding Principle | Characteristics & Role |\n| :--- | :--- | :--- |\n| **Id** (*Das Es*) | **Pleasure Principle** | Present at birth. Primitive, unconscious, amoral, demanding immediate gratification of sexual (*libido*) and aggressive urges. Operates via *primary process* thinking (irrational, wish-fulfilling fantasy). |\n| **Ego** (*Das Ich*) | **Reality Principle** | Develops from the id. Rational, logical, executive mediator. Balances the id's raw demands against physical reality and social rules using *secondary process* realistic problem-solving. |\n| **Superego** (*Das \u00dcber-Ich*) | **Morality Principle** | Internalized moral rules, taboos, and ethical ideals absorbed from parents and culture (consists of the *Conscience* that produces guilt and the *Ego Ideal* that produces pride). |"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Which personality agency operates according to the 'reality principle', acting as the executive mediator between instinctual demands and moral constraints?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Id",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "The Ego",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "The Superego",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The Collective Unconscious",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The Ego operates on the reality principle, delaying instinctual gratification until realistic and socially appropriate outlets are available.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Intrapsychic Conflict & Anxiety \u26a1",
+      "content": "## The Perilous Position of the Ego\n\nFreud famously remarked that the poor Ego serves three tyrannical masters simultaneously:\n1. The impulsive, raging demands of the **Id**.\n2. The harsh, punitive moral condemnation of the **Superego**.\n3. The unforgiving physical constraints of the **External Reality**.\n\nWhen the Ego is overwhelmed by these competing demands, it experiences **anxiety**:\n* **Reality Anxiety**: Fear of real, objective dangers in the external world (e.g., wild animal, fire).\n* **Neurotic Anxiety**: Unconscious fear that the id's impulses will break through and cause the person to do something terrible.\n* **Moral Anxiety**: Fear of the superego's internalized moral punishment (crushing guilt, shame)."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "tip",
+      "title": "The Horse and Rider Metaphor \ud83d\udc0e",
+      "content": "## Who Is Really in Control?\n\nFreud compared the Ego to a rider on horseback: the rider provides direction and steerage, but the horse (the Id) provides all the raw locomotive power. If the horse bolts, the rider is often forced to guide it where it wants to go!"
+    }
+  ]
+}

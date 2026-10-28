@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_3",
+  "chapterId": "ch_3",
+  "title": "Chapter 3 Mastery Quiz: Variables, Measurement & Psychometrics",
+  "description": "Test your mastery of independent/dependent variables, NOIR scales, reliability types, and construct validity dimensions.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch3_q1",
+      "type": "multiple_choice",
+      "question": "In an experiment testing whether chewing gum improves exam performance, what is the Independent Variable (IV)?",
+      "options": [
+        {"id": "opt1", "text": "Chewing gum condition (gum vs. no gum)", "isCorrect": true},
+        {"id": "opt2", "text": "Exam score percentage", "isCorrect": false},
+        {"id": "opt3", "text": "The difficulty of the exam", "isCorrect": false},
+        {"id": "opt4", "text": "The brand of gum chewed", "isCorrect": false}
+      ],
+      "explanation": "The variable manipulated by the experimenter (presence or absence of chewing gum) is the Independent Variable.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q2",
+      "type": "multiple_choice",
+      "question": "What is the defining characteristic of a confounding variable?",
+      "options": [
+        {"id": "opt1", "text": "It varies randomly across all conditions without systematic pattern", "isCorrect": false},
+        {"id": "opt2", "text": "It systematically co-varies with the independent variable, offering an alternative explanation for changes in the dependent variable", "isCorrect": true},
+        {"id": "opt3", "text": "It is always measured on a nominal scale", "isCorrect": false},
+        {"id": "opt4", "text": "It can be removed by increasing the alpha level", "isCorrect": false}
+      ],
+      "explanation": "A confounding variable varies systematically along with the independent variable, making it impossible to isolate the true causal agent.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q3",
+      "type": "multiple_choice",
+      "question": "Which of the following variables is measured on a Nominal scale?",
+      "options": [
+        {"id": "opt1", "text": "Psychiatric diagnosis (e.g., Bipolar I, Major Depression, Schizophrenia)", "isCorrect": true},
+        {"id": "opt2", "text": "Class ranking (1st, 2nd, 3rd place)", "isCorrect": false},
+        {"id": "opt3", "text": "Body temperature in Fahrenheit", "isCorrect": false},
+        {"id": "opt4", "text": "Reaction time in seconds", "isCorrect": false}
+      ],
+      "explanation": "Psychiatric diagnoses are qualitative category labels without numerical or hierarchical ranking, representing a nominal scale.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q4",
+      "type": "multiple_choice",
+      "question": "Why is the finishing order of runners in a 100-meter dash (1st, 2nd, 3rd) considered an Ordinal scale rather than an Interval scale?",
+      "options": [
+        {"id": "opt1", "text": "Because runners do not wear numbers", "isCorrect": false},
+        {"id": "opt2", "text": "The differences in elapsed time between 1st and 2nd may be 0.02s, while between 2nd and 3rd may be 0.85s (intervals are unequal)", "isCorrect": true},
+        {"id": "opt3", "text": "Because ordinal scales have a true zero point", "isCorrect": false},
+        {"id": "opt4", "text": "Because ordinal scales only apply to animals", "isCorrect": false}
+      ],
+      "explanation": "Ordinal scales reflect rank order, but the spacing or difference between consecutive ranks is typically unequal and unstandardized.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q5",
+      "type": "multiple_choice",
+      "question": "What is the crucial mathematical feature that distinguishes a Ratio scale from an Interval scale?",
+      "options": [
+        {"id": "opt1", "text": "An absolute, non-arbitrary true zero point", "isCorrect": true},
+        {"id": "opt2", "text": "The ability to calculate the mode", "isCorrect": false},
+        {"id": "opt3", "text": "Having fewer than 10 categories", "isCorrect": false},
+        {"id": "opt4", "text": "Being immune to confounding variables", "isCorrect": false}
+      ],
+      "explanation": "A ratio scale possesses an absolute true zero point where zero signifies total absence of the variable, allowing valid ratio statements (e.g., twice as much).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q6",
+      "type": "multiple_choice",
+      "question": "Why is Temperature in degrees Celsius considered an Interval scale rather than a Ratio scale?",
+      "options": [
+        {"id": "opt1", "text": "Because it cannot be measured indoors", "isCorrect": false},
+        {"id": "opt2", "text": "Zero degrees Celsius is an arbitrary freezing point, not the total absence of molecular thermal energy", "isCorrect": true},
+        {"id": "opt3", "text": "Because European and American thermometers use different mercury", "isCorrect": false},
+        {"id": "opt4", "text": "Because interval scales do not permit subtraction", "isCorrect": false}
+      ],
+      "explanation": "Zero degrees Celsius does not represent absolute zero heat energy (0 Kelvin does); therefore, 20°C is not 'twice as warm' as 10°C.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q7",
+      "type": "multiple_choice",
+      "question": "What does psychometric reliability measure?",
+      "options": [
+        {"id": "opt1", "text": "Whether a test measures the theoretical construct it intends to measure", "isCorrect": false},
+        {"id": "opt2", "text": "The consistency and repeatability of a measurement procedure", "isCorrect": true},
+        {"id": "opt3", "text": "Whether the experimenter is honest", "isCorrect": false},
+        {"id": "opt4", "text": "Whether the study passes an IRB review", "isCorrect": false}
+      ],
+      "explanation": "Reliability reflects the precision, stability, and reproducibility of a measurement instrument across repeated administrations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q8",
+      "type": "multiple_choice",
+      "question": "Administering a personality inventory to 100 participants today and readministering the exact same inventory 4 weeks later evaluates which type of reliability?",
+      "options": [
+        {"id": "opt1", "text": "Test-Retest Reliability", "isCorrect": true},
+        {"id": "opt2", "text": "Inter-Rater Reliability", "isCorrect": false},
+        {"id": "opt3", "text": "Split-Half Reliability", "isCorrect": false},
+        {"id": "opt4", "text": "Face Validity", "isCorrect": false}
+      ],
+      "explanation": "Administering the same test to the same sample at two different time points directly evaluates Test-Retest Reliability.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q9",
+      "type": "multiple_choice",
+      "question": "Two independent clinical psychologists watch video recordings of 50 patient interviews and code each patient for signs of clinical depression. What reliability metric evaluates their agreement?",
+      "options": [
+        {"id": "opt1", "text": "Internal consistency", "isCorrect": false},
+        {"id": "opt2", "text": "Inter-rater reliability (e.g., Cohen's Kappa)", "isCorrect": true},
+        {"id": "opt3", "text": "Predictive validity", "isCorrect": false},
+        {"id": "opt4", "text": "Content validity", "isCorrect": false}
+      ],
+      "explanation": "Inter-rater reliability measures the degree of consistency or agreement between two or more independent raters or observers.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q10",
+      "type": "multiple_choice",
+      "question": "Which statistical index is most commonly reported to document the internal consistency of a multi-item psychological questionnaire?",
+      "options": [
+        {"id": "opt1", "text": "Cronbach's alpha (α)", "isCorrect": true},
+        {"id": "opt2", "text": "Student's t-test", "isCorrect": false},
+        {"id": "opt3", "text": "Chi-Square goodness-of-fit", "isCorrect": false},
+        {"id": "opt4", "text": "Spearman-Brown split rank", "isCorrect": false}
+      ],
+      "explanation": "Cronbach's alpha is the standard psychometric metric assessing the degree to which all items on a scale measure the same underlying construct.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q11",
+      "type": "multiple_choice",
+      "question": "What is generally accepted as the minimum threshold for satisfactory internal consistency (Cronbach's alpha) in psychological research?",
+      "options": [
+        {"id": "opt1", "text": "α >= 0.20", "isCorrect": false},
+        {"id": "opt2", "text": "α >= 0.70", "isCorrect": true},
+        {"id": "opt3", "text": "α = 1.00 exactly", "isCorrect": false},
+        {"id": "opt4", "text": "α >= 0.05", "isCorrect": false}
+      ],
+      "explanation": "In psychology, a Cronbach's alpha of 0.70 or higher is widely considered acceptable for research purposes (0.80+ for clinical screening).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q12",
+      "type": "multiple_choice",
+      "question": "Can a psychological test be valid if it is completely unreliable?",
+      "options": [
+        {"id": "opt1", "text": "Yes, validity and reliability are completely independent", "isCorrect": false},
+        {"id": "opt2", "text": "No, reliability is a necessary prerequisite for validity", "isCorrect": true},
+        {"id": "opt3", "text": "Yes, but only if approved by an IRB", "isCorrect": false},
+        {"id": "opt4", "text": "Only if the sample size exceeds 1,000 participants", "isCorrect": false}
+      ],
+      "explanation": "If a test produces erratic, noisy scores with high measurement error, it cannot consistently capture the true construct; reliability is required for validity.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q13",
+      "type": "multiple_choice",
+      "question": "A panel of expert neuropsychologists reviews an attention-deficit diagnostic test to confirm that it samples all clinical dimensions of ADHD (inattention, hyperactivity, and impulsivity). What type of validity is being evaluated?",
+      "options": [
+        {"id": "opt1", "text": "Content Validity", "isCorrect": true},
+        {"id": "opt2", "text": "Criterion Validity", "isCorrect": false},
+        {"id": "opt3", "text": "Test-Retest Validity", "isCorrect": false},
+        {"id": "opt4", "text": "Nominal Validity", "isCorrect": false}
+      ],
+      "explanation": "Content validity evaluates whether a test comprehensively covers all relevant components and facets of the intended conceptual construct.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q14",
+      "type": "multiple_choice",
+      "question": "Which of the following describes Face Validity?",
+      "options": [
+        {"id": "opt1", "text": "Whether a test looks plausible and relevant on its surface to a casual test-taker", "isCorrect": true},
+        {"id": "opt2", "text": "Measuring facial expressions using electromyography", "isCorrect": false},
+        {"id": "opt3", "text": "The mathematical correlation between two parallel test forms", "isCorrect": false},
+        {"id": "opt4", "text": "The statistical power of a repeated measures ANOVA", "isCorrect": false}
+      ],
+      "explanation": "Face validity refers to the subjective, superficial appearance that an assessment seems relevant to what it intends to measure.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q15",
+      "type": "multiple_choice",
+      "question": "Demonstrating that SAT scores correlate significantly with first-year university GPA provides evidence for which form of validity?",
+      "options": [
+        {"id": "opt1", "text": "Predictive Criterion Validity", "isCorrect": true},
+        {"id": "opt2", "text": "Concurrent Validity", "isCorrect": false},
+        {"id": "opt3", "text": "Face Validity", "isCorrect": false},
+        {"id": "opt4", "text": "Inter-Rater Validity", "isCorrect": false}
+      ],
+      "explanation": "Predictive criterion validity occurs when test scores successfully predict a future concrete behavioral or academic outcome.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q16",
+      "type": "multiple_choice",
+      "question": "A newly designed 10-item anxiety inventory correlates strongly (r = 0.81) with an established gold-standard anxiety questionnaire administered at the exact same session. This demonstrates:",
+      "options": [
+        {"id": "opt1", "text": "Concurrent Criterion Validity", "isCorrect": true},
+        {"id": "opt2", "text": "Discriminant Validity", "isCorrect": false},
+        {"id": "opt3", "text": "Face Validity", "isCorrect": false},
+        {"id": "opt4", "text": "Type I Error", "isCorrect": false}
+      ],
+      "explanation": "Concurrent validity evaluates how well a new measurement correlates with an established criterion or validated measure assessed simultaneously.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q17",
+      "type": "multiple_choice",
+      "question": "What is Convergent Validity?",
+      "options": [
+        {"id": "opt1", "text": "The degree to which an operational measure correlates strongly with measures of theoretically related constructs", "isCorrect": true},
+        {"id": "opt2", "text": "The correlation between two completely unrelated concepts like height and empathy", "isCorrect": false},
+        {"id": "opt3", "text": "The speed of mathematical calculation on computers", "isCorrect": false},
+        {"id": "opt4", "text": "The agreement between an IRB and IACUC committee", "isCorrect": false}
+      ],
+      "explanation": "Convergent validity is shown when empirical measures of constructs that should theoretically be related actually show strong correlations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q18",
+      "type": "multiple_choice",
+      "question": "A researcher shows that a measure of 'Self-Compassion' correlates near zero (r = -0.04) with 'Grammatical Spelling Ability'. This finding is evidence of:",
+      "options": [
+        {"id": "opt1", "text": "Discriminant (Divergent) Validity", "isCorrect": true},
+        {"id": "opt2", "text": "Poor internal consistency", "isCorrect": false},
+        {"id": "opt3", "text": "Predictive invalidity", "isCorrect": false},
+        {"id": "opt4", "text": "Subject bias", "isCorrect": false}
+      ],
+      "explanation": "Discriminant validity confirms that an instrument does not correlate with measures of conceptually distinct, unrelated traits.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q19",
+      "type": "multiple_choice",
+      "question": "Which of the following is considered a 'Participant/Subject Variable' that cannot be randomly assigned in an experiment?",
+      "options": [
+        {"id": "opt1", "text": "Chronological age", "isCorrect": true},
+        {"id": "opt2", "text": "Dosage of caffeine pill (100mg vs. 0mg)", "isCorrect": false},
+        {"id": "opt3", "text": "Room illumination level (bright vs. dim)", "isCorrect": false},
+        {"id": "opt4", "text": "Font color of flashcards (blue vs. red)", "isCorrect": false}
+      ],
+      "explanation": "Chronological age is an intrinsic biological characteristic of the participant that cannot be manipulated or randomly assigned by the experimenter.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q20",
+      "type": "multiple_choice",
+      "question": "What happens when an extraneous variable varies randomly rather than systematically across experimental conditions?",
+      "options": [
+        {"id": "opt1", "text": "It becomes a confounding variable that invalidates causal conclusions", "isCorrect": false},
+        {"id": "opt2", "text": "It adds random error variance (noise), slightly lowering statistical power, but does not bias the direction of results", "isCorrect": true},
+        {"id": "opt3", "text": "It automatically converts the study into a meta-analysis", "isCorrect": false},
+        {"id": "opt4", "text": "It forces the researcher to use a nominal measurement scale", "isCorrect": false}
+      ],
+      "explanation": "Randomly varying extraneous variables create unsystematic noise that may obscure subtle effects, but they do not systematically bias results or confound the IV.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q21",
+      "type": "multiple_choice",
+      "question": "Under Classical Test Theory, what does an individual's Observed Score represent?",
+      "options": [
+        {"id": "opt1", "text": "True Score + Measurement Error", "isCorrect": true},
+        {"id": "opt2", "text": "True Score multiplied by sample size", "isCorrect": false},
+        {"id": "opt3", "text": "Standard Deviation divided by variance", "isCorrect": false},
+        {"id": "opt4", "text": "Independent Variable minus Dependent Variable", "isCorrect": false}
+      ],
+      "explanation": "Classical Test Theory models every observed score as the sum of a hypothetical true score plus random measurement error (X = T + E).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q22",
+      "type": "multiple_choice",
+      "question": "Which of the following measurements represents an Interval scale?",
+      "options": [
+        {"id": "opt1", "text": "Standard score on the Wechsler Adult Intelligence Scale (WAIS IQ)", "isCorrect": true},
+        {"id": "opt2", "text": "Number of siblings a child has", "isCorrect": false},
+        {"id": "opt3", "text": "Postal zip code", "isCorrect": false},
+        {"id": "opt4", "text": "Marathon finishing rank", "isCorrect": false}
+      ],
+      "explanation": "Standardized IQ scores have equal numeric intervals (15 points per standard deviation) but lack a true zero point (score of 0 does not mean zero intelligence).",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

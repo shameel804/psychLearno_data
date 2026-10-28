@@ -1,0 +1,190 @@
+{
+  "id": "sq_history_of_psychology_1",
+  "title": "From Soul to Science: Philosophy to the First Laboratory",
+  "triggerChapterIndex": 1,
+  "metadata": {
+    "type": "case_study"
+  },
+  "questions": [
+    {
+      "id": "sq1_q1",
+      "type": "multiple_choice",
+      "question": "A historian investigates an 1882 German laboratory where researchers present tuning forks of differing frequencies to trained observers and measure reaction times with a Hipp chronoscope. Which intellectual tradition is directly represented?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Skinnerian radical operant conditioning",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Wundtian experimental voluntarism and psychophysics",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Freudian dream psychoanalysis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cartesian medieval theology",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Trained introspective observers, acoustic tuning forks, and precision chronoscopes were the signature apparatus of Wundt's Leipzig laboratory.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q2",
+      "type": "multiple_choice",
+      "question": "When a participant in a Titchenerian experiment looks at an illuminated geometric sphere and says 'I see a glowing billiard ball', the researcher disqualifies the response. Why?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The participant committed the stimulus error by reporting the physical object meaning rather than elemental sensations",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Billiard balls were forbidden in academic universities",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The participant experienced severe hallucinations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The response was not written in Latin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Titchener defined the stimulus error as confusing the conceptual object ('billiard ball') with raw sensory elements (crimson circular hue, shading).",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q3",
+      "type": "multiple_choice",
+      "question": "How did Hermann von Helmholtz's measurement of neural conduction speed (~30 m/s) directly challenge Ren\u00e9 Descartes' classical dualism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It showed that neural activity takes physical, measurable time rather than occurring instantaneously via an immaterial soul",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It proved that the pineal gland is the largest organ in the human body",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It demonstrated that frog muscles operate without nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It proved that animals have no biological reflexes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Demonstrating that nerve impulses travel at finite physical speeds demystified the nervous system, undermining claims of an instantaneous immaterial mind.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q4",
+      "type": "multiple_choice",
+      "question": "A psychophysicist measures a subject's discrimination threshold: holding a 200g weight requires adding 4g to detect a difference. Using Weber's fraction (k = 0.02), how much must be added to a 600g weight?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "4 grams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "12 grams",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "24 grams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "2 grams",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Applying Weber's law \u0394I = k * I: 0.02 * 600g = 12 grams.",
+      "xpReward": 20,
+      "difficulty": 3
+    },
+    {
+      "id": "sq1_q5",
+      "type": "multiple_choice",
+      "question": "Which ancient philosopher's epistemology most closely foreshadowed John Locke's empiricist concept of the mind as a 'tabula rasa'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Aristotle in 'De Anima'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Plato in 'The Republic'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pythagoras",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Parmenides",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Aristotle compared the unformed mind to an unscribed tablet receiving sensory impressions, directly prefiguring Locke's tabula rasa.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q6",
+      "type": "multiple_choice",
+      "question": "Why did Wilhelm Wundt's concept of 'creative synthesis' lead him to reject pure reductionist elementalism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He argued apperception creates emergent mental wholes that cannot be understood merely by summing isolated sensory elements",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He believed elements only exist in inorganic chemistry",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "He believed memories are caused by demonic possession",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He claimed that emotions have no physiological correlates",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Creative synthesis holds that apperception combines sensory contents into complex cognitive compounds with emergent holistic qualities.",
+      "xpReward": 20,
+      "difficulty": 3
+    }
+  ]
+}

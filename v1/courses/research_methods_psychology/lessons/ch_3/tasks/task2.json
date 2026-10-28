@@ -1,0 +1,13 @@
+{
+  "id": "task2",
+  "chapterId": "ch_3",
+  "title": "Evaluating Psychometric Reliability and Validity in a New Scale",
+  "description": "Evaluate psychometric test data for a novel 'Smartphone Addiction Inventory', diagnosing reliability indices and validity coefficients.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A doctoral candidate creates the 'Problematic Smartphone Attachment Scale' (PSAS), a 20-item survey scored on a 5-point Likert scale. Pilot testing on 300 undergraduates reveals the following psychometric properties:\n\n* **Test-Retest Reliability** (administered 3 weeks apart): r = 0.88\n* **Internal Consistency**: Cronbach's alpha = 0.86\n* **Correlation with Daily Screen Time (logged via device OS)**: r = 0.64 (p < 0.001)\n* **Correlation with Generalized Anxiety Disorder Scale (GAD-7)**: r = 0.58 (p < 0.001)\n* **Correlation with General Vocabulary Size**: r = -0.03 (p = 0.62)\n* **Content Audit**: An expert panel notes that the scale omits items measuring withdrawal irritability when the battery dies.\n\n### Your Mission:\n1. **Evaluate Reliability**: Assess the test-retest and internal consistency indices. Are they acceptable for psychological research?\n2. **Identify Validity Evidence**: Which statistic demonstrates **concurrent criterion validity**? Which statistic provides evidence of **discriminant validity**?\n3. **Diagnose Content Validity**: Based on the expert panel's feedback, what defect exists in the scale's content validity, and how should it be remediated?\n4. **Final Recommendation**: Would you recommend this scale for clinical screening? Justify your decision.",
+  "hints": [
+    "Hint 1: Standard threshold for acceptable Cronbach's alpha and test-retest reliability is >= 0.70 (and ideally >= 0.80).",
+    "Hint 2: Correlation with an objective external behavioral benchmark (device-logged screen time) demonstrates criterion validity.",
+    "Hint 3: Negligible correlation with an unrelated cognitive ability (vocabulary) demonstrates discriminant validity."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Ancient Philosophical Roots: Plato & Aristotle",
+      "description": "Explore early Greek inquiries into psyche, Plato's nativism and idealism vs Aristotle's empirical tabula rasa.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Philosophical Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "Mind-Body Dualism: Ren\u00e9 Descartes",
+      "description": "Analyze substance dualism, res cogitans vs res extensa, the reflex arc, and pineal gland interactionism.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Enlightenment Philosophy"
+    },
+    {
+      "id": "l3",
+      "title": "British Empiricism & Associationism: Locke & Hume",
+      "description": "Understand Locke's tabula rasa, Hume's laws of association, and the epistemic shift toward sensory experience.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Empiricism"
+    },
+    {
+      "id": "l4",
+      "title": "Physiology Meets Psychology: Helmholtz & Weber",
+      "description": "Trace 19th-century advances in nerve conduction, psychophysics, just noticeable differences, and Weber's Law.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Pre-Scientific Physiology"
+    }
+  ]
+}

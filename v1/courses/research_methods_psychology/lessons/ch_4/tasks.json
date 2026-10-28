@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Designing an Unobtrusive Behavioral Coding Scheme",
+      "description": "Construct an operational ethogram coding scheme to measure prosocial vs. exclusionary behaviors during elementary school recess.",
+      "estimatedMinutes": 15
+    },
+    {
+      "id": "task2",
+      "title": "Conducting Thematic Analysis on Qualitative Interview Transcripts",
+      "description": "Apply Braun and Clarke's 6-phase thematic framework to code qualitative transcripts from first-generation university students.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

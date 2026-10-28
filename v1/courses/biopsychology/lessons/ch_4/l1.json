@@ -1,0 +1,58 @@
+{
+  "id": "l1",
+  "chapterId": "ch_4",
+  "title": "Divided Minds: Hemispheric Specialization & The Corpus Callosum",
+  "description": "Unpack anatomical asymmetries, the 200 million callosal fibers, left-hemisphere linguistic dominance, and right-hemisphere spatial mastery.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Hemispheric Lateralization",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Hemispheric Asymmetry: Two Different Brains? \ud83c\udf13",
+      "content": "# Lateralization of Brain Function\n\nWhile the human cerebral hemispheres appear superficially symmetrical, they display distinct anatomical asymmetries and functional specializations.\n\n* **Planum Temporale Asymmetry**: The region underlying Wernicke's area is up to **5 times larger** in the left hemisphere in over 65% of humans, even in newborns!\n* **The Great Fiber Bridge: The Corpus Callosum**:\n  * A massive dense band of **200 to 300 million myelinated axonal fibers** connecting homologous regions of the left and right cerebral cortices.\n  * Anatomical segments: **Rostrum**, **Genu** (anterior), **Body**, and **Splenium** (posterior, linking visual cortices)."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "text",
+      "title": "Left vs. Right: Specialized Processing Modes \ud83c\udfa8",
+      "content": "## Contrasting Cognitive Styles\n\n| Dimension | Left Hemisphere Dominance | Right Hemisphere Dominance |\n| :--- | :--- | :--- |\n| **Language** | Speech production, grammar, lexical syntax, phonology | Emotional prosody, metaphors, humor, sarcasm |\n| **Processing Mode** | Analytical, sequential, detail-oriented ('sees the trees') | Holistic, gestalt, spatial synthesis ('sees the forest') |\n| **Motor / Perception** | Contralateral right-hand fine motor control | Contralateral left-hand motor control, mental rotation |\n| **Face Processing** | Feature-by-feature matching (e.g. eye color) | Holistic configural facial recognition (FFA) |\n| **Mathematics** | Exact arithmetic calculation, symbolic algebra | Approximate number estimation, geometric intuition |"
+    },
+    {
+      "id": "s_l1_3",
+      "type": "quiz",
+      "title": "Check: Hemispheric Dominance \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which cognitive capacity is predominantly lateralized to the right hemisphere in typical right-handed individuals?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Grammar and speech production",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Understanding emotional prosody, humor, and holistic spatial relations",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Serial arithmetic operations",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Naming objects viewed in the right visual field",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The right hemisphere excels in processing emotional intonation (prosody), figurative language (metaphors), and holistic visuospatial patterns.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_5",
+  "title": "Investigating the Third-Variable Problem and Spurious Correlations",
+  "description": "Analyze a real-world spurious correlation case, identify confounding third variables, and design a partial correlation analysis.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A viral media headline declares: *'Shocking Study: Coffee Drinkers Have 40% Higher Risk of Pancreatic Illness!'* The journalist advises the public to immediately stop drinking espresso and dark roast coffee.\n\nUpon reading the actual research paper, you discover that the study was a cross-sectional correlational survey of 5,000 adults that simply calculated the Pearson correlation between daily coffee consumption and medical clinic visits.\n\n### Your Mission:\n1. **Diagnose the Media Fallacy**: Identify the fundamental logical error in the journalist's headline and recommendation.\n2. **Identify Confounding Third Variables**: Brainstorm at least two plausible confounding third variables (Variable C) that naturally correlate with both heavy coffee drinking and health issues (e.g., cigarette smoking, chronic workplace sleep deprivation, socioeconomic stress).\n3. **Explain the Mechanism**: Diagram how one of these third variables could create a completely spurious correlation between coffee and pancreatic symptoms.\n4. **Propose a Statistical Fix**: Explain how the researchers could use **partial correlation** or **multiple linear regression** to evaluate whether coffee consumption remains correlated with health outcomes after holding the third variables mathematically constant.",
+  "hints": [
+    "Hint 1: Historically, in the 1970s and 1980s, heavy coffee consumption co-occurred at massive rates with cigarette smoking.",
+    "Hint 2: A partial correlation measures the association between X and Y while statistically removing the variance shared with Z."
+  ]
+}

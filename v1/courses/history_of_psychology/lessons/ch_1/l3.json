@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_1",
+  "title": "British Empiricism & Associationism: Locke & Hume",
+  "description": "Understand Locke's tabula rasa, Hume's laws of association, and the epistemic shift toward sensory experience.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Empiricism",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Blank Slate: John Locke \ud83d\udcdc",
+      "content": "# Rejection of Innate Ideas\n\nWhile Continental Rationalists like Descartes argued that humans possess innate ideas (such as mathematical truths or the concept of God), British Empiricists took the opposite stance.\n\nIn his monumental work *An Essay Concerning Human Understanding* (1690), **John Locke** (1632\u20131704) stated:\n\n> *'Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas; how comes it to be furnished? To this I answer, in one word, from EXPERIENCE.'*\n\n### Sources of Experience\nLocke identified two primary avenues of knowledge:\n1. **Sensation**: External sensory impressions (color, hardness, temperature, sound).\n2. **Reflection**: Internal awareness of our own mental operations (thinking, doubting, willing, believing)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "According to John Locke, what are the two sources from which all ideas enter the human mind?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Innate reason and divine revelation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Sensation and reflection",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Instinct and social imitation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Genetic heredity and unconscious drives",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Locke asserted that all knowledge arises from either external sensory impressions (sensation) or internal observation of mental acts (reflection).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Hume & The Laws of Association \ud83d\udd17",
+      "content": "## Connecting Simple Ideas into Complex Thought\n\nIf the mind begins with isolated sensory inputs, how do we form complex concepts like 'justice', 'causation', or 'apple'?\n\nScottish philosopher **David Hume** (1711\u20131776) distinguished between:\n* **Impressions**: Vivid, immediate sensations, passions, and emotions.\n* **Ideas**: Faint, recollected mental copies of impressions.\n\n### The Three Laws of Association\nHume argued that ideas become glued together by universal mental principles of association:\n\n| Principle of Association | Definition | Real-World Example |\n| :--- | :--- | :--- |\n| **Resemblance / Similarity** | Ideas that look or feel similar trigger each other. | Seeing a photograph of a loved one immediately brings their actual person to mind. |\n| **Contiguity in Time/Space** | Events experienced close together in space or time become linked. | Thinking of lightning instantly triggers anticipation of thunder. |\n| **Cause and Effect** | Observing regular succession leads the mind to infer causal connection. | Touching a burner followed by intense heat creates an association between heat and pain. |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "tip",
+      "title": "Historical Impact: Roots of Behaviorism \ud83d\ude80",
+      "content": "## From Association of Ideas to Association of Stimuli\n\nBritish associationism set the direct conceptual stage for 20th-century learning theory.\n\nWhen Ivan Pavlov and John B. Watson later studied classical conditioning, they were essentially taking the philosophical principle of **contiguity** (events occurring together in time) and testing it empirically in behavioral laboratories with measurable physiological responses!"
+    }
+  ]
+}

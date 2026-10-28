@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_3",
+  "title": "Limbic vs. Prefrontal Control: Analyzing Emotional Decision-Making",
+  "description": "Evaluate how prefrontal top-down inhibition modulates amygdalar bottom-up emotional reactivity during acute dilemma scenarios.",
+  "estimatedMinutes": 12,
+  "problemStatement": "In an experimental behavioral economics study, participants must decide whether to accept or reject an unfair financial offer ($1 out of $10) in an Ultimatum Game.\n\n### Your Mission:\n1. **Neurocircuitry Conflict**: Analyze the competing activation between the anterior insula / amygdala (bottom-up emotional disgust) and the dorsolateral prefrontal cortex (dlPFC, top-down cognitive calculation of self-interest).\n2. **Phineas Gage Comparison**: Predict how a patient with bilateral ventromedial prefrontal cortex (vmPFC) damage would behave in this game.\n3. **Fear Extinction**: Explain how the infralimbic / ventromedial prefrontal cortex normally suppresses conditioned fear memories stored in the amygdala, and why vmPFC hypoactivity is observed in Post-Traumatic Stress Disorder (PTSD).",
+  "hints": [
+    "Hint 1: vmPFC damage impairs the ability to integrate emotional somatic markers with rational cost-benefit decisions.",
+    "Hint 2: In PTSD, the prefrontal 'brake' fails to downregulate amygdalar hyperreactivity."
+  ]
+}

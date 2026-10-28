@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Visual Agnosia vs. Prosopagnosia: Dissociating What vs. Where Streams",
+      "description": "Evaluate clinical double dissociations between dorsal parietal reaching deficits and ventral occipitotemporal recognition deficits.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Mapping the Sensory & Motor Homunculi and Cortical Magnification",
+      "description": "Chart two-point tactile discrimination thresholds across the body and correlate findings with Penfield's cortical homunculus.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

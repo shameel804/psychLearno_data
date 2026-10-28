@@ -1,0 +1,93 @@
+{
+  "id": "l1",
+  "chapterId": "ch_3",
+  "title": "The Diencephalon: Thalamic Relay & Hypothalamic Homeostasis",
+  "description": "Explore the gateway of consciousness: thalamic relay nuclei (LGN, MGN, VPL) and hypothalamic regulation of the 4 Fs and autonomic homeostasis.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Diencephalon",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Thalamus: Gateway to Consciousness \ud83d\udeaa",
+      "content": "# The Sensory Switchboard of the Brain\n\nPerched atop the brainstem sits the **Thalamus** (Greek for 'inner chamber'), a bilateral egg-shaped nuclear complex that functions as the grand central relay station for the cerebral cortex.\n\n### Primary Sensory Relay Nuclei:\n* **Lateral Geniculate Nucleus (LGN)**: Relays visual information from retinal ganglion cells to the primary visual cortex (V1).\n* **Medial Geniculate Nucleus (MGN)**: Relays auditory information from the inferior colliculus to the primary auditory cortex (A1).\n* **Ventral Posterolateral Nucleus (VPL)**: Relays somatosensory signals (touch, vibration, pain) from the spinal cord to the primary somatosensory cortex.\n\n*The Unique Exception*: **Olfaction (Smell)** is the *only* primary sensory modality that sends direct inputs to the cortex (piriform cortex and amygdala) without obligatorily synapsing first in the thalamus!"
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check: Thalamic Relays \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which sensory modality bypasses the thalamus on its direct journey to the cerebral cortex?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Vision",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Audition",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Olfaction (Smell)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Somatosensation (Touch)",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Olfactory sensory neurons project directly via the olfactory bulb to the piriform cortex, limbic system, and entorhinal cortex without passing through the thalamus first.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Hypothalamus: Master of Homeostasis \ud83c\udf21\ufe0f",
+      "content": "## Small Structure, Massive Command\n\nTucked ventral to the thalamus, the **Hypothalamus** weighs less than 4 grams, yet it serves as the ultimate command center orchestrating survival and bodily equilibrium.\n\n### The 'Four Fs' of Hypothalamic Survival:\n1. **Fighting**: Coordinates autonomic sympathetic responses to acute danger.\n2. **Fleeing**: Directs vascular and metabolic resources toward escape behavior.\n3. **Feeding**: Lateral hypothalamus acts as the 'hunger center' (stimulation prompts voracious eating); Ventromedial hypothalamus acts as the 'satiety center' (lesions cause obesity).\n4. **Mating ('Reproduction')**: Preoptic area and ventromedial nucleus regulate sexual behavior and reproductive hormonal cycles.\n\n### The Neuroendocrine Bridge:\nThe hypothalamus synthesizes releasing hormones that control the **Pituitary Gland** (the master endocrine gland), bridging the nervous and endocrine systems."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Check: Hypothalamic Nuclei \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Bilateral lesioning of the Ventromedial Hypothalamus (VMH) in animal models produces which behavioral outcome?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Aphagia (complete cessation of eating leading to starvation)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Hyperphagia (insatiable overeating leading to severe obesity)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Total insomnia and inability to enter slow-wave sleep",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Loss of fear conditioning to auditory tones",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The ventromedial hypothalamus serves as a satiety center; destroying it abolishes satiety signaling, causing animals to eat continuously.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

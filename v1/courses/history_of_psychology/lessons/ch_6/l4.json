@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_6",
+  "title": "Abraham Maslow & Self-Actualization",
+  "description": "Examine the hierarchy of needs, deficiency vs growth motives, peak experiences, and positive psychology roots.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Human Flourishing",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Studying the Mountain Peaks \ud83c\udfd4\ufe0f",
+      "content": "# Abraham Maslow's New Vision\n\n**Abraham Maslow** (1908\u20131970) believed that psychology had crippled its vision by studying only neurotics, psychotics, and laboratory rodents:\n\n> *'The study of crippled, stunted, immature, and unhealthy specimens can yield only a crippled psychology and a crippled philosophy.'*\n\nMaslow chose instead to study the most emotionally healthy, creative, and accomplished human beings in history (including Albert Einstein, Jane Addams, Eleanor Roosevelt, and Baruch Spinoza) to discover what human beings are capable of becoming when operating at their fullest potential."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "What primary methodological criticism did Abraham Maslow level against traditional psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It focused overwhelmingly on mental illness and animals rather than studying healthy, flourishing human potential",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "It did not perform enough animal brain surgeries",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "It was too closely aligned with business corporations",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It relied exclusively on computerized brain scans",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Maslow criticized mainstream psychology for pathologizing human nature by studying only mental dysfunction while ignoring human greatness and self-actualization.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The Hierarchy of Needs \ud83e\ude9c",
+      "content": "## Ascending the Motivational Ladder\n\nIn his 1943 paper *'A Theory of Human Motivation'*, Maslow proposed that human drives are organized into a tiered hierarchy:\n\n| Level | Need Category | Typical Motivations |\n| :--- | :--- | :--- |\n| **Level 5 (Top)** | **Self-Actualization (Growth / B-Needs)** | Fulfilling one's unique potential, creativity, truth, morality, peak experiences. |\n| **Level 4** | **Esteem Needs (Deficiency / D-Needs)** | Competence, mastery, respect from peers, confidence, status. |\n| **Level 3** | **Belonging & Love Needs (D-Needs)** | Intimacy, friendship, family, acceptance, community bonds. |\n| **Level 2** | **Safety Needs (D-Needs)** | Physical security, financial stability, health, shelter, predictable order. |\n| **Level 1 (Base)** | **Physiological Needs (D-Needs)** | Air, food, water, sleep, homeostasis, shelter. |\n\n### Deficiency (D) vs. Growth (B) Needs\n* **D-Needs**: Motivated by biological deprivation. When satisfied, tension decreases.\n* **B-Needs (Being / Growth Needs)**: Motivated by the desire to expand, create, and flourish. Satisfaction increases the desire for more growth!"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "Peak Experiences & Legacy \ud83c\udf1f",
+      "content": "## Peak Experiences & Positive Psychology\n\nMaslow identified **Peak Experiences**: rare, intense moments of awe, unity, profound joy, and timelessness experienced during creative breakthroughs, immersion in nature, or profound love.\n\nWhile critics note that people can create art and strive for justice even while hungry (disproving a rigid hierarchical sequence), Maslow's humanistic framework laid the direct foundation for modern **Positive Psychology** (Martin Seligman, Mihaly Csikszentmihalyi's flow state)!"
+    }
+  ]
+}

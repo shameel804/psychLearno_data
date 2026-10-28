@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_6",
+  "title": "Deconstructing Everyday Perceptual Illusions Using Gestalt Laws",
+  "description": "Analyze three visual optical illusions and corporate logos using Gestalt principles of organization.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Gestalt psychology demonstrated that the visual system is active and constructive, automatically imposing organizational laws onto sensory stimuli.\n\n### Your Objective:\nSelect three well-known visual designs (e.g., the FedEx logo hidden arrow, the WWF panda logo, or the Kanizsa triangle illusion).\n\n1. Identify the specific Gestalt law(s) operating in each case (Closure, Figure-Ground, Proximity, Similarity, Continuity, or Pr\u00e4gnanz).\n2. Explain what raw visual stimuli are physically present on the screen versus what 'emergent whole' is synthesized by the observer's mind.\n3. Formulate an answer: Why does the human brain actively fill in missing lines or perceive a hidden shape rather than remaining agnostic about incomplete data?",
+  "hints": [
+    "Hint 1: The WWF panda logo has no continuous outer boundary; your brain completes it via the Law of Closure.",
+    "Hint 2: From an evolutionary standpoint, detecting a camouflaged tiger behind tree branches requires instant closure of fragmented visual information."
+  ]
+}

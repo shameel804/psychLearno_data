@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_1",
+  "title": "Simulating the Action Potential & Refractory Thresholds",
+  "description": "Analyze voltage-gated ion channels, predict membrane potential shifts, and calculate refractory thresholds under altered extracellular ion concentrations.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A clinical neurobiologist administers a novel marine toxin that selectively blocks voltage-gated potassium ($K^+$) channels without affecting voltage-gated sodium ($Na^+$) channels.\n\n### Your Mission:\n1. **Membrane Potential Prediction**: Explain in detail what will happen to the resting membrane potential, the depolarization phase, and the repolarization phase of the action potential.\n2. **Refractory Dynamics**: How will the absolute refractory period and relative refractory period be affected by the failure of potassium channels to open?\n3. **Tetrodotoxin Comparison**: Contrast this with the effects of **Tetrodotoxin (TTX)** from pufferfish, which selectively blocks voltage-gated $Na^+$ channels.\n4. **Clinical Consequence**: Why would prolonged depolarization from potassium blockade lead to neural excitotoxicity and cardiac arrest?",
+  "hints": [
+    "Hint 1: Recall that potassium efflux is primarily responsible for restoring the negative resting potential during repolarization.",
+    "Hint 2: Without repolarization, voltage-gated sodium channels cannot reset from their inactivated state to their closed-activatable state."
+  ]
+}

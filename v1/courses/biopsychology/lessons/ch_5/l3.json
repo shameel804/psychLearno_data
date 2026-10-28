@@ -1,0 +1,99 @@
+{
+  "id": "l3",
+  "chapterId": "ch_5",
+  "title": "Hearing, Touch, & Pain: Auditory Transduction, Somatosensory Homunculus, & Gate Control",
+  "description": "Explore cochlear hair cells, tonotopic maps, Penfield's sensory homunculus, nociceptive fibers, and the Gate Control Theory of pain.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Audition & Somatosensation",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Auditory Transduction & Tonotopy in the Cochlea \ud83c\udfb5",
+      "content": "# The Mechanical Symphony of Sound\n\n1. Sound pressure waves funnel into the external auditory canal, vibrating the **tympanic membrane** (eardrum).\n2. The middle ear ossicles (**malleus, incus, stapes**) amplify sound vibrations and push against the **oval window** of the fluid-filled **cochlea**.\n3. Fluid displacement ripples the **basilar membrane**, shearing stereocilia on inner hair cells against the tectorial membrane.\n4. Deflection of stereocilia mechanically yanks open tip links, allowing an influx of **potassium ($K^+$)** from the endolymph to depolarize the hair cell and release glutamate!\n\n* **Tonotopic Organization**: The basilar membrane is physically tuned by stiffness:\n  * **Base (Narrow & Stiff)**: Resonates to **high frequencies** (up to 20,000 Hz).\n  * **Apex (Wide & Flexible)**: Resonates to **low frequencies** (down to 20 Hz)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check: Cochlear Tonotopy \ud83d\udd0a",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which portion of the cochlear basilar membrane vibrates maximally in response to high-frequency sounds (e.g., 15,000 Hz)?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The narrow, stiff base near the oval window",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The wide, flexible apex at the helicotrema",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The middle turn equally across all frequencies",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The tympanic membrane exclusively",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "High-frequency acoustic vibrations displace the stiff, narrow base of the basilar membrane near the oval window.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Somatosensory Homunculus & Cortical Magnification \ud83d\udd90\ufe0f",
+      "content": "## Mapping the Body on the Brain\n\nIn the 1930s, Canadian neurosurgeon **Wilder Penfield** electrically stimulated the primary somatosensory cortex (postcentral gyrus) of awake patients undergoing epilepsy surgery, discovering an orderly topological map of the human body: the **Sensory Homunculus**.\n\n* **Cortical Magnification**: The cortical space allocated to a body part is proportional to its **tactile receptor density** and functional importance, NOT its physical surface area!\n* Hands, fingers, lips, tongue, and genitalia occupy massive cortical territory, reflecting high tactile sensitivity and two-point discrimination acuity.\n* In contrast, the trunk, back, and thighs have sparse receptive fields and are represented by tiny cortical strips."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Nociception & The Gate Control Theory of Pain \ud83d\udeaa",
+      "content": "## Why Rubbing a Bruise Helps\n\nPain signals travel along two distinct primary afferent pathways:\n* **A-delta ($A\\delta$) Fibers**: Lightly myelinated, rapid conduction (5-30 m/s); transmit **acute, sharp, localized, stabbing pain**.\n* **C Fibers**: Unmyelinated, sluggish conduction (0.5-2 m/s); transmit **slow, dull, burning, diffuse, throbbing pain**.\n\n### Melzack & Wall's Gate Control Theory (1965):\nIn the dorsal horn substantia gelatinosa, inhibitory interneurons act as a physiological **'gate'** controlling whether pain signals reach ascending spinothalamic transmission cells (T-cells):\n1. Nociceptive $C$ fibers *inhibit* the interneuron, opening the gate and allowing intense pain signals to travel up to the brain.\n2. Non-painful mechanical touch fibers (**$A\\beta$ fibers**) *activate* the inhibitory interneuron.\n3. Therefore, rubbing your shin after bumping it activates $A\\beta$ touch fibers, closing the gate and dampening the pain signal before it reaches consciousness!"
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Check: Gate Control Theory \ud83e\ude7a",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "According to the Gate Control Theory, how does rubbing a bumped elbow reduce perceived pain?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "A-beta touch fibers excite inhibitory spinal interneurons, closing the neural gate against C-fiber pain transmission",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Rubbing permanently severs the ascending spinothalamic tract",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "It accelerates conduction of slow C fibers so pain ends faster",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It eliminates all endorphin secretion in the periaqueductal gray",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Mechanical touch signals carried by large A-beta fibers stimulate inhibitory interneurons in the dorsal horn, closing the gate on pain projection neurons.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

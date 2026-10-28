@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_5",
+  "title": "Behaviorism's Applications & Biological Limits",
+  "description": "Examine behavior modification, token economies, the Garcia effect, and evolutionary constraints on learning.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Critique & Biology",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Applied Behavior Analysis (ABA) \ud83d\udee0\ufe0f",
+      "content": "# Behaviorism in the Real World\n\nBehaviorism transformed practical institutions through **Behavior Modification**:\n\n1. **Applied Behavior Analysis (ABA)**: Founded by Ivar Lovaas, using shaping and discrete trial training to teach language and social communication skills to autistic children.\n2. **Token Economies**: Institutional reinforcement systems (in psychiatric wards, classrooms, prisons) where desired behaviors earn tokens exchangeable for privileges.\n3. **Systematic Desensitization**: Developed by Joseph Wolpe, pairing deep progressive muscle relaxation with hierarchy of feared stimuli to cure phobias through counterconditioning.\n4. **Biofeedback**: Using operant conditioning to train patients to voluntarily regulate involuntary autonomic functions (heart rate, blood pressure, muscle tension)."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What clinical therapeutic method developed by Joseph Wolpe uses classical counterconditioning to treat phobias by pairing relaxation with gradual exposure?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Systematic desensitization",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Free association",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Electroconvulsive therapy",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Introspective dissection",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Systematic desensitization replaces conditioned fear responses with incompatible relaxation responses.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Biological Constraints on Learning: The Garcia Effect \ud83d\udc00",
+      "content": "## Nature Strikes Back\n\nBehaviorists assumed the **Equipotentiality Principle**: any stimulus could be conditioned to any response with equal ease in any animal.\n\nIn the 1960s, **John Garcia** shattered this dogma:\n* Rats exposed to radiation nausea hours after tasting sweetened water developed an immediate, long-lasting aversion to that taste.\n* However, pairing the same nausea with clicking sounds or flashing lights failed to produce aversion!\n* Conversely, pairing painful electrical shock with lights and sounds produced rapid fear conditioning, but shock could not be conditioned to taste.\n\n### Biological Preparedness\nOrganisms are biologically hardwired by natural selection to associate certain stimuli with survival threats:\n* Internal malaise is naturally paired with taste (poison defense).\n* External pain is naturally paired with sights and sounds (predator defense)."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "The Misbehavior of Organisms \ud83e\udd9d",
+      "content": "## Instinctive Drift (Keller & Marian Breland)\n\nSkinner's former students, Keller and Marian Breland, trained animals for commercial entertainment. They found that raccoons trained to drop coins into a piggy bank eventually began rubbing the coins together and dipping them in water, reverting to instinctive food-washing behaviors despite losing food rewards!\n\nThey termed this **Instinctive Drift**: innate evolutionary biological instincts will always override learned operant conditioning over time."
+    }
+  ]
+}

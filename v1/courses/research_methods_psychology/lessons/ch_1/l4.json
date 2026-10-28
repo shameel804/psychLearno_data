@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_1",
+  "title": "The Four Core Goals of Psychological Science",
+  "description": "Examine the sequential scientific hierarchy: description, prediction, causal explanation, and applied behavioral change.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Scientific Objectives",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Four Ascending Milestones 🏔️",
+      "content": "# The Aims of Psychological Research\n\nPsychological inquiry progresses along a four-step developmental ladder:\n\n1. **Description**: Accurately characterizing what happens, how frequently it occurs, and to whom (e.g., documenting that 22% of university students report severe sleep fragmentation during exam week).\n2. **Prediction**: Establishing systematic relationships between variables to forecast future outcomes (e.g., using SAT scores and study habits to predict first-year university GPA).\n3. **Explanation**: Determining *why* and *how* the phenomenon occurs by identifying underlying causal mechanisms.\n4. **Control & Application**: Applying psychological principles to modify, prevent, or enhance behavior in real-world settings (e.g., designing cognitive-behavioral interventions to reduce insomnia)."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding: The Four Goals 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A clinical team creates a mobile app that sends notification prompts to curb panic attacks in agoraphobic patients. Which of the four scientific goals does this intervention represent?",
+        "options": [
+          {"id": "opt1", "text": "Description", "isCorrect": false},
+          {"id": "opt2", "text": "Prediction", "isCorrect": false},
+          {"id": "opt3", "text": "Explanation", "isCorrect": false},
+          {"id": "opt4", "text": "Control & Application", "isCorrect": true}
+        ],
+        "explanation": "Applying research to modify behavior, alleviate symptoms, or improve functioning in real life corresponds to the goal of Control and Application.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Mapping Methods to Goals 🗺️",
+      "content": "## Matching Research Designs with Research Objectives\n\nDifferent research designs correspond to distinct scientific goals:\n\n| Scientific Goal | Primary Research Methodology | Typical Research Question |\n| :--- | :--- | :--- |\n| **1. Description** | Naturalistic observation, case studies, descriptive surveys | *'What proportion of smartphone users experience phantom vibration syndrome?'* |\n| **2. Prediction** | Correlational designs, longitudinal studies, regression modeling | *'Does early adolescent social media screen time predict subsequent depressive symptoms?'* |\n| **3. Explanation** | True laboratory & field experiments with random assignment | *'Does acute sleep deprivation cause deficits in prefrontal cognitive control?'* |\n| **4. Control / Application** | Randomized controlled trials (RCTs), clinical interventions | *'Does 8-week mindfulness-based stress reduction successfully reduce relapse in major depression?'* |\n\nCrucially, descriptive and correlational studies **cannot** achieve causal explanation; only controlled experiments can establish cause and effect."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Methodology Check: Matching Goals 🧭",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "Which research methodology is strictly necessary to achieve the third goal: Causal Explanation?",
+        "options": [
+          {"id": "opt1", "text": "Cross-sectional survey with 10,000 respondents", "isCorrect": false},
+          {"id": "opt2", "text": "Naturalistic observation in a shopping mall", "isCorrect": false},
+          {"id": "opt3", "text": "True experiment with random assignment and manipulation of an independent variable", "isCorrect": true},
+          {"id": "opt4", "text": "In-depth biographical case study of an artist", "isCorrect": false}
+        ],
+        "explanation": "Causal explanation requires ruling out confounding variables and isolating temporal precedence, which only true experiments with manipulation and random assignment can provide.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "warning",
+      "title": "Methodological Caution ⚠️",
+      "content": "### Never Confuse Prediction with Explanation!\n\nJust because variable X predicts variable Y with 99% statistical accuracy does not mean X causes Y. For example, rooster crows predict the rising sun every morning, but the rooster does not cause the earth to rotate! Always distinguish predictive utility from mechanistic causality."
+    }
+  ]
+}

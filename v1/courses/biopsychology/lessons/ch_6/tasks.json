@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Analyzing Polysomnography (PSG) Sleep Architecture & Hypnograms",
+      "description": "Interpret a full-night hypnogram, quantifying NREM/REM cycle proportions and identifying pathological sleep fragmentation.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Designing a Circadian Entrainment & Melatonin Shift Protocol",
+      "description": "Construct an evidence-based circadian phase-shifting protocol for an international traveler crossing multiple time zones.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

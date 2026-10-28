@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Ivan Pavlov & Classical Conditioning",
+      "description": "Discover Pavlov's physiological experiments, psychic secretions, CS/UCS pairings, and extinction curves.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Conditioning Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "John B. Watson & The Behaviorist Manifesto",
+      "description": "Explore the 1913 manifesto, rejection of mentalism, the Little Albert experiment, and environmental determinism.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Classical Behaviorism"
+    },
+    {
+      "id": "l3",
+      "title": "B.F. Skinner & Operant Technology",
+      "description": "Master Thorndike's Law of Effect, operant chambers, reinforcement schedules, and radical behaviorism.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Operant Conditioning"
+    },
+    {
+      "id": "l4",
+      "title": "Behaviorism's Applications & Biological Limits",
+      "description": "Examine behavior modification, token economies, the Garcia effect, and evolutionary constraints on learning.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Critique & Biology"
+    }
+  ]
+}

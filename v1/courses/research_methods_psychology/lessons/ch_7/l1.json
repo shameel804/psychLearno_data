@@ -1,0 +1,67 @@
+{
+  "id": "l1",
+  "chapterId": "ch_7",
+  "title": "Factorial Design Fundamentals: Notation & Levels",
+  "description": "Decode factorial notation (2x2, 2x3), factors and levels, and contrast between, within, and mixed factorial matrices.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Factorial Architecture",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Beyond Single-Variable Experiments 🧩",
+      "content": "# When Real Life Has Multiple Causes\n\nIn human psychology, behavior is rarely caused by just one isolated variable. Sleep, caffeine, ambient noise, task difficulty, and emotional stress interact simultaneously. To model this complexity, psychologists use **Factorial Designs**—experiments with **two or more independent variables** (called *factors*).\n\n* Each factor must have at least two **levels** (conditions).\n* Factorial designs test all possible combinations of the levels across all factors.\n* In a 2 x 2 design, there are 2 independent variables, each with 2 levels, creating a total of 4 unique treatment cells."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Factorial Notation Check 🧮",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A cognitive study tests the effects of Caffeine (0mg, 100mg, 200mg) and Sleep Deprivation (Well-Rested vs. Sleep-Deprived). What is the factorial notation and total number of experimental conditions?",
+        "options": [
+          {"id": "opt1", "text": "2 x 3 design with 6 conditions", "isCorrect": true},
+          {"id": "opt2", "text": "3 x 3 design with 9 conditions", "isCorrect": false},
+          {"id": "opt3", "text": "2 x 2 design with 4 conditions", "isCorrect": false},
+          {"id": "opt4", "text": "5 x 1 design with 5 conditions", "isCorrect": false}
+        ],
+        "explanation": "Caffeine has 3 levels and Sleep has 2 levels, making it a 3 x 2 (or 2 x 3) factorial design with 3 x 2 = 6 unique experimental cells.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Between, Within & Mixed Factorial Designs 🏛️",
+      "content": "## How Participants Move Through Factorial Matrices\n\nJust like single-IV experiments, factorial designs differ based on participant assignments:\n\n| Design Architecture | Participant Assignment | Example (2 x 2: Drug vs. Placebo; Easy vs. Hard Task) |\n| :--- | :--- | :--- |\n| **Between-Subjects Factorial** | Different participants are assigned to each cell | 4 separate groups of participants (e.g., 20 people in each of the 4 cells = 80 total). |\n| **Within-Subjects Factorial (Repeated Measures)** | Every participant experiences ALL treatment cells | 1 group of 20 participants experiences all 4 combinations across counterbalanced blocks. |\n| **Mixed Factorial Design** | One IV is manipulated Between-Subjects, and the other IV is manipulated Within-Subjects | Group 1 takes Drug, Group 2 takes Placebo (Between); both groups perform both Easy and Hard tasks (Within). |\n\nMixed designs are exceptionally popular in clinical psychology (e.g., comparing Depressed vs. Control participants across multiple test sessions)."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Mixed Factorial Identification 🧭",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "In a study testing a new phobia treatment, patients with Spider Phobia vs. Snake Phobia (Between-Subjects) are measured before therapy, immediately after therapy, and at 6-month follow-up (Within-Subjects). What design is this?",
+        "options": [
+          {"id": "opt1", "text": "A mixed factorial design", "isCorrect": true},
+          {"id": "opt2", "text": "A pure between-subjects design", "isCorrect": false},
+          {"id": "opt3", "text": "A single-case reversal design", "isCorrect": false},
+          {"id": "opt4", "text": "A naturalistic observational survey", "isCorrect": false}
+        ],
+        "explanation": "Because one factor (Phobia Type) is between-subjects and the other factor (Time: Pre, Post, Follow-up) is repeated measures within-subjects, it is a mixed factorial design.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Reading Factorial Notation Instantly\n\nRemember these two rules:\n1. The **number of numbers** tells you how many Independent Variables there are (e.g., 2 x 3 x 2 has three numbers = 3 IVs).\n2. The **value of each number** tells you how many levels that specific IV contains (IV 1 has 2 levels, IV 2 has 3 levels, IV 3 has 2 levels; total cells = 2 x 3 x 2 = 12 cells)."
+    }
+  ]
+}

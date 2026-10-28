@@ -1,0 +1,13 @@
+{
+  "id": "task2",
+  "chapterId": "ch_6",
+  "title": "Diagnosing Campbell & Stanley's Threats to Internal Validity",
+  "description": "Evaluate flawed clinical and educational research vignettes, diagnosing threats like history, regression to the mean, and attrition.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Read the three flawed quasi-experimental research vignettes below. For each vignette:\n(a) Identify the primary threat to internal validity (from Campbell & Stanley's framework: *History, Maturation, Testing, Instrumentation, Statistical Regression to the Mean, or Selective Attrition*).\n(b) Explain exactly how the threat creates a plausible alternative explanation for the outcome.\n(c) Describe the specific experimental control (such as a true control group or blinding) needed to eliminate the threat.\n\n* **Vignette A**: A university offers a 6-week stress reduction workshop during November and December. Students take a stress pretest in early November and a posttest during the final week of December (right before winter holiday break). Stress scores dropped dramatically.\n* **Vignette B**: A school district administers a standardized math test to 5,000 students. The 50 lowest-scoring students are enrolled in a remedial computer lab. When retested 3 months later, their average score jumped by 14 percentile points.\n* **Vignette C**: A 6-month trial evaluates a rigorous high-intensity cognitive training program for severe depression. At the end of the trial, only 30 of the original 100 participants remain; the posttest shows massive improvement in the remaining cohort.",
+  "hints": [
+    "Hint 1: In Vignette A, consider external calendar events (holidays, end of exams) happening between November and late December.",
+    "Hint 2: In Vignette B, selecting the absolute bottom percentile triggers regression to the mean.",
+    "Hint 3: In Vignette C, 70% of the sample dropped out (severe selective attrition)."
+  ]
+}

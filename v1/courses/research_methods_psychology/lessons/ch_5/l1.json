@@ -1,0 +1,73 @@
+{
+  "id": "l1",
+  "chapterId": "ch_5",
+  "title": "Survey Construction & Question Design",
+  "description": "Craft unbiased survey items, avoid double-barreled and leading questions, and mitigate social desirability bias.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Survey Architecture",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Asking the Right Questions 📝",
+      "content": "# The Art and Science of Survey Design\n\nSurveys allow psychologists to collect self-report data on attitudes, beliefs, and behaviors from thousands of individuals efficiently. However, the way a question is worded can dramatically alter participant answers:\n\n* **Open-Ended Questions**: Allow respondents to answer freely in their own words (e.g., *'Describe what causes you stress'*). High richness, but labor-intensive to code quantitatively.\n* **Closed-Ended Questions**: Restrict respondents to specific options (e.g., multiple choice, true/false, Likert scales). Highly standardized and easy to analyze mathematically.\n* **Likert Scales**: Rate agreement across a numbered continuum (e.g., 1 = Strongly Disagree to 5 = Strongly Agree), often using an anchored midpoint."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Question Type Check 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A survey asks participants: 'On a scale from 1 (Strongly Disagree) to 7 (Strongly Agree), rate your level of job satisfaction.' What type of response format is this?",
+        "options": [
+          {"id": "opt1", "text": "Open-ended narrative", "isCorrect": false},
+          {"id": "opt2", "text": "Likert rating scale", "isCorrect": true},
+          {"id": "opt3", "text": "Forced-choice semantic differential", "isCorrect": false},
+          {"id": "opt4", "text": "Unobtrusive trace measure", "isCorrect": false}
+        ],
+        "explanation": "A multi-point agreement rating scale anchored from Strongly Disagree to Strongly Agree is a classic Likert scale.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Question Design Traps to Avoid 🚫",
+      "content": "## Deadly Sins of Survey Question Writing\n\nPoorly phrased items generate garbage data. Every researcher must avoid these common errors:\n\n| Flaw | Description | Flawed Example | Better Revision |\n| :--- | :--- | :--- | :--- |\n| **Leading Question** | Subtle emotional phrasing pushes respondents toward a desired answer | *'Given how harmful social media is, do you support banning smartphones in schools?'* | *'Do you support or oppose restricting smartphone access during school hours?'* |\n| **Double-Barreled Question** | Combines two separate concepts into a single item, making it impossible to know which part is being answered | *'Do you enjoy studying psychology and spending time in laboratory research?'* | Split into two distinct questions: one for studying psychology, one for laboratory research. |\n| **Double Negative** | Grammatically convoluted syntax that causes cognitive confusion | *'Do you favor not allowing students who don't have parking permits to register?'* | *'Should university registration require a valid parking permit?'* |\n\nClear, neutral, single-barreled items are essential for valid self-report data."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Survey Flaw Detection 🚨",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "A poll asks: 'Do you believe college tuition is too expensive and that professors should be paid higher salaries?' Why is this question flawed?",
+        "options": [
+          {"id": "opt1", "text": "It is a double-barreled question asking about two distinct issues with a single response", "isCorrect": true},
+          {"id": "opt2", "text": "It uses an interval scale rather than a nominal scale", "isCorrect": false},
+          {"id": "opt3", "text": "It violates participant confidentiality", "isCorrect": false},
+          {"id": "opt4", "text": "It is an unobtrusive measure", "isCorrect": false}
+        ],
+        "explanation": "A person might agree tuition is too high but disagree with increasing salaries (or vice versa); combining both into one item is the classic double-barreled error.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "text",
+      "title": "Mitigating Response Sets & Biases 🎭",
+      "content": "## When Participants Fake or Coast\n\nRespondents do not always answer survey items accurately:\n\n* **Social Desirability Bias**: The tendency to answer questions in ways that make the respondent look moral, healthy, or socially acceptable (e.g., under-reporting alcohol consumption or prejudice).\n* **Acquiescence Bias (Yeah-saying)**: The tendency to agree with statements regardless of content.\n* **Fence-Sitting**: Systematically selecting the neutral midpoint on every item to avoid taking a stance.\n\n*Solutions*: Guarantee strict anonymity, include **reverse-scored items** (to catch acquiescence), and use balanced response keys."
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Reverse-Scoring Catch Mechanism\n\nIf Item 1 asks *'I love social gatherings'* and Item 10 asks *'I prefer being alone over being with crowds'*, an acquiescent respondent who clicks 'Strongly Agree' to both is caught! Reverse-scoring items detect careless responding and increase internal reliability."
+    }
+  ]
+}

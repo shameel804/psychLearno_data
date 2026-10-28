@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_2",
+  "chapterId": "ch_2",
+  "title": "Chapter 2 Mastery Quiz: Ethics & Human Participant Protections",
+  "description": "Demonstrate comprehensive mastery of the Belmont Report, IRBs, informed consent, deception rules, and research integrity.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch2_q1",
+      "type": "multiple_choice",
+      "question": "Which historical event directly led to the establishment of the Nuremberg Code of 1947?",
+      "options": [
+        {"id": "opt1", "text": "The Stanford Prison Experiment", "isCorrect": false},
+        {"id": "opt2", "text": "Atrocities committed in medical experiments on prisoners in Nazi concentration camps", "isCorrect": true},
+        {"id": "opt3", "text": "The discovery of penicillin", "isCorrect": false},
+        {"id": "opt4", "text": "Milgram's obedience experiments", "isCorrect": false}
+      ],
+      "explanation": "The Nuremberg Code was drafted after the Doctors' Trial in Nuremberg to hold Nazi medical experimenters accountable and protect human subjects.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q2",
+      "type": "multiple_choice",
+      "question": "What was the central ethical violation in the Tuskegee Syphilis Study?",
+      "options": [
+        {"id": "opt1", "text": "Participants were given an experimental vaccine without FDA clearance", "isCorrect": false},
+        {"id": "opt2", "text": "Effective penicillin antibiotic treatment was deliberately withheld from infected men for decades", "isCorrect": true},
+        {"id": "opt3", "text": "Researchers published participant names in local newspapers", "isCorrect": false},
+        {"id": "opt4", "text": "Participants were forced to run marathons while sick", "isCorrect": false}
+      ],
+      "explanation": "Researchers tracked the natural progression of syphilis by deliberately withholding known, effective penicillin treatment from poor African American men.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q3",
+      "type": "multiple_choice",
+      "question": "Which core principle of the Belmont Report requires treating individuals as autonomous agents capable of making their own decisions?",
+      "options": [
+        {"id": "opt1", "text": "Beneficence", "isCorrect": false},
+        {"id": "opt2", "text": "Respect for Persons", "isCorrect": true},
+        {"id": "opt3", "text": "Justice", "isCorrect": false},
+        {"id": "opt4", "text": "Operationalism", "isCorrect": false}
+      ],
+      "explanation": "Respect for Persons demands that individuals be treated as autonomous beings who can choose whether or not to participate in research.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q4",
+      "type": "multiple_choice",
+      "question": "The Belmont principle of Beneficence obligates psychological researchers to:",
+      "options": [
+        {"id": "opt1", "text": "Ensure that the benefits of research exceed risks and that participants are protected from harm", "isCorrect": true},
+        {"id": "opt2", "text": "Distribute research findings exclusively to paying subscribers", "isCorrect": false},
+        {"id": "opt3", "text": "Pay every participant at least $100 per hour", "isCorrect": false},
+        {"id": "opt4", "text": "Never use statistical significance testing", "isCorrect": false}
+      ],
+      "explanation": "Beneficence encompasses the duty to 'do no harm' and maximize potential benefits while minimizing potential risks.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q5",
+      "type": "multiple_choice",
+      "question": "Which Belmont principle was severely violated in the Tuskegee Study by selecting only vulnerable, impoverished African American men to bear the health burdens of research?",
+      "options": [
+        {"id": "opt1", "text": "Justice", "isCorrect": true},
+        {"id": "opt2", "text": "Parsimony", "isCorrect": false},
+        {"id": "opt3", "text": "Falsifiability", "isCorrect": false},
+        {"id": "opt4", "text": "Empiricism", "isCorrect": false}
+      ],
+      "explanation": "The principle of Justice requires fair distribution of research burdens and benefits; exploiting a vulnerable subpopulation violates Justice.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q6",
+      "type": "multiple_choice",
+      "question": "What is the primary role of an Institutional Review Board (IRB)?",
+      "options": [
+        {"id": "opt1", "text": "To decide which research will be awarded Nobel prizes", "isCorrect": false},
+        {"id": "opt2", "text": "To review research proposals involving human participants and protect their rights and welfare", "isCorrect": true},
+        {"id": "opt3", "text": "To review the grammar and stylistic formatting of journal manuscripts", "isCorrect": false},
+        {"id": "opt4", "text": "To manage university tuition billing", "isCorrect": false}
+      ],
+      "explanation": "IRBs are federally mandated committees tasked with reviewing research protocols to safeguard human subjects' welfare and rights.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q7",
+      "type": "multiple_choice",
+      "question": "Research involving completely anonymous surveys on benign topics with healthy adults typically receives which category of IRB review?",
+      "options": [
+        {"id": "opt1", "text": "Exempt Review", "isCorrect": true},
+        {"id": "opt2", "text": "Full Board Review", "isCorrect": false},
+        {"id": "opt3", "text": "IACUC Veterinary Review", "isCorrect": false},
+        {"id": "opt4", "text": "Subpoena Review", "isCorrect": false}
+      ],
+      "explanation": "Anonymous surveys involving negligible risk to healthy adults are classified as Exempt from full board oversight.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q8",
+      "type": "multiple_choice",
+      "question": "Which of the following studies would strictly require a Full Board IRB review?",
+      "options": [
+        {"id": "opt1", "text": "An anonymous web poll about favorite colors", "isCorrect": false},
+        {"id": "opt2", "text": "An experimental trial testing trauma recall using high-stress induction in prison inmates", "isCorrect": true},
+        {"id": "opt3", "text": "A teacher evaluating standard math curriculum test scores in an existing classroom", "isCorrect": false},
+        {"id": "opt4", "text": "A consumer satisfaction survey for a grocery store", "isCorrect": false}
+      ],
+      "explanation": "Involving high-risk stress induction and a vulnerable population (prisoners) mandates a rigorous Full Board IRB review.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q9",
+      "type": "multiple_choice",
+      "question": "What constitutes 'coercion' in the context of informed consent?",
+      "options": [
+        {"id": "opt1", "text": "Providing clear written explanations of study procedures", "isCorrect": false},
+        {"id": "opt2", "text": "Exerting undue influence or pressure such that an individual feels unable to freely decline participation", "isCorrect": true},
+        {"id": "opt3", "text": "Requiring participants to sign their legal names", "isCorrect": false},
+        {"id": "opt4", "text": "Offering free parking validation at the university clinic", "isCorrect": false}
+      ],
+      "explanation": "Coercion involves implicit or explicit threats of penalty or excessively irresistible rewards that compromise autonomous choice.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q10",
+      "type": "multiple_choice",
+      "question": "Under APA guidelines, when is deception in research ethically permissible?",
+      "options": [
+        {"id": "opt1", "text": "Whenever it makes an experiment more entertaining for the researcher", "isCorrect": false},
+        {"id": "opt2", "text": "Only when justified by significant scientific value, no effective alternative exists, and it does not involve severe pain or trauma", "isCorrect": true},
+        {"id": "opt3", "text": "Whenever the participants are college students", "isCorrect": false},
+        {"id": "opt4", "text": "Deception is strictly prohibited under every circumstance with zero exceptions", "isCorrect": false}
+      ],
+      "explanation": "APA ethics permit deception only when scientifically justified, non-deceptive methods cannot work, and participants are debriefed afterward.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q11",
+      "type": "multiple_choice",
+      "question": "What is the primary objective of the debriefing process in psychological studies?",
+      "options": [
+        {"id": "opt1", "text": "To convince participants to recruit their friends for the study", "isCorrect": false},
+        {"id": "opt2", "text": "To explain the true purpose of the research, disclose any deception, and restore psychological equilibrium", "isCorrect": true},
+        {"id": "opt3", "text": "To grade participants on how well they performed in the experiment", "isCorrect": false},
+        {"id": "opt4", "text": "To collect participant credit card numbers for billing", "isCorrect": false}
+      ],
+      "explanation": "Debriefing dehoaxes participants, explains the rationale for deception, answers questions, and mitigates any distress.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q12",
+      "type": "multiple_choice",
+      "question": "In research involving minors (under 18), what is the ethical requirement regarding consent?",
+      "options": [
+        {"id": "opt1", "text": "Minors can sign legal consent forms without parental notification", "isCorrect": false},
+        {"id": "opt2", "text": "Parents or legal guardians provide formal consent, and the child provides affirmative assent", "isCorrect": true},
+        {"id": "opt3", "text": "No consent is required as long as the school principal agrees", "isCorrect": false},
+        {"id": "opt4", "text": "Only children who can pass an adult reading test are allowed in studies", "isCorrect": false}
+      ],
+      "explanation": "For minors, guardians provide legally binding informed consent, while the child provides assent (developmentally appropriate agreement).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q13",
+      "type": "multiple_choice",
+      "question": "What is the key distinction between anonymity and confidentiality in data collection?",
+      "options": [
+        {"id": "opt1", "text": "They are exact synonyms with no practical difference", "isCorrect": false},
+        {"id": "opt2", "text": "Anonymity means no identifying information is ever collected; confidentiality means identifiers are collected but protected from disclosure", "isCorrect": true},
+        {"id": "opt3", "text": "Confidentiality means data is deleted immediately after collection", "isCorrect": false},
+        {"id": "opt4", "text": "Anonymity applies only to animal research", "isCorrect": false}
+      ],
+      "explanation": "Under anonymity, even the researcher cannot link responses to identities; under confidentiality, the researcher possesses identifying keys but keeps them secure.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q14",
+      "type": "multiple_choice",
+      "question": "Which of the following constitutes scientific fabrication?",
+      "options": [
+        {"id": "opt1", "text": "Forgetting to cite a reference in a bibliography", "isCorrect": false},
+        {"id": "opt2", "text": "Inventing fictional data points and publishing them as genuine empirical results", "isCorrect": true},
+        {"id": "opt3", "text": "Using a two-tailed t-test instead of a one-tailed t-test", "isCorrect": false},
+        {"id": "opt4", "text": "Using an outdated computer operating system in the laboratory", "isCorrect": false}
+      ],
+      "explanation": "Fabrication is the outright invention of fake data or observations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q15",
+      "type": "multiple_choice",
+      "question": "Manipulating research materials or omitting select data without scientific justification so the study conforms to a preferred hypothesis is known as:",
+      "options": [
+        {"id": "opt1", "text": "Falsification", "isCorrect": true},
+        {"id": "opt2", "text": "Fabrication", "isCorrect": false},
+        {"id": "opt3", "text": "Triangulation", "isCorrect": false},
+        {"id": "opt4", "text": "Deduction", "isCorrect": false}
+      ],
+      "explanation": "Selectively altering, manipulating, or omitting data to distort results constitutes falsification.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q16",
+      "type": "multiple_choice",
+      "question": "What committee oversees and approves research protocols involving non-human animals in academic institutions?",
+      "options": [
+        {"id": "opt1", "text": "IRB", "isCorrect": false},
+        {"id": "opt2", "text": "IACUC (Institutional Animal Care and Use Committee)", "isCorrect": true},
+        {"id": "opt3", "text": "FDA", "isCorrect": false},
+        {"id": "opt4", "text": "APA Ethics Division exclusively", "isCorrect": false}
+      ],
+      "explanation": "The IACUC (Institutional Animal Care and Use Committee) is responsible for overseeing animal research ethics and welfare.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q17",
+      "type": "multiple_choice",
+      "question": "In the 3Rs framework of animal research, what does 'Reduction' signify?",
+      "options": [
+        {"id": "opt1", "text": "Decreasing the size of animal cages", "isCorrect": false},
+        {"id": "opt2", "text": "Using experimental designs and statistics that minimize the number of animals required to obtain valid data", "isCorrect": true},
+        {"id": "opt3", "text": "Reducing the salaries of laboratory veterinarians", "isCorrect": false},
+        {"id": "opt4", "text": "Cutting the length of journal articles", "isCorrect": false}
+      ],
+      "explanation": "Reduction focuses on using optimized statistical strategies and study designs to use as few animals as scientifically necessary.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q18",
+      "type": "multiple_choice",
+      "question": "In the 3Rs framework, replacing living animal models with tissue cultures, computer algorithms, or human neuroimaging is an example of:",
+      "options": [
+        {"id": "opt1", "text": "Replacement", "isCorrect": true},
+        {"id": "opt2", "text": "Refinement", "isCorrect": false},
+        {"id": "opt3", "text": "Reduction", "isCorrect": false},
+        {"id": "opt4", "text": "Replication", "isCorrect": false}
+      ],
+      "explanation": "Replacement refers to adopting non-animal methods (e.g., in vitro, computational simulations) in place of live animals.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q19",
+      "type": "multiple_choice",
+      "question": "What critical oversight breakdown occurred during Philip Zimbardo's Stanford Prison Experiment?",
+      "options": [
+        {"id": "opt1", "text": "Participants were given counterfeit currency", "isCorrect": false},
+        {"id": "opt2", "text": "The lead investigator served as Prison Superintendent, compromising objective ethical oversight", "isCorrect": true},
+        {"id": "opt3", "text": "The study was published without statistical graphs", "isCorrect": false},
+        {"id": "opt4", "text": "The participants were all under age 10", "isCorrect": false}
+      ],
+      "explanation": "Zimbardo's dual role as lead researcher and prison superintendent compromised his objectivity, causing him to ignore escalating emotional abuse until an outside observer intervened.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q20",
+      "type": "multiple_choice",
+      "question": "Why is offering an excessively large cash reward (e.g., $10,000 for a 1-hour study) considered ethically problematic?",
+      "options": [
+        {"id": "opt1", "text": "Because psychology departments never have that much funding", "isCorrect": false},
+        {"id": "opt2", "text": "It exerts 'undue influence' that may cause economically desperate people to ignore severe risks", "isCorrect": true},
+        {"id": "opt3", "text": "Because the IRS taxes all research compensation above $50", "isCorrect": false},
+        {"id": "opt4", "text": "It causes all participants to answer questions in reverse order", "isCorrect": false}
+      ],
+      "explanation": "Disproportionate financial incentives constitute undue influence, blinding vulnerable participants to real experimental hazards.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q21",
+      "type": "multiple_choice",
+      "question": "What is the primary ethical purpose of a 'Certificate of Confidentiality' issued by federal agencies like the NIH?",
+      "options": [
+        {"id": "opt1", "text": "To allow researchers to conceal fraudulent financial statements", "isCorrect": false},
+        {"id": "opt2", "text": "To protect researchers from being forced by courts or subpoenas to disclose sensitive participant data (e.g., illegal drug use)", "isCorrect": true},
+        {"id": "opt3", "text": "To prevent other scientists from replicating the research", "isCorrect": false},
+        {"id": "opt4", "text": "To eliminate the need for informed consent documents", "isCorrect": false}
+      ],
+      "explanation": "Certificates of Confidentiality protect participants by legally shielding identifiable sensitive research records from court subpoenas.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q22",
+      "type": "multiple_choice",
+      "question": "If a participant signs an informed consent document but begins to feel overwhelmed and states they want to leave during minute 10, what must the researcher do?",
+      "options": [
+        {"id": "opt1", "text": "Insist they finish because they signed a binding contract", "isCorrect": false},
+        {"id": "opt2", "text": "Immediately stop the procedure and allow the participant to withdraw without penalty", "isCorrect": true},
+        {"id": "opt3", "text": "Charge the participant for the cost of laboratory materials", "isCorrect": false},
+        {"id": "opt4", "text": "Lock the laboratory door until the final questionnaire is answered", "isCorrect": false}
+      ],
+      "explanation": "Participants retain the absolute, unconditional right to withdraw from a study at any time without penalty or forfeit of compensation.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_8",
+  "title": "Translational Psychiatry: Evaluating the Monoamine vs. Neurogenic Hypotheses of Depression",
+  "description": "Contrast classic monoaminergic pharmacotherapy with fast-acting glutamatergic ketamine protocols for treatment-resistant depression.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A clinical neuropsychiatrist evaluates a 35-year-old patient suffering from severe Treatment-Resistant Depression (TRD) who has failed three distinct courses of SSRIs.\n\n### Your Mission:\n1. **Theoretical Failure**: Explain why the therapeutic delay of SSRIs and high non-response rates (~30-40%) undermine the classical monoamine deficiency model.\n2. **The BDNF / Synaptogenesis Model**: Describe how chronic stress downregulates Brain-Derived Neurotrophic Factor (BDNF) and causes loss of dendritic spines in the hippocampus and prefrontal cortex.\n3. **Ketamine Mechanism**: Explain the cellular mechanism of low-dose sub-anesthetic intravenous Ketamine (an NMDA receptor antagonist): how does blocking NMDA receptors on GABAergic interneurons trigger a glutamate surge, AMPA receptor activation, and mTOR-dependent synaptogenesis within 2 to 24 hours?",
+  "hints": [
+    "Hint 1: Chronic antidepressant administration requires gene expression changes and neurogenesis to produce behavioral improvement.",
+    "Hint 2: Ketamine disinhibits pyramidal neurons by blocking NMDA receptors on inhibitory interneurons, sparking rapid spine regrowth."
+  ]
+}

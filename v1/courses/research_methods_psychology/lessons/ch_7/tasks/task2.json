@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_7",
+  "title": "Designing an Interrupted Time-Series Quasi-Experiment",
+  "description": "Structure a multi-year municipal quasi-experimental evaluation assessing the psychological and behavioral impact of a mobile phone ban in schools.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A major metropolitan school district passes a strict policy banning all personal smartphone use on school grounds starting September 1st. You are hired as an external research methodologist to evaluate whether the ban improves student mental health and reduces cyberbullying incidents.\n\nBecause the policy was mandated district-wide, you cannot randomly assign students or schools to phone vs. no-phone conditions.\n\n### Your Mission:\n1. **Design an Interrupted Time-Series**: Outline the measurement schedule. How many pre-ban and post-ban monthly data collection points will you establish, and why is a single pretest inadequate?\n2. **Identify Primary Dependent Variables**: Propose two objective behavioral indicators (e.g., behavioral disciplinary referrals, counselor visits for peer conflict) and one validated psychological scale.\n3. **Address the History Threat**: Describe how a simultaneous external event (e.g., a viral social media trend or local economic shift) could confound your time-series, and explain how adding a **nonequivalent comparison school district** that did NOT ban phones would protect against this threat.\n4. **Anticipate Seasonal Maturation**: Explain how school terms (e.g., start-of-year excitement vs. end-of-semester exam stress) affect the time-series slope.",
+  "hints": [
+    "Hint 1: A comparative interrupted time-series design (with a non-equivalent control district) is the strongest quasi-experimental defense against historical events.",
+    "Hint 2: Aim for at least 12 months pre-intervention and 12 months post-intervention to capture cyclical seasonal changes."
+  ]
+}

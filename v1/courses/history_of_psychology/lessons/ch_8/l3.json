@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_8",
+  "title": "The Replication Crisis & The Open Science Movement",
+  "description": "Investigate p-hacking, publication bias, the 2015 reproducibility project, preregistration, and open science reforms.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Methodological Reform",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "2011: The Tipping Point \ud83d\udcc9",
+      "content": "# Psychology's Great Reckoning\n\nIn 2011, a crisis erupted across psychological science triggered by three seismic events:\n\n1. **The ESP Study**: Eminent Cornell psychologist Daryl Bem published a paper in a premier APA journal (*JPSP*) claiming statistically significant proof of precognition (psychic powers).\n2. **The Stapel Fraud**: Dutch social psychologist Diederik Stapel was exposed for fabricating entire datasets in dozens of published peer-reviewed papers.\n3. **False-Positive Psychology**: Researchers Simmons, Nelson, and Simonsohn mathematically demonstrated that using common questionable research practices (QRPs), any researcher could generate statistically significant ($p < .05$) evidence for absurd claims\u2014such as proving that listening to the Beatles song *'When I'm Sixty-Four'* literally made participants nearly 1.5 years younger in chronological age!\n\nPsychology was forced to confront systemic flaws in its research culture."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "What 2011 statistical demonstration by Simmons, Nelson, and Simonsohn alerted psychology to the widespread danger of false-positive results?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "They demonstrated that opportunistic data manipulation ('p-hacking') could make listening to music appear to chronologically de-age participants",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "They proved that fMRI scanners never detect blood flow",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "They showed that chimpanzees have higher IQs than humans",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "They disproved Pavlovian conditioning",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Simmons et al. exposed how researcher degrees of freedom and p-hacking could generate bogus statistically significant results out of random noise.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "The Reproducibility Project (2015) & QRPs \ud83d\udcca",
+      "content": "# How Many Studies Replicated?\n\nIn 2015, the **Open Science Collaboration** led by Brian Nosek published a monumental study in *Science*:\n* 270 researchers attempted to replicate **100 landmark psychological studies** published in top journals.\n* **The Outcome**: While 97% of original studies claimed statistically significant findings, **only 36% to 39% successfully replicated**! Classic effects like ego depletion, social priming (walking slower after reading words about elderly people), and power posing collapsed under rigorous multisite replication.\n\n### The Culprits: Questionable Research Practices (QRPs)\n* **P-Hacking**: Running dozens of statistical tests, dropping outliers, and selectively reporting only those that cross the arbitrary $p < .05$ threshold.\n* **HARKing**: *Hypothesizing After the Results are Known* (presenting post-hoc discoveries as if they were predicted beforehand).\n* **Publication Bias (The File-Drawer Problem)**: Journals only published positive, surprising discoveries, while non-significant replication failures were hidden away in file drawers."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "tip",
+      "title": "The Open Science Revolution \ud83d\udd13",
+      "content": "## Rebuilding Scientific Trust\n\nThe crisis stimulated psychology's greatest methodological renaissance:\n* **Preregistration**: Researchers publicly register hypotheses, sample sizes, and analysis plans *before* collecting data, preventing p-hacking.\n* **Registered Reports**: Journals peer-review and accept papers based on the theoretical importance of the question and design, agreeing to publish results regardless of whether they support or refute the hypothesis!\n* **Open Data & Materials**: Datasets and code are made publicly accessible on repositories like OSF and GitHub for independent auditing."
+    }
+  ]
+}

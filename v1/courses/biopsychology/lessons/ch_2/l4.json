@@ -1,0 +1,99 @@
+{
+  "id": "l4",
+  "chapterId": "ch_2",
+  "title": "Navigating the Neural Map: Anatomical Directions, Planes, & Brainstem Structures",
+  "description": "Learn spatial axes (rostral/caudal, dorsal/ventral), slicing planes, and the vital centers of the medulla, pons, reticular formation, and cerebellum.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Brainstem & Navigation",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Anatomical Coordinates & Planes of Section \ud83e\udded",
+      "content": "# Spatial Navigation in the Brain\n\nBecause humans walk upright, the human neuraxis has a ~80-degree bend at the junction between the midbrain and diencephalon:\n\n### Directional Terminology (in Forebrain):\n* **Anterior (Rostral)**: Toward the nose/front of the head.\n* **Posterior (Caudal)**: Toward the back of the head.\n* **Dorsal (Superior)**: Toward the top of the head/skull.\n* **Ventral (Inferior)**: Toward the jaw/bottom of the head.\n* **Medial**: Toward the midline.\n* **Lateral**: Toward the sides.\n\n### The Three Cardinal Planes of Section:\n1. **Sagittal Plane**: Slices vertically, separating left and right hemispheres (Midsagittal = exact midline).\n2. **Coronal (Frontal) Plane**: Slices vertically like a tiara or loaf of bread, separating anterior from posterior.\n3. **Horizontal (Axial) Plane**: Slices horizontally parallel to the ground, separating dorsal from ventral."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check: Neuroanatomical Slices \ud83c\udf70",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which anatomical plane of section divides the brain vertically into left and right hemispheres?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Horizontal plane",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Coronal plane",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Sagittal plane",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Transverse plane",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The sagittal plane slices parallel to the longitudinal fissure, dividing the left and right sides of the brain.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The Brainstem: Autonomic Life-Support Hub \ud83e\udec0",
+      "content": "## The Ancient Life-Support Stalk\n\nThe brainstem is the stalk connecting the spinal cord to the forebrain. It consists of three structures:\n\n1. **Medulla Oblongata**: Contains autonomic reflex centers governing heart rate, blood pressure, respiration, swallowing, vomiting, and sneezing. Bilateral damage to the medulla is almost instantly fatal.\n2. **Pons ('Bridge')**: Bulging bridge containing ascending/descending tracts and nuclei controlling facial sensation/movements, sleep cycles, and REM sleep motor paralysis.\n3. **Reticular Formation**: A diffuse web-like core of nuclei running through the brainstem. The **Ascending Reticular Activating System (ARAS)** projects widespread arousal signals to the cortex; damage produces coma.\n4. **Midbrain (Mesencephalon)**:\n   * **Tectum**: Contains superior colliculi (visual orienting reflexes) and inferior colliculi (auditory orienting reflexes).\n   * **Tegmentum**: Houses the periaqueductal gray (PAG, pain modulation), red nucleus (motor), and substantia nigra (dopamine production)."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "The Cerebellum: The Master Coordinator \ud83c\udfaf",
+      "content": "## The 'Little Brain' with Massive Computing Power\n\nSitting posterior to the pons and medulla, the **Cerebellum** contains more than **50% of all neurons** in the entire human brain, packed into tightly folded folia!\n\n### Primary Functions:\n* **Motor Coordination**: Does not initiate movement, but coordinates timing, smooth trajectory, and accuracy of voluntary motor actions.\n* **Motor Learning**: Stores procedural motor programs (e.g., riding a bicycle, playing an instrument) via Purkinje cells.\n* **Balance & Posture**: Receives constant vestibular and proprioceptive inputs to maintain equilibrium.\n\n### Cerebellar Ataxia:\nDamage from stroke, tumor, or chronic alcohol toxicity causes **ataxia**\u2014clumsy, uncoordinated, jerky movements, an unsteady 'drunken' gait, and intention tremors."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Check: Cerebellar Function \ud83e\udd38",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A patient exhibits an unsteady wide-based gait, intention tremors when reaching for a cup, and inability to perform rapid alternating movements. Which structure is most likely impaired?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Hippocampus",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Cerebellum",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Occipital lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Corpus callosum",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Cerebellar lesions characteristically produce cerebellar ataxia: loss of smooth coordination, intention tremor, dysmetria, and wide-based gait.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

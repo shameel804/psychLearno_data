@@ -1,0 +1,18 @@
+{
+  "id": "project1",
+  "title": "Historical Paradigm Debate: Structuralism vs. Functionalism (1898)",
+  "description": "Reconstruct the historic late-19th-century intellectual conflict between Edward Titchener and William James/John Dewey.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "3-5",
+  "problemStatement": "In 1898, Edward Bradford Titchener published 'The Postulates of a Structural Psychology', drawing a sharp battle line across American psychology. He claimed that studying the static anatomy of conscious elements (Structuralism) must precede any inquiry into mental adaptation or utility (Functionalism).\n\n### Your Objective:\nYou are tasked with researching, structuring, and writing a comprehensive academic debate brief representing both theoretical camps at the turn of the 20th century.",
+  "requirements": [
+    "Part 1 \u2014 The Structuralist Case (Titchener): Detail the argument for why psychology must catalog pure sensory elements without the 'stimulus error', and justify experimental introspection as the only method capable of establishing psychology as a pure laboratory science.",
+    "Part 2 \u2014 The Functionalist Rebuttal (James & Dewey): Articulate William James's concept of the 'Stream of Consciousness' and John Dewey's 1896 critique of the reflex arc. Explain why attempting to slice dynamic mental life into static elements is artificial and scientifically sterile.",
+    "Part 3 \u2014 Evolutionary and Applied Impact: Contrast the two schools on their treatment of Darwinian adaptation, animal cognition, child development, and practical real-world applications in education and industry.",
+    "Part 4 \u2014 Historical Verdict: Synthesize why Functionalism ultimately won the American paradigm battle and how it paved the road for Behaviorism and Cognitive Science."
+  ],
+  "hints": [
+    "Hint 1: Contrast Titchener's periodic table chemical analogy with James's river/stream metaphor.",
+    "Hint 2: Note how Titchener's exclusion of non-verbal populations (infants, animals) limited Structuralism's utility for American pragmatism."
+  ]
+}

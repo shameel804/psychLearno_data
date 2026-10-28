@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Graphing and Interpreting a 2x2 Factorial Interaction Matrix",
+      "description": "Calculate cell and marginal means from experimental cognitive data, sketch interaction plots, and draft formal ANOVA interpretation reports.",
+      "estimatedMinutes": 15
+    },
+    {
+      "id": "task2",
+      "title": "Designing an Interrupted Time-Series Quasi-Experiment",
+      "description": "Structure a multi-year municipal quasi-experimental evaluation assessing the psychological and behavioral impact of a mobile phone ban in schools.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Measuring Working Memory Limits & Chunking Strategies",
+      "description": "Administer a digitized digit-span test and demonstrate chunking efficiency improvements.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Analyzing Patient H.M. and Memory Dissociation",
+      "description": "Map neuropsychological dissociations between declarative and non-declarative memory systems.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

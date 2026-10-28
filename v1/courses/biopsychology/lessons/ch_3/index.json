@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "The Diencephalon: Thalamic Relay & Hypothalamic Homeostasis",
+      "description": "Explore the gateway of consciousness: thalamic relay nuclei (LGN, MGN, VPL) and hypothalamic regulation of the 4 Fs and autonomic homeostasis.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Diencephalon"
+    },
+    {
+      "id": "l2",
+      "title": "The Limbic Engine: Amygdala, Hippocampus, & Emotional Memory",
+      "description": "Examine the neural substrates of emotion and memory: fear conditioning in the amygdala, episodic memory consolidation in the hippocampus, and Patient H.M.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Limbic Circuits"
+    },
+    {
+      "id": "l3",
+      "title": "Motor Circuits & The Basal Ganglia: Coordinating Action & Habits",
+      "description": "Master the direct ('Go') and indirect ('No-Go') striatal pathways, dopamine modulation, and the pathophysiology of Parkinson's and Huntington's diseases.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Basal Ganglia"
+    },
+    {
+      "id": "l4",
+      "title": "The Cerebral Cortex: Four Lobes, Functional Specialization, & Phineas Gage",
+      "description": "Tour the neocortex: frontal executive networks, parietal spatial processing, temporal audition and memory, occipital vision, and the case of Phineas Gage.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Cerebral Cortex"
+    }
+  ]
+}

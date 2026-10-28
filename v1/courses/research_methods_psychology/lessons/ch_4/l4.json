@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_4",
+  "title": "Qualitative Methodologies & Thematic Analysis",
+  "description": "Explore semi-structured interviews, focus groups, inductive coding, thematic analysis, and qualitative triangulation.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Qualitative Inquiry",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Beyond Numbers: Qualitative Inquiry 🎙️",
+      "content": "# Capturing Subjective Lived Experience\n\nWhile quantitative research reduces human experience to numbers and statistical equations, **qualitative research** seeks to understand how people experience, interpret, and make sense of their social worlds in their own words:\n\n* **Semi-Structured Interviews**: Open-ended question guides allowing researchers to probe deeply into personal narratives, beliefs, and emotions while allowing participants to steer the conversation into unanticipated domains.\n* **Focus Groups**: Moderated discussions with 6–10 participants designed to uncover shared norms, social negotiations, and collective attitudes.\n\nQualitative research is particularly powerful for exploratory investigations into under-researched, marginalized, or emerging psychological phenomena."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Methodology Check: Qualitative Purpose 💡",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "When is qualitative methodology typically preferred over quantitative surveys?",
+        "options": [
+          {"id": "opt1", "text": "When you need to compute a Pearson correlation coefficient on 10,000 respondents", "isCorrect": false},
+          {"id": "opt2", "text": "When exploring a brand-new phenomenon where the relevant variables and lived experiences are not yet understood or categorized", "isCorrect": true},
+          {"id": "opt3", "text": "When testing a drug's biochemical efficacy against a placebo", "isCorrect": false},
+          {"id": "opt4", "text": "When you want to completely eliminate human subjectivity", "isCorrect": false}
+        ],
+        "explanation": "Qualitative approaches excel in exploratory phases where rich narrative descriptions help identify key constructs and understand subjective meaning.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Braun & Clarke's Thematic Analysis (2006) 🧩",
+      "content": "## Making Sense of Textual Data\n\nHow do psychologists systematically analyze hundreds of pages of interview transcripts without getting lost in anecdotal quotes? The most widely used framework is **Thematic Analysis**:\n\n| Stage | Action Required |\n| :--- | :--- |\n| **1. Familiarization** | Transcribing data, reading and re-reading transcripts while noting initial impressions. |\n| **2. Generating Initial Codes** | Tagging meaningful segments of text with short descriptive conceptual labels (e.g., 'Fear of Judged Appearance', 'Sleep Disruption'). |\n| **3. Searching for Themes** | Collating similar codes into broader, overarching candidate themes. |\n| **4. Reviewing Themes** | Checking candidate themes against the full dataset to ensure internal coherence and external distinctiveness. |\n| **5. Defining & Naming** | Refining the specific conceptual narrative and scope of each theme. |\n| **6. Producing the Report** | Weaving compelling narrative excerpts together with scholarly psychological theory. |\n\nRigorous coding establishes verifiable audit trails from raw quotes to final conclusions."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Thematic Analysis Stage Check 📝",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "In thematic analysis, what is the process of attaching short, meaningful descriptive labels to specific text segments called?",
+        "options": [
+          {"id": "opt1", "text": "Coding", "isCorrect": true},
+          {"id": "opt2", "text": "Random assignment", "isCorrect": false},
+          {"id": "opt3", "text": "Counterbalancing", "isCorrect": false},
+          {"id": "opt4", "text": "Significance testing", "isCorrect": false}
+        ],
+        "explanation": "Coding is the fundamental qualitative process of identifying and labeling meaningful segments of data with concise conceptual tags.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Mixed Methods: The Best of Both Worlds\n\nWhy choose between numbers and stories? **Mixed Methods Research** integrates quantitative data (surveys, reaction times) with qualitative narratives (interviews). For example, use a survey to identify a statistically significant correlation, then conduct qualitative interviews to unpack the lived mechanisms behind that correlation!"
+    }
+  ]
+}

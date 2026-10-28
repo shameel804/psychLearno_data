@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Wilhelm Wundt & The Leipzig Laboratory (1879)",
+      "description": "Examine the establishment of psychology as an autonomous academic discipline in Leipzig, Voluntarism, and apperception.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Founding Psychology"
+    },
+    {
+      "id": "l2",
+      "title": "The Method of Experimental Introspection",
+      "description": "Understand Wundt's rigorous experimental self-observation, stimulus control, and the tridimensional theory of feeling.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Methodology"
+    },
+    {
+      "id": "l3",
+      "title": "Edward Titchener & American Structuralism",
+      "description": "Analyze Titchener's translation of German psychology to Cornell, conscious elements, and the stimulus error.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Structuralism"
+    },
+    {
+      "id": "l4",
+      "title": "Critiques & The Decline of Structuralism",
+      "description": "Evaluate the fatal methodological vulnerabilities of introspection and Structuralism's enduring legacy on scientific rigor.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Historical Impact"
+    }
+  ]
+}

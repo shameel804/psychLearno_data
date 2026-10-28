@@ -1,0 +1,67 @@
+{
+  "id": "l1",
+  "chapterId": "ch_3",
+  "title": "Anatomy of Variables: Independent, Dependent & Extraneous",
+  "description": "Distinguish between manipulated causes, measured effects, participant attributes, and confounding variables.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Variables Architecture",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Dynamic Building Blocks of Research 🧱",
+      "content": "# What is a Variable?\n\nA **variable** is any characteristic, condition, or attribute that can take on different values or categories across individuals, situations, or time (in contrast to a *constant*, which stays fixed):\n\n* **Independent Variable (IV)**: The variable that the researcher manipulates, alters, or uses as a predictor to assess its causal impact on an outcome.\n* **Dependent Variable (DV)**: The outcome or response variable measured by the researcher to determine if the IV produced an effect.\n* **Extraneous Variable (EV)**: Any variable other than the IV that could influence the DV if not systematically controlled.\n* **Confounding Variable (Confound)**: An extraneous variable that co-varies systematically with the IV, providing an alternative explanation for the results."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Variable Identification Check 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A researcher tests whether drinking caffeinated coffee vs. decaf coffee improves performance on a 50-word memory test. What is the Independent Variable (IV)?",
+        "options": [
+          {"id": "opt1", "text": "Score on the 50-word memory test", "isCorrect": false},
+          {"id": "opt2", "text": "Caffeine condition (caffeinated vs. decaf coffee)", "isCorrect": true},
+          {"id": "opt3", "text": "The brand of coffee cup", "isCorrect": false},
+          {"id": "opt4", "text": "The room temperature", "isCorrect": false}
+        ],
+        "explanation": "The variable deliberately manipulated by the experimenter (caffeine vs. decaf) is the Independent Variable.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Extraneous Variables vs. Confounders 🌪️",
+      "content": "## When Extraneous Variables Turn Deadly\n\nNot all extraneous variables ruin a study. Understanding the distinction between noise and confounds is essential:\n\n| Type | Behavior in Experiment | Impact on Validity | Example |\n| :--- | :--- | :--- | :--- |\n| **Benign Extraneous Variable** | Varies randomly across both conditions (adds random noise/variance) | Reduces statistical power slightly, but does NOT bias results toward one condition | Participants' natural morning alertness varying randomly across groups. |\n| **Confounding Variable** | Varies systematically with the Independent Variable | Destroys internal validity; creates false causal conclusions | Giving the treatment group coffee at 9:00 AM, but the control group water at 5:00 PM (time of day is confounded with treatment). |\n\nExperimental control methods—like standardized scripts, constant laboratory environments, and random assignment—neutralize potential confounds."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Confound Diagnosis 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "In a study comparing an interactive online math program against a traditional textbook, the online group has access to an expert tutor while the textbook group studies alone. Why is this a confounding variable?",
+        "options": [
+          {"id": "opt1", "text": "Because tutors cost too much money for an academic department", "isCorrect": false},
+          {"id": "opt2", "text": "Tutor presence systematically co-varies with the online condition, making it impossible to tell if math gains were caused by the software or the tutor", "isCorrect": true},
+          {"id": "opt3", "text": "Because textbooks cannot be evaluated in psychological research", "isCorrect": false},
+          {"id": "opt4", "text": "It alters the sample size without IRB consent", "isCorrect": false}
+        ],
+        "explanation": "Because the tutor is present only in the online condition, any score difference cannot be attributed solely to the software; the tutor is a fatal confound.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Subject (Attribute) Variables\n\nVariables like age, biological sex, neurodiversity diagnoses, or socioeconomic status are characteristics of the participant. They **cannot** be randomly assigned or experimentally manipulated. Studies comparing groups based on subject variables are quasi-experiments or correlational designs, not true experiments!"
+    }
+  ]
+}

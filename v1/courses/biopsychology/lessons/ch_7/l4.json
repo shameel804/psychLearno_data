@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_7",
+  "title": "Causal Interventions: TMS, Lesion Studies, & Optogenetic Control",
+  "description": "Move from correlation to causation: patient double dissociations, TMS 'virtual lesions', and cell-type specific optogenetic opsins.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Causal Methods",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Correlation vs. Causation in Neuroscience \u2694\ufe0f",
+      "content": "# Proving Necessity vs. Mere Correlation\n\nA critical distinction in cognitive neuroscience:\n* **Correlational Methods** (fMRI, PET, EEG, MEG): Show that a brain region *lights up* during a cognitive task. However, this does not prove the region is essential; it could be an epiphenomenon or bystander effect!\n* **Causal Perturbation Methods** (Lesion studies, TMS, Optogenetics): Selectively disrupt or stimulate a target region to demonstrate whether it is **causally necessary** for the behavior."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "text",
+      "title": "Transcranial Magnetic Stimulation (TMS): The Virtual Lesion \u26a1",
+      "content": "## Reversible Perturbation in Awake Humans\n\n**Transcranial Magnetic Stimulation (TMS)** uses Faraday's principle of electromagnetic induction:\n\n* A figure-eight copper coil held against the scalp passes a rapid, high-intensity electrical pulse (up to 5,000 amperes in under 1 millisecond).\n* This generates a localized magnetic field (1.5 - 2 Tesla) that passes painlessly through the skull.\n* The fluctuating magnetic field induces an electrical current in the underlying cortical tissue (~1-2 cm deep), depolarizing neurons in a synchronized burst.\n* **The 'Virtual Lesion'**: A single pulse or repetitive train temporarily disrupts organized neural computation in that focal area for milliseconds, testing whether task performance degrades."
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Check: Transcranial Magnetic Stimulation \ud83e\uddf2",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "How does TMS establish causal necessity of a brain region during a cognitive task?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "By delivering a focal electromagnetic pulse that temporarily disrupts local cortical computation (creating a 'virtual lesion')",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "By permanently ablating the underlying cortical tissue",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "By recording BOLD hemodynamic responses across the entire brain",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "By measuring radioactive glucose uptake in the ventricles",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "TMS temporarily and reversibly perturbs local cortical activity, testing whether that specific brain area is causally essential for task execution.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Optogenetics: Controlling Neurons with Light \ud83d\udca1",
+      "content": "## Millisecond Cell-Type Specificity\n\nPioneered by Karl Deisseroth and Ed Boyden, **Optogenetics** revolutionized neuroscience by enabling researchers to turn specific genetically targeted neurons ON or OFF with pulses of light:\n\n1. **Gene Delivery**: A viral vector introduces genes encoding light-sensitive microbial **opsin** ion channels under cell-type-specific promoters:\n   * **Channelrhodopsin-2 (ChR2)**: Activated by **blue light (470 nm)**; opens a non-specific cation channel, driving $Na^+$ influx to trigger action potentials (EXCITATION).\n   * **Halorhodopsin (NpHR)**: Activated by **yellow light (580 nm)**; pumps chloride ($Cl^-$) ions into the cell, hyperpolarizing the neuron and silencing it (INHIBITION).\n2. **Optical Fiber Implant**: Laser light delivered via an implanted optic fiber activates or silences targeted neural circuits in behaving animals in real time!"
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\ude80",
+      "content": "### The Power of Optogenetics\n\nUnlike pharmacological drugs (which take minutes to diffuse and affect all nearby cell types) or electrical stimulation (which stimulates all axons passing through a region), optogenetics allows researchers to activate *only* dopamine neurons, or *only* GABAergic interneurons, with millisecond temporal precision!"
+    }
+  ]
+}

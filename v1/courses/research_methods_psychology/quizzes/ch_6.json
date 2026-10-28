@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_6",
+  "chapterId": "ch_6",
+  "title": "Chapter 6 Mastery Quiz: Experimental Design & Internal Validity",
+  "description": "Test your mastery of true experimental logic, between- vs. within-subjects designs, counterbalancing, and internal validity threats.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch6_q1",
+      "type": "multiple_choice",
+      "question": "What two core features define a 'True Experiment' and allow researchers to draw causal conclusions?",
+      "options": [
+        {"id": "opt1", "text": "Manipulating an Independent Variable and Randomly Assigning participants to conditions", "isCorrect": true},
+        {"id": "opt2", "text": "Using open-ended interviews and having a sample size greater than 1,000", "isCorrect": false},
+        {"id": "opt3", "text": "Conducting all observations in natural public environments", "isCorrect": false},
+        {"id": "opt4", "text": "Calculating a Pearson correlation coefficient greater than 0.80", "isCorrect": false}
+      ],
+      "explanation": "A true experiment requires active manipulation of the independent variable and random assignment to rule out alternative causal explanations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q2",
+      "type": "multiple_choice",
+      "question": "How does Random Assignment differ fundamentally from Random Sampling?",
+      "options": [
+        {"id": "opt1", "text": "Random sampling recruits subjects from the population; random assignment places recruited subjects into experimental conditions", "isCorrect": true},
+        {"id": "opt2", "text": "Random assignment is used in surveys, while random sampling is used in experiments", "isCorrect": false},
+        {"id": "opt3", "text": "Random assignment ensures external validity, while random sampling ensures internal validity", "isCorrect": false},
+        {"id": "opt4", "text": "They are identical mathematical terms with no distinction", "isCorrect": false}
+      ],
+      "explanation": "Random sampling determines who enters the study (supporting external validity/generalizability); random assignment determines which condition they enter (supporting internal validity/causality).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q3",
+      "type": "multiple_choice",
+      "question": "What is the primary architectural feature of a Between-Subjects design?",
+      "options": [
+        {"id": "opt1", "text": "Every participant experiences every single experimental condition", "isCorrect": false},
+        {"id": "opt2", "text": "Each participant is assigned to only one level of the independent variable", "isCorrect": true},
+        {"id": "opt3", "text": "Participants are observed without their knowledge", "isCorrect": false},
+        {"id": "opt4", "text": "The study does not include a control group", "isCorrect": false}
+      ],
+      "explanation": "In a between-subjects design, different groups of participants are tested under different experimental conditions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q4",
+      "type": "multiple_choice",
+      "question": "What is the major advantage of a Within-Subjects (Repeated Measures) design over a Between-Subjects design?",
+      "options": [
+        {"id": "opt1", "text": "It is completely immune to practice and fatigue effects", "isCorrect": false},
+        {"id": "opt2", "text": "It requires fewer participants and holds individual participant differences constant, maximizing statistical power", "isCorrect": true},
+        {"id": "opt3", "text": "It eliminates the need for debriefing", "isCorrect": false},
+        {"id": "opt4", "text": "It prevents participants from guessing the hypothesis", "isCorrect": false}
+      ],
+      "explanation": "Because the same participants serve as their own controls across all conditions, between-person variance is eliminated, boosting statistical power.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q5",
+      "type": "multiple_choice",
+      "question": "Participants perform a motor tracking task under Condition A, and their performance dramatically improves on Condition B simply because they practiced during Condition A. What threat is this?",
+      "options": [
+        {"id": "opt1", "text": "Practice effect (Order effect)", "isCorrect": true},
+        {"id": "opt2", "text": "Selection bias", "isCorrect": false},
+        {"id": "opt3", "text": "Instrumentation decay", "isCorrect": false},
+        {"id": "opt4", "text": "Spurious correlation", "isCorrect": false}
+      ],
+      "explanation": "A practice effect occurs when repetition of a task improves subsequent performance regardless of the experimental treatment.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q6",
+      "type": "multiple_choice",
+      "question": "What methodological procedure is deployed in within-subjects designs to balance out order, practice, and fatigue effects across conditions?",
+      "options": [
+        {"id": "opt1", "text": "Counterbalancing", "isCorrect": true},
+        {"id": "opt2", "text": "Stratified random sampling", "isCorrect": false},
+        {"id": "opt3", "text": "Reverse scoring", "isCorrect": false},
+        {"id": "opt4", "text": "Naturalistic observation", "isCorrect": false}
+      ],
+      "explanation": "Counterbalancing systematically varies the presentation order of conditions across participants to evenly distribute order effects.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q7",
+      "type": "multiple_choice",
+      "question": "For an experiment with 3 conditions (A, B, C), how many unique sequence orders are needed for Complete Counterbalancing?",
+      "options": [
+        {"id": "opt1", "text": "3 orders", "isCorrect": false},
+        {"id": "opt2", "text": "6 orders (3! = 3 x 2 x 1)", "isCorrect": true},
+        {"id": "opt3", "text": "9 orders", "isCorrect": false},
+        {"id": "opt4", "text": "12 orders", "isCorrect": false}
+      ],
+      "explanation": "Complete counterbalancing requires k! orders. For 3 conditions: 3 x 2 x 1 = 6 orders (ABC, ACB, BAC, BCA, CAB, CBA).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q8",
+      "type": "multiple_choice",
+      "question": "When an experiment has 6 conditions, complete counterbalancing requires 720 orders (6!), which is impractical. What partial counterbalancing technique provides an efficient solution?",
+      "options": [
+        {"id": "opt1", "text": "A Latin Square design", "isCorrect": true},
+        {"id": "opt2", "text": "A single-case reversal design", "isCorrect": false},
+        {"id": "opt3", "text": "An unstructured qualitative interview", "isCorrect": false},
+        {"id": "opt4", "text": "A median split", "isCorrect": false}
+      ],
+      "explanation": "A balanced Latin Square allows each condition to appear at each ordinal position once and precede/follow each other condition equally with far fewer orders.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q9",
+      "type": "multiple_choice",
+      "question": "What is an 'Asymmetrical Carryover Effect'?",
+      "options": [
+        {"id": "opt1", "text": "When the carryover effect of Condition A onto Condition B is different in magnitude or nature from the effect of B onto A", "isCorrect": true},
+        {"id": "opt2", "text": "When all participants drop out of the study at the same time", "isCorrect": false},
+        {"id": "opt3", "text": "When a scatterplot displays a perfectly symmetrical circle", "isCorrect": false},
+        {"id": "opt4", "text": "When an experimenter accidentally drops a beaker", "isCorrect": false}
+      ],
+      "explanation": "Asymmetrical carryover occurs when one sequence creates an irreversible change (e.g., learning a strategy in A spoils condition B, but not vice versa), rendering counterbalancing ineffective.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q10",
+      "type": "multiple_choice",
+      "question": "What does Internal Validity measure in an experiment?",
+      "options": [
+        {"id": "opt1", "text": "The degree to which the study can be generalized to the entire global population", "isCorrect": false},
+        {"id": "opt2", "text": "The degree to which we can confidently conclude that the independent variable caused the observed change in the dependent variable", "isCorrect": true},
+        {"id": "opt3", "text": "Whether the research team stayed within their allotted budget", "isCorrect": false},
+        {"id": "opt4", "text": "The grammatical quality of the journal submission", "isCorrect": false}
+      ],
+      "explanation": "Internal validity evaluates whether the experimental design successfully isolates the IV as the sole cause of changes in the DV without confounding explanations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q11",
+      "type": "multiple_choice",
+      "question": "A researcher evaluates a 6-month mindfulness program for workplace burnout. Halfway through the study, the company announces unexpected mass layoffs, causing stress scores to skyrocket. What internal validity threat is this?",
+      "options": [
+        {"id": "opt1", "text": "History threat", "isCorrect": true},
+        {"id": "opt2", "text": "Maturation threat", "isCorrect": false},
+        {"id": "opt3", "text": "Regression to the mean", "isCorrect": false},
+        {"id": "opt4", "text": "Hawthorne effect", "isCorrect": false}
+      ],
+      "explanation": "A history threat refers to an external historical event occurring outside the laboratory during the study that influences the dependent variable.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q12",
+      "type": "multiple_choice",
+      "question": "In a 2-year longitudinal study of reading comprehension in elementary school students, children improve substantially from 1st to 3rd grade. Without a control group, what internal threat explains this?",
+      "options": [
+        {"id": "opt1", "text": "Biological Maturation", "isCorrect": true},
+        {"id": "opt2", "text": "Instrumentation decay", "isCorrect": false},
+        {"id": "opt3", "text": "Demand characteristics", "isCorrect": false},
+        {"id": "opt4", "text": "The Placebo effect", "isCorrect": false}
+      ],
+      "explanation": "Maturation refers to biological, developmental, or physiological changes occurring naturally within participants simply as time passes.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q13",
+      "type": "multiple_choice",
+      "question": "Taking a memory pretest alerts participants to the specific types of questions that will be asked, improving their performance on the posttest regardless of whether an intervention was provided. What threat is this?",
+      "options": [
+        {"id": "opt1", "text": "Testing effect", "isCorrect": true},
+        {"id": "opt2", "text": "Selection-history confound", "isCorrect": false},
+        {"id": "opt3", "text": "Statistical power loss", "isCorrect": false},
+        {"id": "opt4", "text": "Spurious correlation", "isCorrect": false}
+      ],
+      "explanation": "A testing effect occurs when completing an initial pretest alters, sensitizes, or improves subsequent posttest performance directly.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q14",
+      "type": "multiple_choice",
+      "question": "Over the course of a 10-hour behavioral observation session, research assistants become fatigued and start missing subtle instances of non-verbal eye contact. What threat to validity is this?",
+      "options": [
+        {"id": "opt1", "text": "Instrumentation (Instrument decay)", "isCorrect": true},
+        {"id": "opt2", "text": "Statistical regression to the mean", "isCorrect": false},
+        {"id": "opt3", "text": "Selection bias", "isCorrect": false},
+        {"id": "opt4", "text": "Convergent invalidity", "isCorrect": false}
+      ],
+      "explanation": "Instrumentation threats occur when the measurement instrument or human rater changes calibration, accuracy, or standards over time.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q15",
+      "type": "multiple_choice",
+      "question": "What is 'Statistical Regression to the Mean'?",
+      "options": [
+        {"id": "opt1", "text": "The tendency of individuals selected on the basis of extreme initial scores to score closer to the average on subsequent retesting due to measurement error", "isCorrect": true},
+        {"id": "opt2", "text": "A linear regression line sloping downward", "isCorrect": false},
+        {"id": "opt3", "text": "The calculation of the median instead of the mean", "isCorrect": false},
+        {"id": "opt4", "text": "Participants forgetting their test scores over time", "isCorrect": false}
+      ],
+      "explanation": "Extreme initial scores partially reflect random measurement error; upon re-testing, random error normalizes, causing scores to drift closer to the true population mean.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q16",
+      "type": "multiple_choice",
+      "question": "In a clinical trial for an intense cognitive behavioral therapy program, 45% of participants in the experimental group drop out due to heavy homework assignments, while only 5% drop out of the control group. What threat does this introduce?",
+      "options": [
+        {"id": "opt1", "text": "Differential (Selective) Attrition", "isCorrect": true},
+        {"id": "opt2", "text": "Hawthorne reactivity", "isCorrect": false},
+        {"id": "opt3", "text": "Instrumentation drift", "isCorrect": false},
+        {"id": "opt4", "text": "Type II statistical error", "isCorrect": false}
+      ],
+      "explanation": "Differential attrition occurs when drop-out rates or drop-out characteristics differ systematically between treatment conditions, destroying baseline equality.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q17",
+      "type": "multiple_choice",
+      "question": "What are 'Demand Characteristics' in psychological experiments?",
+      "options": [
+        {"id": "opt1", "text": "Subtle cues in the experimental environment that reveal the researcher's hypothesis to the participant", "isCorrect": true},
+        {"id": "opt2", "text": "The financial demands made by university grant officers", "isCorrect": false},
+        {"id": "opt3", "text": "The legal demands made by an Institutional Review Board", "isCorrect": false},
+        {"id": "opt4", "text": "The difficulty of mathematical problems in cognitive testing", "isCorrect": false}
+      ],
+      "explanation": "Demand characteristics are environmental cues that tip off participants to what the researcher expects, causing them to alter behavior to conform to expectations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q18",
+      "type": "multiple_choice",
+      "question": "In what type of study design are NEITHER the participant NOR the experimenter administering the treatment aware of who is receiving the active manipulation vs. placebo?",
+      "options": [
+        {"id": "opt1", "text": "Double-Blind design", "isCorrect": true},
+        {"id": "opt2", "text": "Single-Blind design", "isCorrect": false},
+        {"id": "opt3", "text": "Naturalistic observation", "isCorrect": false},
+        {"id": "opt4", "text": "Unobtrusive trace design", "isCorrect": false}
+      ],
+      "explanation": "A double-blind procedure prevents both participant placebo expectations and researcher expectancy bias from contaminating outcomes.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q19",
+      "type": "multiple_choice",
+      "question": "What is a Placebo Control Group?",
+      "options": [
+        {"id": "opt1", "text": "A group that receives an inert treatment identical in appearance and procedure to the active treatment to control for psychological expectancy effects", "isCorrect": true},
+        {"id": "opt2", "text": "A group that is not told they are in an experiment", "isCorrect": false},
+        {"id": "opt3", "text": "A group composed entirely of researchers", "isCorrect": false},
+        {"id": "opt4", "text": "A group tested without an Institutional Review Board approval", "isCorrect": false}
+      ],
+      "explanation": "Placebo controls isolate the specific active ingredient of an intervention from the psychological benefit of simply receiving attention and treatment.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch6_q20",
+      "type": "multiple_choice",
+      "question": "What is a 'Matched Pairs' design?",
+      "options": [
+        {"id": "opt1", "text": "Participants are matched on a key extraneous variable (e.g., baseline IQ) and then paired members are randomly split across conditions", "isCorrect": true},
+        {"id": "opt2", "text": "Participants choose their own partners to take the test with", "isCorrect": false},
+        {"id": "opt3", "text": "Researchers pair male and female participants for dating studies", "isCorrect": false},
+        {"id": "opt4", "text": "Testing participants twice on the same day", "isCorrect": false}
+      ],
+      "explanation": "Matched pairs designs equate groups on a specific confounding variable before manipulation, combining between-subject immunity with within-subject precision.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q21",
+      "type": "multiple_choice",
+      "question": "Why is the classic 'One-Group Pretest-Posttest Design' considered an uninterpretable pre-experimental design?",
+      "options": [
+        {"id": "opt1", "text": "Without an untreated control group, improvements cannot be separated from history, maturation, testing, and regression threats", "isCorrect": true},
+        {"id": "opt2", "text": "It requires calculating a Spearman rho correlation", "isCorrect": false},
+        {"id": "opt3", "text": "It can only be used on non-human animals", "isCorrect": false},
+        {"id": "opt4", "text": "It requires more than 500 participants", "isCorrect": false}
+      ],
+      "explanation": "Without a comparison control group, any pretest-to-posttest change could be due to natural maturation, historical events, practice effects, or regression to the mean.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch6_q22",
+      "type": "multiple_choice",
+      "question": "How does incorporating a true randomized control group neutralize the threat of maturation?",
+      "options": [
+        {"id": "opt1", "text": "Maturation happens equally to both the treatment and control groups; if the treatment group shows superior gains, the extra gain is caused by the treatment", "isCorrect": true},
+        {"id": "opt2", "text": "It stops the participants in the control group from aging", "isCorrect": false},
+        {"id": "opt3", "text": "It speeds up the biological development of the treatment group", "isCorrect": false},
+        {"id": "opt4", "text": "It eliminates the need for statistical analysis", "isCorrect": false}
+      ],
+      "explanation": "Because both randomized groups mature at the identical rate, subtracting control group change isolates the true effect of the independent variable.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

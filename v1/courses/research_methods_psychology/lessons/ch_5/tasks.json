@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Diagnosing and Rewriting Flawed Survey Items",
+      "description": "Identify double-barreled, leading, and ambiguous items in an employee satisfaction survey, providing validated, neutral rewrites.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Investigating the Third-Variable Problem and Spurious Correlations",
+      "description": "Analyze a real-world spurious correlation case, identify confounding third variables, and design a partial correlation analysis.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

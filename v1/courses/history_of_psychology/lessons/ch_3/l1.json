@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_3",
+  "title": "Darwin's Evolutionary Impact & Galton's Legacy",
+  "description": "Examine how evolutionary adaptation reshaped psychology, continuity across species, and Galton's mental testing.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Evolutionary Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Evolution Enters the Mind \ud83d\udc12",
+      "content": "# Darwin's Biological Shockwave\n\nWhen Charles Darwin published *On the Origin of Species* (1859) and later *The Descent of Man* (1871), he fundamentally shattered the theological assumption that the human mind was an isolated divine creation separate from the animal kingdom.\n\n### Core Evolutionary Insights for Psychology\n1. **Continuity Across Species**: If human physical bodies evolved from animal ancestors, then human mental capacities, emotions, and problem-solving abilities also share evolutionary continuity with non-human animals (giving rise to **Comparative Psychology**).\n2. **Adaptive Function**: Psychological faculties\u2014vision, memory, fear, attachment\u2014did not arise accidentally. They evolved because they conferred a **survival and reproductive advantage** in ancient ancestral environments.\n3. **Individual Variation**: Evolution requires variance. Understanding differences between individuals became just as important as identifying general laws."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What core implication did Darwin's theory of evolution hold for the development of psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It proved that the human mind has no biological connection to animal behavior",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It established mental continuity between animals and humans, focusing psychology on adaptive function",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It demonstrated that introspection is the only valid scientific method",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It eliminated the need for empirical observation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Darwin's work established evolutionary continuity between humans and animals and directed scientific inquiry toward how mental processes help organisms adapt.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Francis Galton & The Measurement of Individual Differences \ud83d\udccf",
+      "content": "## Nature vs. Nurture\n\nDarwin's half-cousin, **Francis Galton** (1822\u20131911), was obsessed with quantifying individual human variations. He coined the famous phrase **'Nature and Nurture'** in 1874.\n\n### Galton's Scientific Innovations\n* **Twin Studies**: First to compare identical and fraternal twins to untangle genetic from environmental influences.\n* **Mental Testing**: Created the world's first anthropometric laboratory at the 1884 London International Health Exhibition, measuring reaction times, visual acuity, and grip strength.\n* **Statistical Methods**: Developed the concepts of **correlation** and regression toward the mean (later formalized mathematically by Karl Pearson).\n* **Word Association Tests**: Precursor to techniques used by Jung and Freud."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "warning",
+      "title": "The Dark Side: Eugenics \u26a0\ufe0f",
+      "content": "## Galton's Dangerous Ideology\n\nGalton coined the term **'Eugenics'** in 1883, arguing that society should actively encourage breeding among those deemed 'genetically superior' while restricting reproduction among 'undesirable' populations.\n\nHis pseudoscientific ideas caused immense historical harm, fueling forced sterilizations and institutional discrimination in the 20th century. Modern psychology strictly repudiates eugenics while recognizing Galton's lasting methodological contributions to psychometrics and statistics."
+    }
+  ]
+}

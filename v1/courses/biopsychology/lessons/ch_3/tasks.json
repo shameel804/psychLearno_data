@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Limbic vs. Prefrontal Control: Analyzing Emotional Decision-Making",
+      "description": "Evaluate how prefrontal top-down inhibition modulates amygdalar bottom-up emotional reactivity during acute dilemma scenarios.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Basal Ganglia Circuitry & Motor Disorder Differential Diagnosis",
+      "description": "Map neurodegenerative lesions across the striatum, substantia nigra, and globus pallidus to distinguish hypokinetic from hyperkinetic conditions.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

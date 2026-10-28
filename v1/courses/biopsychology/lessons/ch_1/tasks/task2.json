@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_1",
+  "title": "Pharmacological Mapping: Agonists, Antagonists & Synaptic Fate",
+  "description": "Deconstruct synaptic transmission mechanisms and evaluate how selective drugs alter neurotransmitter concentration in the synaptic cleft.",
+  "estimatedMinutes": 15,
+  "problemStatement": "You are presented with three experimental compounds acting on the serotonergic and cholinergic synapses:\n* **Compound Alpha**: Irreversibly inhibits Acetylcholinesterase (AChE).\n* **Compound Beta**: Blocks the Serotonin Reuptake Transporter (SERT).\n* **Compound Gamma**: Competitively binds to postsynaptic $GABA_A$ receptors without activating the chloride channel.\n\n### Your Mission:\n1. **Mechanism of Action**: For each compound, classify it as an agonist, antagonist, or enzyme/transporter inhibitor.\n2. **Synaptic Concentrations**: Predict whether the concentration of active neurotransmitter in the synaptic cleft will increase, decrease, or remain unchanged for Alpha and Beta.\n3. **Downstream Electrophysiology**: For Compound Gamma, explain whether the postsynaptic neuron becomes more or less excitable, and identify what happens to the frequency of action potentials.\n4. **Real-World Analogs**: Identify real-world medical or toxicological examples corresponding to Compound Alpha (e.g., organophosphate pesticides/sarin nerve agents) and Compound Beta (e.g., fluoxetine/Prozac).",
+  "hints": [
+    "Hint 1: Inhibiting the enzyme that destroys acetylcholine causes acetylcholine to continuously stimulate muscle receptors, leading to spastic paralysis.",
+    "Hint 2: An antagonist at an inhibitory GABA receptor removes the 'brakes' on the brain, causing hyper-excitability and seizures."
+  ]
+}

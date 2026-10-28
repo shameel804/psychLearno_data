@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Principles of Sensation: Transduction, Receptive Fields, & Sensory Coding",
+      "description": "Understand sensory transduction, receptive fields, center-surround antagonism, lateral inhibition, and Weber's law.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Sensory Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "The Visual Pathway: From Retina to Striate Cortex & Dual Processing Streams",
+      "description": "Examine photoreceptors, the retinogeniculate pathway, Hubel & Wiesel's cortical columns, and the dorsal ('where/how') vs. ventral ('what') streams.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Visual System"
+    },
+    {
+      "id": "l3",
+      "title": "Hearing, Touch, & Pain: Auditory Transduction, Somatosensory Homunculus, & Gate Control",
+      "description": "Explore cochlear hair cells, tonotopic maps, Penfield's sensory homunculus, nociceptive fibers, and the Gate Control Theory of pain.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Audition & Somatosensation"
+    },
+    {
+      "id": "l4",
+      "title": "The Motor Hierarchy: Planning, Executing, & Calibrating Movement",
+      "description": "Trace motor commands from prefrontal intention to premotor sequencing, primary motor execution, corticospinal decussation, and upper vs. lower motor lesions.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Motor Hierarchy"
+    }
+  ]
+}

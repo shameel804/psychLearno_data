@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Clinical Neuroanatomy Portfolio: Localizing Brain Lesions in Acute Neurological Cases",
+      "description": "Synthesize neuroanatomical knowledge to analyze three detailed neurological case studies, identifying lesion loci and predicting clinical deficits.",
+      "difficulty": "Intermediate",
+      "estimatedHours": "3-5"
+    },
+    {
+      "id": "project2",
+      "title": "Translational Cognitive Neuroscience Proposal: fMRI & EEG Investigation of Sleep & Memory Consolidation",
+      "description": "Design an empirical neuroimaging research protocol combining polysomnography, fMRI BOLD signals, and hippocampal-cortical connectivity during learning.",
+      "difficulty": "Advanced",
+      "estimatedHours": "5-7"
+    },
+    {
+      "id": "project3",
+      "title": "Precision Neuropsychiatry Protocol: Targeting Mesolimbic & HPA Dysregulation in Mood Disorders",
+      "description": "Develop a multi-targeted neurobiological intervention framework integrating monoaminergic pharmacotherapy, vagus nerve stimulation, and neuroplasticity enhancement.",
+      "difficulty": "Advanced",
+      "estimatedHours": "6-8"
+    }
+  ]
+}

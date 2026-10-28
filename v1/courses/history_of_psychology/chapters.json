@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "id": "ch_1",
+      "languageId": "history_of_psychology",
+      "title": "Philosophical Roots & Pre-Scientific Thought",
+      "description": "Examine how ancient philosophy, mind-body dualism, British empiricism, and 19th-century physiology paved the way for a scientific study of mind.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 100,
+      "iconEmoji": "🏛️"
+    },
+    {
+      "id": "ch_2",
+      "languageId": "history_of_psychology",
+      "title": "The Birth of Experimental Psychology & Structuralism",
+      "description": "Witness the birth of psychology as an independent laboratory science with Wilhelm Wundt in 1879, psychophysics, and Titchener's Structuralism.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "🔬"
+    },
+    {
+      "id": "ch_3",
+      "languageId": "history_of_psychology",
+      "title": "Functionalism, Evolutionary Thought & Pragmatism",
+      "description": "Discover how Darwinian evolution inspired William James and American functionalists to study the adaptive purpose of human consciousness.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 110,
+      "iconEmoji": "🧭"
+    },
+    {
+      "id": "ch_4",
+      "languageId": "history_of_psychology",
+      "title": "The Psychoanalytic Revolution & Psychodynamics",
+      "description": "Explore Sigmund Freud's discovery of the unconscious mind, psychosexual stages, defense mechanisms, and Neo-Freudian expansions by Jung and Adler.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "🛋️"
+    },
+    {
+      "id": "ch_5",
+      "languageId": "history_of_psychology",
+      "title": "The Rise of Behaviorism",
+      "description": "Trace psychology's radical turn toward observable behavior through Pavlov's conditioning, Watson's manifesto, and Skinner's operant technology.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "🐀"
+    },
+    {
+      "id": "ch_6",
+      "languageId": "history_of_psychology",
+      "title": "Gestalt Psychology & The Humanistic Movement",
+      "description": "Investigate the Gestalt revolt against elementalism and the emergence of Humanistic 'Third Force' psychology led by Rogers and Maslow.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 120,
+      "iconEmoji": "✨"
+    },
+    {
+      "id": "ch_7",
+      "languageId": "history_of_psychology",
+      "title": "The Cognitive Revolution & Neuropsychology",
+      "description": "Analyze the shift away from behaviorism toward internal mental processes, the computer metaphor of mind, and modern cognitive neuroscience.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 130,
+      "iconEmoji": "💻"
+    },
+    {
+      "id": "ch_8",
+      "languageId": "history_of_psychology",
+      "title": "Contemporary Trends, Diversity & the Replication Crisis",
+      "description": "Unpack the challenges of cross-cultural psychology, gender and diversity in historical research, and the modern Open Science revolution.",
+      "lessonsCount": 4,
+      "quizQuestionsCount": 22,
+      "xpReward": 140,
+      "iconEmoji": "🌐"
+    }
+  ]
+}

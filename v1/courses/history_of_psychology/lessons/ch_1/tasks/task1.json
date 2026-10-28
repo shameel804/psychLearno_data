@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_1",
+  "title": "Analyzing the Dualism vs. Materialism Debate in Modern AI",
+  "description": "Evaluate Cartesian mind-body dualism in the context of modern artificial intelligence and computational neuroscience.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Descartes argued that thinking (*res cogitans*) cannot arise from mere mechanical matter (*res extensa*). In this task, you will evaluate this claim using modern cognitive neuroscience and AI perspectives.\n\n### Instructions:\n1. Summarize Descartes' main argument for why human reason transcends mechanical hardware.\n2. Apply Gilbert Ryle's critique of the 'Category Mistake' to contemporary claims about whether Large Language Models (LLMs) or neural networks possess 'minds'.\n3. Outline the physicalist/materialist monism perspective: How do action potentials and synaptic weights generate subjective awareness without requiring an immaterial soul?\n4. Write a concise reflection (2-3 paragraphs) contrasting dualism with functionalism.",
+  "hints": [
+    "Hint 1: Consider whether mental properties are emergent properties of complex physical systems (like wetness is an emergent property of H2O molecules).",
+    "Hint 2: Review Ryle's Oxford University analogy when thinking about software and hardware."
+  ]
+}

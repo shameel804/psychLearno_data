@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_8",
+  "title": "Auditing a Psychology Paper for Open Science & Replicability Indicators",
+  "description": "Evaluate an empirical psychology research article against modern Open Science criteria.",
+  "estimatedMinutes": 12,
+  "problemStatement": "The Open Science movement emerged to counteract p-hacking, publication bias, and small sample sizes that sparked the Replication Crisis.\n\n### Instructions:\nConduct a methodology audit of an empirical psychology paper using the Open Science Badges framework:\n\n1. **Preregistration Check**: Did the authors preregister their directional hypotheses, sample size justification (power analysis), and exclusion criteria before data collection?\n2. **Open Data & Code**: Are the raw anonymized datasets, analysis scripts (R/Python), and experimental stimuli publicly hosted on OSF or GitHub?\n3. **Sample Size & Power**: Was the statistical power adequate (e.g. $1 - \\beta \\ge 0.80$) to detect subtle effect sizes without inflation?\n4. **Transparency Rating**: Assign an overall replicability confidence rating (High, Moderate, Fragile) and explain your reasoning in 2 paragraphs.",
+  "hints": [
+    "Hint 1: Studies with tiny sample sizes (N < 30 per condition) reporting p-values hovering just below .05 (e.g. p = .048) are classic warning signs of p-hacking.",
+    "Hint 2: Registered Reports offer the highest gold standard of replicability because peer review occurs prior to data collection."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Analyzing the Dualism vs. Materialism Debate in Modern AI",
+      "description": "Evaluate Cartesian mind-body dualism in the context of modern artificial intelligence and computational neuroscience.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Calculating and Observing Weber's Fraction in Everyday Sensation",
+      "description": "Design a small sensory threshold experiment to measure difference thresholds across weight or brightness.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

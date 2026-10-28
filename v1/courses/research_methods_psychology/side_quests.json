@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sq_research_methods_psychology_1",
+    "title": "The Ethical Dilemma of the Deceptive Memory Study",
+    "triggerChapterIndex": 1,
+    "metadata": {
+      "type": "case_study"
+    }
+  },
+  {
+    "id": "sq_research_methods_psychology_2",
+    "title": "Investigating the Social Media & Adolescent Well-Being Paradox",
+    "triggerChapterIndex": 4,
+    "metadata": {
+      "type": "scenario_analysis"
+    }
+  },
+  {
+    "id": "sq_research_methods_psychology_3",
+    "title": "Speed Run: The Experimental Architect's Gauntlet",
+    "triggerChapterIndex": 6,
+    "metadata": {
+      "type": "speed"
+    }
+  }
+]

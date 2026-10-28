@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_8",
+  "title": "Deconstructing WEIRD Sampling Biases in Landmark Studies",
+  "description": "Examine a historic social psychology experiment and determine its cross-cultural boundaries.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Most historic psychological theories were developed exclusively on WEIRD populations (Western, Educated, Industrialized, Rich, Democratic).\n\n### Your Objective:\nSelect a famous landmark study (e.g., Asch's conformity line study, Milgram's obedience experiments, or Ainsworth's Strange Situation infant attachment test).\n\n1. **Identify the Sample Demographic**: Who were the original experimental participants (nationality, college status, gender, socioeconomic background)?\n2. **Cultural Assumption Analysis**: What implicit cultural values (e.g. individualistic independence vs. collectivist harmony) were assumed to be 'universal human nature'?\n3. **Cross-Cultural Replication Evidence**: How do replication results change when this experiment is conducted in non-Western collectivist societies (e.g. Japan, Nigeria, or Indigenous Arctic communities)?\n4. Formulate recommendations for how modern cross-cultural research partnerships can avoid scientific colonialism.",
+  "hints": [
+    "Hint 1: In conformity experiments, collectivist cultures often exhibit higher baseline conformity not out of weakness, but because social harmony and group solidarity are valued virtues.",
+    "Hint 2: In infant attachment, German infants often appear 'avoidant' due to early parental encouragement of self-reliance, whereas Japanese infants rarely experience separation, altering 'secure' baselines."
+  ]
+}

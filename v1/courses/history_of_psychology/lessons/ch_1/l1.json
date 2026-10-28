@@ -1,0 +1,99 @@
+{
+  "id": "l1",
+  "chapterId": "ch_1",
+  "title": "Ancient Philosophical Roots: Plato & Aristotle",
+  "description": "Explore early Greek inquiries into psyche, Plato's nativism and idealism vs Aristotle's empirical tabula rasa.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Philosophical Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Quest for the Psyche \ud83c\udfdb\ufe0f",
+      "content": "# From Soul to Mind\n\nLong before psychology became a laboratory science with instruments and statistics, humanity wrestled with fundamental questions about human nature:\n\n* **What is the mind?**\n* **Where do our ideas and moral concepts come from?**\n* **Are we born with knowledge, or is everything learned through experience?**\n\nThe word **psychology** itself originates from two Greek roots:\n* **Psyche** (\u03c8\u03c5\u03c7\u03ae): breath, spirit, or soul.\n* **Logos** (\u03bb\u03cc\u03b3\u03bf\u03c2): discourse, study, or science.\n\nIn classical Greece, thinkers moved away from pure mythological explanations and began using systematic philosophical inquiry to understand perception, memory, and voluntary action."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What are the two ancient Greek root words from which 'psychology' is derived?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Phrenos and Logos",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Psyche and Logos",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Soma and Ratio",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Animus and Pathos",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Psychology comes from 'psyche' (soul, spirit, or breath) and 'logos' (study or discourse).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Plato's Nativism vs. Aristotle's Empiricism \u2696\ufe0f",
+      "content": "## The First Great Epistemological Debate\n\nThe divergence between Plato (c. 428\u2013348 BCE) and his student Aristotle (384\u2013322 BCE) established the philosophical blueprint for modern psychological debates on nature vs. nurture.\n\n| Philosopher | Philosophical Stance | Epistemology | Core Concept |\n| :--- | :--- | :--- | :--- |\n| **Plato** | Idealism & Nativism | Rationalism | Knowledge is innate; sensory experience triggers recollection (*anamnesis*) of pure Forms. |\n| **Aristotle** | Empiricism & Naturalism | Observation | The mind begins as an unwritten tablet (*tabula rasa*); sensory data forms the basis of all concepts. |\n\nIn *De Anima* (On the Soul), Aristotle wrote the first systematic psychological treatise, categorizing life into three nested soul faculties:\n1. **Vegetative soul**: Nourishment and reproduction (shared by plants, animals, humans).\n2. **Sensitive soul**: Sensation, pleasure, pain, and locomotion (shared by animals and humans).\n3. **Rational soul**: Thinking, reflection, and intellectual abstraction (unique to humans)."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Concept Check: Nativism vs Empiricism \ud83d\udca1",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Which philosopher proposed in 'De Anima' that the human mind begins like an unscribed tablet and acquires knowledge through sensory experience?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Plato",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Socrates",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Aristotle",
+            "isCorrect": true
+          },
+          {
+            "id": "opt4",
+            "text": "Pythagoras",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Aristotle argued for an empirical origin of knowledge, presenting the foundational idea of the mind as a blank slate receiving sensory impressions.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Psychology Insight: Ancient Humors \ud83d\udca1",
+      "content": "## Hippocrates, Galen, and the Four Humors\n\nWhile philosophers contemplated the soul, Greek and Roman physicians (Hippocrates and later Galen) sought biological explanations for personality and temperament.\n\nThey posited that personality stemmed from the balance of four bodily fluids (humors):\n* **Blood** (Sanguine): Enthusiastic, social, active.\n* **Yellow Bile** (Choleric): Passionate, ambitious, hot-tempered.\n* **Black Bile** (Melancholic): Introspective, analytical, somber.\n* **Phlegm** (Phlegmatic): Calm, peaceful, sluggish.\n\nWhile biochemically incorrect, humoral theory was historically revolutionary: it asserted that mental states and behavioral dispositions have physical, physiological causes rather than demonic or divine origins!"
+    }
+  ]
+}

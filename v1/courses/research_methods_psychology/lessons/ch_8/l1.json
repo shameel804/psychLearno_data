@@ -1,0 +1,73 @@
+{
+  "id": "l1",
+  "chapterId": "ch_8",
+  "title": "Foundations of Inferential Statistics & NHST",
+  "description": "Navigate sample statistics vs. population parameters, Null (H0) and Alternative (H1) hypotheses, and what p-values really mean.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Inferential Logic",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "From Sample to Population 📈",
+      "content": "# The Logic of Inferential Statistics\n\nPsychologists cannot test all 8 billion human beings on Earth. Instead, we compute **sample statistics** (like sample mean X-bar) to estimate unknown **population parameters** (like population mean μ):\n\n* **Descriptive Statistics**: Summarize and describe the actual data collected (e.g., mean, median, standard deviation).\n* **Inferential Statistics**: Use probability theory to determine whether patterns in our sample reflect genuine realities in the population or mere random sampling fluctuation (chance).\n\nThe dominant framework used in psychological science is **Null Hypothesis Significance Testing (NHST)**."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Inferential vs Descriptive Check 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What is the primary objective of inferential statistics in psychology?",
+        "options": [
+          {"id": "opt1", "text": "To draw mathematical conclusions about a broader population based on sample data", "isCorrect": true},
+          {"id": "opt2", "text": "To simply calculate the mean and standard deviation of a dataset", "isCorrect": false},
+          {"id": "opt3", "text": "To verify that participants signed consent forms", "isCorrect": false},
+          {"id": "opt4", "text": "To eliminate the need for hypothesis testing", "isCorrect": false}
+        ],
+        "explanation": "Inferential statistics uses sample data to infer underlying population parameters and evaluate the likelihood that findings arose by chance.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Null (H0) vs. Alternative (H1) Hypotheses ⚖️",
+      "content": "## Setting Up the Courtroom Trial\n\nIn NHST, the logic resembles a criminal trial (*innocent until proven guilty*):\n\n* **Null Hypothesis (H0)**: Asserts that there is **no true effect**, no difference between conditions, or no relationship in the population (e.g., *'The new antidepressant is no more effective than a sugar pill'*).\n* **Alternative Hypothesis (H1)**: Asserts that there is a genuine effect, difference, or relationship in the population.\n\nWe assume H0 is true by default. If our sample data are wildly improbable under the assumption of H0, we **reject the null hypothesis** in favor of H1."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "What Does a p-value Really Mean? 🔍",
+      "content": "## Debunking the Most Common Statistical Myth\n\nBy convention, psychologists set the significance threshold at **alpha (α) = 0.05**.\n\n* **True Definition**: The **p-value** is the probability of obtaining sample results at least as extreme as the observed data, *assuming that the null hypothesis (H0) is completely true*.\n* If p < 0.05, the result is considered 'statistically significant'—meaning the observed data would be very rare if chance alone were operating.\n\n| Common Misconception | Scientific Reality |\n| :--- | :--- |\n| *'p = 0.03 means there is a 97% chance the hypothesis is true'* | **FALSE!** A p-value cannot give the probability that a theory or hypothesis is true. |\n| *'p = 0.01 proves the effect is huge and clinically important'* | **FALSE!** With a massive sample size, a tiny, trivial effect can easily yield p < 0.001. Size is measured by *effect size*, not p-values. |\n| *'p = 0.05 means there is a 5% chance the results are due to chance'* | **FALSE!** It means: *Given that chance alone is operating, there is a 5% probability of observing data this extreme.* |"
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "p-value Understanding Check 💡",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "A clinical study reports: 'Patients taking the new anxiolytic medication showed significantly lower anxiety than placebo (p = 0.02).' What does p = 0.02 scientifically mean?",
+        "options": [
+          {"id": "opt1", "text": "If the medication has zero true effect (H0 is true), there is only a 2% probability of obtaining a difference this large by chance", "isCorrect": true},
+          {"id": "opt2", "text": "There is a 98% chance that the medication will cure all anxiety disorders", "isCorrect": false},
+          {"id": "opt3", "text": "The study was conducted with 2% measurement error", "isCorrect": false},
+          {"id": "opt4", "text": "The null hypothesis has been 100% proven false", "isCorrect": false}
+        ],
+        "explanation": "A p-value is the conditional probability of observing data this extreme assuming the null hypothesis is true (P(Data | H0)).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Never Say You 'Proved' a Hypothesis\n\nIn psychological science, we never say an experiment 'proved' our theory. Because inferential statistics is probabilistic, we say the empirical data *'supported'*, *'provided evidence for'*, or *'failed to refute'* the hypothesis. Scientific knowledge is always open to future revision!"
+    }
+  ]
+}

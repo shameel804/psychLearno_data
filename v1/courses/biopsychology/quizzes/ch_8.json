@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_8",
+  "chapterId": "ch_8",
+  "title": "Chapter 8 Mastery Quiz: Emotion, Motivation, Stress & Psychopathology",
+  "description": "Test your mastery of the mesolimbic dopamine pathway, wanting vs. liking, chronic stress remodeling, biological models of depression and schizophrenia, and BCIs.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch8_q1",
+      "type": "multiple_choice",
+      "question": "Where are the dopaminergic cell bodies of the mesolimbic reward pathway located in the human brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ventral Tegmental Area (VTA) in the midbrain",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Locus Coeruleus in the pons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pineal gland",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Caudate nucleus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The mesolimbic pathway originates in the midbrain Ventral Tegmental Area (VTA) and projects to the nucleus accumbens.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q2",
+      "type": "multiple_choice",
+      "question": "What primary brain region receives dense dopaminergic projections from the VTA to mediate incentive salience and motivation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Nucleus Accumbens (NAc)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Primary visual cortex (V1)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cochlear nucleus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Substantia gelatinosa",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Nucleus Accumbens (part of the ventral striatum) is the primary target of VTA dopamine neurons for reward processing.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q3",
+      "type": "multiple_choice",
+      "question": "According to Kent Berridge's model, what neurochemical system mediates 'liking' (hedonic sensory pleasure) rather than 'wanting'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Endogenous opioids and cannabinoids in discrete hedonic hotspots",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Mesolimbic dopamine exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Thyroid hormone in the bloodstream",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Acetylcholine at neuromuscular junctions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Consummatory 'liking' is mediated by mu-opioid and endocannabinoid signaling in localized hotspots of the NAc shell and ventral pallidum.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q4",
+      "type": "multiple_choice",
+      "question": "In Wolfram Schultz's electrophysiological studies, what do midbrain dopamine neurons encode during associative learning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Reward Prediction Error (the difference between expected and received reward)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The absolute brightness of visual stimuli",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The pitch frequency of auditory tones",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The precise body temperature of the animal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dopamine neurons signal Reward Prediction Errors: bursting for unexpected rewards, shifting to predictors, and pausing when rewards are omitted.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q5",
+      "type": "multiple_choice",
+      "question": "What is the primary cellular mechanism of action of cocaine in the brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Blocking the presynaptic Dopamine Transporter (DAT), preventing dopamine reuptake",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Directly activating postsynaptic GABA-A receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Destroying all acetylcholine receptors in muscle cells",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Inhibiting the sodium-potassium ATPase pump",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cocaine competitively blocks DAT, trapping dopamine in the synaptic cleft of the nucleus accumbens and causing persistent receptor stimulation.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q6",
+      "type": "multiple_choice",
+      "question": "In addiction neurobiology, the transition from voluntary, goal-directed drug seeking to compulsive habit execution reflects a neural shift from:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The ventral striatum (Nucleus Accumbens) to the dorsal striatum (putamen)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The visual cortex to the auditory cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The spinal cord to the skull bone",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The hippocampus to the pineal gland",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "As drug use transitions to an automatic compulsive habit, control shifts anatomically from the ventral striatum to the dorsal striatum.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q7",
+      "type": "multiple_choice",
+      "question": "What is 'Allostatic Load' as defined by neuroendocrinologist Bruce McEwen?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The cumulative systemic biological wear and tear resulting from chronic, unremitting stress adaptation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The maximum weight a human leg can lift before muscle tear",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The number of action potentials a neuron can fire in one second",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The total volume of cerebrospinal fluid in the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Allostatic load represents the physiological cost of chronic neuroendocrine activation (hypercortisolemia, sympathetic tone).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q8",
+      "type": "multiple_choice",
+      "question": "Which limbic structure undergoes dendritic hypertrophy (expansion) and increased synaptic reactivity in response to chronic stress?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Basolateral complex of the Amygdala",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "CA1 field of the Hippocampus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Dorsolateral Prefrontal Cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Mammillary bodies",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "While chronic stress atrophies hippocampal and prefrontal dendrites, it paradoxically expands dendrites in the amygdala, promoting chronic hyper-vigilance.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q9",
+      "type": "multiple_choice",
+      "question": "What is the primary neurotrophic factor whose expression is severely decreased in the hippocampus during chronic stress and depression?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Brain-Derived Neurotrophic Factor (BDNF)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Insulin-like Growth Factor 2",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Epidermal Growth Factor",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Vascular Endothelial Growth Factor C",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "BDNF supports neuronal survival, dendritic branching, and synaptic plasticity; its reduction is a hallmark of depression pathophysiology.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q10",
+      "type": "multiple_choice",
+      "question": "How does intravenous Ketamine produce rapid antidepressant effects within hours in treatment-resistant depression?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "By antagonizing NMDA receptors, triggering a burst of glutamate that activates AMPA receptors and mTOR-dependent synaptogenesis",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "By permanently destroying serotonin reuptake transporters",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "By freezing dopamine release in the substantia nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "By stimulating melatonin production during broad daylight",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Low-dose ketamine blocks NMDA receptors on GABAergic interneurons, causing rapid glutamate release, AMPA activation, and synaptogenesis via mTOR.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q11",
+      "type": "multiple_choice",
+      "question": "What core circuit abnormality characterizes Generalized Anxiety Disorder and Panic Disorder in functional neuroimaging studies?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hyperactive amygdala responsiveness coupled with deficient top-down inhibitory control from the ventromedial prefrontal cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Complete absence of blood flow to the occipital visual cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Total paralysis of all spinal alpha motor neurons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Excessive enlargement of the ventricles with no cortical changes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Anxiety disorders reflect an imbalance: hyper-excitable bottom-up amygdalar threat signaling and impaired top-down prefrontal inhibition.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q12",
+      "type": "multiple_choice",
+      "question": "Benzodiazepines (e.g., diazepam, lorazepam) exert rapid anxiolytic effects by acting as positive allosteric modulators at which receptor?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "GABA-A receptors (increasing chloride channel opening frequency)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "NMDA glutamate receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "D2 dopamine receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Nicotinic acetylcholine receptors",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Benzodiazepines bind to a specific regulatory site on GABA-A receptors, facilitating GABA binding and increasing inhibitory chloride influx.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q13",
+      "type": "multiple_choice",
+      "question": "In Schizophrenia, what dopaminergic abnormality is linked to positive symptoms such as auditory hallucinations and persecutory delusions?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hyperactivity of dopamine neurotransmission in the mesolimbic pathway",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total absence of dopamine in the substantia nigra",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Destruction of dopamine receptors in the retina",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Selective overproduction of dopamine in the cerebellum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Mesolimbic dopamine hyperactivity is the primary driver of positive psychotic symptoms in schizophrenia, blocked by D2 antagonists.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q14",
+      "type": "multiple_choice",
+      "question": "The NMDA receptor hypofunction hypothesis of Schizophrenia arose from the observation that which recreational drug produces symptoms mimicking schizophrenia?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Phencyclidine (PCP / 'Angel Dust') and Ketamine",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Nicotine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Aspirin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Caffeine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Non-competitive NMDA receptor antagonists like PCP and ketamine induce positive, negative, and cognitive symptoms mimicking schizophrenia.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q15",
+      "type": "multiple_choice",
+      "question": "What is the primary neuroanatomical target of microelectrode arrays in invasive motor Brain-Computer Interfaces (e.g., BrainGate)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Primary Motor Cortex (M1) on the precentral gyrus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Primary visual cortex (V1) in the occipital lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The pineal gland",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The fourth ventricle choroid plexus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Intracortical BCIs implant arrays into M1 to record single-unit and multi-unit motor action potentials for decoding motor intent.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q16",
+      "type": "multiple_choice",
+      "question": "How do modern speech neuroprosthetics restore communication in paralyzed individuals who cannot speak (anarthria)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "By decoding neural activity from speech motor cortices into kinematic vocal tract movements and synthesized words in real time",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "By physically replacing the patient's vocal cords with mechanical titanium wires",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "By delivering electric shocks to the diaphragm to force air out",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "By connecting the optic nerve directly to a loudspeaker",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Speech neuroprosthetics use deep learning to translate cortical activity from speech motor areas into text and synthesized speech.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q17",
+      "type": "multiple_choice",
+      "question": "What defines a 'Closed-Loop' Deep Brain Stimulation (Responsive Neurostimulation) system?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It continuously records local neural biomarkers and delivers electrical stimulation only when pathological activity is detected",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It delivers high-voltage shocks at a constant, unvarying frequency 24 hours a day",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It requires the patient to manually turn a hand crank to generate power",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It works without any electrical current by using sound echoes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Closed-loop systems monitor local field potentials dynamically, delivering adaptive stimulation only when needed (e.g., aborting a seizure).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q18",
+      "type": "multiple_choice",
+      "question": "The ethical concept of 'Cognitive Liberty' in neuroethics refers to:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The fundamental human right to mental self-determination, cognitive privacy, and protection against unauthorized neural monitoring or manipulation",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The freedom to purchase any computer hardware without paying taxes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The requirement that all college students major in neuroscience",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The legal right to drive a vehicle while sleeping",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cognitive liberty is the proposed human right ensuring mental autonomy and protecting neural data against unauthorized decoding or coercion.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q19",
+      "type": "multiple_choice",
+      "question": "Which brain structure acts as an emotional 'accelerator', while the ventromedial prefrontal cortex acts as the 'brake'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Amygdala",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Occipital lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cochlea",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The amygdala drives rapid emotional vigilance (accelerator), whereas the prefrontal cortex provides top-down regulatory inhibition (brake).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q20",
+      "type": "multiple_choice",
+      "question": "How does repeated chronic exposure to drugs of abuse alter D2 dopamine receptor density in the human striatum?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It causes marked downregulation (decrease) of striatal D2 receptors, leading to chronic anhedonia and drug tolerance",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It permanently increases D2 receptors by 1,000%",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It converts all D2 receptors into voltage-gated potassium channels",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Receptor density remains completely unchanged in all addiction cases",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Chronic hyperstimulation prompts homeostatic downregulation of postsynaptic D2 receptors, causing blunted responses to normal rewards.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q21",
+      "type": "multiple_choice",
+      "question": "In the neurobiology of anxiety, high concentrations of GABA in the central nervous system generally produce:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Anxiolysis (reduction in anxiety) through widespread hyperpolarization and reduced neuronal excitability",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Intense panic attacks and visual hallucinations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Rapid heart rate exceeding 200 beats per minute",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Severe muscle spasticity and seizures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "GABA is the chief inhibitory neurotransmitter; increasing GABAergic tone dampens neural firing in limbic circuits, relieving anxiety.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q22",
+      "type": "multiple_choice",
+      "question": "What is the primary role of the Prefrontal Cortex in the human brain's emotional regulatory network?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Exerting top-down cognitive reappraisal and context-dependent inhibition over subcortical limbic structures like the amygdala",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Directly pumping blood through the ventricular chambers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Synthesizing myelin sheaths for peripheral nerves in the legs",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Filtering high-frequency sound waves in the middle ear",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The PFC provides top-down cognitive control, modulating emotional reactivity and fear expression through descending inhibitory projections.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

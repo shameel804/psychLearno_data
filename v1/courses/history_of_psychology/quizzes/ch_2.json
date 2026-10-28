@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_2",
+  "chapterId": "ch_2",
+  "title": "Chapter 2 Mastery Quiz: The Birth of Experimental Psychology & Structuralism",
+  "description": "Demonstrate comprehensive mastery of Wundt's Leipzig lab, introspection, voluntarism, and Titchener's Structuralism.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch2_q1",
+      "type": "multiple_choice",
+      "question": "Which historic event marks the formal establishment of psychology as an independent academic science?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The publication of Darwin's 'Origin of Species'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Wilhelm Wundt founding his Leipzig laboratory in 1879",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Sigmund Freud treating Anna O.",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "John B. Watson's Behaviorist Manifesto",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wilhelm Wundt establishing his formal laboratory at the University of Leipzig in 1879 is recognized as psychology's founding event.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q2",
+      "type": "multiple_choice",
+      "question": "What title was given to Wilhelm Wundt's 1874 textbook that explicitly proposed psychology as an experimental discipline?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Principles of Psychology",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Principles of Physiological Psychology",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The Interpretation of Dreams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Beyond Freedom and Dignity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt's 1874 text 'Principles of Physiological Psychology' established experimental methods as central to psychology.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q3",
+      "type": "multiple_choice",
+      "question": "What name did Wilhelm Wundt give to his own theoretical approach to psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Structuralism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Voluntarism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Radical Behaviorism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Functionalism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt termed his psychology 'Voluntarism' because he emphasized the active power of the human will in organizing consciousness.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q4",
+      "type": "multiple_choice",
+      "question": "In Wundt's theory, how does 'apperception' differ from passive 'perception'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Apperception is unconscious, whereas perception is conscious",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Apperception is the active, voluntary focusing of attention to synthesize mental content",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Apperception occurs only in non-human animals",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Apperception is a reflex without brain involvement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt defined apperception as the active, intentional focus of attention that organizes sensory contents into unified wholes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q5",
+      "type": "multiple_choice",
+      "question": "What was the subject matter of Wundt's massive 10-volume work entitled 'V\u00f6lkerpsychologie'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Reaction time measurements of Leipzig students",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Higher mental processes studied through language, myth, customs, and culture",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Dissection of animal brain stems",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Psychotherapy of mood disorders",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "'V\u00f6lkerpsychologie' explored higher mental processes through the historical study of language, folklore, religion, and culture.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q6",
+      "type": "multiple_choice",
+      "question": "In Wundt's laboratory, how was experimental introspection (Selbstbeobachtung) controlled?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Subjects freely described whatever childhood memories came to mind",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Trained observers gave immediate reports under strictly repeated and varied physical stimulus conditions",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Subjects were placed under deep hypnotic trances",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Observers were never allowed to practice beforehand",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt enforced strict experimental controls: trained observers, immediate reporting, and systematic stimulus repetition.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q7",
+      "type": "multiple_choice",
+      "question": "Which of the following represents the three dimensions of feeling in Wundt's Tridimensional Theory?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Pleasure-Displeasure, Tension-Relaxation, Excitement-Calm",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fear-Anger, Joy-Sadness, Trust-Disgust",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Id-Ego, Ego-Superego, Conscious-Unconscious",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Input-Throughput, Storage-Retrieval, Feedback-Feedforward",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt's three affective dimensions were Lust/Unlust (Pleasure/Displeasure), Spannung/L\u00f6sung (Tension/Relaxation), and Erregung/Beruhigung (Excitement/Calm).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q8",
+      "type": "multiple_choice",
+      "question": "Which student of Wundt brought experimental psychology to Cornell University and founded Structuralism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "William James",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Edward Bradford Titchener",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "John Dewey",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "G. Stanley Hall",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Edward Bradford Titchener established the Structuralist school of psychology at Cornell University in Ithaca, New York.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q9",
+      "type": "multiple_choice",
+      "question": "What did Titchener define as the 'Stimulus Error'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Failing to present a loud enough acoustic click",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Confusing the physical object or its meaning with the raw conscious sensory experience",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Allowing the subject to fall asleep during testing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Mistaking an unconditioned response for a conditioned response",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The stimulus error occurs when observers name the object itself (e.g. 'table') rather than reporting elemental sensations (color, texture, brightness).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q10",
+      "type": "multiple_choice",
+      "question": "Approximately how many individual elemental sensations did Titchener and his students catalog?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Around 50",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Over 44,000",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Exactly 4",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Nearly 1,000,000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Titchener identified more than 44,000 individual conscious sensory qualities, of which over 32,000 were visual.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q11",
+      "type": "multiple_choice",
+      "question": "What was the fundamental theoretical difference between Wundt's Voluntarism and Titchener's Structuralism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Wundt emphasized active attention and synthesis; Titchener sought passive atomic elements",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Wundt studied animal reflexes; Titchener studied human dreams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Wundt rejected introspection; Titchener invented it",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Titchener studied culture; Wundt only studied vision",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt viewed the mind as actively synthesizing experience through apperception, whereas Titchener reduced consciousness to passive sensory elements.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q12",
+      "type": "multiple_choice",
+      "question": "What controversy arose between Titchener and Oswald K\u00fclpe's W\u00fcrzburg school regarding introspection?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Whether animals possess consciousness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Whether 'imageless thought' can exist without sensory elements",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Whether psychology should use hypnosis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Whether IQ tests are culturally biased",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "K\u00fclpe's lab found that thoughts can occur without sensory images ('imageless thought'), which contradicted Titchener's fundamental assertion.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch2_q13",
+      "type": "multiple_choice",
+      "question": "Why could Structuralism NOT address questions regarding child development or animal psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Children and animals could not provide trained introspective verbal reports",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Titchener believed children had no brain",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Federal laws banned testing animals in universities",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cornell University did not permit animals on campus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Because Structuralism relied strictly on trained verbal introspection, infants, children, and animals were methodologically excluded.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q14",
+      "type": "multiple_choice",
+      "question": "What term describes the problem where the very process of observing one's conscious state alters the experience being observed?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Observer interference / Introspective paradox",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Confirmation bias",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hindsight effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Serial position effect",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Introspective observation inherently interferes with the phenomenon being observed, such as cooling off spontaneous anger when attempting to analyze it.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q15",
+      "type": "multiple_choice",
+      "question": "Which apparatus was commonly used in Wundt's lab to record reaction times to millisecond accuracy?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hipp chronoscope",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Electroencephalogram (EEG)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Galvanometer",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Lie detector",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Hipp chronoscope was the classic precision brass instrument in early experimental laboratories used to measure reaction times in thousandths of a second.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch2_q16",
+      "type": "multiple_choice",
+      "question": "What was the American psychological establishment's chief criticism of Structuralism in the early 20th century?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It was too applied and commercialized",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It was sterile, impractical, and ignored how mind helps humans adapt",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It used too many mathematical formulas",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It focused excessively on social groups",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "American psychologists influenced by evolutionary theory found Structuralism sterile and divorced from practical adaptation and living.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q17",
+      "type": "multiple_choice",
+      "question": "What happened to the school of Structuralism after Edward Titchener passed away in 1927?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It grew to dominate all modern cognitive science",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It largely vanished as an active school, superseded by Functionalism and Behaviorism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It merged with Freudian psychoanalysis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It relocated to Oxford University",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Structuralism essentially died with Titchener, as newer movements like Functionalism, Gestalt, and Behaviorism displaced it.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch2_q18",
+      "type": "multiple_choice",
+      "question": "What was Structuralism's greatest positive contribution to modern psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Its 44,000 elements are still memorized by all medical students",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It established psychology as an empirical laboratory science committed to experimental rigor",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It pioneered modern psychopharmacology",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It created the first standard intelligence test",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Structuralism firmly embedded psychology within laboratory science, establishing experimental discipline, instrumentation, and empirical standards.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q19",
+      "type": "multiple_choice",
+      "question": "Titchener formed an exclusive all-male dining and discussion group in 1904 known as what?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Experimentalists",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The American Psychological Association",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Vienna Circle",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The Pragmatism Club",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Titchener founded 'The Experimentalists' in 1904, deliberately excluding women until after his death, when it was reorganized as the Society of Experimental Psychologists.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch2_q20",
+      "type": "multiple_choice",
+      "question": "Which female psychologist was Edward Titchener's very first doctoral student at Cornell, earning the first PhD in psychology awarded to an American woman in 1894?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Mary Whiton Calkins",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Margaret Floy Washburn",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Karen Horney",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anna Freud",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Margaret Floy Washburn was Titchener's first graduate student, becoming the first American woman to officially receive a PhD in psychology in 1894.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch2_q21",
+      "type": "multiple_choice",
+      "question": "What is 'creative synthesis' in Wundt's voluntaristic psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The emergence of new mental properties through apperception that cannot be explained simply by summing elements",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The biological creation of new neurons in the cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The artistic imagination required to compose poetry",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The fabrication of false memories under hypnosis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wundt's creative synthesis stated that apperception combines sensory elements into complex psychic compounds with emergent qualities not found in isolated elements.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch2_q22",
+      "type": "multiple_choice",
+      "question": "Why did Gestalt psychologists subsequently attack both Wundt and Titchener?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Because they were German",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Because both treated consciousness as an artificial collection of isolated building blocks or 'elements'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Because they believed in evolution",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Because they refused to study optical illusions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gestalt psychologists rejected 'elementalism' (or 'brick-and-mortar psychology'), insisting that experience is inherently holistic and cannot be dissected into atoms.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

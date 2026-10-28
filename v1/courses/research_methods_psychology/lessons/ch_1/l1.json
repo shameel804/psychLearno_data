@@ -1,0 +1,73 @@
+{
+  "id": "l1",
+  "chapterId": "ch_1",
+  "title": "The Nature of Scientific Thinking in Psychology",
+  "description": "Understand empiricism, the demarcation problem, why intuition fails, and Popper's falsifiability criterion.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Scientific Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Why Common Sense Isn't Science 🧠",
+      "content": "# The Limits of Intuition\n\nMany people believe they already understand human psychology simply because they interact with humans every day. However, everyday intuition is riddled with systematic cognitive biases:\n\n* **Hindsight Bias**: The 'I-knew-it-all-along' tendency to view events as having been obvious once they have occurred.\n* **Confirmation Bias**: Actively seeking out, remembering, and weighting evidence that supports our existing beliefs while disregarding contradictory data.\n* **Overconfidence Effect**: Subjective confidence in judgments reliably exceeding objective accuracy.\n\nTo move beyond folk wisdom, psychology relies on **systematic empiricism**—basing conclusions on systematic, verifiable observations of the world rather than casual impressions or authority."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Concept Check: Intuitive Traps 💡",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "A student claims: 'I knew that couple would break up from the day they met!' despite never saying anything before the breakup. Which cognitive bias is this?",
+        "options": [
+          {"id": "opt1", "text": "Hindsight bias", "isCorrect": true},
+          {"id": "opt2", "text": "Confirmation bias", "isCorrect": false},
+          {"id": "opt3", "text": "The availability heuristic", "isCorrect": false},
+          {"id": "opt4", "text": "The Hawthorne effect", "isCorrect": false}
+        ],
+        "explanation": "Hindsight bias occurs when an outcome appears predictable in retrospect, leading people to believe they foresaw the event all along.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Science vs. Pseudoscience ⚖️",
+      "content": "## The Demarcation Problem\n\nHow do we separate genuine psychological science from pseudoscientific claims like phrenology, biorhythms, or conversion therapy?\n\n| Dimension | Scientific Psychology | Pseudoscience |\n| :--- | :--- | :--- |\n| **Basis of Evidence** | Controlled empirical observation, replicable data | Anecdotal testimonials, personal testimonials |\n| **Openness to Revision** | Theories modified or abandoned when disproven | Claims defended with excuses or unfalsifiable loops |\n| **Methodology** | Rigorous attempts to disconfirm hypotheses | Selective search for confirming instances |\n| **Peer Review** | Scrutinized by independent experts prior to publication | Bypasses peer review, marketed directly to the public |\n\nIn real science, findings must be publicly shared, transparently documented, and capable of being independently verified by other researchers."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Quick Check: Hallmarks of Pseudoscience 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Which of the following characteristics is a primary hallmark of pseudoscience?",
+        "options": [
+          {"id": "opt1", "text": "Undergoing anonymous peer review before publication", "isCorrect": false},
+          {"id": "opt2", "text": "Reliance on customer testimonials instead of controlled empirical trials", "isCorrect": true},
+          {"id": "opt3", "text": "Willingness to modify hypotheses when data contradict predictions", "isCorrect": false},
+          {"id": "opt4", "text": "Publishing raw data and analysis scripts openly", "isCorrect": false}
+        ],
+        "explanation": "Pseudoscience typically relies heavily on anecdotal accounts and emotional testimonials rather than systematically collected, replicable experimental data.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "text",
+      "title": "Karl Popper & Falsifiability 🛡️",
+      "content": "## The Falsifiability Criterion\n\nPhilosopher of science **Karl Popper** established that for a theory or claim to be scientific, it must be **falsifiable**.\n\n* A theory is falsifiable if there exists at least one conceivable empirical observation that would prove it wrong.\n* If a theory explains every possible outcome after the fact, it actually explains nothing.\n\nFor example, if an astrologer claims: 'You will experience either financial gain or a financial lesson this week,' the claim cannot be falsified because every financial event fits the prediction. In contrast, the hypothesis 'Depriving mice of REM sleep for 48 hours will increase latency in learning a Morris water maze by at least 20%' can be clearly supported or refuted."
+    },
+    {
+      "id": "s_l1_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Look for the Disconfirming Test\n\nWhen evaluating any psychological claim, always ask:\n> *'What specific observation or experimental result would convince the author that their theory is mistaken?'*\n\nIf the author cannot define what evidence would falsify their idea, the claim is a matter of dogma or faith, not psychological science."
+    }
+  ]
+}

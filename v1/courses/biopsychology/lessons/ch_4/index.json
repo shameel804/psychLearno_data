@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Divided Minds: Hemispheric Specialization & The Corpus Callosum",
+      "description": "Unpack anatomical asymmetries, the 200 million callosal fibers, left-hemisphere linguistic dominance, and right-hemisphere spatial mastery.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Hemispheric Lateralization"
+    },
+    {
+      "id": "l2",
+      "title": "The Split-Brain Revolution: Sperry, Gazzaniga, & Dual Consciousness",
+      "description": "Analyze tachistoscopic testing of surgical callosotomy patients, contralateral sensory pathways, and the left-hemisphere 'Interpreter'.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Split-Brain Research"
+    },
+    {
+      "id": "l3",
+      "title": "The Dynamic Brain: Structural vs. Functional Neuroplasticity",
+      "description": "Demolish the dogma of the fixed adult brain: cross-modal sensory remapping, London taxi driver hippocampal growth, and phantom limb syndrome.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Neuroplasticity"
+    },
+    {
+      "id": "l4",
+      "title": "Synaptic Remodeling: Hebbian Plasticity, LTP, & Adult Neurogenesis",
+      "description": "Explore molecular mechanisms of memory: Hebb's law, NMDA receptor coincidence detection, AMPA insertion, and neurogenesis in the dentate gyrus.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Synaptic Plasticity"
+    }
+  ]
+}

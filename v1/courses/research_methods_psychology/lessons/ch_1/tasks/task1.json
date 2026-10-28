@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_1",
+  "title": "Critiquing Pseudoscientific Claims & Testing Falsifiability",
+  "description": "Analyze an alternative wellness claim, identify cognitive biases, and reformulate it into a falsifiable empirical hypothesis.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A popular commercial advertisement claims: *'Quantum Crystal Harmonizers align your brain's bio-energetic aura to purge negative psychic stress and boost cognitive vitality. If you don't feel immediate benefits, your personal skepticism is blocking the crystal vibrations.'*\n\n### Your Mission:\n1. **Deconstruct the Claim**: Identify three distinct hallmarks of pseudoscience present in this statement.\n2. **Identify Cognitive Traps**: Explain how confirmation bias and the post-hoc fallacy could convince a customer that the device works.\n3. **Apply Popper's Criterion**: Explain why the caveat (*'your skepticism is blocking vibrations'*) makes the claim unfalsifiable.\n4. **Formulate a Rigorous Empirical Test**: Propose an operational, double-blind experimental design with a sham control condition to test whether the crystal produces any measurable cognitive effect beyond placebo.",
+  "hints": [
+    "Hint 1: Notice how the claim creates a circular, unfalsifiable excuse for failure.",
+    "Hint 2: How could you blind participants and experimenters so neither knows whether a real crystal or an inert replica is being used?"
+  ]
+}

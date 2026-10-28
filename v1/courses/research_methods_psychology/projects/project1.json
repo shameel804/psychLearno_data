@@ -1,0 +1,19 @@
+{
+  "id": "project1",
+  "title": "Experimental Research Proposal: Sleep Deprivation & Cognitive Control",
+  "description": "Design an exhaustive, production-ready laboratory experiment evaluating how sleep loss impacts prefrontal executive control.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "4-6",
+  "problemStatement": "You are a research psychologist appointed to design a definitive, preregistered laboratory experiment investigating whether 36 hours of total acute sleep deprivation impairs prefrontal executive control (measured via reaction time latency and error rates on a computerized Stroop Color-Word task).\n\nYour proposal must serve as a comprehensive, peer-review-ready document detailing every theoretical, operational, and ethical parameter of the study.",
+  "requirements": [
+    "Formulate directional, falsifiable hypotheses based on prefrontal cognitive control models.",
+    "Detail concrete operational definitions for the Independent Variable (36-hr wakefulness vs. 8-hr normal sleep) and Dependent Variables (Stroop interference latency in milliseconds and commission error counts).",
+    "Specify participant recruitment criteria, power calculations justifying sample size (aiming for 80% power at d = 0.50), and exact random assignment procedures.",
+    "Construct a full Institutional Review Board (IRB) ethics protocol including participant safety monitoring, medical screening exclusions, informed consent provisions, and post-study recovery sleep accommodations.",
+    "Systematically identify potential internal validity threats (e.g., caffeine consumption, circadian rhythms, experimenter expectancy) and outline experimental controls (standardized meals, double-blind testing protocols, testing at identical circadian clock times)."
+  ],
+  "hints": [
+    "Hint 1: Remember to hold circadian phase constant—testing someone at 8:00 AM vs. 3:00 PM introduces a major biological confound.",
+    "Hint 2: In your IRB protocol, address transportation safety: sleep-deprived participants should never be permitted to drive home; provide taxi vouchers or dedicated sleep recovery suites."
+  ]
+}

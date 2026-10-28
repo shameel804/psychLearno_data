@@ -1,0 +1,67 @@
+{
+  "id": "l3",
+  "chapterId": "ch_7",
+  "title": "Quasi-Experimental Designs: When Random Assignment Is Impossible",
+  "description": "Navigate nonequivalent control groups, interrupted time-series designs, regression discontinuity, and selection confounds.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Quasi-Experiments",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Compromise with Reality 🏙️",
+      "content": "# When You Cannot Randomly Assign\n\nIn many applied psychological, clinical, and policy domains, random assignment is ethically impossible or practically unfeasible:\n\n* You cannot randomly assign pregnant mothers to smoke cigarettes or drink alcohol.\n* You cannot randomly assign employees to experience a company bankruptcy.\n* You cannot randomly assign children to attend School A vs. School B.\n\nA **quasi-experimental design** resembles a true experiment by comparing different conditions or interventions, but **lacks random assignment** of participants to those conditions. Because participants arrive with pre-existing differences, the primary threat is **Selection Bias**."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Quasi-Experiment Defining Feature ⚖️",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What is the defining distinction between a true experiment and a quasi-experiment?",
+        "options": [
+          {"id": "opt1", "text": "True experiments have independent variables; quasi-experiments never have independent variables", "isCorrect": false},
+          {"id": "opt2", "text": "True experiments use random assignment to conditions; quasi-experiments lack random assignment", "isCorrect": true},
+          {"id": "opt3", "text": "Quasi-experiments are only conducted on animals", "isCorrect": false},
+          {"id": "opt4", "text": "True experiments are not subject to ethical IRB review", "isCorrect": false}
+        ],
+        "explanation": "Quasi-experiments evaluate treatments across groups or over time, but participants cannot be randomly assigned, creating selection threats to internal validity.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Two Classic Quasi-Experimental Designs 📊",
+      "content": "## Standard Methodological Solutions\n\n| Design | Architecture & Procedures | Strengths & Vulnerabilities |\n| :--- | :--- | :--- |\n| **Nonequivalent Control Group Pretest-Posttest Design** | Compares an intact, pre-existing treatment group (e.g., Classroom 1) to an intact comparison group (Classroom 2) before and after intervention. | Administering a pretest establishes whether groups were equivalent at baseline; vulnerable to **Selection-History** and **Selection-Maturation** interactions. |\n| **Interrupted Time-Series Design** | Takes multiple repeated measurements of the dependent variable before and after an abrupt policy change or intervention event. (e.g., O1, O2, O3, O4 -> Intervention -> O5, O6, O7, O8). | Demonstrates pre-intervention secular trends and post-intervention discontinuity; rules out simple maturation, but vulnerable to simultaneous historical events. |\n\nFor example, psychologists used an interrupted time series to study whether a state mandatory seatbelt law reduced traffic fatalities by tracking monthly road fatalities for 36 months before and after the law took effect."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Time-Series Design Check ⏱️",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "A hospital tracks nurse absenteeism rates every month for 12 months, implements a workplace wellness program in Month 13, and tracks absenteeism for another 12 months. What quasi-experimental design is this?",
+        "options": [
+          {"id": "opt1", "text": "Interrupted time-series design", "isCorrect": true},
+          {"id": "opt2", "text": "Single-case ABAB reversal design", "isCorrect": false},
+          {"id": "opt3", "text": "True laboratory experiment with double blinding", "isCorrect": false},
+          {"id": "opt4", "text": "Complete counterbalanced Latin Square", "isCorrect": false}
+        ],
+        "explanation": "Taking multiple longitudinal measurements before and after a specific discrete intervention event is the definition of an interrupted time-series design.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The Power of Multiple Pretests\n\nWhy take multiple measurements before the intervention in a time-series? Because a single pretest cannot show you if the variable was already naturally improving or declining! Multiple pretests establish the baseline slope and seasonal fluctuations, allowing you to prove true post-intervention discontinuity."
+    }
+  ]
+}

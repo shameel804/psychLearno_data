@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_7",
+  "title": "Pioneering Cognitive Science: Miller & Neisser",
+  "description": "Master George Miller's magical number seven, chunking mechanisms, and Ulric Neisser's defining 1967 textbook.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Cognitive Pioneers",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Magical Number Seven, Plus or Minus Two (1956) \ud83c\udfb2",
+      "content": "# George A. Miller & Working Memory Capacity\n\nIn 1956, Harvard cognitive psychologist **George Armitage Miller** (1920\u20132012) published one of the most cited papers in all of psychology:\n\n> *'The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.'*\n\nMiller demonstrated that human short-term memory (working memory) has an invariant, hardwired channel capacity bottleneck of **7 \u00b1 2 items** (between 5 and 9 discrete units).\n\n### The Power of Chunking\nHow can humans remember complex sentences or 10-digit phone numbers if our limit is only 7 items?\n\nMiller introduced the concept of **Chunking**: recoding individual items into larger, meaningful cognitive packages.\n\n* Memorizing 12 random letters: `F B I C I A N B A I R S` is almost impossible.\n* Recoding into 4 meaningful acronyms: `FBI - CIA - NBA - IRS` takes up only 4 slots in working memory!"
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What cognitive strategy did George A. Miller describe for overcoming the 7 \u00b1 2 item limit of short-term memory by grouping data into meaningful units?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Chunking",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Sublimation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Habituation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Extinction",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Chunking groups individual pieces of information into larger, meaningful conceptual packages, conserving working memory slots.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Ulric Neisser & The Naming of the Field (1967) \ud83d\udcda",
+      "content": "# The Official Birth of Cognitive Psychology\n\nIn 1967, American psychologist **Ulric Neisser** (1928\u20132012) published a monumental textbook titled simply **Cognitive Psychology**.\n\nThis book christened the new discipline, providing it with unified coherence. Neisser defined cognition broadly as:\n\n> *'All processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.'*\n\n### Neisser's Later Warning: Ecological Validity\nLater in his career, Neisser grew concerned that cognitive psychologists were spending too much time studying tachistoscopic flashes and artificial nonsense syllables in isolated laboratory rooms.\n\nIn his 1976 book *Cognition and Reality*, he demanded that psychology prioritize **Ecological Validity**: studying how human perception and memory actually operate in natural, everyday real-world environments!"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "tip",
+      "title": "Flashbulb Memories: Neisser's Challenger Study \ud83d\ude80",
+      "content": "## How Accurate Are Traumatic Memories?\n\nThe morning after the 1986 Space Shuttle Challenger explosion, Neisser had 106 students write down exactly where they were and what they felt. Three years later, he retested them: **over 25% were completely wrong** about major facts, yet reported 100% subjective confidence! Memory is a reconstructive process, not a video recording."
+    }
+  ]
+}

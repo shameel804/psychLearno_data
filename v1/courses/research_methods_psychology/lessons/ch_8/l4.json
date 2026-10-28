@@ -1,0 +1,73 @@
+{
+  "id": "l4",
+  "chapterId": "ch_8",
+  "title": "The Open Science Reform & Rigorous Research Frontiers",
+  "description": "Embrace modern scientific transparency: study preregistration, Registered Reports, open data, and direct replications.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Open Science Reform",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Open Science Revolution 🌐",
+      "content": "# Rebuilding Trust in Psychological Science\n\nIn response to the replication crisis, a global grassroots movement transformed psychological methodology into **Open Science**—a commitment to radical transparency, rigor, and public verifiability across every stage of the research lifecycle:\n\n* **Study Preregistration**: Publicly documenting specific hypotheses, data collection plans, sample sizes, and exact statistical analysis pipelines in an immutable time-stamped registry (like the Open Science Framework, OSF) *before* collecting data!\n* Preregistration creates a sharp, verifiable boundary between **confirmatory hypothesis testing** and **exploratory data analysis**, completely preventing p-hacking and HARKing."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Preregistration Function Check 📜",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What is the primary scientific purpose of preregistering an experimental study on the Open Science Framework (OSF)?",
+        "options": [
+          {"id": "opt1", "text": "To prevent p-hacking and HARKing by establishing an immutable time-stamped record of planned methods and analyses before data collection", "isCorrect": true},
+          {"id": "opt2", "text": "To guarantee that the study will win a Nobel Prize", "isCorrect": false},
+          {"id": "opt3", "text": "To keep all data and materials secret from the public forever", "isCorrect": false},
+          {"id": "opt4", "text": "To eliminate the need for peer review", "isCorrect": false}
+        ],
+        "explanation": "Preregistration holds researchers accountable to their planned hypotheses and sample sizes, stopping post-hoc p-hacking and selective reporting.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Registered Reports: The Game Changer 📰",
+      "content": "## Reforming Academic Publishing\n\n**Registered Reports** flip traditional peer review on its head:\n\n1. **Stage 1 Peer Review**: The researcher submits their introduction, planned hypotheses, and detailed methodology *before collecting any data*.\n2. **In-Principle Acceptance (IPA)**: If the theoretical rationale and methodology are sound, the journal issues a binding guarantee to publish the paper **regardless of whether the final results are positive, negative, or null**!\n3. **Stage 2 Data Collection & Review**: The researcher collects data, runs the preregistered analyses, and submits the final manuscript. Reviewers simply verify that the author followed the approved protocol.\n\nRegistered Reports completely eliminate publication bias, the file drawer problem, and the temptation to p-hack!"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Open Materials, Open Data & Big Science 🚀",
+      "content": "## Transparency Across the Lifecycle\n\nModern open science standards incorporate multiple open practices:\n\n* **Open Data & Open Code**: Uploading anonymized raw datasets and statistical R/Python scripts to public repositories so independent researchers can verify and reproduce findings.\n* **Open Materials**: Publicly sharing experimental software, video stimuli, survey items, and coding manuals so exact replications can be run worldwide.\n* **Preprints**: Posting draft manuscripts to free preprint servers (e.g., PsyArXiv) to accelerate scientific dissemination without commercial paywalls.\n* **Multi-Site Collaborative Science**: Organizations like the Psychological Science Accelerator (PSA) coordinating 100+ laboratories worldwide to test hypotheses simultaneously across diverse cultures."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Open Practice Discrimination Check 🌍",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "What is the key feature of a 'Registered Report' in academic journals?",
+        "options": [
+          {"id": "opt1", "text": "The manuscript receives in-principle acceptance based on peer review of the introduction and methodology before data collection begins", "isCorrect": true},
+          {"id": "opt2", "text": "The journal only accepts papers that report p < 0.001", "isCorrect": false},
+          {"id": "opt3", "text": "Authors must pay $50,000 to publish their results", "isCorrect": false},
+          {"id": "opt4", "text": "The study must be conducted on at least 50 animal species", "isCorrect": false}
+        ],
+        "explanation": "Registered Reports evaluate and accept study plans prior to data collection, eliminating publication bias against null results.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Direct vs. Conceptual Replication\n\n* **Direct (Exact) Replication**: Uses the exact same procedures, stimuli, and measures as the original study to test whether the original finding was a fluke.\n* **Conceptual Replication**: Tests the same underlying theoretical hypothesis using *different* operational definitions, measures, or participant populations to evaluate generalizability.\nBoth forms of replication are vital to scientific progress!"
+    }
+  ]
+}

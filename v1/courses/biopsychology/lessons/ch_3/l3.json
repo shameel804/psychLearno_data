@@ -1,0 +1,99 @@
+{
+  "id": "l3",
+  "chapterId": "ch_3",
+  "title": "Motor Circuits & The Basal Ganglia: Coordinating Action & Habits",
+  "description": "Master the direct ('Go') and indirect ('No-Go') striatal pathways, dopamine modulation, and the pathophysiology of Parkinson's and Huntington's diseases.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Basal Ganglia",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Basal Ganglia: Gatekeepers of Action \ud83d\udea6",
+      "content": "# Selecting Desired Actions & Suppressing Rivals\n\nThe **Basal Ganglia** are a group of interconnected subcortical nuclei that act as a central motor and cognitive gating filter:\n\n### Primary Subcortical Components:\n* **Striatum**: Composed of the **Caudate Nucleus** and **Putamen**; the major input station receiving glutamatergic projections from the cortex.\n* **Globus Pallidus**: Internal segment (**GPi** - main output station) and External segment (**GPe**).\n* **Subthalamic Nucleus (STN)**: Excitatory glutamatergic regulator.\n* **Substantia Nigra**: Located in midbrain; contains dopaminergic neurons in the **pars compacta (SNc)** and inhibitory output in **pars reticulata (SNr)**."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "text",
+      "title": "Direct vs. Indirect Pathways: Go vs. No-Go \ud83d\udd04",
+      "content": "## The Dual-Loop Circuit\n\nTo execute smooth, coordinated voluntary movements, the striatum operates two competing pathways:\n\n| Feature | Direct Pathway ('Go') | Indirect Pathway ('No-Go') |\n| :--- | :--- | :--- |\n| **Function** | Facilitates and initiates voluntary movement | Suppresses unwanted or competing motor programs |\n| **Dopamine Receptor** | **D1 receptors** (excitatory input from SNc) | **D2 receptors** (inhibitory input from SNc) |\n| **Synaptic Circuit** | Striatum $\\rightarrow$ GPi/SNr (inhibits the inhibitor!) | Striatum $\\rightarrow$ GPe $\\rightarrow$ STN $\\rightarrow$ GPi/SNr |\n| **Final Thalamic Effect** | **Disinhibits Thalamus** (increases cortical drive) | **Inhibits Thalamus** (decreases cortical drive) |\n\n*Dopamine's Master Role*: Dopamine from the substantia nigra activates the Direct pathway (via D1) and inhibits the Indirect pathway (via D2), synergistically promoting action execution!"
+    },
+    {
+      "id": "s_l3_3",
+      "type": "quiz",
+      "title": "Check: Basal Ganglia Pathways \u2699\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What is the net effect of activating the direct striatal pathway on the thalamus and motor cortex?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It powerfully inhibits the thalamus, halting all movement",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It disinhibits the thalamus, facilitating movement initiation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It destroys dopamine receptors in the substantia nigra",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It shuts down blood flow to the cerebellum",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The direct pathway inhibits the inhibitory internal globus pallidus (GPi), releasing the thalamus from tonic inhibition ('disinhibition') and promoting movement.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Movement Pathology: Parkinson's vs. Huntington's \u2694\ufe0f",
+      "content": "## Two Sides of Basal Ganglia Breakdown\n\n### 1. Parkinson's Disease (Hypokinetic Disorder):\n* **Pathology**: Degeneration of >70% of dopaminergic neurons in the **Substantia Nigra pars compacta (SNc)**.\n* **Mechanism**: Without dopamine, the Direct pathway is underactive and the Indirect pathway is overactive, locking the thalamus in deep tonic inhibition.\n* **Clinical Tetrad**: Resting tremor ('pill-rolling'), bradykinesia (slowness of movement), cogwheel muscle rigidity, and postural instability.\n\n### 2. Huntington's Disease (Hyperkinetic Disorder):\n* **Pathology**: Autosomal dominant genetic mutation ($CAG$ repeat expansion in Huntingtin gene) causing degeneration of medium spiny neurons in the **Striatum** (initially destroying the Indirect pathway).\n* **Mechanism**: Loss of the 'No-Go' brake allows the thalamus to fire unchecked.\n* **Clinical Presentation**: Uncontrollable, dance-like involuntary jerks (**chorea**), progressive dementia, and severe psychiatric changes."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Check: Parkinson's vs. Huntington's \ud83e\ude7a",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Which neurodegenerative disorder is caused by the selective loss of dopaminergic neurons in the substantia nigra pars compacta?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Huntington's disease",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Parkinson's disease",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Alzheimer's disease",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Amyotrophic lateral sclerosis (ALS)",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Parkinson's disease is characterized neuropathologically by the loss of pigmented dopaminergic neurons in the substantia nigra, treated symptomatically with L-DOPA.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

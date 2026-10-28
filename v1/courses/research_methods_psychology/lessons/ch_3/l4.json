@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_3",
+  "title": "Construct Validity & Measurement Validation",
+  "description": "Ensure you measure what you intend: face, content, criterion (concurrent, predictive), and convergent/discriminant validity.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Construct Validity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "What is Construct Validity? 🎯",
+      "content": "# Measuring What You Claim to Measure\n\nWhile reliability asks *'How consistent is the measurement?'*, **validity** asks *'Are we truly measuring the conceptual construct we claim to be measuring?'*\n\nIf you design an inventory to measure 'Generalized Anxiety', but high scores actually reflect caffeine consumption or cardiovascular disease, your inventory lacks **construct validity**.\n\nEstablishing construct validity is an ongoing, multi-faceted scientific process involving multiple evidentiary pillars."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Validity Foundation Check 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What is the primary definition of construct validity in psychological measurement?",
+        "options": [
+          {"id": "opt1", "text": "The speed at which a computer scores the test", "isCorrect": false},
+          {"id": "opt2", "text": "The degree to which an operational measure accurately reflects the theoretical construct it was designed to assess", "isCorrect": true},
+          {"id": "opt3", "text": "The monetary cost of administering a diagnostic assessment", "isCorrect": false},
+          {"id": "opt4", "text": "The number of pages in the test booklet", "isCorrect": false}
+        ],
+        "explanation": "Construct validity examines whether an operational measure successfully assesses the specific theoretical attribute or construct of interest.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The Taxonomy of Measurement Validity 🏛️",
+      "content": "## Core Dimensions of Validity\n\n| Type of Validity | Core Question | Example Evaluation Method |\n| :--- | :--- | :--- |\n| **Face Validity** | Does the test *superficially appear* to measure what it claims to? | Non-statistical inspection by laypersons or participants. |\n| **Content Validity** | Does the test sample *all relevant facets* of the conceptual domain? | Expert panel audits (e.g., ensuring a depression scale covers affective, cognitive, and somatic symptoms). |\n| **Criterion Validity** | Does the test correlate with an established concrete outcome/criterion? | Testing whether SAT scores predict first-year university GPA (**Predictive Validity**) or correlate with current clinical diagnoses (**Concurrent Validity**). |\n| **Convergent Validity** | Does the measure correlate strongly with other tests measuring *similar* constructs? | A new depression scale correlating highly with the established Beck Depression Inventory (r = 0.82). |\n| **Discriminant (Divergent) Validity** | Does the measure correlate *weakly or not at all* with tests measuring *unrelated* constructs? | A depression scale having low correlation with a test of general self-esteem or reading speed (r = 0.12). |\n\nDemonstrating both convergent and discriminant validity proves that your construct is distinct and accurately isolated."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Validity Discrimination Check 🧭",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A researcher shows that her new 'Mindfulness Scale' correlates very weakly (r = 0.08) with a measure of mathematical calculation ability. This finding provides strong evidence of:",
+        "options": [
+          {"id": "opt1", "text": "Test-retest unreliability", "isCorrect": false},
+          {"id": "opt2", "text": "Discriminant (divergent) validity", "isCorrect": true},
+          {"id": "opt3", "text": "Face validity", "isCorrect": false},
+          {"id": "opt4", "text": "Predictive invalidity", "isCorrect": false}
+        ],
+        "explanation": "Discriminant validity is demonstrated when a test has negligible correlation with measures of theoretically unrelated constructs (like mindfulness vs. math calculation).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "warning",
+      "title": "Methodological Warning ⚠️",
+      "content": "### Do Not Rely on Face Validity Alone!\n\nFace validity is the weakest and most subjective form of validity. Some valid tests have low face validity (like the MMPI's subtle diagnostic items, to prevent faking), while many pseudoscientific magazine quizzes have high face validity despite being psychometrically worthless!"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_2",
+  "title": "Wilhelm Wundt & The Leipzig Laboratory (1879)",
+  "description": "Examine the establishment of psychology as an autonomous academic discipline in Leipzig, Voluntarism, and apperception.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Founding Psychology",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "1879: Psychology's Declaration of Independence \ud83c\udfdb\ufe0f",
+      "content": "# The First Psychology Laboratory\n\nBefore 1879, scholars who investigated psychological questions were either philosophers speculating from armchairs or physiologists studying sensory organs in medical labs.\n\nThat changed in **1879** at the University of Leipzig in Germany, when **Wilhelm Wundt** (1832\u20131920) founded the world's first formal laboratory devoted exclusively to **experimental psychology** in a small converted storage space called the *Konvikt* building.\n\n### Why Wundt is the 'Father of Psychology'\n1. **Institutionalization**: He fought for university funding, lab space, and academic degrees in psychology.\n2. **The First Textbook**: In 1874, he published *Principles of Physiological Psychology*, explicitly proclaiming his aim to establish psychology as a new scientific domain.\n3. **The First Academic Journal**: In 1881, he launched *Philosophische Studien* to publish psychological experiments."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "In what year and at which university did Wilhelm Wundt establish the world's first formal experimental psychology laboratory?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "1850 at Harvard University",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "1879 at the University of Leipzig",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "1896 at the University of Vienna",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "1913 at Johns Hopkins University",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "1879 at the University of Leipzig, Germany, is universally celebrated as the formal founding year and birthplace of scientific psychology.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Voluntarism & Apperception \ud83c\udfaf",
+      "content": "## Mind as an Active Agent\n\nWundt called his theoretical system **Voluntarism** (from the Latin *voluntas*, meaning will).\n\nUnlike passive British empiricists who viewed the mind as a blank canvas reacting to external forces, Wundt believed consciousness is driven by active human will and attention.\n\n### The Concept of Apperception\nWundt distinguished between two levels of conscious processing:\n* **Perception**: Passive, automatic awareness of sensory stimuli (e.g., hearing indistinct background street noise).\n* **Apperception**: Active, voluntary focus of attention that organizes mental elements into a unified, meaningful whole (e.g., actively focusing your attention to hear a friend's voice in a noisy room).\n\nFor Wundt, apperception was creative: the mind synthesizes elements into novel gestalts, a principle he called **creative synthesis**."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Wundt's Other Half: V\u00f6lkerpsychologie \ud83d\udcda",
+      "content": "## Cultural & Folk Psychology\n\nWundt recognized that higher mental processes\u2014such as language, religion, myth, and cultural customs\u2014could NOT be studied with simple laboratory brass instruments.\n\nHe dedicated the last two decades of his life to writing a massive 10-volume work entitled **V\u00f6lkerpsychologie** (Folk or Cultural Psychology), laying early groundwork for cultural psychology, sociolinguistics, and anthropology!"
+    }
+  ]
+}

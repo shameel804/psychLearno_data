@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sq_biopsychology_1",
+    "title": "The Strange Case of Phineas Gage & Traumatic Brain Localization",
+    "triggerChapterIndex": 1,
+    "metadata": {
+      "type": "case_study"
+    }
+  },
+  {
+    "id": "sq_biopsychology_2",
+    "title": "The Neurological Mystery of the Visual Agnosia Patient",
+    "triggerChapterIndex": 4,
+    "metadata": {
+      "type": "scenario_analysis"
+    }
+  },
+  {
+    "id": "sq_biopsychology_3",
+    "title": "Speed Run: The Cognitive Neuroscientist's High-Velocity Gauntlet",
+    "triggerChapterIndex": 6,
+    "metadata": {
+      "type": "speed"
+    }
+  }
+]

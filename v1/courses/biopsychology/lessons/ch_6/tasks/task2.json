@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_6",
+  "title": "Designing a Circadian Entrainment & Melatonin Shift Protocol",
+  "description": "Construct an evidence-based circadian phase-shifting protocol for an international traveler crossing multiple time zones.",
+  "estimatedMinutes": 15,
+  "problemStatement": "An Olympic athlete is flying from New York (EST) to Paris (CET), crossing 6 time zones eastward. Unmitigated jet lag will severely degrade reaction times and peak athletic performance.\n\n### Your Mission:\n1. **Phase Response Curve (PRC)**: Using the human circadian Phase Response Curve, explain how timed morning bright light exposure (advance zone) shifts the SCN clock earlier, while evening light (delay zone) shifts it later.\n2. **Melatonin Timing**: Specify the exact timing for low-dose exogenous melatonin administration in Paris to accelerate circadian phase advance without causing daytime grogginess.\n3. **Zeitgeber Triad**: Outline a three-part synchronization strategy incorporating light exposure/darkness, exercise timing, and meal scheduling to entrain peripheral clocks in the liver and muscles.",
+  "hints": [
+    "Hint 1: Traveling east requires phase advancing the circadian clock (making it think it is later than it is).",
+    "Hint 2: Morning outdoor sunlight suppresses melatonin and stimulates cortisol, while evening meal timing resets peripheral metabolic oscillators."
+  ]
+}

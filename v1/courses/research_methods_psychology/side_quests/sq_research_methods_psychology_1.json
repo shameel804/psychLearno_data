@@ -1,0 +1,94 @@
+{
+  "id": "sq_research_methods_psychology_1",
+  "title": "The Ethical Dilemma of the Deceptive Memory Study",
+  "triggerChapterIndex": 1,
+  "metadata": {
+    "type": "case_study"
+  },
+  "questions": [
+    {
+      "id": "sq1_q1",
+      "type": "multiple_choice",
+      "question": "Case Background: Dr. Vance is investigating whether eyewitness memory can be altered using false feedback. Participants are told they are evaluating a culinary video, but an actor staged as a chef suddenly drops a knife and screams. Dr. Vance tells participants the chef lost a finger (which is untrue). Under APA standards, what is this experimental manipulation?",
+      "options": [
+        {"id": "opt1", "text": "Active deception by commission", "isCorrect": true},
+        {"id": "opt2", "text": "Passive deception by omission only", "isCorrect": false},
+        {"id": "opt3", "text": "Naturalistic observation", "isCorrect": false},
+        {"id": "opt4", "text": "Exempt educational demonstration", "isCorrect": false}
+      ],
+      "explanation": "Actively giving false, misleading factual information (that the chef lost a finger) constitutes active deception by commission.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q2",
+      "type": "multiple_choice",
+      "question": "Two participants experience severe acute panic and begin hyperventilating upon seeing the knife drop. What is Dr. Vance's ethical responsibility under the principle of Beneficence?",
+      "options": [
+        {"id": "opt1", "text": "Force them to continue so their panic data can be analyzed", "isCorrect": false},
+        {"id": "opt2", "text": "Immediately halt the experiment for those participants, provide immediate care, and dehoax them", "isCorrect": true},
+        {"id": "opt3", "text": "Wait until the full 60-minute session concludes before asking if they need water", "isCorrect": false},
+        {"id": "opt4", "text": "Report the participants to the university disciplinary committee", "isCorrect": false}
+      ],
+      "explanation": "Beneficence and human subject protections require immediate intervention and termination of participation when acute psychological distress occurs.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q3",
+      "type": "multiple_choice",
+      "question": "Dr. Vance wants to operationalize 'participant eyewitness accuracy'. Which operational definition is most concrete and objective?",
+      "options": [
+        {"id": "opt1", "text": "The feeling of certainty the participant expresses in their heart", "isCorrect": false},
+        {"id": "opt2", "text": "The number of correct details identified out of a 20-item standardized visual checklist", "isCorrect": true},
+        {"id": "opt3", "text": "How believable the participant appears to the experimenter", "isCorrect": false},
+        {"id": "opt4", "text": "A subjective rating of the participant's moral honesty", "isCorrect": false}
+      ],
+      "explanation": "Counting correct items on a standardized objective checklist provides an observable, quantitative, and reproducible operational measure.",
+      "xpReward": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "sq1_q4",
+      "type": "multiple_choice",
+      "question": "Dr. Vance hypothesizes that 'stress will distort memory, but if a participant has an unshakeable inner aura, their memory will be immune.' Why is this hypothesis scientifically flawed according to Karl Popper?",
+      "options": [
+        {"id": "opt1", "text": "It is written in the present tense", "isCorrect": false},
+        {"id": "opt2", "text": "The 'unshakeable inner aura' is an unfalsifiable construct that cannot be disproven", "isCorrect": true},
+        {"id": "opt3", "text": "It requires the use of animals rather than humans", "isCorrect": false},
+        {"id": "opt4", "text": "It uses more than 15 words", "isCorrect": false}
+      ],
+      "explanation": "Invoking an untestable, mystical construct like an 'unshakeable aura' creates a post-hoc loop that violates Popper's criterion of falsifiability.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q5",
+      "type": "multiple_choice",
+      "question": "At the conclusion of the study, Dr. Vance reveals that the chef was an actor, the blood was syrup, and no injury occurred. What crucial debriefing process is this?",
+      "options": [
+        {"id": "opt1", "text": "Dehoaxing", "isCorrect": true},
+        {"id": "opt2", "text": "Stratified random sampling", "isCorrect": false},
+        {"id": "opt3", "text": "Peer review", "isCorrect": false},
+        {"id": "opt4", "text": "Latin square counterbalancing", "isCorrect": false}
+      ],
+      "explanation": "Dehoaxing is the debriefing phase where researchers disclose the true nature of experimental deceptions and correct false beliefs instilled during the study.",
+      "xpReward": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "sq1_q6",
+      "type": "multiple_choice",
+      "question": "Before conducting this study, Dr. Vance was required to submit the protocol to which regulatory body for human subjects review?",
+      "options": [
+        {"id": "opt1", "text": "The Institutional Review Board (IRB)", "isCorrect": true},
+        {"id": "opt2", "text": "The Institutional Animal Care and Use Committee (IACUC)", "isCorrect": false},
+        {"id": "opt3", "text": "The Federal Bureau of Investigation (FBI)", "isCorrect": false},
+        {"id": "opt4", "text": "The local city council", "isCorrect": false}
+      ],
+      "explanation": "Human participant research in academic institutions must be reviewed and approved in advance by the Institutional Review Board (IRB).",
+      "xpReward": 20,
+      "difficulty": 1
+    }
+  ]
+}

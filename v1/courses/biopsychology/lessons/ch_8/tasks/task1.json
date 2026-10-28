@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_8",
+  "title": "Deconstructing the Neurobiology of Addiction: Tolerance, Craving & VTA Hijacking",
+  "description": "Analyze the neurochemical progression from initial recreational drug intake to compulsive habit formation and relapse vulnerability.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A substance use disorder researcher traces the neurobiological trajectory of cocaine addiction in animal and human models.\n\n### Your Mission:\n1. **Acute Pharmacodynamics**: Explain how cocaine blocks the Dopamine Transporter (DAT), elevating extracellular dopamine in the Nucleus Accumbens shell.\n2. **Neuroadaptation & Tolerance**: Describe the postsynaptic D2 receptor downregulation and cyclic AMP response element-binding protein (CREB) activation that produces hedonic tolerance (anhedonia to natural rewards).\n3. **The Ventral-to-Dorsal Striatal Shift**: Explain how compulsive drug-seeking transitions from ventral striatal goal-directed action (VTA $\\rightarrow$ NAc) to dorsal striatal automatic stimulus-response habit execution (substantia nigra $\\rightarrow$ putamen), and identify the role of the prefrontal cortex in craving relapse.",
+  "hints": [
+    "Hint 1: DAT blockade prevents presynaptic dopamine reuptake, resulting in continuous stimulation of postsynaptic receptors.",
+    "Hint 2: As addiction progresses, behavioral control shifts from voluntary reward pursuit to compulsive, inflexible habit loops mediated by the dorsal striatum."
+  ]
+}

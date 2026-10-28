@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Critiquing Pseudoscientific Claims & Testing Falsifiability",
+      "description": "Analyze an alternative wellness claim, identify cognitive biases, and reformulate it into a falsifiable empirical hypothesis.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Developing Multi-Modal Operational Definitions",
+      "description": "Construct behavioral, physiological, and self-report operational definitions for the complex psychological construct of 'empathy'.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

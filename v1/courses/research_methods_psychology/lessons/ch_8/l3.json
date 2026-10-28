@@ -1,0 +1,73 @@
+{
+  "id": "l3",
+  "chapterId": "ch_8",
+  "title": "The Replication Crisis & Questionable Research Practices",
+  "description": "Examine the Reproducibility Project, p-hacking, data peeking, HARKing, and the file-drawer publication bias.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "The Replication Crisis",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "An Intellectual Earthquake 🌋",
+      "content": "# The Replication Crisis (2011–Present)\n\nAround 2011, a series of shocks hit psychological science:\n\n* A prestigious journal published an article claiming participants could predict future random events (*precognition* / ESP).\n* High-profile cases of outright data fraud were uncovered (e.g., social psychologist Diederik Stapel fabricating dozens of published studies).\n* **The Open Science Collaboration (2015)**: 270 researchers attempted to replicate 100 landmark psychology studies published in top journals. **Only 36% to 39% successfully replicated!**\n\nThis crisis revealed that normal scientific practices were quietly producing an alarming rate of false-positive literature."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Replication Crisis Discovery Check 📉",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What shocking finding was reported by the Open Science Collaboration (2015) in their mass replication of 100 landmark psychology studies?",
+        "options": [
+          {"id": "opt1", "text": "100% of all published studies replicated flawlessly", "isCorrect": false},
+          {"id": "opt2", "text": "Fewer than 40% of the original experimental findings successfully replicated", "isCorrect": true},
+          {"id": "opt3", "text": "All psychology journals decided to stop publishing experimental research", "isCorrect": false},
+          {"id": "opt4", "text": "Animals performed better than humans on IQ tests", "isCorrect": false}
+        ],
+        "explanation": "The Reproducibility Project found that only ~36-39% of original findings replicated, exposing widespread replicability vulnerabilities in psychology.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Questionable Research Practices (QRPs) 🎭",
+      "content": "## How False Positives Sneak into Science\n\nMost replication failures were not caused by outright fraud, but by subtle, pervasive **Questionable Research Practices (QRPs)**:\n\n| QRP Practice | Description | Harm to Science |\n| :--- | :--- | :--- |\n| **p-Hacking** | Trying dozens of analytical permutations (dropping outliers, testing multiple covariates, transforming data) until p < 0.05 is achieved | Inflates the actual Type I error rate from 5% to over 60%! |\n| **Data Peeking (Optional Stopping)** | Analyzing data repeatedly as subjects are recruited and stopping data collection the moment p drops below 0.05 | Heavily exploits random chance noise. |\n| **HARKing** | *Hypothesizing After the Results are Known*: Presenting a post-hoc, exploratory finding as if it were an a priori confirmatory hypothesis | Disguises exploratory data mining as confirmatory deduction. |\n| **Selective Reporting** | Measuring 10 dependent variables, but only writing about the 2 that reached statistical significance | Leaves 8 null findings hidden in the dark. |\n\nCombined with academic 'publish or perish' incentives, QRPs corrupted the literature."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "QRP Identification Check 🚨",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "A researcher discovers an unexpected correlation between eating blueberries and reduced social anxiety in an exploratory dataset, then rewrites the journal introduction to pretend they predicted this all along from biological theory. What QRP is this?",
+        "options": [
+          {"id": "opt1", "text": "HARKing (Hypothesizing After Results are Known)", "isCorrect": true},
+          {"id": "opt2", "text": "Stratified random sampling", "isCorrect": false},
+          {"id": "opt3", "text": "Complete counterbalancing", "isCorrect": false},
+          {"id": "opt4", "text": "Physical trace measurement", "isCorrect": false}
+        ],
+        "explanation": "Pretending an unexpected exploratory finding was an a priori theory-driven hypothesis is the definition of HARKing.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "text",
+      "title": "Publication Bias & The File Drawer Problem 🗄️",
+      "content": "## Why Only Winners Get Published\n\nAcademic journals historically published almost exclusively **statistically significant (p < 0.05)** results. Studies that found no effect (null results) were rejected by editors or never submitted by discouraged researchers.\n\n* **The File Drawer Problem**: For every 1 study showing an herbal supplement boosts memory (p = 0.04) that gets published, 19 identical studies finding no effect sit forgotten in laboratory file drawers!\n* When meta-analysts only synthesize the published literature, they calculate an artificially inflated, distorted effect size."
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Funnel Plots Expose Publication Bias\n\nMeta-analysts detect publication bias using a **Funnel Plot**. If literature is unbiased, studies with varying sample sizes scatter symmetrically in an inverted funnel around the true effect size. If an entire chunk of the funnel (the null studies) is missing, publication bias is exposed!"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Auditing a Psychology Paper for Open Science & Replicability Indicators",
+      "description": "Evaluate an empirical psychology research article against modern Open Science criteria.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Deconstructing WEIRD Sampling Biases in Landmark Studies",
+      "description": "Examine a historic social psychology experiment and determine its cross-cultural boundaries.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_1",
+  "title": "Neurotransmitters & Neuromodulators: The Chemical Palette",
+  "description": "Examine the major neurotransmitter systems: Glutamate, GABA, Acetylcholine, Dopamine, Serotonin, and Norepinephrine, along with receptor kinetics.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Neurochemistry",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Master Amino Acid Transmitters: Glutamate & GABA \u2696\ufe0f",
+      "content": "# The Accelerators and Brakes of the Brain\n\nMore than 90% of synaptic communication in the central nervous system uses two primary amino acid neurotransmitters:\n\n### 1. Glutamate (The Chief Accelerator):\n* Primary **excitatory** neurotransmitter in the CNS.\n* Essential for learning and synaptic plasticity via **AMPA** and **NMDA** receptors.\n* *Excitotoxicity*: Excessive extracellular glutamate overexcites neurons, causing massive $Ca^{2+}$ influx and cell death (crucial in stroke and traumatic brain injury).\n\n### 2. GABA (Gamma-Aminobutyric Acid - The Primary Brake):\n* Major **inhibitory** neurotransmitter in the adult brain.\n* Binds to $GABA_A$ ionotropic receptors (which open $Cl^-$ channels) and $GABA_B$ metabotropic receptors.\n* Reduces neuronal excitability; target of anxiolytics, benzodiazepines, and alcohol."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check: Glutamate & GABA \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which neurotransmitter is the brain's primary inhibitory signaling molecule?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Glutamate",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "GABA",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Dopamine",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Norepinephrine",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "GABA is the chief inhibitory neurotransmitter in the mammalian central nervous system, hyperpolarizing neurons by allowing chloride ions to enter.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Monoamines & Acetylcholine: Neuromodulatory Systems \ud83c\udf08",
+      "content": "## Neuromodulatory Highway Systems\n\nNeuromodulators diffuse widely across large brain regions, adjusting synaptic sensitivity and neural state:\n\n* **Acetylcholine (ACh)**: Active at neuromuscular junctions (muscle contraction) and throughout the forebrain for attention, arousal, and memory encoding. Degeneration of ACh neurons in the nucleus basalis of Meynert is a hallmark of Alzheimer's disease.\n* **Dopamine (DA)**: Drives reinforcement learning, reward prediction error, motivation, and motor coordination. Produced in the substantia nigra (motor) and ventral tegmental area (reward).\n* **Serotonin (5-HT)**: Synthesized in brainstem raphe nuclei; modulates mood, sleep-wake cycles, appetite, impulsivity, and emotional regulation.\n* **Norepinephrine (NE)**: Synthesized in the locus coeruleus; governs physiological vigilance, alertness, and sympathetic stress responses."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Clearing the Synapse: Reuptake vs. Enzymatic Degradation \ud83e\uddf9",
+      "content": "## Ending the Chemical Message\n\nTo allow precise temporal signaling, neurotransmitters must be cleared swiftly from the synaptic cleft via two primary mechanisms:\n\n1. **Reuptake**: Presynaptic transport proteins pump neurotransmitter molecules back into the presynaptic terminal for repackaging (e.g., Serotonin Transporter - SERT, Dopamine Transporter - DAT).\n2. **Enzymatic Degradation**: Specific enzymes in the cleft break down neurotransmitters into inactive metabolites (e.g., **Acetylcholinesterase - AChE** degrades acetylcholine; **Monoamine Oxidase - MAO** breaks down monoamines).\n\n### Clinical Pharmacology Note:\n* **SSRIs (Selective Serotonin Reuptake Inhibitors)** block SERT, keeping serotonin active in the synaptic cleft longer.\n* **AChE Inhibitors** (e.g., donepezil) prolong acetylcholine availability to treat cognitive decline in Alzheimer's disease."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\ude80",
+      "content": "### Agonists vs. Antagonists\n\n* An **Agonist** is a drug that mimics or enhances neurotransmitter activity (e.g., nicotine is an agonist at nicotinic ACh receptors).\n* An **Antagonist** blocks or diminishes neurotransmitter activity (e.g., curare blocks nicotinic receptors, causing flaccid paralysis; naloxone blocks opioid receptors)."
+    }
+  ]
+}

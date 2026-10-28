@@ -1,0 +1,19 @@
+{
+  "id": "project2",
+  "title": "Psychometric Scale Construction: The Algorithmic Anxiety Inventory",
+  "description": "Construct and psychometrically validate a novel 12-item assessment for technological anxiety, establishing reliability and construct validity.",
+  "difficulty": "Advanced",
+  "estimatedHours": "5-7",
+  "problemStatement": "With the rapid rise of generative artificial intelligence and algorithmic monitoring in workplaces, clinical psychologists are seeing an influx of patients reporting acute technological apprehension. You are tasked with developing and psychometrically validating the 'Algorithmic Anxiety Inventory' (AAI)—a 12-item self-report questionnaire.\n\nYou must build the inventory from theoretical conception through empirical validation, establishing reliability indices and construct validity evidence according to APA psychometric testing standards.",
+  "requirements": [
+    "Define the conceptual construct of 'Algorithmic Anxiety', establishing three distinct sub-dimensions (e.g., Surveillance Apprehension, Replacement Dread, Autonomy Erosion).",
+    "Draft a 12-item inventory using a 5-point Likert scale (1 = Strongly Disagree to 5 = Strongly Agree). Ensure at least 3 items are reverse-scored to counter acquiescence bias.",
+    "Design an empirical reliability verification study on N = 300 participants, defining target statistical benchmarks for Cronbach's alpha internal consistency (target α >= 0.85) and 4-week test-retest reliability (target r >= 0.80).",
+    "Construct a construct validation matrix: specify one established measure to demonstrate convergent validity (e.g., GAD-7 Anxiety Scale, predicting r > 0.50), and one measure to demonstrate discriminant validity (e.g., general verbal vocabulary ability, predicting r < 0.10).",
+    "Describe the qualitative Content Validity audit process involving an expert panel of cognitive psychologists and human-computer interaction researchers."
+  ],
+  "hints": [
+    "Hint 1: Reverse-scored items should state the opposite of anxiety (e.g., 'I feel confident and secure when AI systems assist in my daily tasks').",
+    "Hint 2: In your validation matrix, clearly explain why high correlation with general anxiety proves convergence, while near-zero correlation with vocabulary proves discriminant validity."
+  ]
+}

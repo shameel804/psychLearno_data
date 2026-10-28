@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_6",
+  "title": "Insight Learning & Field Theory: K\u00f6hler & Lewin",
+  "description": "Analyze K\u00f6hler's chimpanzee experiments on Tenerife, 'Aha!' problem-solving, and Lewin's social field theory.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Gestalt Applications",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Wolfgang K\u00f6hler on Tenerife: Sultan's Insight \ud83c\udf4c",
+      "content": "# Challenging Trial-and-Error\n\nDuring World War I, German psychologist **Wolfgang K\u00f6hler** (1887\u20131967) was marooned at the Prussian Academy of Sciences research station on the Canary Island of Tenerife.\n\nK\u00f6hler tested problem-solving abilities in chimpanzees, particularly an exceptionally clever ape named **Sultan**.\n\n### Thorndike vs. K\u00f6hler\n* Thorndike claimed animals only learn through mechanical, blind trial-and-error (stamping in responses over hundreds of trials).\n* K\u00f6hler placed bananas outside the cage, just out of reach, and gave Sultan two hollow bamboo poles that were each too short.\n* After pacing and pondering, Sultan suddenly had an **'Aha!' experience**: he jammed the thinner pole into the hollow end of the wider pole, created a single long stick, and reeled in the fruit in one smooth, deliberate motion!\n\nK\u00f6hler called this **Insight Learning (*Einsicht*)**: the sudden perceptual restructuring of the problem field that leads directly to a solution."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "How did Wolfgang K\u00f6hler's concept of 'insight learning' differ from Thorndike's trial-and-error learning?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Insight learning involves sudden mental restructuring of the problem rather than blind repetitive trial-and-error",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Insight learning occurs only after electric shock punishment",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Insight learning is limited to humans with language",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Insight learning requires continuous external positive reinforcement",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "K\u00f6hler demonstrated that chimpanzees solve problems through cognitive restructuring of the environmental field, experiencing sudden insight.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Kurt Lewin & Field Theory \ud83c\udf10",
+      "content": "# The Father of Social Psychology\n\n**Kurt Lewin** (1890\u20131947) applied Gestalt principles beyond visual perception to human motivation, personality, and group behavior.\n\nBorrowing concepts from physics (magnetic fields), Lewin introduced **Field Theory**:\n\n### Lewin's Famous Equation\n$$B = f(P, E)$$\n\n* **Behavior ($B$)** is a function ($f$) of the **Person ($P$)** interacting with their subjective psychological **Environment ($E$)**.\n\nLewin called this totality the **Life Space**: the psychological field containing all past memories, present goals, valence barriers, and perceived possibilities influencing the individual at any given moment.\n\n### Major Contributions of Lewin\n* **Leadership Styles**: Conducted famous studies contrasting Autocratic, Democratic, and Laissez-faire leadership.\n* **Group Dynamics**: Coined the term 'group dynamics', showing that groups are living Gestalts with emergent properties.\n* **Action Research**: Pioneered research designed to solve real social problems (racial prejudice, workplace democracy)."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "tip",
+      "title": "The Zeigarnik Effect \u2615",
+      "content": "## Unfinished Tasks Stick in the Mind\n\nWhile sitting in a Berlin cafe with Kurt Lewin, student **Bluma Zeigarnik** noticed that waiters remembered complex unpaid food orders with photographic precision\u2014yet completely forgot the order the second the bill was paid!\n\nZeigarnik empirically demonstrated the **Zeigarnik Effect**: uncompleted tasks create psychological tension within the life space, leading to significantly higher memory recall than finished tasks."
+    }
+  ]
+}

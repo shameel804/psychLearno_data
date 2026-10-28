@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_7",
+  "title": "Graphing and Interpreting a 2x2 Factorial Interaction Matrix",
+  "description": "Calculate cell and marginal means from experimental cognitive data, sketch interaction plots, and draft formal ANOVA interpretation reports.",
+  "estimatedMinutes": 15,
+  "problemStatement": "An educational psychologist conducts a 2 x 2 between-subjects experiment testing exam score recall (0-100%).\n* **Factor A (Study Environment)**: Quiet Library vs. Loud Café\n* **Factor B (Testing Environment)**: Quiet Library vs. Loud Café\n\nThe cell means are recorded as follows:\n* Studied in Library / Tested in Library: Mean = 86%\n* Studied in Library / Tested in Café: Mean = 58%\n* Studied in Café / Tested in Library: Mean = 61%\n* Studied in Café / Tested in Café: Mean = 84%\n\n### Your Mission:\n1. **Calculate Marginal Means**: Compute the overall marginal means for Factor A (Library Study vs. Café Study) and Factor B (Library Test vs. Café Test).\n2. **Evaluate Main Effects**: Are there meaningful main effects for Study Environment or Testing Environment? Explain your deduction.\n3. **Identify Interaction Type**: Determine whether this represents a crossover interaction, a spreading interaction, or no interaction. Sketch or describe the line plot.\n4. **Theoretical Formulation**: Relate this specific interaction pattern to the psychological concept of **Context-Dependent Memory (Encoding Specificity Principle)**.",
+  "hints": [
+    "Hint 1: Notice that performance is high whenever the study and test environments match (86% and 84%), and low when they mismatch (58% and 61%).",
+    "Hint 2: When lines cross each other in an 'X' pattern, it is a crossover interaction."
+  ]
+}

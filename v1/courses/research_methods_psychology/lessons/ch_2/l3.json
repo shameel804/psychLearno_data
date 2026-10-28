@@ -1,0 +1,73 @@
+{
+  "id": "l3",
+  "chapterId": "ch_2",
+  "title": "Informed Consent, Deception & Mandatory Debriefing",
+  "description": "Navigate voluntary agreement, vulnerable populations, the strict conditions for using deception, and therapeutic debriefing.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Participant Rights",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The Mechanics of Informed Consent 📝",
+      "content": "# Autonomous Decision Making\n\n**Informed Consent** is the cornerstone of human subjects research. It requires giving prospective participants all relevant information in understandable language so they can make an informed, voluntary decision to participate:\n\n* **Purpose & Procedures**: What will happen during the study and how long it will take.\n* **Risks & Discomforts**: Foreseeable physical, emotional, social, or legal risks.\n* **Potential Benefits**: Benefits to the individual or society (never overstated).\n* **Voluntary Participation**: Explicit statement that participation is 100% voluntary and participants may withdraw at any time without penalty or loss of benefits.\n* **Confidentiality & Anonymity**: How participant identities and data are safeguarded."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Consent Check: Voluntary Nature ✍️",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "A professor announces that students who refuse to participate in his personal research project will receive a deduction in their course grade. Why is this unethical?",
+        "options": [
+          {"id": "opt1", "text": "Because students are not legally allowed to participate in psychology research", "isCorrect": false},
+          {"id": "opt2", "text": "It constitutes coercion, violating the requirement that consent be entirely voluntary and free of penalties for refusal", "isCorrect": true},
+          {"id": "opt3", "text": "Because grades can only be deducted for attendance violations", "isCorrect": false},
+          {"id": "opt4", "text": "It violates the principle of parsimony", "isCorrect": false}
+        ],
+        "explanation": "Informed consent must be voluntary. Threatening academic penalties or conditioning grades on research participation constitutes undue coercion.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "When Is Deception Justified? 🎭",
+      "content": "## Active vs. Passive Deception\n\nSometimes telling participants the exact hypothesis would trigger **demand characteristics** and destroy authentic behavior. Under APA guidelines, deception is permissible **only** when all of the following conditions are met:\n\n1. **High Scientific Merit**: The study addresses a significant scientific question.\n2. **No Alternative**: Non-deceptive alternative procedures are not feasible.\n3. **No Hidden Physical or Severe Emotional Pain**: Deception cannot be used to conceal physical pain or severe psychological trauma.\n4. **Mandatory Post-Study Debriefing**: Participants must be fully debriefed as early as feasible.\n\n*Types of Deception*:\n* **Passive Deception (Omission)**: Withholding specific details of the true hypothesis.\n* **Active Deception (Commission)**: Deliberately misleading participants (e.g., using a confederate or fake feedback)."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Deception Standard Check 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "Under the APA Ethical Principles, in which scenario is deception strictly prohibited?",
+        "options": [
+          {"id": "opt1", "text": "When telling participants the hypothesis would cause social desirability bias", "isCorrect": false},
+          {"id": "opt2", "text": "When the study involves physical pain or severe emotional distress that participants would not willingly endure", "isCorrect": true},
+          {"id": "opt3", "text": "When the study uses confederates acting as other research subjects", "isCorrect": false},
+          {"id": "opt4", "text": "When the study takes place in an online setting", "isCorrect": false}
+        ],
+        "explanation": "The APA Ethics Code strictly forbids deceiving participants about research aspects that involve physical pain, discomfort, or severe emotional distress.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "text",
+      "title": "The Power of Debriefing 🤝",
+      "content": "## Restoring Equilibrium\n\n**Debriefing** is an educational and therapeutic session conducted immediately after participation:\n\n* **Dehoaxing**: Revealing the true purpose of the study and explaining why deception was necessary.\n* **Desensitizing**: Reducing any distress, embarrassment, or anxiety induced by the experimental tasks.\n* **Restoring Trust**: Answering all questions honestly, ensuring participants leave feeling valued and respected, and providing counseling contact resources if emotional distress occurred."
+    },
+    {
+      "id": "s_l3_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Assent vs. Consent with Minors\n\nWhen conducting research with children, parents or legal guardians provide formal legal **Consent**, but the child must also give developmental **Assent**—their own affirmative agreement to participate. If a child expresses distress or says 'no', you must stop, regardless of parental consent!"
+    }
+  ]
+}

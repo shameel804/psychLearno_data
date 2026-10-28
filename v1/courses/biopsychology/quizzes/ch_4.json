@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_4",
+  "chapterId": "ch_4",
+  "title": "Chapter 4 Mastery Quiz: Neuroplasticity & Split-Brain Research",
+  "description": "Test your mastery of hemispheric specialization, surgical callosotomy, Sperry and Gazzaniga's findings, structural plasticity, Hebbian learning, and LTP.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch4_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary anatomical structure interconnecting the left and right cerebral hemispheres?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Corpus Callosum",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Internal Capsule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fornix",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Cerebellar Peduncles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The corpus callosum contains 200-300 million axons bridging homologous areas of the two cerebral hemispheres.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q2",
+      "type": "multiple_choice",
+      "question": "Approximately how many nerve fibers cross within the adult human Corpus Callosum?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "200 to 300 million fibers",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "10,000 fibers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "1 billion fibers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "500 fibers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The corpus callosum is the largest white matter tract in the human brain, containing roughly 200-300 million axons.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q3",
+      "type": "multiple_choice",
+      "question": "In the majority of humans (>90% of right-handers), which hemisphere is dominant for speech production and grammatical syntax?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Left hemisphere",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Right hemisphere",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Both hemispheres equally in every individual",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The cerebellum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Language production (Broca's area) and grammar are overwhelmingly lateralized to the left cerebral hemisphere.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q4",
+      "type": "multiple_choice",
+      "question": "The planum temporale, an anatomical region associated with auditory language processing, is typically:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Significantly larger in the left hemisphere than in the right",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Five times larger in the right hemisphere",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Present only in patients with split-brain surgery",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Located inside the lateral ventricles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The planum temporale is significantly larger in the left hemisphere, reflecting structural specialization for language.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q5",
+      "type": "multiple_choice",
+      "question": "For what medical condition was surgical corpus callosotomy originally developed as a treatment?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Severe, intractable, generalized epilepsy",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Parkinsonian tremors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hydrocephalus in infants",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Major depressive disorder",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Callosotomy prevents generalization of life-threatening epileptic seizure activity from one hemisphere to the other.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q6",
+      "type": "multiple_choice",
+      "question": "In tachistoscopic testing of split-brain patients, why must visual stimuli be flashed for less than 150 milliseconds?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To prevent eye saccades that would allow the opposite hemisphere to view the image",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Because the retinas stop firing after 100 milliseconds",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "To avoid overheating the visual cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To trigger sleep spindles in the thalamus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Saccadic eye movements take ~150-200 ms to initiate; flashing images faster restricts visual input to a single hemifield.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q7",
+      "type": "multiple_choice",
+      "question": "An image flashed strictly in the Right Visual Field (RVF) projects to which hemisphere?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Left hemisphere visual cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Right hemisphere visual cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Bilateral superior colliculi only",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Directly to the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Due to partial decussation at the optic chiasm, information from the right visual hemifield projects to the left visual cortex.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q8",
+      "type": "multiple_choice",
+      "question": "When a split-brain patient is presented with an object in the Left Visual Field, why can they not name it verbally?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The visual information reaches the right hemisphere, which cannot transfer it across the severed callosum to the left-hemisphere speech center",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The patient's vocal cords become temporarily paralyzed",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The left eye ceases functioning during testing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The right hemisphere has no visual processing capacity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The right hemisphere perceives the object, but cannot transfer data across the severed callosum to Broca's area in the left hemisphere.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q9",
+      "type": "multiple_choice",
+      "question": "What is Gazzaniga's concept of the left-hemisphere 'Interpreter'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A cognitive system that constructs post-hoc explanations and narratives to rationalize behaviors driven by unconscious or right-hemisphere processes",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A specialized software package for transcribing audio recordings in brain surgery",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A thalamic nucleus that converts French into English",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A reflex arc that straightens posture during walking",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Interpreter is a left-hemisphere mechanism that constructs plausible narratives to make sense of ongoing actions and inputs.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q10",
+      "type": "multiple_choice",
+      "question": "Which of the following best exemplifies 'functional neuroplasticity'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "An undamaged area of the cortex adopting the functions previously performed by a stroke-damaged region",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The formation of scar tissue that permanently prevents any nerve signaling",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The growth of bone around the skull after a fracture",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A heart rate increase during aerobic running",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Functional plasticity describes the functional reorganization of intact brain circuits to assume lost tasks following damage.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q11",
+      "type": "multiple_choice",
+      "question": "In Eleanor Maguire's landmark MRI study of London taxi drivers, which brain structure exhibited increased gray matter volume in experienced drivers?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Posterior hippocampus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Anterior cingulate cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cerebellar vermis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Occipital pole",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "London taxi drivers showed significant structural enlargement of the posterior hippocampus, which stores mental spatial maps.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q12",
+      "type": "multiple_choice",
+      "question": "What is the neuroanatomical explanation for phantom hand sensations evoked by touching an amputee's face?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The cortical face representation borders the hand representation on the somatosensory homunculus and invades the deafferented cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Nerves in the face physically grow down the neck into the shoulder stump",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The amputee is consciously imagining sensations out of emotional grief",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The thalamus completely dissolves after amputation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Somatotopic cortical remapping causes sensory afferents from the adjacent face region to sprout into the vacant hand representation in S1.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q13",
+      "type": "multiple_choice",
+      "question": "How does V.S. Ramachandran's 'Mirror Box' treat painful phantom limb paralysis?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It provides visual feedback of the intact limb moving, 'tricking' the brain into releasing learned motor paralysis",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It delivers high-voltage electric shocks to the stump",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It forces the patient to memorize 3D geometric shapes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It chemically destroys all pain nociceptors in the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Visual feedback of the reflection of the moving intact arm overcomes the sensory-motor mismatch, relieving phantom spasms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q14",
+      "type": "multiple_choice",
+      "question": "Donald Hebb's famous postulate (1949) is colloquially summarized by which maxim?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Neurons that fire together, wire together",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Use it or lose it within thirty seconds",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Structure always precedes function",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "All sensory modalities are created equal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hebbian plasticity states that coordinated firing of presynaptic and postsynaptic neurons strengthens their synaptic connection.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q15",
+      "type": "multiple_choice",
+      "question": "Long-Term Potentiation (LTP) is widely recognized as the primary cellular model for:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Learning and memory formation in mammalian brains",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cell death during acute cerebral ischemia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Spinal cord reflex arcs in invertebrates",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Circadian entrainment by sunlight",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "LTP provides a long-lasting, activity-dependent increase in synaptic efficacy, serving as the biological substrate of memory.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q16",
+      "type": "multiple_choice",
+      "question": "Why is the NMDA receptor classified as a 'molecular coincidence detector'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It requires simultaneous glutamate binding and postsynaptic membrane depolarization to open",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It opens only when two separate action potentials hit the same node of Ranvier",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It detects both sound waves and light waves simultaneously",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It operates in both hemispheres at the exact same microsecond",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "NMDA channels require presynaptic glutamate binding AND postsynaptic depolarization (to dislodge the Mg2+ plug) to permit ion flux.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q17",
+      "type": "multiple_choice",
+      "question": "Which ion entering through the open NMDA receptor acts as the key intracellular second messenger that triggers LTP?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Calcium (Ca2+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Chloride (Cl-)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Magnesium (Mg2+)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Potassium (K+)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Calcium influx activates CaMKII and other intracellular cascades that recruit and insert additional AMPA receptors into the synapse.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q18",
+      "type": "multiple_choice",
+      "question": "What is the primary postsynaptic structural change that renders a potentiated synapse more sensitive to future glutamate release?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Insertion of additional AMPA receptors into the postsynaptic membrane",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total destruction of all dendritic spines",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Conversion of gray matter into cerebrospinal fluid",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Elimination of the cell nucleus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "LTP recruits and inserts AMPA receptors from submembrane pools into the postsynaptic density, increasing EPSP magnitude.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q19",
+      "type": "multiple_choice",
+      "question": "What is Long-Term Depression (LTD) in synaptic neuroscience?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "An activity-dependent weakening of synaptic connections and internalization of AMPA receptors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A clinical mood disorder lasting more than two years",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The complete cessation of blood flow to the temporal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of myelin sheaths along the spinal cord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "LTD is the persistent weakening of a synapse caused by low-frequency stimulation, counter-balancing LTP to reset synaptic weights.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q20",
+      "type": "multiple_choice",
+      "question": "In which adult human brain region has neurogenesis (the birth of new functional neurons) been conclusively demonstrated?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Subgranular Zone of the Dentate Gyrus in the Hippocampus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Primary visual cortex Layer IV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Corpus callosum splenium",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Dura mater lining the skull",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Adult neurogenesis occurs continuously in the subgranular zone of the hippocampal dentate gyrus and the subventricular zone.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q21",
+      "type": "multiple_choice",
+      "question": "Which lifestyle factor has been shown empirically to significantly boost adult hippocampal neurogenesis in animal and human studies?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sustained aerobic physical exercise",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Severe chronic psychological stress",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Chronic sleep deprivation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "High daily alcohol consumption",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Aerobic exercise elevates BDNF (Brain-Derived Neurotrophic Factor) and strongly stimulates hippocampal neurogenesis.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q22",
+      "type": "multiple_choice",
+      "question": "What is the function of retrograde messengers (such as Nitric Oxide) during Long-Term Potentiation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Diffusing back from the postsynaptic spine to the presynaptic terminal to increase neurotransmitter release probability",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Shutting down all mitochondria in the cell body",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Dissolving the myelin sheath of neighboring axons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pumping calcium completely out of the synaptic cleft",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Retrograde messengers like gasotransmitter Nitric Oxide (NO) travel backward across the synapse to enhance presynaptic vesicle exocytosis.",
+      "xpReward": 10,
+      "difficulty": 3
+    }
+  ]
+}

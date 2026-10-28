@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "The Nature of Scientific Thinking in Psychology",
+      "description": "Understand empiricism, the demarcation problem, why intuition fails, and Popper's falsifiability criterion.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Scientific Foundations"
+    },
+    {
+      "id": "l2",
+      "title": "From Theories to Hypotheses: The Scientific Cycle",
+      "description": "Explore how psychologists formulate broad theories, deduce testable hypotheses, and apply the principle of parsimony.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "The Research Process"
+    },
+    {
+      "id": "l3",
+      "title": "Operational Definitions: Measuring the Invisible",
+      "description": "Transform unobservable psychological constructs like anxiety, love, and intelligence into concrete, measurable indicators.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Operationalization"
+    },
+    {
+      "id": "l4",
+      "title": "The Four Core Goals of Psychological Science",
+      "description": "Examine the sequential scientific hierarchy: description, prediction, causal explanation, and applied behavioral change.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Scientific Objectives"
+    }
+  ]
+}

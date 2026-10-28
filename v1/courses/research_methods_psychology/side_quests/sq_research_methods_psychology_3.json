@@ -1,0 +1,106 @@
+{
+  "id": "sq_research_methods_psychology_3",
+  "title": "Speed Run: The Experimental Architect's Gauntlet",
+  "triggerChapterIndex": 6,
+  "metadata": {
+    "type": "speed"
+  },
+  "questions": [
+    {
+      "id": "sq3_q1",
+      "type": "multiple_choice",
+      "question": "Speed Check: In a 2 x 3 x 2 factorial design, how many total experimental conditions exist?",
+      "options": [
+        {"id": "opt1", "text": "12 conditions (2 x 3 x 2)", "isCorrect": true},
+        {"id": "opt2", "text": "7 conditions", "isCorrect": false},
+        {"id": "opt3", "text": "24 conditions", "isCorrect": false},
+        {"id": "opt4", "text": "10 conditions", "isCorrect": false}
+      ],
+      "explanation": "Multiplying the factor levels: 2 x 3 x 2 = 12 unique experimental treatment cells.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q2",
+      "type": "multiple_choice",
+      "question": "Speed Check: True or False — Random assignment to conditions is possible in a quasi-experimental design.",
+      "options": [
+        {"id": "opt1", "text": "False (quasi-experiments by definition lack random assignment)", "isCorrect": true},
+        {"id": "opt2", "text": "True", "isCorrect": false}
+      ],
+      "explanation": "The core defining feature of a quasi-experiment is the absence of random assignment.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q3",
+      "type": "multiple_choice",
+      "question": "Speed Check: What does an inverted U-curve relationship (like the Yerkes-Dodson Law) produce on a Pearson correlation coefficient?",
+      "options": [
+        {"id": "opt1", "text": "r ≈ 0.00 (because Pearson's r evaluates only linear relationships)", "isCorrect": true},
+        {"id": "opt2", "text": "r = +1.00", "isCorrect": false},
+        {"id": "opt3", "text": "r = -1.00", "isCorrect": false},
+        {"id": "opt4", "text": "r = 0.50", "isCorrect": false}
+      ],
+      "explanation": "Because the opposing halves of an inverted U cancel out mathematically in a linear formula, Pearson's r registers near zero.",
+      "xpReward": 15,
+      "difficulty": 2
+    },
+    {
+      "id": "sq3_q4",
+      "type": "multiple_choice",
+      "question": "Speed Check: Which measurement scale possesses equal numeric intervals AND an absolute, non-arbitrary true zero point?",
+      "options": [
+        {"id": "opt1", "text": "Ratio scale", "isCorrect": true},
+        {"id": "opt2", "text": "Interval scale", "isCorrect": false},
+        {"id": "opt3", "text": "Ordinal scale", "isCorrect": false},
+        {"id": "opt4", "text": "Nominal scale", "isCorrect": false}
+      ],
+      "explanation": "Ratio scales feature both equal intervals and an absolute true zero point where the measured property is completely absent.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q5",
+      "type": "multiple_choice",
+      "question": "Speed Check: What is the minimum standard threshold for acceptable internal consistency reliability (Cronbach's alpha)?",
+      "options": [
+        {"id": "opt1", "text": "α >= 0.70", "isCorrect": true},
+        {"id": "opt2", "text": "α >= 0.20", "isCorrect": false},
+        {"id": "opt3", "text": "α = 1.00", "isCorrect": false},
+        {"id": "opt4", "text": "α >= 0.05", "isCorrect": false}
+      ],
+      "explanation": "In psychological research, Cronbach's alpha should generally equal or exceed 0.70 to establish adequate internal consistency.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q6",
+      "type": "multiple_choice",
+      "question": "Speed Check: If cell lines on a factorial line plot cross each other in a bold 'X', what type of effect is occurring?",
+      "options": [
+        {"id": "opt1", "text": "A Crossover Interaction", "isCorrect": true},
+        {"id": "opt2", "text": "Zero interaction (main effects only)", "isCorrect": false},
+        {"id": "opt3", "text": "A Type II statistical error", "isCorrect": false},
+        {"id": "opt4", "text": "A testing effect", "isCorrect": false}
+      ],
+      "explanation": "Intersecting cell lines on a factorial graph represent a crossover interaction.",
+      "xpReward": 15,
+      "difficulty": 2
+    },
+    {
+      "id": "sq3_q7",
+      "type": "multiple_choice",
+      "question": "Speed Check: When is an ABAB reversal single-case design ethically prohibited?",
+      "options": [
+        {"id": "opt1", "text": "When withdrawing treatment would lead to severe, life-threatening harm (e.g., self-injury)", "isCorrect": true},
+        {"id": "opt2", "text": "When studying adult participants", "isCorrect": false},
+        {"id": "opt3", "text": "When the baseline phase lasts longer than 3 days", "isCorrect": false},
+        {"id": "opt4", "text": "When testing in a school classroom", "isCorrect": false}
+      ],
+      "explanation": "Withdrawing an effective treatment that prevents dangerous or self-injurious behavior violates human subjects protection principles.",
+      "xpReward": 15,
+      "difficulty": 1
+    }
+  ]
+}

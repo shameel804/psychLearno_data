@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_4",
+  "title": "Participant Reactivity & Observer Bias",
+  "description": "Counter the Hawthorne effect, expectancy distortions, and demand characteristics using blind raters and habituation.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Observational Controls",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Observer Changes the Observed 🔭",
+      "content": "# Two Great Threats to Observational Validity\n\nWhenever humans observe other humans, two major sources of systematic distortion arise:\n\n1. **Reactivity (The Hawthorne Effect)**: Participants alter their spontaneous behavior simply because they know they are being observed or evaluated (e.g., drivers slowing down when they spot a marked police cruiser).\n2. **Observer Bias (Expectancy Bias)**: Observers see what they expect to see. If an observer knows a child has an ADHD diagnosis, they are significantly more likely to code ambiguous squirming as 'hyperactivity'.\n\nWithout rigorous methodological controls, observational data becomes a reflection of the observer's prejudices rather than empirical reality."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Concept Check: Reactivity 🚦",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "Factory workers increase their productivity whenever industrial psychologists walk the factory floor holding clipboards, regardless of whether lighting is brightened or dimmed. What phenomenon is this?",
+        "options": [
+          {"id": "opt1", "text": "The Hawthorne Effect (Reactivity)", "isCorrect": true},
+          {"id": "opt2", "text": "The Placebo Effect", "isCorrect": false},
+          {"id": "opt3", "text": "Falsification", "isCorrect": false},
+          {"id": "opt4", "text": "Regression to the mean", "isCorrect": false}
+        ],
+        "explanation": "The Hawthorne Effect refers to changes in behavior resulting directly from the awareness of being observed and studied.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Overcoming Reactivity & Expectancy 🛡️",
+      "content": "## Evidence-Based Countermeasures\n\nPsychologists employ specific methodological defenses against these threats:\n\n| Threat | Methodological Defense | Mechanism |\n| :--- | :--- | :--- |\n| **Reactivity** | **Unobtrusive Measures** | Use hidden cameras, one-way mirrors, or physical trace measures (e.g., carpet wear in front of museum exhibits). |\n| **Reactivity** | **Habituation** | Spend extensive time in the environment before data collection until participants grow accustomed and ignore the observer. |\n| **Observer Bias** | **Blind Observers** | Observers are kept ignorant of the study's hypotheses or participants' group assignments. |\n| **Observer Drift** | **Inter-Rater Audits** | Continually calculate Cohen's Kappa between two independent raters to detect and correct coding discrepancies. |\n\nUsing **blind observers** is the gold standard for eliminating expectancy bias."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Control Strategy Check 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "To prevent observers from coding aggressive playground behaviors biased by knowledge of which children played a violent video game, what control procedure should the researcher use?",
+        "options": [
+          {"id": "opt1", "text": "Make observers blind to which video game each child played", "isCorrect": true},
+          {"id": "opt2", "text": "Tell observers the hypothesis in advance so they know what to look for", "isCorrect": false},
+          {"id": "opt3", "text": "Allow observers to interview the children after each recess", "isCorrect": false},
+          {"id": "opt4", "text": "Eliminate the control group entirely", "isCorrect": false}
+        ],
+        "explanation": "Blinding the observers to the experimental condition ensures that their behavioral ratings cannot be contaminated by expectancy bias.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Physical Trace Measures\n\nWant to know what people actually do without asking or watching them? Look at physical traces! In classic research, archaeologists and psychologists measured museum exhibit popularity by checking which floor tiles wore down the fastest and which display cases had the most nose-smudges. Trace measures have zero participant reactivity!"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_5",
+  "title": "Ivan Pavlov & Classical Conditioning",
+  "description": "Discover Pavlov's physiological experiments, psychic secretions, CS/UCS pairings, and extinction curves.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Conditioning Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Serendipity in St. Petersburg \ud83d\udc15",
+      "content": "# The Nobel Physiologist\n\nRussian physiologist **Ivan Petrovich Pavlov** (1849\u20131936) was not trying to invent a psychological paradigm. In 1904, he won the Nobel Prize in Physiology or Medicine for his research on digestive enzymes.\n\nWhile measuring gastric juices in dogs using surgical fistula tubes, Pavlov noticed an annoying complication: dogs began salivating *before* food was placed in their mouths\u2014when they merely saw the laboratory assistant's white coat or heard the footsteps approaching!\n\nPavlov initially termed this **'psychic secretions'**. Recognizing its profound scientific significance, he spent the next three decades rigorously investigating the laws of **Classical Conditioning**."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What phenomenon did Ivan Pavlov initially observe that led to his discovery of classical conditioning?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Dogs salivating at the mere sight of laboratory assistants or sounds associated with feeding",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Chimpanzees using sticks to reach suspended bananas",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Rats pressing levers for food pellets",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Pigeons displaying superstitious dance movements",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Pavlov observed anticipatory salivation triggered by neutral cues (white coats, footsteps) predicting food delivery.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Four Components of Conditioning \ud83d\udd14",
+      "content": "## Anatomy of a Learned Reflex\n\nPavlov established four fundamental elements present in classical conditioning:\n\n1. **Unconditioned Stimulus (UCS)**: An environmental stimulus that automatically and naturally triggers a response without prior training (e.g., meat powder).\n2. **Unconditioned Response (UCR)**: The unlearned, automatic physiological reflex to the UCS (e.g., salivation to meat).\n3. **Conditioned Stimulus (CS)**: A previously neutral stimulus (e.g., a ticking metronome or buzzer) that, after repeated pairing with the UCS, comes to trigger a conditioned response.\n4. **Conditioned Response (CR)**: The learned physiological response to the previously neutral CS (e.g., salivation to the metronome alone).\n\n### Key Principles of Conditioning\n* **Acquisition**: Initial phase where CS and UCS are paired.\n* **Extinction**: Gradual weakening and disappearance of the CR when the CS is repeatedly presented without the UCS.\n* **Spontaneous Recovery**: Reappearance of an extinguished CR after a rest period.\n* **Stimulus Generalization**: Eliciting the CR with stimuli similar to the original CS (e.g., salivating to a bell of slightly different pitch)."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Did Pavlov Use a Bell? \ud83d\udd14",
+      "content": "## A Common Historical Myth!\n\nPopular culture almost always claims Pavlov used a ringing handbell. In reality, handbells produce acoustic harmonics that are difficult to control experimentally. Pavlov primarily utilized **metronomes, harmonium tones, electrical buzzers, and light flashes** inside his soundproof 'Tower of Silence' laboratory in St. Petersburg!"
+    }
+  ]
+}

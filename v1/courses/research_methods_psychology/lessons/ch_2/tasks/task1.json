@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_2",
+  "title": "IRB Protocol Ethics Audit for Social Psychological Deception",
+  "description": "Evaluate an aggressive experimental deception study proposal, identify Belmont Report violations, and prescribe ethical remedies.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A social psychology lab submits an IRB protocol with the following design: *'To study social rejection and aggression, participants take a bogus personality test and are informed by a researcher that their score indicates they are socially toxic and likely to end up alone. After receiving this devastating feedback, participants are given the opportunity to blast a loud, painful 110-dB noise blast at a stranger. To preserve raw emotions, no debriefing will be conducted until 6 months later.'*\n\n### Your Mission as IRB Committee Chair:\n1. **Identify Critical Violations**: List at least three explicit violations of the Belmont Report and APA Ethics Code in this protocol.\n2. **Analyze Potential Harm**: Explain the immediate and long-term psychological risks of providing false, devastating personal feedback without immediate dehoaxing.\n3. **Prescribe Required Modifications**: Detail the structural revisions required before this protocol could ever be approved (including consent modifications, noise blast thresholds, and immediate desensitizing debriefing).",
+  "hints": [
+    "Hint 1: Review the principle of Beneficence (Do No Harm) and the requirement for immediate debriefing when deception is used.",
+    "Hint 2: Note the risk of severe emotional distress caused by bogus negative personality feedback."
+  ]
+}

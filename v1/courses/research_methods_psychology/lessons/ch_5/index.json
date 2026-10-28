@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Survey Construction & Question Design",
+      "description": "Craft unbiased survey items, avoid double-barreled and leading questions, and mitigate social desirability bias.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Survey Architecture"
+    },
+    {
+      "id": "l2",
+      "title": "Sampling Strategies & Sample Representativeness",
+      "description": "Master probability sampling (random, stratified, cluster) vs. non-probability sampling (convenience, snowball), and response rates.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Sampling Methods"
+    },
+    {
+      "id": "l3",
+      "title": "The Nature of Correlational Relationships",
+      "description": "Interpret scatterplots, Pearson's r, Spearman's rho, correlation strength and direction, and restriction of range.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Correlational Analysis"
+    },
+    {
+      "id": "l4",
+      "title": "Correlation vs. Causation: Directionality & Third Variables",
+      "description": "Unpack why correlation does not imply causation: reverse directionality, confounding third variables, and spurious relationships.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Causal Disentanglement"
+    }
+  ]
+}

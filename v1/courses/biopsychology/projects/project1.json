@@ -1,0 +1,19 @@
+{
+  "id": "project1",
+  "title": "Clinical Neuroanatomy Portfolio: Localizing Brain Lesions in Acute Neurological Cases",
+  "description": "Synthesize neuroanatomical knowledge to analyze three detailed neurological case studies, identifying lesion loci and predicting clinical deficits.",
+  "difficulty": "Intermediate",
+  "estimatedHours": "3-5",
+  "problemStatement": "You are a clinical neurobiology resident appointed to author a comprehensive diagnostic neurology portfolio analyzing three complex acute patient presentations:\n\n* **Case 1 (The Mute Reacher)**: A 62-year-old patient who exhibits severe non-fluent, telegraphic speech with intact auditory comprehension, accompanied by spastic right arm hemiparesis and a positive Babinski sign.\n* **Case 2 (The Balance and Vibration Paradox)**: A 48-year-old patient presenting with a broad-based staggering gait, intention tremors when reaching for targets, dysdiadochokinesia (inability to perform rapid alternating hand movements), but completely intact touch, pain, and position sense.\n* **Case 3 (The Split Vision Mystery)**: A 35-year-old who suffered an ischemic stroke causing total visual agnosia and prosopagnosia while maintaining flawless motor reaching, eye tracking, and tactile identification.\n\nYour portfolio must provide a rigorous anatomical, physiological, and clinical breakdown for each case.",
+  "requirements": [
+    "Localize the primary lesion site for each case with anatomical precision (e.g., left inferior frontal gyrus / Broca's area with adjacent precentral gyrus; cerebellar hemisphere/vermis; bilateral ventral occipitotemporal cortex / fusiform gyrus).",
+    "Contrast the Upper Motor Neuron (UMN) signs in Case 1 (spasticity, hyperreflexia, Babinski sign) with Lower Motor Neuron (LMN) lesions.",
+    "Differentiate the intention tremor in Case 2 from the resting tremor characteristic of basal ganglia substantia nigra degeneration in Parkinson's disease.",
+    "Map the dual visual streams in Case 3, detailing the divergent functions of the dorsal ('where/how') vs. ventral ('what') pathways.",
+    "Recommend specific structural and functional neuroimaging modalities (e.g., T1/T2 MRI, DTI, or fMRI) to confirm the anatomical diagnosis in each patient."
+  ],
+  "hints": [
+    "Hint 1: Broca's area lies immediately adjacent to the primary motor cortex representation for the face and upper arm in the left frontal lobe.",
+    "Hint 2: Cerebellar damage produces ipsilateral motor ataxia and intention tremor, whereas basal ganglia lesions produce involuntary movements at rest."
+  ]
+}

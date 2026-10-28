@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_2",
+  "title": "Brainstem & Cerebellar Lesion Localization: Differential Diagnosis",
+  "description": "Analyze patient clinical vignettes to identify lesion sites across the medulla, pons, and cerebellum.",
+  "estimatedMinutes": 15,
+  "problemStatement": "You are a clinical neuropsychologist reviewing three emergency neurology cases:\n* **Patient A**: Presents with severe vertigo, loss of pain and temperature sensation on the left side of the face, loss of pain and temperature on the right side of the body, hoarseness, and difficulty swallowing (Wallenberg's Syndrome).\n* **Patient B**: Fully conscious and cognitively intact, but completely unable to move any voluntary muscles below the eyes or speak; communicates only via vertical eye blinks (Locked-In Syndrome).\n* **Patient C**: Shows no paralysis, but exhibits a wide-based staggering gait, inability to perform finger-to-nose testing without severe shaking that worsens as the finger nears the nose (intention tremor).\n\n### Your Mission:\n1. **Locate Lesions**: Map each patient to their precise anatomical lesion site (lateral medulla, ventral pons, or cerebellar hemisphere/vermis).\n2. **Pathophysiology**: Explain why Patient B can still blink vertically despite total voluntary paralysis.\n3. **Cerebellar Tremor vs. Parkinsonian Tremor**: Contrast Patient C's intention tremor with the resting tremor characteristic of basal ganglia dysfunction.",
+  "hints": [
+    "Hint 1: The ventral pons carries the descending corticospinal motor tracts; sparing the midbrain tectum preserves vertical eye movement control.",
+    "Hint 2: Lateral medullary syndrome selectively damages the descending spinal trigeminal tract and ascending spinothalamic tract."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_6",
+  "title": "Why We Sleep: Memory Consolidation, Glymphatic Waste Clearance, & Sleep Pathology",
+  "description": "Examine memory replay, synaptic downscaling, glymphatic amyloid clearance, and disorders including narcolepsy and REM behavior disorder.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Sleep Functions & Disorders",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Glymphatic System: The Brain's Nighttime Wash \ud83c\udf0a",
+      "content": "# Cleaning Metabolic Waste While You Sleep\n\nUntil recently, scientists wondered how the brain disposed of metabolic toxic proteins without a conventional lymphatic system. In 2012, Maiken Nedergaard discovered the **Glymphatic System**:\n\n* **Astrocyte Water Channels**: Glial astrocytes express **Aquaporin-4 (AQP4)** water channels on their end-feet surrounding cerebral vessels.\n* **60% Interstitial Expansion**: During deep Slow-Wave Sleep (N3), brain interstitial space physically expands by up to **60%**!\n* **Waste Flushed Out**: Cerebrospinal fluid rushes through brain parenchyma like a high-flow plumbing system, clearing out neurotoxic metabolic byproducts accumulated during waking hours, including **Amyloid-beta ($A\\beta$)** and **hyperphosphorylated tau**.\n\n*Clinical Impact*: Chronic sleep fragmentation or deprivation cripples glymphatic clearance, dramatically increasing the long-term risk of Alzheimer's disease and neurodegeneration."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "text",
+      "title": "Memory Consolidation: Replaying the Day \ud83e\udde0",
+      "content": "## Two-Stage Memory Processing\n\n* **Slow-Wave Sleep (SWS)**: Drives **Declarative Memory Consolidation**. The hippocampus replays daytime neural firing patterns at high speed via **Sharp-Wave Ripples (SWRs)**, transferring episodic memories to distributed neocortical sites for permanent storage.\n* **REM Sleep**: Consolidates procedural motor skills and processes emotionally charged memories, detaching painful emotional sting from narrative content.\n* **Synaptic Homeostasis Hypothesis (Tononi & Cirelli)**: Learning throughout wakefulness causes net synaptic potentiation across the cortex, which is energetically unsustainable. Slow-wave sleep renormalizes (downscales) baseline synaptic weights, weeding out noise and preserving meaningful signals."
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Check: The Glymphatic System \ud83e\uddf9",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What critical biological event occurs in the brain during deep Slow-Wave Sleep to facilitate glymphatic waste clearance?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Brain interstitial space expands by roughly 60%, allowing CSF to flush out amyloid-beta and tau",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Blood vessels completely close off for six hours",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Astrocytes dissolve entirely and regenerate at dawn",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Neurons stop consuming any glucose or oxygen",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "During N3 SWS, interstitial space expands by ~60%, enabling CSF to convective-flush toxic metabolic debris like amyloid-beta.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "Sleep Disorders: When Sleep Machinery Breaks Down \u26a0\ufe0f",
+      "content": "## Clinical Sleep Pathology\n\n* **Narcolepsy with Cataplexy**:\n  * *Pathology*: Autoimmune destruction of ~70,000 **Orexin / Hypocretin neurons** in the lateral hypothalamus.\n  * *Symptoms*: Severe daytime sleepiness and sudden attacks of **Cataplexy** (abrupt bilateral loss of muscle tone triggered by intense emotions like laughter, collapsing to the floor while conscious).\n* **REM Sleep Behavior Disorder (RBD)**:\n  * *Pathology*: Neurodegeneration of pontine inhibitory subcoeruleus circuits, abolishing REM atonia.\n  * *Symptoms*: Patients physically leap out of bed and punch/kick while violently acting out vivid nightmares. Strong clinical prodrome: >80% of RBD patients develop Parkinson's disease or Dementia with Lewy Bodies within 10-15 years!\n* **Sleep Apnea**: Repeated nocturnal airway collapse causing oxygen desaturations, frequent micro-arousals, and profound daytime cognitive exhaustion."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\ude80",
+      "content": "### Sleep Hygiene & Circadian Health\n\nTo optimize your circadian rhythm and sleep architecture:\n1. View natural sunlight outdoors within 30-60 minutes of waking to set the SCN clock.\n2. Dim bright overhead lights and blue-emitting screens 2 hours before bed to allow melatonin surge.\n3. Keep your bedroom cool (~65\u00b0F / 18\u00b0C); the brain must drop core body temperature by 1-2\u00b0F to initiate deep slow-wave sleep."
+    }
+  ]
+}

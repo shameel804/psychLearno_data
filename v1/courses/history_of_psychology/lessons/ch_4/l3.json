@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_4",
+  "title": "Defense Mechanisms & Psychosexual Stages",
+  "description": "Master ego defense mechanisms, psychosexual fixation stages, and Popper's critique of unfalsifiability.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Dynamics & Critiques",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Ego Defense Mechanisms \ud83d\udee1\ufe0f",
+      "content": "# Safeguarding the Conscious Self\n\nTo protect itself against overwhelming anxiety, the Ego employs unconscious psychological strategies termed **Defense Mechanisms** (systematized largely by Freud's daughter, **Anna Freud**, in 1936):\n\n* **Repression**: The foundational defense\u2014banishing threatening thoughts, urges, or memories entirely into the unconscious.\n* **Denial**: Refusing to acknowledge painful external realities.\n* **Projection**: Attributing one's own unacceptable impulses onto someone else (e.g., an aggressive person accusing others of being hostile).\n* **Displacement**: Redirecting emotional impulses toward a safer, less threatening substitute target (e.g., yelling at your dog after being reprimanded by your boss).\n* **Sublimation**: Channeling raw instinctual impulses into socially constructive, creative, or athletic endeavors (e.g., transforming aggression into competitive martial arts or painting).\n* **Reaction Formation**: Unconsciously converting an unacceptable urge into its exact opposite (e.g., displaying smothering over-affection to mask underlying resentment)."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which defense mechanism involves channeling unacceptable instinctual or aggressive urges into socially celebrated, productive activities like art or sports?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Sublimation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Projection",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Reaction formation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Displacement",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Sublimation is considered the most mature defense mechanism, transforming primitive drives into cultural or creative achievements.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Psychosexual Development & Fixation \ud83d\udc76",
+      "content": "## Freud's Stage Theory\n\nFreud argued that personality is forged during early childhood across five discrete psychosexual stages, where the id's libido focuses on specific erogenous body zones:\n\n| Stage | Approximate Age | Erogenous Focus | Developmental Challenge / Fixation Risk |\n| :--- | :--- | :--- | :--- |\n| **Oral** | 0 \u2013 1.5 yrs | Mouth (sucking, biting) | Weaning. Adult fixation: smoking, overeating, sarcasm. |\n| **Anal** | 1.5 \u2013 3 yrs | Anus (bowel retention/release) | Toilet training. Anal-retentive (rigid, perfectionist) vs. Anal-expulsive (messy, disorganized). |\n| **Phallic** | 3 \u2013 6 yrs | Genitals | Oedipus / Electra complex; identification with same-sex parent. |\n| **Latency** | 6 \u2013 Puberty | Dormant sexuality | Peer socialization, schoolwork, athletic sublimation. |\n| **Genital** | Puberty onwards | Mature sexual intimacy | Form balanced adult romantic and vocational partnerships. |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "warning",
+      "title": "Karl Popper's Falsifiability Critique \u26a0\ufe0f",
+      "content": "## Is Psychoanalysis Science?\n\nPhilosopher of science **Karl Popper** singled out Freudian psychoanalysis as the textbook example of **pseudoscience** because it is **unfalsifiable**.\n\n* If an adult is stingy, Freudians claim: *'He had anal-retentive fixation.'*\n* If an adult is generous, Freudians claim: *'He is using reaction formation against his anal fixation!'*\n\nBecause any conceivable human behavior can be explained after the fact, no experimental test could ever prove the theory wrong. Modern clinical psychology has largely replaced classical psychoanalysis with empirically supported cognitive-behavioral and attachment-based therapies."
+    }
+  ]
+}

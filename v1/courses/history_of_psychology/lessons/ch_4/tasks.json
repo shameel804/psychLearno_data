@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Deconstructing Ego Defense Mechanisms in Vignettes",
+      "description": "Identify and analyze primary defense mechanisms across four realistic interpersonal case scenarios.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Comparative Analysis: Freud's Libido vs. Adler's Striving for Competence",
+      "description": "Contrast biological-sexual determinism with teleological socio-cultural striving in explaining human motivation.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

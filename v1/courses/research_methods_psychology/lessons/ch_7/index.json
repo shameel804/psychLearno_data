@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Factorial Design Fundamentals: Notation & Levels",
+      "description": "Decode factorial notation (2x2, 2x3), factors and levels, and contrast between, within, and mixed factorial matrices.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Factorial Architecture"
+    },
+    {
+      "id": "l2",
+      "title": "Main Effects vs. Interaction Effects",
+      "description": "Calculate marginal means, detect crossover and spreading interactions, and learn why interactions supersede main effects.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Interactions & Moderation"
+    },
+    {
+      "id": "l3",
+      "title": "Quasi-Experimental Designs: When Random Assignment Is Impossible",
+      "description": "Navigate nonequivalent control groups, interrupted time-series designs, regression discontinuity, and selection confounds.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Quasi-Experiments"
+    },
+    {
+      "id": "l4",
+      "title": "Small-N & Single-Case Experimental Designs",
+      "description": "Explore rigorous experimental logic in individual subjects: ABAB reversal designs and multiple-baseline designs across behaviors and settings.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Single-Case Methodology"
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_1",
+  "chapterId": "ch_1",
+  "title": "Chapter 1 Mastery Quiz: Philosophical Roots & Pre-Scientific Thought",
+  "description": "Demonstrate comprehensive mastery of ancient epistemology, Cartesian dualism, British empiricism, and psychophysics.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "type": "multiple_choice",
+      "question": "What is the historical meaning of the Greek root word 'psyche'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Biological brain tissue",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Breath, soul, or spirit",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Physical action",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Social behavior",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "In classical Greece, 'psyche' referred to the life force, breath, or soul.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q2",
+      "type": "multiple_choice",
+      "question": "Which ancient Greek philosopher championed nativism, arguing that fundamental knowledge is innate and remembered through anamnesis?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Aristotle",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Plato",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Epicurus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Democritus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Plato believed the soul inhabited the world of ideal forms prior to birth, making learning a process of recollecting innate truths.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q3",
+      "type": "multiple_choice",
+      "question": "In his treatise 'De Anima', Aristotle categorized souls into which three functional levels?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conscious, unconscious, and preconscious",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Vegetative, sensitive, and rational",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Id, ego, and superego",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensory, motor, and interneuronal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Aristotle identified the vegetative soul (plants/animals/humans), sensitive soul (animals/humans), and rational soul (humans).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q4",
+      "type": "multiple_choice",
+      "question": "The humoral theory of Hippocrates and Galen linked melancholic temperament to an excess of which bodily fluid?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Blood",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Yellow bile",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Black bile",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "Phlegm",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Melancholic temperament was associated with black bile (melan chole), representing somber, sad, or introspective traits.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q5",
+      "type": "multiple_choice",
+      "question": "What was the revolutionary aspect of ancient humoral theory for early psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It accurately mapped neurotransmitter pathways",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It attributed psychological temperaments to natural bodily causes rather than spirits",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It introduced randomized double-blind clinical trials",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It proved that environmental conditioning shapes personality",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Humoral theory broke with supernatural explanations by asserting that psychological states have biological, physical causes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q6",
+      "type": "multiple_choice",
+      "question": "Ren\u00e9 Descartes is famous for articulating substance dualism. What are the two substances in this theory?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Res cogitans (mind) and Res extensa (matter)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Sensory neurons and Motor neurons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Tabula rasa and Innate ideas",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Atoms and Void",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Descartes divided reality into thinking substance (res cogitans) and extended physical matter (res extensa).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q7",
+      "type": "multiple_choice",
+      "question": "Which anatomical structure did Descartes pinpoint as the site where the immaterial soul interacts with the physical body?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hippocampus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Cerebellum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pineal gland",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "Corpus callosum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Descartes selected the pineal gland because it was centrally located and not duplicated bilaterally in the cerebral hemispheres.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q8",
+      "type": "multiple_choice",
+      "question": "Descartes' mechanical description of animal spirits moving through hollow nerves upon touching a flame was an early precursor to what biological concept?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The reflex arc",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Synaptic plastic adaptation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Action potential hyperpolarization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Long-term potentiation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Descartes' model of involuntary withdrawal without conscious initiation laid the foundation for the biological concept of reflexes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q9",
+      "type": "multiple_choice",
+      "question": "Which 20th-century philosopher famously termed Cartesian dualism the 'Ghost in the Machine'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Bertrand Russell",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Gilbert Ryle",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Ludwig Wittgenstein",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Karl Popper",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gilbert Ryle coined the phrase 'Ghost in the Machine' in 'The Concept of Mind' (1949) to critique Cartesian dualism as a category mistake.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q10",
+      "type": "multiple_choice",
+      "question": "What Latin phrase did John Locke famously use to depict the human mind at birth as an unwritten slate?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cogito ergo sum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Tabula rasa",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Deus ex machina",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Sensu stricto",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Locke described the newborn mind as a 'tabula rasa' (blank slate), receiving all its content through experience.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q11",
+      "type": "multiple_choice",
+      "question": "According to John Locke's empiricism, what are the two fountainheads of human knowledge?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sensation and reflection",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Deduction and intuition",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Faith and scholasticism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Instinct and heredity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Locke maintained that ideas arise from sensation (external experience) and reflection (mind's awareness of its own operations).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q12",
+      "type": "multiple_choice",
+      "question": "David Hume distinguished between 'impressions' and 'ideas'. How do impressions differ from ideas?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Impressions are unconscious, while ideas are conscious",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Impressions are immediate and vivid, while ideas are faint mental copies",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Impressions are innate, while ideas are acquired",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Impressions are verbal, while ideas are visual",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "For Hume, impressions are direct, lively sensory experiences; ideas are the weaker, reflective copies of those impressions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q13",
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT one of David Hume's three primary laws of mental association?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Resemblance",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Contiguity in time or place",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Cause and effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Logical necessity",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Hume's three laws of association are Resemblance, Contiguity, and Cause and Effect. Logical necessity is not an association law.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q14",
+      "type": "multiple_choice",
+      "question": "What philosophical position holds that the only source of genuine knowledge about reality is sensory experience and observation?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Rationalism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Empiricism",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Solipsism",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Idealism",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Empiricism posits that sensory evidence and observation constitute the sole foundation for all substantive knowledge.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q15",
+      "type": "multiple_choice",
+      "question": "Prior to Hermann von Helmholtz's 1850 experiment, what was the prevailing belief about the speed of nerve conduction?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It was considered instantaneous and unmeasurable",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It was estimated at exactly 1 meter per hour",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It was thought to depend solely on blood pressure",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It was believed to be slower in warm conditions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Pioneering physiologists like Johannes M\u00fcller believed nerve conduction was instantaneous and impossible to measure physically.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q16",
+      "type": "multiple_choice",
+      "question": "What approximate speed did Hermann von Helmholtz measure for nerve transmission in motor nerves?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "300,000 km/s (speed of light)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "27 to 30 meters per second",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "1,500 meters per second",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "0.1 millimeters per second",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Helmholtz demonstrated that nerve impulses travel at a measurable rate of roughly 27\u201330 m/s in frog motor nerves.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q17",
+      "type": "multiple_choice",
+      "question": "What is 'psychophysics', as pioneered by Ernst Weber and Gustav Fechner?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The psychic telepathy between two physical bodies",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The scientific study of relationships between physical stimuli and psychological experience",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The physics of blood flow during emotional arousal",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The chemical analysis of brain neurotransmitters",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Psychophysics is the scientific study of the quantitative relationship between physical stimuli and subjective sensations.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q18",
+      "type": "multiple_choice",
+      "question": "What does the Just Noticeable Difference (JND), or difference threshold, refer to?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The absolute minimum physical energy needed to detect a stimulus 50% of the time",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The smallest detectable difference between two stimuli",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "The time it takes for sensory receptors to adapt to a stimulus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The subjective feeling of boredom after repeated exposure",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Just Noticeable Difference (JND) is the minimal change in stimulus intensity required for an observer to perceive a difference.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q19",
+      "type": "multiple_choice",
+      "question": "According to Weber's Law, how is the difference threshold related to the initial stimulus intensity?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It is a fixed, absolute constant across all intensities",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It is a constant proportion or fraction of the initial stimulus intensity",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It decreases exponentially as stimulus strength increases",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It fluctuates randomly with no mathematical predictability",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Weber's Law states that the JND is a constant ratio of the original stimulus magnitude (\u0394I / I = k).",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q20",
+      "type": "multiple_choice",
+      "question": "If Weber's constant for weight discrimination is 0.02 (2%), how much weight must be added to a 500-gram object to notice an increase?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "2 grams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "10 grams",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "25 grams",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "50 grams",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Using \u0394I = k * I, we calculate 0.02 * 500g = 10 grams.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch1_q21",
+      "type": "multiple_choice",
+      "question": "Fechner's Law states that subjective psychological sensation increases mathematically in what way relative to physical stimulus intensity?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Linearly",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Logarithmically",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Exponentially",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Inversely",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Fechner's Law states that subjective sensation is proportional to the logarithm of stimulus intensity (S = k * log I).",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch1_q22",
+      "type": "multiple_choice",
+      "question": "Why is the transition from philosophy to psychophysics in 19th-century Germany considered the immediate catalyst for experimental psychology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It completely replaced laboratory instruments with metaphysical debates",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "It provided mathematical laws and empirical techniques for measuring conscious experience",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "It proved that animal behavior is unrelated to human behavior",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It proved that the mind is entirely non-physical and supernatural",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Psychophysics established that internal sensory experiences could be precisely quantified, opening the path for psychology as an experimental science.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

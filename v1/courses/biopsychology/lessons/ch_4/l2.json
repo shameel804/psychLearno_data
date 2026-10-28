@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_4",
+  "title": "The Split-Brain Revolution: Sperry, Gazzaniga, & Dual Consciousness",
+  "description": "Analyze tachistoscopic testing of surgical callosotomy patients, contralateral sensory pathways, and the left-hemisphere 'Interpreter'.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Split-Brain Research",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "Surgical Callosotomy: Severing the Bridge \u2702\ufe0f",
+      "content": "# The Split-Brain Phenomenon\n\nIn the 1960s, neurosurgeons Joseph Bogen and Philip Vogel performed total **corpus callosotomies** (severing the corpus callosum) to prevent life-threatening epileptic seizures from spreading between hemispheres.\n\n### The Miracle Discovery:\nTo casual observers, split-brain patients appeared completely unchanged in everyday life! They walked, talked, and reasoned normally. But Nobel laureate **Roger Sperry** and cognitive neuroscientist **Michael Gazzaniga** devised specialized laboratory testing that revealed a profound truth: *the surgery created two independent conscious streams inside a single skull!*"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "text",
+      "title": "The Tachistoscopic Paradigm: Contralateral Wiring \ud83d\udc41\ufe0f",
+      "content": "## Contralateral Visual & Motor Pathways\n\nTo isolate each hemisphere, stimuli were flashed for <150 ms (faster than a saccadic eye movement) to either the left or right of a central fixation cross:\n\n* **Right Visual Field (RVF)** $\\rightarrow$ Left Visual Cortex $\\rightarrow$ **Left Hemisphere (Language-dominant)**.\n  * *Result*: Patient easily names the object aloud ('I saw an apple!').\n* **Left Visual Field (LVF)** $\\rightarrow$ Right Visual Cortex $\\rightarrow$ **Right Hemisphere (Mute/Non-verbal)**.\n  * *Result*: Patient verbally reports: *'I saw nothing at all.'*\n  * *The Twist*: When told to reach under a partition with their **left hand** (controlled by right hemisphere), the patient feels among hidden objects and immediately picks up the correct item!\n  * When asked why their left hand is holding an apple, the patient's verbal left hemisphere has no idea!"
+    },
+    {
+      "id": "s_l2_3",
+      "type": "quiz",
+      "title": "Check: Split-Brain Experiments \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A split-brain patient is flashed an image of a spoon to their Left Visual Field (LVF). What happens when asked to identify what they saw?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "They say 'spoon' immediately without hesitation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "They say they saw nothing, but can retrieve the spoon with their left hand",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "They write 'spoon' with their right hand",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "They lose consciousness for ten seconds",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The image reaches the mute right hemisphere. The verbal left hemisphere saw nothing and says so, but the right hemisphere guides the contralateral left hand to pick the object.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "The Left-Hemisphere 'Interpreter' \ud83c\udfad",
+      "content": "## The Storyteller in Your Head\n\nGazzaniga discovered that the left hemisphere possesses a specialized module he dubbed **The Interpreter**:\n\n### The Chicken Claw & Snow Scene Experiment:\n* Flashed to Right Visual Field (Left Hemisphere): A chicken claw.\n* Flashed to Left Visual Field (Right Hemisphere): A snowy winter scene.\n* The patient's hands pointed to corresponding cards: Right hand pointed to a chicken; Left hand pointed to a snow shovel.\n* When asked: *'Why did you pick the shovel?'*, the verbal left hemisphere did not know about the snow scene. Instead of admitting ignorance, it instantly concocted a logical fiction:\n> *'Oh, that's simple! The chicken claw goes with the chicken, and you need a shovel to clean out the chicken coop!'*\n\n*Takeaway*: The human mind constantly invents post-hoc rationalizations to weave fragmented, unconscious neural signals into a coherent conscious narrative!"
+    }
+  ]
+}

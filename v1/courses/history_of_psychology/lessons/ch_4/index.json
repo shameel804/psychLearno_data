@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Sigmund Freud & The Unconscious Mind",
+      "description": "Trace Freud's transition from neurology to psychoanalysis, Anna O., free association, and the iceberg model.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Founding Psychoanalysis"
+    },
+    {
+      "id": "l2",
+      "title": "Psychic Structures: Id, Ego & Superego",
+      "description": "Examine the dynamic structural model of personality, pleasure and reality principles, and intrapsychic conflict.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Personality Structure"
+    },
+    {
+      "id": "l3",
+      "title": "Defense Mechanisms & Psychosexual Stages",
+      "description": "Master ego defense mechanisms, psychosexual fixation stages, and Popper's critique of unfalsifiability.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Dynamics & Critiques"
+    },
+    {
+      "id": "l4",
+      "title": "The Neo-Freudians: Jung, Adler & Horney",
+      "description": "Analyze departures from biological determinism: Jung's archetypes, Adler's inferiority complex, and Horney's feminist critique.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Neo-Freudian Splintering"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "l4",
+  "chapterId": "ch_5",
+  "title": "Correlation vs. Causation: Directionality & Third Variables",
+  "description": "Unpack why correlation does not imply causation: reverse directionality, confounding third variables, and spurious relationships.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Causal Disentanglement",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Golden Rule of Science ⚠️",
+      "content": "# Correlation Does Not Equal Causation\n\nNo phrase is repeated more often in research methods than: *'Correlation does not imply causation.'* Yet media headlines and everyday intuition routinely violate it. When variable A correlates with variable B, three distinct causal realities are possible:\n\n1. **A causes B**: The presumed causal direction.\n2. **B causes A (The Directionality Problem)**: The reverse causal direction is equally supported by the correlation.\n3. **C causes both A and B (The Third-Variable Problem)**: An unmeasured third variable causes the apparent co-variation between A and B, creating a **spurious correlation**.\n\nA correlation tells you that two things travel together; it cannot tell you which one drives the car!"
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Directionality Dilemma Check 🧭",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A cross-sectional study discovers a strong positive correlation between low self-esteem and clinical depression. What is the directionality problem in interpreting this finding?",
+        "options": [
+          {"id": "opt1", "text": "It is impossible to tell whether low self-esteem causes depression, or depression causes low self-esteem", "isCorrect": true},
+          {"id": "opt2", "text": "Self-esteem cannot be measured using surveys", "isCorrect": false},
+          {"id": "opt3", "text": "The correlation coefficient must be negative rather than positive", "isCorrect": false},
+          {"id": "opt4", "text": "The sample size was too small to calculate p-values", "isCorrect": false}
+        ],
+        "explanation": "Because both variables were measured at the same single point in time, temporal precedence is unknown: low self-esteem could cause depression, or depression could degrade self-esteem.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "The Third-Variable Problem & Spurious Correlations 🍦",
+      "content": "## Ice Cream and Drowning Deaths\n\nConsider this empirical fact: In coastal cities, monthly ice cream sales correlate strongly and positively with monthly swimming pool drownings (r = +0.85). Does eating ice cream cause people to drown? Does drowning make people crave ice cream?\n\n* The true causal agent is **Outdoor Temperature (Variable C)**.\n* In hot summer months, heat causes more people to buy ice cream AND causes more people to go swimming, naturally increasing drownings.\n* When you statistically control for temperature (calculating a **partial correlation**), the correlation between ice cream and drowning drops to zero!\n\nWhenever a third variable creates an illusory causal relationship between two unrelated variables, it is called a **spurious correlation**."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "quiz",
+      "title": "Third-Variable Identification Check 🏊",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A study finds that children who sleep with a nightlight on have significantly higher rates of myopia (nearsightedness) in teenage years. What third variable accounted for this spurious correlation?",
+        "options": [
+          {"id": "opt1", "text": "Parental myopia (nearsighted parents need nightlights to see and pass on genetic myopia)", "isCorrect": true},
+          {"id": "opt2", "text": "The color of the bedroom wall paint", "isCorrect": false},
+          {"id": "opt3", "text": "The brand of nightlight bulb", "isCorrect": false},
+          {"id": "opt4", "text": "The room temperature", "isCorrect": false}
+        ],
+        "explanation": "Myopic parents were more likely to put nightlights in their children's rooms, and they genetically transmitted myopia to their offspring; the nightlight itself was harmless.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Cross-Lagged Panel Designs\n\nHow can correlational researchers combat the directionality problem without a true experiment? Use a **cross-lagged longitudinal design**! Measure both Variable A and Variable B at Time 1, and measure both again at Time 2. If Time 1 A correlates with Time 2 B stronger than Time 1 B correlates with Time 2 A, you establish **temporal precedence**—a key requirement of causality!"
+    }
+  ]
+}

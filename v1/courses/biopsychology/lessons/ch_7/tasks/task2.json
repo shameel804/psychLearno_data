@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_7",
+  "title": "Designing a TMS Virtual Lesion Study to Investigate Speech Production",
+  "description": "Construct a double-blind, sham-controlled TMS protocol testing causal necessity of Broca's area vs. motor cortex in speech articulation.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Design a Transcranial Magnetic Stimulation (TMS) experiment to prove whether the Left Inferior Frontal Gyrus (Broca's area) is causally necessary for phonological speech production rather than merely correlated with it.\n\n### Your Mission:\n1. **Experimental Design**: Specify stimulation parameters (e.g., 10 Hz repetitive TMS train or single-pulse event-related TMS), target anatomical site (left IFG), and active control site (vertex or primary visual cortex).\n2. **Sham Control**: How will you control for the auditory 'click' sound and scalp twitching sensation caused by TMS coil discharge without delivering magnetic energy to the cortex?\n3. **Behavioral Metrics**: Define the quantitative dependent variables (e.g., speech onset vocalization latency in milliseconds, phoneme substitution error rate) during a picture naming task.",
+  "hints": [
+    "Hint 1: An active control site ensures that behavioral deficits are anatomically specific to Broca's area rather than a general distraction from TMS pulses.",
+    "Hint 2: Sham TMS coils emit identical clicking sounds and mild sensory scalp pulses without penetrating the cranium."
+  ]
+}

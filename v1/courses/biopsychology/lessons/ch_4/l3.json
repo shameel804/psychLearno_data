@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_4",
+  "title": "The Dynamic Brain: Structural vs. Functional Neuroplasticity",
+  "description": "Demolish the dogma of the fixed adult brain: cross-modal sensory remapping, London taxi driver hippocampal growth, and phantom limb syndrome.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Neuroplasticity",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Overthrowing the Dogma of the Static Brain \ud83d\udd04",
+      "content": "# The Malleable Mind\n\nFor nearly a century, textbook neuroscience taught that the adult brain was hardwired and immutable after childhood. We now know the brain possesses lifelong **neuroplasticity**\u2014the capacity to physically rewire its structure and function in response to experience, learning, or injury.\n\n### Two Types of Neuroplasticity:\n1. **Structural Plasticity**: Physical changes in neural architecture\u2014growth of new dendritic spines, axonal sprouting, synaptogenesis, or neurogenesis.\n2. **Functional Plasticity**: The brain's ability to reassign neural functions from damaged areas to undamaged healthy regions, or unmask previously silent latent synapses."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "text",
+      "title": "The London Taxi Drivers & Hippocampal Growth \ud83d\ude95",
+      "content": "## Experience Drives Anatomy: Maguire et al. (2000)\n\nTo earn a London taxi license, trainees spend 3 to 4 years memorizing 'The Knowledge'\u2014the intricate map of 25,000 streets and thousands of landmarks.\n\n* **Structural MRI Findings**: Licensed London taxi drivers had significantly larger **posterior hippocampi** compared to age-matched controls.\n* **Dose-Response Effect**: The volume of the posterior hippocampus directly correlated with the number of years spent driving taxis!\n* **Controls**: London bus drivers (who drive fixed routes and don't navigate dynamically) showed no such enlargement.\n\n*Conclusion*: Intensive spatial navigation demands stimulate macroscopic structural remodeling in the adult human brain."
+    },
+    {
+      "id": "s_l3_3",
+      "type": "quiz",
+      "title": "Check: Structural Plasticity \ud83d\uddfa\ufe0f",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What structural change was demonstrated by Eleanor Maguire's study of London taxi drivers?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Enlargement of the posterior hippocampus correlated with navigation experience",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Total atrophy of the amygdala due to traffic stress",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Disappearance of the corpus callosum",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Shrinkage of the primary motor cortex hand representation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Maguire et al. demonstrated that intensive spatial navigation training physically increases posterior hippocampal gray matter volume in adults.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Cortical Remapping & Phantom Limb Sensations \ud83d\udc7b",
+      "content": "## V.S. Ramachandran & Cortical Invasion\n\nWhen a limb is amputated, the somatosensory cortex area dedicated to that limb is suddenly deprived of inputs. **Cortical remapping** ensues:\n\n* On the Penfield somatosensory homunculus, the **face representation** lies immediately adjacent to the **hand representation**.\n* When an arm is amputated, sensory inputs from the face invade the now-silent hand territory.\n* As neuroscientist **V.S. Ramachandran** demonstrated, lightly touching the cheek of an upper-limb amputee causes the patient to feel sensations *in their missing phantom fingers*!\n\n*Treatment*: Ramachandran developed the **Mirror Box**, using visual reflection of the intact limb to trick the brain, relieving painful phantom limb cramps through visual feedback."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_5",
+  "title": "Visual Agnosia vs. Prosopagnosia: Dissociating What vs. Where Streams",
+  "description": "Evaluate clinical double dissociations between dorsal parietal reaching deficits and ventral occipitotemporal recognition deficits.",
+  "estimatedMinutes": 12,
+  "problemStatement": "You evaluate two patients recovering from bilateral strokes:\n* **Patient 1**: Can describe the texture and color of a coffee mug, but when reaching to pick it up, their hand misses by several inches and fails to orient its grip to the handle (Optic Ataxia).\n* **Patient 2**: Easily reaches out and picks up the mug smoothly, but has no conscious idea what the object is until they touch it or hear someone clinking it (Visual Object Agnosia).\n\n### Your Mission:\n1. **Stream Localization**: Map each patient to their damaged stream (Dorsal vs. Ventral) and identify the specific cortical lobes involved.\n2. **Double Dissociation Analysis**: Explain why these two cases provide textbook evidence for a 'double dissociation' between vision-for-action and vision-for-perception.\n3. **Prosopagnosia Testing**: Propose a standardized neuropsychological face test (e.g., Cambridge Face Memory Test) to differentiate general visual object agnosia from face-specific prosopagnosia involving the fusiform face area.",
+  "hints": [
+    "Hint 1: Optic ataxia results from posterior parietal damage within the dorsal stream.",
+    "Hint 2: A double dissociation proves that function A and function B rely on distinct, anatomically separable neural modules."
+  ]
+}

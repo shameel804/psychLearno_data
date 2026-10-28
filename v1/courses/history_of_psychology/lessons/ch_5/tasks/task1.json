@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_5",
+  "title": "Mapping Conditioning Contingencies in Real-World Scenarios",
+  "description": "Classify behavioral modifications across positive/negative reinforcement and punishment contingencies.",
+  "estimatedMinutes": 12,
+  "problemStatement": "Operant conditioning distinguishes four fundamental contingencies based on whether a stimulus is added or removed, and whether target behavior increases or decreases.\n\n### Scenarios to Analyze:\n1. An automobile sounds a continuous irritating beeping chime until the driver fastens their seatbelt. (Fastening seatbelt increases).\n2. A manager awards a $500 bonus to sales representatives who hit their monthly quota. (Sales efforts increase).\n3. A student texting during class has their smartphone confiscated until the end of the semester. (Texting during class decreases).\n4. A speeding driver receives a $250 traffic citation from a police officer. (Speeding decreases).\n\n### Deliverables:\n* Correctly categorize each scenario (Positive Reinforcement, Negative Reinforcement, Positive Punishment, or Negative Punishment).\n* Identify the target behavior, the operational stimulus, and explain why Negative Reinforcement is frequently confused with Punishment.",
+  "hints": [
+    "Hint 1: Reinforcement ALWAYS strengthens behavior; punishment ALWAYS weakens behavior.",
+    "Hint 2: Negative Reinforcement involves the removal of an unpleasant stimulus to encourage an action (e.g. fastening the seatbelt to stop the annoying beep)."
+  ]
+}

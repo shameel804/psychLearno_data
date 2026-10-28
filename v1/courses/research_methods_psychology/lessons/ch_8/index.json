@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Foundations of Inferential Statistics & NHST",
+      "description": "Navigate sample statistics vs. population parameters, Null (H0) and Alternative (H1) hypotheses, and what p-values really mean.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Inferential Logic"
+    },
+    {
+      "id": "l2",
+      "title": "Decision Errors, Effect Size & Statistical Power",
+      "description": "Master Type I vs. Type II errors, statistical power (1 - Beta), Cohen's d effect sizes, and why sample size is vital.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Statistical Decision Making"
+    },
+    {
+      "id": "l3",
+      "title": "The Replication Crisis & Questionable Research Practices",
+      "description": "Examine the Reproducibility Project, p-hacking, data peeking, HARKing, and the file-drawer publication bias.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "The Replication Crisis"
+    },
+    {
+      "id": "l4",
+      "title": "The Open Science Reform & Rigorous Research Frontiers",
+      "description": "Embrace modern scientific transparency: study preregistration, Registered Reports, open data, and direct replications.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Open Science Reform"
+    }
+  ]
+}

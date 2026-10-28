@@ -1,0 +1,18 @@
+{
+  "id": "project3",
+  "title": "Historical Replication & Open Science Audit of a Landmark Study",
+  "description": "Audit a classic 20th-century psychological experiment against modern Open Science, preregistration, and replicability criteria.",
+  "difficulty": "Advanced",
+  "estimatedHours": "5-7",
+  "problemStatement": "The Replication Crisis exposed that dozens of classic psychological studies published in textbooks could not be independently replicated by modern laboratories due to small sample sizes, publication bias, and researcher degrees of freedom (p-hacking).\n\n### Your Objective:\nSelect ONE famous classic experiment (e.g., John Bargh's elderly priming study, Roy Baumeister's ego depletion radish/cookie experiment, or Amy Cuddy's power posing study) and perform a comprehensive methodological forensic audit.",
+  "requirements": [
+    "Section 1 \u2014 Original Study Deconstruction: Detail the original theoretical hypothesis, methodology, independent/dependent variables, reported sample size ($N$), statistical effect size ($d$ or $\\eta^2$), and the reported p-value.",
+    "Section 2 \u2014 Questionable Research Practices (QRP) Forensic Analysis: Screen the original methodology for classic vulnerability indicators: flexibility in data collection termination, post-hoc outlier exclusion, multi-variable selective reporting, and HARKing.",
+    "Section 3 \u2014 Replication Attempt Audit: Analyze the multisite Registered Replication Report (RRR) conducted by the Open Science Collaboration or Many Labs project. Contrast the original effect size with the replication pooled effect size and 95% confidence intervals.",
+    "Section 4 \u2014 Modern Open Science Protocol: Redesign the experiment to gold-standard contemporary open-science criteria: draft a formal Open Science Framework (OSF) preregistration protocol, calculate required sample size via statistical power analysis ($1 - \\beta = 0.90, \\alpha = .01$), and detail open-data deposition safeguards."
+  ],
+  "hints": [
+    "Hint 1: Examine the original sample size: studies with $N < 20$ per cell are severely underpowered to detect subtle social or cognitive effects.",
+    "Hint 2: Contrast the original authors' retrospective defenses (e.g., 'hidden moderators', 'experimenter flair') with the objective empirical data of preregistered multisite replications."
+  ]
+}

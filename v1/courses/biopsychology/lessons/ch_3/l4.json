@@ -1,0 +1,70 @@
+{
+  "id": "l4",
+  "chapterId": "ch_3",
+  "title": "The Cerebral Cortex: Four Lobes, Functional Specialization, & Phineas Gage",
+  "description": "Tour the neocortex: frontal executive networks, parietal spatial processing, temporal audition and memory, occipital vision, and the case of Phineas Gage.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Cerebral Cortex",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "The Wrinkled Neocortex & Six Layers \ud83e\udde0",
+      "content": "# The Outer Sheet of Human Intelligence\n\nThe **Cerebral Cortex** is a 2 to 4 mm thick outer sheet of gray matter containing over 16 billion neurons. To fit inside the human cranium, it is heavily folded into elevated ridges (**gyri**) and grooved furrows (**sulci**).\n\n* **Neocortex Architecture**: Composed of **six distinct histological layers** (Layers I through VI).\n  * **Layer IV**: Dense granular layer that receives primary sensory inputs from the thalamus (thickest in sensory cortices).\n  * **Layer V**: Large pyramidal cells (Betz cells) that project long motor axons to the spinal cord and brainstem (thickest in primary motor cortex)."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "text",
+      "title": "The Four Lobes: Functional Map \ud83d\uddfa\ufe0f",
+      "content": "## The Four Cortical Territories\n\n| Lobe | Major Functional Landmarks | Primary Psychological Roles |\n| :--- | :--- | :--- |\n| **Frontal Lobe** | Primary Motor Cortex (Precentral Gyrus), Broca's Area, Prefrontal Cortex (PFC) | Voluntary movement, motor speech production, executive functions, planning, impulse inhibition, personality. |\n| **Parietal Lobe** | Primary Somatosensory Cortex (Postcentral Gyrus), Inferior Parietal Lobule | Processing conscious touch, temperature, proprioception, visuospatial navigation, multisensory integration. |\n| **Temporal Lobe** | Primary Auditory Cortex (Heschl's Gyrus), Wernicke's Area, Fusiform Gyrus | Auditory perception, speech comprehension, long-term memory retrieval, facial recognition. |\n| **Occipital Lobe** | Primary Visual Cortex (V1 / Striate Cortex) along the Calcarine Sulcus | Early visual feature extraction: edge detection, orientation, contrast, and retinotopic mapping. |"
+    },
+    {
+      "id": "s_l4_3",
+      "type": "quiz",
+      "title": "Check: Cortical Lobes \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which cortical lobe contains the primary somatosensory cortex located on the postcentral gyrus?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Frontal lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Parietal lobe",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Temporal lobe",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Occipital lobe",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The postcentral gyrus of the parietal lobe houses the primary somatosensory cortex, which maps touch sensations across the body.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "The Prefrontal Cortex & The Tragedy of Phineas Gage \ud83d\udd28",
+      "content": "## The Seat of Executive Control\n\nThe anterior portion of the frontal lobe forms the **Prefrontal Cortex (PFC)**, the evolutionary crown of human cognition. It orchestrates working memory, emotional regulation, abstract reasoning, and moral decision-making.\n\n### The Landmark Case of Phineas Gage (1848):\nWhile working on a Vermont railroad, an accidental explosion propelled a 13-pound, 3.5-foot iron tamping rod through Gage's left cheek, piercing his ventromedial prefrontal cortex and exiting through the top of his skull.\n\n* **The Miracle**: Gage walked away conscious and survived with intact speech, memory, and motor strength!\n* **The Transformation**: His personality changed irrevocably. Previously dependable, polite, and shrewd, Gage became 'fitful, irreverent, indulging in the grossest profanity,' unable to stick to plans.\n* **Scientific Legacy**: Gage's case provided the world's first definitive proof that specific brain regions localize human personality, moral judgment, and executive inhibition!"
+    },
+    {
+      "id": "s_l4_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\udca1",
+      "content": "### Broca's vs. Wernicke's Aphasia\n\n* **Broca's Aphasia (Expressive)**: Lesion to left inferior frontal gyrus. Speech is non-fluent, halting, and effortful, but comprehension remains intact ('broken words').\n* **Wernicke's Aphasia (Receptive)**: Lesion to left posterior superior temporal gyrus. Speech is fluent and grammatically effortless but devoid of meaning, with severe impairment in language comprehension ('word salad')."
+    }
+  ]
+}

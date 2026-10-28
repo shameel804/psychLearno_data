@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_2",
+  "title": "Mapping Autonomic Sympathetic vs. Parasympathetic Dynamics Under Acute Threat",
+  "description": "Chart physiological organ responses during acute sympathetic activation followed by parasympathetic recovery.",
+  "estimatedMinutes": 12,
+  "problemStatement": "A wilderness hiker suddenly encounters a charging bear, triggering massive autonomic activation. Ten minutes later, safely inside a cabin, the threat is resolved.\n\n### Your Mission:\n1. **Autonomic Manifest**: Create a comparison table tracking the specific response of at least 5 target organs (e.g., eye pupils, bronchioles, heart rate, liver glucose release, gastrointestinal peristalsis) during the acute encounter vs. ten minutes later.\n2. **Neurochemical Tracing**: Identify the preganglionic and postganglionic neurotransmitters involved in both branches.\n3. **Receptor Pharmacology**: Explain why a beta-blocker medication (which blocks sympathetic beta-adrenergic receptors) prevents tachycardia (rapid heart rate) during public speaking anxiety.",
+  "hints": [
+    "Hint 1: Sympathetic postganglionic terminals release norepinephrine onto adrenergic receptors, while parasympathetic postganglionic terminals release acetylcholine onto muscarinic receptors.",
+    "Hint 2: In the eye, sympathetic activation contracts the pupillary dilator muscle, causing mydriasis."
+  ]
+}

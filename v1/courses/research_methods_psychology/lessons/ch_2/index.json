@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Historical Catalyst Cases & Ethical Evolution",
+      "description": "Examine the moral turning points in psychology and medicine: Tuskegee, Milgram's obedience experiments, and the Stanford Prison Study.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Ethical History"
+    },
+    {
+      "id": "l2",
+      "title": "The Belmont Report & Institutional Review Boards (IRBs)",
+      "description": "Master the three core ethical pillars—Respect for Persons, Beneficence, and Justice—and learn how IRBs evaluate research risk.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Regulatory Governance"
+    },
+    {
+      "id": "l3",
+      "title": "Informed Consent, Deception & Mandatory Debriefing",
+      "description": "Navigate voluntary agreement, vulnerable populations, the strict conditions for using deception, and therapeutic debriefing.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Participant Rights"
+    },
+    {
+      "id": "l4",
+      "title": "Scientific Integrity & Non-Human Animal Research Ethics",
+      "description": "Understand research fraud (falsification, fabrication), plagiarism, and ethical oversight of laboratory animals via IACUC and the 3Rs.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Research Integrity"
+    }
+  ]
+}

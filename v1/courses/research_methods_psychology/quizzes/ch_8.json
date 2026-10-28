@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_8",
+  "chapterId": "ch_8",
+  "title": "Chapter 8 Mastery Quiz: Statistical Inference & The Replication Crisis",
+  "description": "Master NHST logic, Type I/II errors, statistical power, effect size, p-hacking, and Open Science reforms.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch8_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary conceptual role of the Null Hypothesis (H0) in Null Hypothesis Significance Testing?",
+      "options": [
+        {"id": "opt1", "text": "It posits that there is no true effect, difference, or relationship in the population", "isCorrect": true},
+        {"id": "opt2", "text": "It guarantees that the researcher's theory is correct", "isCorrect": false},
+        {"id": "opt3", "text": "It is an unproven assumption that participants are lying", "isCorrect": false},
+        {"id": "opt4", "text": "It specifies that the sample size is equal to zero", "isCorrect": false}
+      ],
+      "explanation": "The null hypothesis represents the baseline assumption of no effect, against which sample evidence is evaluated.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q2",
+      "type": "multiple_choice",
+      "question": "What does a statistically significant result of p < 0.05 formally mean?",
+      "options": [
+        {"id": "opt1", "text": "There is less than a 5% probability of observing data this extreme if the null hypothesis is true", "isCorrect": true},
+        {"id": "opt2", "text": "There is a 95% chance that the researcher's theory has been completely proven", "isCorrect": false},
+        {"id": "opt3", "text": "The effect size is massive and of critical clinical importance", "isCorrect": false},
+        {"id": "opt4", "text": "Exactly 5% of participants failed the test", "isCorrect": false}
+      ],
+      "explanation": "A p-value is the probability of obtaining test results at least as extreme as the observed results, assuming the null hypothesis is correct.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q3",
+      "type": "multiple_choice",
+      "question": "What is a Type I Error in statistical hypothesis testing?",
+      "options": [
+        {"id": "opt1", "text": "Rejecting the null hypothesis when the null hypothesis is actually true (a False Positive)", "isCorrect": true},
+        {"id": "opt2", "text": "Failing to reject the null hypothesis when a real effect exists (a False Negative)", "isCorrect": false},
+        {"id": "opt3", "text": "Entering data into the wrong column of a spreadsheet", "isCorrect": false},
+        {"id": "opt4", "text": "Running an experiment without IRB consent", "isCorrect": false}
+      ],
+      "explanation": "A Type I error occurs when a researcher claims a genuine effect exists when in reality the result was merely random noise (false positive).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q4",
+      "type": "multiple_choice",
+      "question": "What Greek letter represents the probability of committing a Type I Error?",
+      "options": [
+        {"id": "opt1", "text": "Alpha (α)", "isCorrect": true},
+        {"id": "opt2", "text": "Beta (β)", "isCorrect": false},
+        {"id": "opt3", "text": "Gamma (γ)", "isCorrect": false},
+        {"id": "opt4", "text": "Theta (θ)", "isCorrect": false}
+      ],
+      "explanation": "Alpha (α), conventionally set to 0.05, defines the threshold probability of committing a Type I error.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q5",
+      "type": "multiple_choice",
+      "question": "What is a Type II Error in statistical decision making?",
+      "options": [
+        {"id": "opt1", "text": "Failing to reject the null hypothesis when a real, genuine effect actually exists in the population (a False Negative)", "isCorrect": true},
+        {"id": "opt2", "text": "Rejecting a true null hypothesis", "isCorrect": false},
+        {"id": "opt3", "text": "Publishing two papers with the same title", "isCorrect": false},
+        {"id": "opt4", "text": "Having a sample size greater than 500", "isCorrect": false}
+      ],
+      "explanation": "A Type II error (false negative) occurs when an experiment fails to detect a true population effect, often due to small sample size or high noise.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q6",
+      "type": "multiple_choice",
+      "question": "What is Statistical Power?",
+      "options": [
+        {"id": "opt1", "text": "The probability of correctly rejecting the null hypothesis when a true effect actually exists (1 - Beta)", "isCorrect": true},
+        {"id": "opt2", "text": "The speed of statistical computing hardware", "isCorrect": false},
+        {"id": "opt3", "text": "The political influence of the psychology department", "isCorrect": false},
+        {"id": "opt4", "text": "The standard deviation multiplied by the mean", "isCorrect": false}
+      ],
+      "explanation": "Statistical power (1 - β) is the sensitivity of an experiment to detect a real effect if it exists.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q7",
+      "type": "multiple_choice",
+      "question": "What is the widely accepted benchmark for adequate statistical power in psychological research?",
+      "options": [
+        {"id": "opt1", "text": "Power = 0.80 (80% power)", "isCorrect": true},
+        {"id": "opt2", "text": "Power = 0.05 (5% power)", "isCorrect": false},
+        {"id": "opt3", "text": "Power = 0.50 (50% power)", "isCorrect": false},
+        {"id": "opt4", "text": "Power = 1.00 always", "isCorrect": false}
+      ],
+      "explanation": "Jacob Cohen established 0.80 (an 80% chance of detecting a true effect) as the standard target for statistical power.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q8",
+      "type": "multiple_choice",
+      "question": "Why is Effect Size (e.g., Cohen's d) often considered more informative than a p-value alone?",
+      "options": [
+        {"id": "opt1", "text": "Effect size quantifies the magnitude and practical importance of a phenomenon, independent of sample size", "isCorrect": true},
+        {"id": "opt2", "text": "Effect size cannot be calculated mathematically", "isCorrect": false},
+        {"id": "opt3", "text": "Effect size only applies to qualitative interviews", "isCorrect": false},
+        {"id": "opt4", "text": "Effect size is required by local city laws", "isCorrect": false}
+      ],
+      "explanation": "A p-value is heavily influenced by sample size (huge samples make trivial differences statistically significant), whereas effect size reflects true magnitude.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q9",
+      "type": "multiple_choice",
+      "question": "According to Jacob Cohen's conventions, what magnitude of Cohen's d represents a 'Medium' effect size?",
+      "options": [
+        {"id": "opt1", "text": "d = 0.50", "isCorrect": true},
+        {"id": "opt2", "text": "d = 0.05", "isCorrect": false},
+        {"id": "opt3", "text": "d = 0.20", "isCorrect": false},
+        {"id": "opt4", "text": "d = 0.80", "isCorrect": false}
+      ],
+      "explanation": "Cohen defined d = 0.20 as small, d = 0.50 as medium, and d = 0.80 as large.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q10",
+      "type": "multiple_choice",
+      "question": "What was the landmark finding of the Open Science Collaboration's 2015 Reproducibility Project in Psychology?",
+      "options": [
+        {"id": "opt1", "text": "Only about 36% to 39% of 100 replicated studies found statistically significant results consistent with the original published findings", "isCorrect": true},
+        {"id": "opt2", "text": "Every single study was proven to be an intentional fabrication", "isCorrect": false},
+        {"id": "opt3", "text": "Cognitive psychology has zero validity", "isCorrect": false},
+        {"id": "opt4", "text": "100% of all published effects replicated with larger effect sizes", "isCorrect": false}
+      ],
+      "explanation": "The 2015 replication effort revealed that fewer than 40% of classic findings replicated, launching the modern Open Science reform era.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q11",
+      "type": "multiple_choice",
+      "question": "What is 'p-hacking'?",
+      "options": [
+        {"id": "opt1", "text": "Trying numerous flexible analytical choices (dropping conditions, testing covariates, removing outliers) until p drops below 0.05", "isCorrect": true},
+        {"id": "opt2", "text": "Using a computer to hack into another university's database", "isCorrect": false},
+        {"id": "opt3", "text": "Calculating the p-value by hand on graph paper", "isCorrect": false},
+        {"id": "opt4", "text": "Setting alpha to 0.001", "isCorrect": false}
+      ],
+      "explanation": "p-hacking exploits researcher degrees of freedom by trying different post-hoc analysis options until an arbitrary p < 0.05 threshold is achieved.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q12",
+      "type": "multiple_choice",
+      "question": "A researcher stops recruiting participants the exact afternoon their data reaches p = 0.048, but would have continued recruiting if it had been p = 0.08. What questionable practice is this?",
+      "options": [
+        {"id": "opt1", "text": "Data peeking (Optional stopping)", "isCorrect": true},
+        {"id": "opt2", "text": "Latin square counterbalancing", "isCorrect": false},
+        {"id": "opt3", "text": "Stratified random sampling", "isCorrect": false},
+        {"id": "opt4", "text": "Triangulation", "isCorrect": false}
+      ],
+      "explanation": "Optional stopping peeks at results repeatedly and halts data collection only when statistical significance is briefly reached, heavily exploiting chance.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q13",
+      "type": "multiple_choice",
+      "question": "What does the acronym 'HARKing' stand for in research methodology?",
+      "options": [
+        {"id": "opt1", "text": "Hypothesizing After the Results are Known", "isCorrect": true},
+        {"id": "opt2", "text": "Hypothetical Analysis of Random Kinematics", "isCorrect": false},
+        {"id": "opt3", "text": "High Accuracy Ratio Kinetics", "isCorrect": false},
+        {"id": "opt4", "text": "Human Assessment Review Knowledge", "isCorrect": false}
+      ],
+      "explanation": "HARKing involves presenting a post-hoc, data-driven exploratory result as if it had been an a priori, theory-derived confirmatory hypothesis.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q14",
+      "type": "multiple_choice",
+      "question": "What is the 'File Drawer Problem'?",
+      "options": [
+        {"id": "opt1", "text": "Studies that find non-significant or null results are rarely published and sit hidden in researchers' desks, biasing published literature toward false positives", "isCorrect": true},
+        {"id": "opt2", "text": "Running out of physical filing cabinet space in a psychology office", "isCorrect": false},
+        {"id": "opt3", "text": "Losing original paper surveys in a flood", "isCorrect": false},
+        {"id": "opt4", "text": "Using physical folders instead of digital cloud storage", "isCorrect": false}
+      ],
+      "explanation": "Publication bias against null results hides negative findings in file drawers, skewing meta-analyses and creating an illusion of robust effects.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q15",
+      "type": "multiple_choice",
+      "question": "What is Study Preregistration?",
+      "options": [
+        {"id": "opt1", "text": "Registering study hypotheses, sample sizes, exclusion criteria, and planned analyses in an immutable public registry prior to data collection", "isCorrect": true},
+        {"id": "opt2", "text": "Registering for a college psychology course before classes start", "isCorrect": false},
+        {"id": "opt3", "text": "Paying an entry fee to attend an academic conference", "isCorrect": false},
+        {"id": "opt4", "text": "Sending participants an email reminder 24 hours before their appointment", "isCorrect": false}
+      ],
+      "explanation": "Preregistration freezes study plans in an immutable time-stamped registry before data collection, preventing p-hacking, HARKing, and outcome switching.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q16",
+      "type": "multiple_choice",
+      "question": "In the 'Registered Reports' publishing model, when does Stage 1 peer review and in-principle acceptance occur?",
+      "options": [
+        {"id": "opt1", "text": "Before any empirical data are collected", "isCorrect": true},
+        {"id": "opt2", "text": "After all data are collected, analyzed, and published", "isCorrect": false},
+        {"id": "opt3", "text": "Only when the p-value is less than 0.0001", "isCorrect": false},
+        {"id": "opt4", "text": "Ten years after the study finishes", "isCorrect": false}
+      ],
+      "explanation": "Stage 1 peer review assesses the theoretical rationale and methodology before data collection; approved papers are guaranteed publication regardless of the final outcome.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q17",
+      "type": "multiple_choice",
+      "question": "What is the key difference between a Direct Replication and a Conceptual Replication?",
+      "options": [
+        {"id": "opt1", "text": "Direct replication repeats the original procedures and measures exactly; conceptual replication tests the same hypothesis using different operationalizations", "isCorrect": true},
+        {"id": "opt2", "text": "Direct replication uses humans; conceptual replication uses animals", "isCorrect": false},
+        {"id": "opt3", "text": "Direct replication is conducted in a lab; conceptual replication is conducted in dreams", "isCorrect": false},
+        {"id": "opt4", "text": "There is no difference; they are exact synonyms", "isCorrect": false}
+      ],
+      "explanation": "Direct replications verify if original findings can be reproduced with identical protocols; conceptual replications test generalizability across different methods.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q18",
+      "type": "multiple_choice",
+      "question": "What is a 'Preprint' in modern psychological science?",
+      "options": [
+        {"id": "opt1", "text": "A publicly accessible manuscript posted to an open digital repository (like PsyArXiv) before or during formal peer review", "isCorrect": true},
+        {"id": "opt2", "text": "A preliminary receipt printed by a cash register", "isCorrect": false},
+        {"id": "opt3", "text": "A rejected manuscript that can never be published", "isCorrect": false},
+        {"id": "opt4", "text": "A handwritten draft from the 19th century", "isCorrect": false}
+      ],
+      "explanation": "Preprints provide free, rapid open access to scientific findings before commercial journal publication, accelerating scholarly exchange.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q19",
+      "type": "multiple_choice",
+      "question": "What is the primary benefit of Open Data and Open Code practices in psychology?",
+      "options": [
+        {"id": "opt1", "text": "Independent researchers can verify calculations, detect errors, and easily reproduce findings", "isCorrect": true},
+        {"id": "opt2", "text": "It eliminates the need to teach statistics in universities", "isCorrect": false},
+        {"id": "opt3", "text": "It guarantees that all future studies will find significant p-values", "isCorrect": false},
+        {"id": "opt4", "text": "It allows commercial tech companies to sell participant personal identities", "isCorrect": false}
+      ],
+      "explanation": "Open data and analysis code ensure transparency, enabling peer audits, computational reproducibility, and seamless meta-analytic synthesis.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch8_q20",
+      "type": "multiple_choice",
+      "question": "What statistical visual plot is used in meta-analyses to detect publication bias by looking for an asymmetrical scattering of studies?",
+      "options": [
+        {"id": "opt1", "text": "Funnel Plot", "isCorrect": true},
+        {"id": "opt2", "text": "Pie chart", "isCorrect": false},
+        {"id": "opt3", "text": "Venn diagram", "isCorrect": false},
+        {"id": "opt4", "text": "Interaction line plot", "isCorrect": false}
+      ],
+      "explanation": "Funnel plots graph study effect sizes against standard error; missing chunks on the null side reveal publication bias.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q21",
+      "type": "multiple_choice",
+      "question": "What is the 'Psychological Science Accelerator' (PSA)?",
+      "options": [
+        {"id": "opt1", "text": "A globally distributed network of hundreds of laboratories that pool resources to run massive, highly powered multi-site replication and discovery studies", "isCorrect": true},
+        {"id": "opt2", "text": "A machine that speeds up cognitive reaction time using electricity", "isCorrect": false},
+        {"id": "opt3", "text": "A software program that automatically writes literature reviews", "isCorrect": false},
+        {"id": "opt4", "text": "A financial grant offered only to Ivy League universities", "isCorrect": false}
+      ],
+      "explanation": "The PSA is a collaborative 'CERN for psychology' that coordinates hundreds of global labs to conduct massive, culturally diverse, high-powered studies.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch8_q22",
+      "type": "multiple_choice",
+      "question": "Why is the distinction between 'Confirmatory' and 'Exploratory' research essential to preserving scientific integrity?",
+      "options": [
+        {"id": "opt1", "text": "Confirmatory research tests a priori hypotheses where p-values are valid; exploratory research generates new hypotheses from data patterns where traditional NHST p-values are not valid without independent verification", "isCorrect": true},
+        {"id": "opt2", "text": "Confirmatory research is done on humans; exploratory research is done on computers", "isCorrect": false},
+        {"id": "opt3", "text": "Exploratory research is strictly prohibited by the American Psychological Association", "isCorrect": false},
+        {"id": "opt4", "text": "Confirmatory research never uses statistics", "isCorrect": false}
+      ],
+      "explanation": "Testing an a priori prediction provides a genuine test of a theory; hunting through data post-hoc generates hypotheses that must be confirmed on fresh, independent samples.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

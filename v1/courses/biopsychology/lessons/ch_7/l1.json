@@ -1,0 +1,99 @@
+{
+  "id": "l1",
+  "chapterId": "ch_7",
+  "title": "Structural Neuroimaging: X-ray CT, MRI, & Diffusion Tensor Imaging (DTI)",
+  "description": "Understand anatomical imaging: CT density, MRI magnetic fields and T1/T2 relaxation, and DTI white matter tractography.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Structural Imaging",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "Imaging the Static Anatomy of the Living Brain \ud83d\udcf7",
+      "content": "# Peer Through the Skull\n\nBefore modern neuroimaging, anatomists could only examine brain structure post-mortem. Today, non-invasive structural techniques allow us to map neural tissue at millimeter and sub-millimeter resolution in living individuals.\n\n* **Computerized Tomography (CT)**: Slices of X-ray beams rotate around the head. Tissues absorb X-rays based on density (bone is dense/white; air/fluid is black; brain parenchyma is gray). Excellent for rapid emergency detection of skull fractures, acute intracranial hemorrhages, and large strokes."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "text",
+      "title": "Magnetic Resonance Imaging (MRI): Nuclear Physics at Work \ud83e\uddf2",
+      "content": "## The Physics of MRI\n\n1. **The Magnetic Field ($B_0$)**: The patient lies within a massive superconducting magnet (typically 1.5 to 3 Tesla, 60,000 times Earth's magnetic field!). The magnetic field aligns the spin axes of billions of **hydrogen protons** (abundant in water and fat).\n2. **Radiofrequency (RF) Pulse**: An RF pulse tuned to the protons' resonant frequency tilts their net magnetization vector into the transverse plane.\n3. **Relaxation & Signal Detection**: When the RF pulse turns off, protons relax back to alignment with $B_0$, emitting tiny radiofrequency signals detected by receiver coils.\n\n### Contrasts:\n* **T1-Weighted**: Fat is bright, cerebrospinal fluid (CSF) is dark. Provides superb gray-matter / white-matter anatomical contrast.\n* **T2-Weighted**: Fluid/CSF is bright, white matter is dark. Highly sensitive to edema, tumors, and multiple sclerosis plaques."
+    },
+    {
+      "id": "s_l1_3",
+      "type": "quiz",
+      "title": "Check: MRI Physics \ud83e\uddea",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which fundamental atomic nucleus is targeted and aligned by clinical MRI scanners due to its abundance in biological tissue?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Hydrogen protons (1H)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Carbon-12",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Helium-4",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Uranium-238",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "MRI detects the magnetic resonance of hydrogen nuclei (single protons), which are ubiquitous in biological water and lipid molecules.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Diffusion Tensor Imaging (DTI): Mapping White Matter Highways \ud83d\udee3\ufe0f",
+      "content": "## Visualizing the Brain's Wiring\n\nWhile conventional MRI shows tissue volume, **Diffusion Tensor Imaging (DTI)** maps the directional orientation of white matter axon bundles:\n\n* **Isotropic Diffusion**: In open fluid (like ventricles), water molecules diffuse randomly in all directions like a sphere.\n* **Anisotropic Diffusion**: Inside myelinated axons, water molecules are restricted by hydrophobic myelin walls and diffuse primarily *parallel* to the axonal fiber tract like water in a straw.\n* **Fractional Anisotropy (FA) & Tractography**: By measuring anisotropic diffusion along multiple gradient directions, mathematical algorithms reconstruct stunning 3D color-coded maps of major white matter tracts (e.g., Corpus Callosum, Arcuate Fasciculus, Corticospinal Tract)."
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Check: Diffusion Tensor Imaging \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Diffusion Tensor Imaging (DTI) maps white matter axonal tracts by measuring which physical phenomenon?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Anisotropic directional diffusion of water molecules along myelin sheaths",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "X-ray photon attenuation by calcium in the skull",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Radioactive decay of fluorine isotopes in the bloodstream",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The speed of acoustic vibrations in the cochlea",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "DTI exploits the anisotropic (directionally constrained) diffusion of water along axon bundles to model structural brain connectivity.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

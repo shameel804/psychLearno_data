@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_6",
+  "title": "Gestalt Principles: The Whole & Perception",
+  "description": "Explore Wertheimer's Phi Phenomenon, the revolt against elementalism, and Gestalt laws of perceptual organization.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Gestalt Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "1912: The Phi Phenomenon \ud83d\udca1",
+      "content": "# The Revolt Against Wundtian Atoms\n\nIn 1910, while riding a train through the German Rhineland, Czech-born psychologist **Max Wertheimer** (1880\u20131943) had an epiphany about optical motion.\n\nHe got off the train at Frankfurt, bought a toy stroboscope, and confirmed his observation in the laboratory with colleagues **Kurt Koffka** and **Wolfgang K\u00f6hler**.\n\n### The Phi Phenomenon (Apparent Motion)\n* When two stationary vertical lights flash on and off in rapid alternating succession (around 60 milliseconds apart), observers do not perceive two static lights blinking.\n* Instead, the brain perceives a **single light smoothly moving back and forth across empty space**!\n\nThis single observation demolished Wundtian and Titchenerian structuralism: there was no physical sensation of movement on the retina, yet the mind perceived continuous motion. The experience existed only in the **relational whole** (*Gestalt*)."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What perceptual illusion discovered by Max Wertheimer in 1912 served as the catalyst for the Gestalt movement in psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Phi Phenomenon (apparent motion)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The McGurk effect",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The Stroop interference effect",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Weber's fraction",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Wertheimer's 1912 paper on the Phi Phenomenon demonstrated that the perception of motion cannot be explained by analyzing isolated sensory elements.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Gestalt Laws of Perceptual Organization \ud83e\udde9",
+      "content": "## 'The Whole is Other Than the Sum of Its Parts'\n\nKurt Koffka clarified that Gestalt theory does NOT state 'the whole is greater than the sum'\u2014it states **the whole is OTHER than the sum** (*Das Ganze ist etwas anderes als die Summe seiner Teile*). A melody played in a different musical key shares none of its original acoustic notes, yet remains instantly recognizable!\n\n### Primary Gestalt Laws\n\n| Gestalt Law | Perceptual Definition | Everyday Example |\n| :--- | :--- | :--- |\n| **Figure-Ground** | The visual field organizes into a prominent object (figure) standing out against a receding backdrop (ground). | The classic Rubin Vase / Two Faces illusion. |\n| **Proximity** | Elements situated close together in space are automatically grouped into units. | Seeing pairs of dots rather than 10 isolated points. |\n| **Similarity** | Elements sharing visual properties (color, shape, orientation) are grouped together. | Spotting rows of X's alternating with rows of O's. |\n| **Continuity** | The eye follows smooth, continuous trajectories rather than abrupt angles. | Perceiving intersecting wavy lines as continuous paths. |\n| **Closure** | The brain automatically fills in missing gaps to perceive complete, whole shapes. | Seeing a complete triangle even when the edges have gaps (Kanizsa triangle). |\n| **Pr\u00e4gnanz (Simplicity)** | Stimuli are organized into the simplest, most regular, and symmetrical figure possible. | Perceiving the Olympic five-ring logo as overlapping circles rather than complex jagged shapes. |"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Gestalt in Modern UI/UX Design \ud83d\udcf1",
+      "content": "## Why App Designers Study Gestalt\n\nEvery modern mobile app interface relies heavily on Gestalt principles! Grouping buttons inside shaded cards (Common Region), aligning navigation icons (Proximity), and using consistent brand colors (Similarity) allows users to navigate software intuitively without conscious thought."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Mapping Autonomic Sympathetic vs. Parasympathetic Dynamics Under Acute Threat",
+      "description": "Chart physiological organ responses during acute sympathetic activation followed by parasympathetic recovery.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Brainstem & Cerebellar Lesion Localization: Differential Diagnosis",
+      "description": "Analyze patient clinical vignettes to identify lesion sites across the medulla, pons, and cerebellum.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_7",
+  "title": "Measuring Working Memory Limits & Chunking Strategies",
+  "description": "Administer a digitized digit-span test and demonstrate chunking efficiency improvements.",
+  "estimatedMinutes": 12,
+  "problemStatement": "George Miller established that working memory has a natural capacity limit of 7 \u00b1 2 items, which can be extended via chunking.\n\n### Task Protocol:\n1. Test immediate recall on a series of random unchunked digits (e.g., 8, 3, 1, 9, 4, 7, 2, 6, 5, 0, 1, 8).\n2. Record the maximum span of digits successfully recalled in serial order.\n3. Re-test recall on a 12-digit string organized into familiar chunks (e.g., historical years: 1776, 1945, 2024).\n4. Write a 2-paragraph comparative analysis: How does semantic long-term memory recode working memory slots, and what does this reveal about the interaction between memory stores?",
+  "hints": [
+    "Hint 1: Unchunked digit spans typically max out around 7 items; chunked strings permit 12+ digits to be recalled effortlessly.",
+    "Hint 2: Refer to the working memory model developed by Alan Baddeley (phonological loop and central executive)."
+  ]
+}

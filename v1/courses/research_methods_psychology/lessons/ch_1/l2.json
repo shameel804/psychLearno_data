@@ -1,0 +1,73 @@
+{
+  "id": "l2",
+  "chapterId": "ch_1",
+  "title": "From Theories to Hypotheses: The Scientific Cycle",
+  "description": "Explore how psychologists formulate broad theories, deduce testable hypotheses, and apply the principle of parsimony.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "The Research Process",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Dynamic Scientific Cycle 🔄",
+      "content": "# Theories and Hypotheses\n\nPsychological research is an iterative loop that moves between abstract conceptual frameworks and concrete empirical tests:\n\n1. **Theory**: A coherent set of logically related principles that organizes existing observations and predicts future behaviors or mental states.\n2. **Hypothesis**: A specific, testable prediction derived logically from a theory that specifies relationships between variables.\n3. **Empirical Research**: Collecting and analyzing systematic data to evaluate the hypothesis.\n4. **Theory Revision**: Updating, refining, expanding, or discarding the theory based on empirical findings.\n\n*Note*: In science, the word 'theory' is never an uneducated guess; it is an evidence-supported, explanatory model (like the Germ Theory of Disease or Social Learning Theory)."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Knowledge: Theory vs Hypothesis 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What is the primary operational distinction between a scientific theory and a hypothesis?",
+        "options": [
+          {"id": "opt1", "text": "A theory is an unproven hunch, while a hypothesis is an established fact", "isCorrect": false},
+          {"id": "opt2", "text": "A theory is a broad explanatory framework, whereas a hypothesis is a specific testable prediction derived from it", "isCorrect": true},
+          {"id": "opt3", "text": "A theory applies only to biology, while hypotheses belong exclusively to psychology", "isCorrect": false},
+          {"id": "opt4", "text": "Theories are tested using statistics, while hypotheses do not require data collection", "isCorrect": false}
+        ],
+        "explanation": "Theories provide broad explanations for observed patterns; hypotheses are concrete, testable forecasts derived deductively from those theories.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Deduction vs. Induction in Science 🧭",
+      "content": "## Two Modes of Reasoning\n\nScientific discoveries rely on alternating between two logical reasoning styles:\n\n| Mode | Direction | Starting Point | Endpoint | Example in Psychology |\n| :--- | :--- | :--- | :--- | :--- |\n| **Deductive Reasoning** | Top-down (General to Specific) | Broad theory or premise | Specific empirical hypothesis | 'Working memory has limited capacity, so multitasking will degrade driving reaction time.' |\n| **Inductive Reasoning** | Bottom-up (Specific to General) | Specific empirical observations | Broad theoretical generalization | 'Observing that 50 isolated hospital patients report elevated cortisol leads to the theory that isolation impairs endocrine regulation.' |\n\nBoth modes are vital: induction helps build initial theories from observations, while deduction generates precise predictions to stress-test those theories."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Reasoning Check: Deductive or Inductive? 🧩",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "A researcher begins with Bandura's Social Learning Theory and predicts that children viewing an aggressive cartoon will strike an inflatable clown more often than children viewing a non-violent cartoon. What type of reasoning is this?",
+        "options": [
+          {"id": "opt1", "text": "Inductive reasoning", "isCorrect": false},
+          {"id": "opt2", "text": "Deductive reasoning", "isCorrect": true},
+          {"id": "opt3", "text": "Intuitive reasoning", "isCorrect": false},
+          {"id": "opt4", "text": "Circular reasoning", "isCorrect": false}
+        ],
+        "explanation": "Moving from a general theoretical framework (Social Learning Theory) to a specific, testable prediction (hitting the clown) is top-down deductive reasoning.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "text",
+      "title": "Parsimony & Occam's Razor ✂️",
+      "content": "## The Principle of Parsimony\n\nWhen two competing theories explain the empirical evidence equally well, science favors the **more parsimonious** explanation—the one that requires the fewest unverified assumptions and entities.\n\n* Also known as **Occam's Razor** (*lex parsimoniae*).\n* For instance, if a participant reports sensing a ghostly presence in an old house, a psychologist will test environmental hypotheses (carbon monoxide poisoning, low-frequency infrasound vibrating the eyeballs, sleep paralysis) before entertaining supernatural beings.\n* Parsimony ensures models remain testable and prevents endless ad-hoc rationalizations."
+    },
+    {
+      "id": "s_l2_6",
+      "type": "warning",
+      "title": "Methodological Warning ⚠️",
+      "content": "### Parsimony Is Not Oversimplification\n\nParsimony does not mean choosing the easiest idea or ignoring complex realities. Human behavior is influenced by genetics, neurochemistry, developmental history, and cultural context. Choose the simplest theory *that fully explains all available data*, but never discard proven factors for artificial simplicity."
+    }
+  ]
+}

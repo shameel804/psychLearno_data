@@ -1,0 +1,99 @@
+{
+  "id": "l1",
+  "chapterId": "ch_8",
+  "title": "Reward, Wanting vs. Liking, & The Mesolimbic Dopamine Circuit",
+  "description": "Explore motivation neurocircuitry: VTA-to-NAc dopamine, Berridge's wanting vs. liking, Schultz's reward prediction error, and addiction.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Reward & Motivation",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Mesolimbic Dopamine Pathway: The Engine of Desire \ud83c\udfaf",
+      "content": "# The Brain's Incentive Highway\n\nIn 1954, James Olds and Peter Milner made a serendipitous discovery: rats would press a lever thousands of times an hour\u2014ignoring food, water, and sleep until exhaustion\u2014to receive electrical stimulation in the medial forebrain bundle. They had discovered the **brain's reward circuit**.\n\n### The Mesolimbic Dopamine Pathway:\n* **Origin**: Dopaminergic neurons in the midbrain **Ventral Tegmental Area (VTA)**.\n* **Projection**: Axons project via the medial forebrain bundle to the **Nucleus Accumbens (NAc)** in the ventral striatum and the ventromedial prefrontal cortex.\n* **Function**: Computes incentive salience, motivation, and reinforcement learning."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "text",
+      "title": "Kent Berridge: Wanting vs. Liking \ud83c\udf6c",
+      "content": "## Dissociating Desire from Pleasure\n\nFor decades, dopamine was popularly mislabeled as the 'pleasure molecule.' Neuroscientist **Kent Berridge** proved that motivation consists of two distinct neurobiological systems:\n\n| Feature | 'Wanting' (Incentive Salience) | 'Liking' (Hedonic Impact) |\n| :--- | :--- | :--- |\n| **Psychological State** | Craving, motivation, pursuit, cue reactivity | Consummatory pleasure, sensory delight, satisfaction |\n| **Neural Substrate** | **Mesolimbic Dopamine** (VTA $\\rightarrow$ Nucleus Accumbens) | **Endogenous Opioids & Cannabinoids** in discrete **'Hedonic Hotspots'** (NAc shell and ventral pallidum) |\n| **Effect of Dopamine Depletion** | Animal will not work or walk to get food (zero wanting) | When sweet sugar is placed directly on tongue, animal still shows full hedonic facial licking (intact liking!) |\n| **Relevance to Addiction** | Sensitized: Massive craving and pursuit | Diminished: Tolerance reduces actual pleasure |"
+    },
+    {
+      "id": "s_l1_3",
+      "type": "quiz",
+      "title": "Check: Wanting vs. Liking \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What happens when dopamine in the nucleus accumbens of a laboratory animal is completely depleted?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The animal loses motivation to seek food ('wanting'), but still exhibits full hedonic pleasure ('liking') when sweet food is placed in its mouth",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The animal violently rejects all sweet tastes with disgust faces",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The animal permanently loses all hearing and vision",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The animal enters an irreversible coma",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Berridge proved that dopamine mediates incentive motivation ('wanting'), whereas hedonic pleasure ('liking') is mediated by opioid hotspots.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_4",
+      "type": "text",
+      "title": "Wolfram Schultz & Reward Prediction Error (RPE) \ud83d\udcca",
+      "content": "## Dopamine is Not Reward: It is the Surprise of Reward!\n\nNeurophysiologist **Wolfram Schultz** recorded from midbrain dopamine neurons during classical conditioning:\n\n1. **Unpredicted Reward**: Dopamine neurons burst fire with intense excitement when an unexpected reward appears ($RPE > 0$).\n2. **Learned Conditioned Stimulus (CS)**: After pairing with a light or tone, the dopamine burst **shifts backward in time** to the cue itself! When the predicted reward arrives, neurons fire at normal baseline ($RPE = 0$).\n3. **Reward Omission**: If the cue appears but the promised reward is withheld, dopamine neurons **completely pause firing** below baseline at the exact moment the reward was expected ($RPE < 0$).\n\n*Takeaway*: Dopamine encodes **Reward Prediction Error**\u2014the mathematical difference between what happened and what was expected, driving reinforcement learning!"
+    },
+    {
+      "id": "s_l1_5",
+      "type": "quiz",
+      "title": "Check: Reward Prediction Error \ud83d\udcc8",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "In Wolfram Schultz's electrophysiological experiments, what do midbrain dopamine neurons do when an expected reward is omitted?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "They temporarily suppress and pause their firing below baseline at the expected delivery time",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "They fire twice as many action potentials as before",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "They instantly undergo apoptosis and die",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "They convert into GABAergic inhibitory neurons",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "When an expected reward is withheld, a negative prediction error occurs, causing a sharp dip/pause in dopaminergic firing below baseline.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

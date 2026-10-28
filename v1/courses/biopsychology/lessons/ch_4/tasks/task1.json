@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_4",
+  "title": "Designing a Tachistoscopic Split-Brain Visual Field Protocol",
+  "description": "Construct an experimental protocol to test lateralized processing in surgical callosotomy patients using chimeric faces and words.",
+  "estimatedMinutes": 12,
+  "problemStatement": "You are designing a cognitive neuroscience experiment to investigate dual consciousness in a split-brain patient with complete corpus callosotomy.\n\n### Your Mission:\n1. **Tachistoscopic Parameters**: Specify display duration (e.g., 120 ms) and explain why durations >200 ms would ruin the experimental design by allowing saccadic eye movements.\n2. **Chimeric Faces Test**: A stimulus combining the left half of a woman's face and the right half of a man's face is flashed at the central fixation point. Predict the patient's verbal answer vs. what the patient selects when pointing with their left hand.\n3. **Cross-Cueing Prevention**: Describe two potential 'cross-cueing' strategies the patient's two hemispheres might exploit to communicate non-verbally (e.g., subtle head turns, tongue movements, or emotional facial twitches), and explain how your protocol eliminates them.",
+  "hints": [
+    "Hint 1: Saccades take roughly 150-200 ms to initiate; a 100 ms flash ensures the image hits only the intended visual field.",
+    "Hint 2: The right hemisphere (pointing with left hand) recognizes faces holistically, while the left hemisphere (verbal) recognizes the right half face."
+  ]
+}

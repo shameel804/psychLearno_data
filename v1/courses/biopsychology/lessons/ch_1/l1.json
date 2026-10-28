@@ -1,0 +1,99 @@
+{
+  "id": "l1",
+  "chapterId": "ch_1",
+  "title": "Cellular Architecture: Neurons & The Glial Support Matrix",
+  "description": "Understand the morphology of neurons, dendritic spines, axonal transport, and the vital functions of astrocytes, oligodendrocytes, and microglia.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Cellular Foundations",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Neuron: Nature's Information Processor \u26a1",
+      "content": "# The Cellular Building Blocks of Mind\n\nThe human brain contains approximately **86 billion neurons**, each interconnected through thousands of synaptic junctions. A neuron is a specialized cell designed to transmit electrical and chemical signals.\n\n### Core Neuronal Anatomy:\n* **Soma (Cell Body)**: Houses the nucleus, mitochondria, and metabolic machinery essential for synthesizing neurotransmitters and structural proteins.\n* **Dendrites**: Branching tree-like extensions covered with tiny protrusions called **dendritic spines** that receive chemical inputs from neighboring neurons.\n* **Axon Hillock**: The cone-shaped transition zone between the soma and axon that acts as the cell's *decision-making trigger zone*, integrating incoming signals.\n* **Axon**: A single long cable that conducts action potentials away from the cell body toward target cells.\n* **Myelin Sheath**: A lipid-rich insulating layer interrupted at regular intervals by **Nodes of Ranvier**, enabling rapid signal propagation.\n* **Axon Terminals (Terminal Buttons)**: Presynaptic endings loaded with vesicles containing chemical neurotransmitters."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check: Neuronal Anatomy \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which specific region of the neuron integrates post-synaptic potentials to initiate an action potential?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Dendritic spine",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Axon hillock",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Terminal button",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Node of Ranvier",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The axon hillock has the highest density of voltage-gated sodium channels and acts as the integrative trigger zone where an action potential is generated if the threshold is met.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Glial Cells: More Than Just Neural Glue \ud83d\udee1\ufe0f",
+      "content": "## The Essential Glial Matrix\n\nFor decades, glial cells (from the Greek for 'glue') were viewed as passive structural fillers. Today we know they are dynamic active partners in neural signaling, synaptic remodeling, and neural defense.\n\n| Glial Cell Type | Location | Primary Biological Functions |\n| :--- | :--- | :--- |\n| **Astrocytes** | CNS | Anchor neurons to blood capillaries, maintain blood-brain barrier integrity, regulate extracellular potassium ($K^+$), and recycle neurotransmitters (e.g. glutamate). |\n| **Oligodendrocytes** | CNS | Extend multiple cytoplasmic processes to wrap myelin sheaths around up to 50 axons simultaneously. |\n| **Schwann Cells** | PNS | Produce myelin for single axonal segments in the peripheral nervous system and guide axon regeneration after injury. |\n| **Microglia** | CNS | Act as the resident immune system and phagocytes, clearing debris, dead cells, and pruning inactive synapses. |\n| **Ependymal Cells** | CNS | Line cerebral ventricles and produce/circulate cerebrospinal fluid (CSF). |"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Check: Glial Cell Functions \ud83d\udd0d",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Which glial cell provides myelin insulation in the Central Nervous System (CNS)?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Schwann cell",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Oligodendrocyte",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Astrocyte",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Microglia",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Oligodendrocytes myelinate multiple axons in the CNS, whereas Schwann cells myelinate individual axonal segments in the PNS.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\udca1",
+      "content": "### Multiple Sclerosis & Glial Pathology\n\nIn **Multiple Sclerosis (MS)**, the patient's immune system erroneously attacks myelin produced by oligodendrocytes in the CNS. When myelin breaks down, action potentials decelerate or fail completely, resulting in sensory loss, motor weakness, and cognitive fatigue."
+    }
+  ]
+}

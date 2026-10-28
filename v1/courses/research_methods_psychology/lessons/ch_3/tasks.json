@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Classifying Variables and Measurement Scales (NOIR)",
+      "description": "Analyze a series of experimental variables and classify each according to independent/dependent status and Stevens' NOIR measurement level.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Evaluating Psychometric Reliability and Validity in a New Scale",
+      "description": "Evaluate psychometric test data for a novel 'Smartphone Addiction Inventory', diagnosing reliability indices and validity coefficients.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

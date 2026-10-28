@@ -1,0 +1,70 @@
+{
+  "id": "l3",
+  "chapterId": "ch_5",
+  "title": "B.F. Skinner & Operant Technology",
+  "description": "Master Thorndike's Law of Effect, operant chambers, reinforcement schedules, and radical behaviorism.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Operant Conditioning",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Thorndike's Law of Effect \ud83d\udc08",
+      "content": "# Before Skinner: The Puzzle Box\n\nBefore operant conditioning was formalized, **Edward Lee Thorndike** (1874\u20131949) placed hungry cats inside wooden 'puzzle boxes' at Columbia University.\n\nCats clawed and paced randomly until accidentally stepping on a treadle latch that opened the door to fish outside. Over successive trials, ineffective behaviors were stamped out and successful actions were stamped in.\n\n### The Law of Effect\n* Behaviors followed by **satisfying consequences** are more likely to recur in that situation.\n* Behaviors followed by **annoying or unpleasant consequences** are less likely to recur."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What principle did Edward Thorndike formulate stating that behaviors followed by favorable consequences are strengthened?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Law of Effect",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The Law of Pragnanz",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Weber's Law",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The Pleasure Principle",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Thorndike's Law of Effect established that responses followed by satisfaction become more firmly attached to the situation.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "B.F. Skinner & Operant Conditioning \ud83d\udce6",
+      "content": "## Operant Chambers & Reinforcement Contingencies\n\nHarvard psychologist **Burrhus Frederic Skinner** (1904\u20131990) took behaviorism to its zenith with **Radical Behaviorism**.\n\nSkinner designed the **Operant Conditioning Chamber** ('Skinner Box') where animals (rats or pigeons) press levers or peck disks to receive rewards, recorded on a cumulative recorder.\n\n### The Four Operant Contingencies\n\n| Operation | Stimulus Added (+) | Stimulus Removed (-) |\n| :--- | :--- | :--- |\n| **Strengthens Behavior (Reinforcement)** | **Positive Reinforcement**: Adding a pleasant reward (food, praise) increases behavior frequency. | **Negative Reinforcement**: Removing an aversive stimulus (turning off electric shock, muting loud buzzer) increases behavior frequency. |\n| **Weakens Behavior (Punishment)** | **Positive Punishment**: Adding an aversive stimulus (scolding, spanking) decreases behavior frequency. | **Negative Punishment**: Removing a valued privilege (confiscating smartphone, grounding) decreases behavior frequency. |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "Schedules of Reinforcement \ud83c\udfb0",
+      "content": "## Why Are Slot Machines So Addictive?\n\nSkinner discovered that the timing of reinforcement dramatically affects the persistence of behavior:\n\n* **Fixed Ratio (FR)**: Reinforcement delivered after a set number of responses (e.g., factory worker paid for every 10 shirts made). Produces high response rate with brief pause after reward.\n* **Variable Ratio (VR)**: Reinforcement delivered after an unpredictable, varying number of responses (e.g., slot machines, lottery tickets). Produces **extremely high, steady rates of response virtually immune to extinction**!\n* **Fixed Interval (FI)**: Reinforcement delivered for the first response after a fixed time elapsed (e.g., studying heavily just before an exam). Produces a scalloped response curve.\n* **Variable Interval (VI)**: Reinforcement delivered for the first response after unpredictable time periods (e.g., checking email/notifications). Produces slow, steady response rate."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "tip",
+      "title": "Radical Behaviorism: The Illusion of Free Will \ud83d\udd4a\ufe0f",
+      "content": "## Beyond Freedom and Dignity (1971)\n\nIn his controversial bestselling book *Beyond Freedom and Dignity*, Skinner argued that human 'free will' and autonomous agency are dangerous prescientific illusions. He asserted that human action is 100% shaped by genetic history and environmental reinforcement contingencies!"
+    }
+  ]
+}

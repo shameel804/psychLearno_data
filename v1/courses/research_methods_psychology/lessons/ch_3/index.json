@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Anatomy of Variables: Independent, Dependent & Extraneous",
+      "description": "Distinguish between manipulated causes, measured effects, participant attributes, and confounding variables.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Variables Architecture"
+    },
+    {
+      "id": "l2",
+      "title": "Scales of Measurement: Nominal, Ordinal, Interval, and Ratio",
+      "description": "Master Stevens' NOIR measurement taxonomy and understand what mathematical operations each scale legitimately permits.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Measurement Scales"
+    },
+    {
+      "id": "l3",
+      "title": "Psychometric Reliability: Precision and Consistency",
+      "description": "Explore test-retest, inter-rater, split-half reliability, and internal consistency indexed by Cronbach's alpha.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Measurement Reliability"
+    },
+    {
+      "id": "l4",
+      "title": "Construct Validity & Measurement Validation",
+      "description": "Ensure you measure what you intend: face, content, criterion (concurrent, predictive), and convergent/discriminant validity.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Construct Validity"
+    }
+  ]
+}

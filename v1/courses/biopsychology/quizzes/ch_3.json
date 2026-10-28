@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_3",
+  "chapterId": "ch_3",
+  "title": "Chapter 3 Mastery Quiz: Subcortical Systems & The Cerebral Cortex",
+  "description": "Test your mastery of the thalamus, hypothalamus, amygdala, hippocampus, basal ganglia motor loops, and the cerebral lobes.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch3_q1",
+      "type": "multiple_choice",
+      "question": "Which specific thalamic nucleus receives retinal inputs and projects visual information to the primary visual cortex (V1)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Lateral Geniculate Nucleus (LGN)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Medial Geniculate Nucleus (MGN)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Ventral Posteromedial Nucleus (VPM)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anterior Nucleus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The LGN is the primary thalamic relay station for visual processing.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q2",
+      "type": "multiple_choice",
+      "question": "Which thalamic nucleus relays auditory information from the brainstem to the primary auditory cortex?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Medial Geniculate Nucleus (MGN)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Lateral Geniculate Nucleus (LGN)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Ventral Lateral Nucleus (VL)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pulvinar",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The MGN (Medial = Music/Auditory) relays auditory signals to the primary auditory cortex.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q3",
+      "type": "multiple_choice",
+      "question": "The hypothalamus regulates the endocrine system primarily by controlling secretions from which gland?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Pituitary gland",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Adrenal cortex directly without hormones",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Thyroid gland directly via cranial nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Pineal gland exclusively",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The hypothalamus regulates the anterior pituitary via hypophyseal portal hormones and posterior pituitary via direct neurosecretion.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q4",
+      "type": "multiple_choice",
+      "question": "Stimulation of the Lateral Hypothalamus (LH) in rodents triggers which immediate behavior?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Voracious eating (hyperphagia)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total cessation of feeding (aphagia)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Immediate entry into deep REM sleep",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Suppression of heart rate and respiration",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The lateral hypothalamus functions as a hunger center; stimulating it induces feeding.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q5",
+      "type": "multiple_choice",
+      "question": "In Pavlovian fear conditioning, an auditory tone paired with an aversive shock converges in which amygdalar region?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Basolateral complex (BLA)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dentate gyrus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Mammillary bodies",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Substantia nigra",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The basolateral amygdala is the primary sensory convergence site where associative fear conditioning occurs.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q6",
+      "type": "multiple_choice",
+      "question": "Kl\u00fcver-Bucy syndrome, resulting from bilateral anterior temporal lobe and amygdala lesions, is characterized by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Profound loss of fear, hyperorality, visual agnosia, and hypersexuality",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Extreme aggression, intense panic attacks, and insomnia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Rigid muscle paralysis and resting pill-rolling tremors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete inability to comprehend spoken words",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Kl\u00fcver-Bucy syndrome involves loss of fear reactivity (tameness), hyperorality, psychic blindness, and hypersexuality.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q7",
+      "type": "multiple_choice",
+      "question": "Patient H.M. experienced severe anterograde amnesia following surgical removal of which bilateral structures?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Medial temporal lobes, including the hippocampi",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Prefrontal cortex and anterior cingulate",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Caudate nucleus and putamen",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Occipital lobes bilaterally",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "H.M. underwent bilateral medial temporal lobe resection to treat epilepsy, losing the hippocampi and adjacent entorhinal/parahippocampal cortices.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q8",
+      "type": "multiple_choice",
+      "question": "What critical distinction in human memory systems was proven by Patient H.M.'s preserved performance on the mirror-tracing task?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Procedural motor memory does not depend on the hippocampus, while conscious episodic memory does",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "All memories are stored permanently in the spinal cord",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Visual memories bypass the brainstem entirely",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Short-term working memory lasts up to three hours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "H.M. mastered motor skills without conscious recall, demonstrating a fundamental dissociation between declarative and non-declarative memory.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q9",
+      "type": "multiple_choice",
+      "question": "The Striatum is anatomically comprised of which two subcortical structures?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Caudate Nucleus and Putamen",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Substantia Nigra and Subthalamic Nucleus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Globus Pallidus and Thalamus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hippocampus and Amygdala",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The striatum is formed by the caudate nucleus and the putamen, which receive cortical glutamatergic inputs.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q10",
+      "type": "multiple_choice",
+      "question": "In the basal ganglia direct pathway, dopamine binds to which type of receptor in the striatum to facilitate movement?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "D1 receptors (excitatory)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "D2 receptors (inhibitory)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "GABA-A receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "NMDA receptors",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dopamine excites direct pathway medium spiny neurons via Gs-coupled D1 dopamine receptors, promoting movement initiation.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q11",
+      "type": "multiple_choice",
+      "question": "What is the primary neuropathology of Parkinson's disease?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Degeneration of dopaminergic neurons in the substantia nigra pars compacta",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Loss of striatal GABAergic neurons in the indirect pathway",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Demyelination of the optic nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Atrophy of the primary somatosensory cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Loss of neuromelanin-containing dopaminergic neurons in the substantia nigra pars compacta reduces striatal dopamine, causing Parkinsonism.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q12",
+      "type": "multiple_choice",
+      "question": "Which genetic mutation is responsible for Huntington's disease?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "An expanded CAG trinucleotide repeat in the Huntingtin (HTT) gene",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A deletion on chromosome 7",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Duplication of the amyloid precursor protein gene",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Inactivation of the survival motor neuron 1 gene",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Huntington's disease is an autosomal dominant CAG repeat expansion disorder that causes striatal medium spiny neuron degeneration.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q13",
+      "type": "multiple_choice",
+      "question": "How many histological layers typically compose the mammalian Neocortex?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Three layers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Six layers",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Ten layers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "One continuous unlayered sheet",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The neocortex is characterized by its distinct 6-layered cytoarchitectonic structure.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q14",
+      "type": "multiple_choice",
+      "question": "Where is the Primary Motor Cortex located in the human brain?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Precentral gyrus of the frontal lobe",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Postcentral gyrus of the parietal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Superior temporal gyrus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Calcarine sulcus of the occipital lobe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The primary motor cortex (Brodmann Area 4) sits on the precentral gyrus immediately anterior to the central sulcus.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q15",
+      "type": "multiple_choice",
+      "question": "A stroke affecting Broca's Area in the left hemisphere characteristically results in:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Expressive aphasia: non-fluent, halting speech with relatively preserved comprehension",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fluent word salad speech with complete inability to understand words",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Complete visual blindness in both visual fields",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Severe resting tremor of both hands",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Broca's aphasia impairs motor speech production, leading to telegraphic, non-fluent speech while comprehension remains intact.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q16",
+      "type": "multiple_choice",
+      "question": "A stroke affecting Wernicke's Area in the left temporal lobe produces:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Receptive aphasia: fluent, grammatically normal speech that lacks semantic meaning, accompanied by poor comprehension",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Severe stuttering and physical inability to move the vocal cords",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Hemispatial neglect of the left half of visual space",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Complete paralysis of the right arm",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Wernicke's aphasia impairs language comprehension, resulting in fluent, effortless, but semantically nonsensical speech.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q17",
+      "type": "multiple_choice",
+      "question": "Damage to the right posterior parietal cortex frequently results in which neuropsychological syndrome?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hemispatial neglect (ignoring stimuli in the contralateral left visual and physical space)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Prosopagnosia (inability to recognize familiar faces)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Retrograde amnesia for events before age ten",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of all color vision",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Right parietal lesions cause hemispatial neglect, where patients fail to notice, respond, or orient to items in their left environment.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q18",
+      "type": "multiple_choice",
+      "question": "What primary psychological function was severely disrupted in Phineas Gage following iron rod trauma to his ventromedial prefrontal cortex?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Social judgment, emotional regulation, and impulse inhibition",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Motor speech articulation and grammatical parsing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Color discrimination and night vision",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Ability to calculate arithmetic sums and recite poetry",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Gage retained intellectual and motor capacity, but suffered profound deficits in personality, social appropriateness, and impulse control.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q19",
+      "type": "multiple_choice",
+      "question": "Where is the Primary Visual Cortex (Striate Cortex / V1) located?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Occipital lobe along the banks of the calcarine sulcus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Inferior surface of the temporal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Postcentral gyrus of the parietal lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anterior prefrontal cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Primary visual cortex (Brodmann Area 17) is buried inside the calcarine fissure of the occipital lobe.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch3_q20",
+      "type": "multiple_choice",
+      "question": "The Fusiform Face Area (FFA), specialized for recognizing human faces, is situated in which region?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ventral occipitotemporal cortex (fusiform gyrus)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Dorsal superior parietal lobule",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Primary motor precentral gyrus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Anterior insular cortex",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The FFA is located on the lateral fusiform gyrus within the ventral temporal stream; lesions cause prosopagnosia.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch3_q21",
+      "type": "multiple_choice",
+      "question": "What happens when the subthalamic nucleus (STN) in the indirect pathway is selectively destroyed (e.g., by lacunar stroke)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hemiballismus: wild, violent flinging movements of the contralateral limbs",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total paralysis of all facial expressions",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Immediate coma and loss of brainstem reflexes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of taste sensation on the anterior tongue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "STN lesions remove excitation to GPi/SNr, causing catastrophic disinhibition of the motor thalamus and violent flinging limb movements.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch3_q22",
+      "type": "multiple_choice",
+      "question": "Which neocortical layer contains the massive pyramidal cell bodies that send long-distance efferent motor axons into the corticospinal tract?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Layer V (Internal Pyramidal Layer)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Layer I (Molecular Layer)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Layer IV (Internal Granular Layer)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Layer II (External Granular Layer)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Layer V houses giant Betz pyramidal cells that project motor commands down through the brainstem and spinal cord.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

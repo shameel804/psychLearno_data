@@ -1,0 +1,19 @@
+{
+  "id": "project3",
+  "title": "Open Science Preregistration & Multi-Site Replication Audit",
+  "description": "Audit a landmark social priming study for QRPs and author a Registered Report preregistration with statistical power calculations.",
+  "difficulty": "Advanced",
+  "estimatedHours": "6-8",
+  "problemStatement": "In 1996, John Bargh published a famous social priming experiment claiming that participants subtly exposed to elderly-related words (e.g., 'Florida', 'wrinkle', 'gray') walked significantly slower down a hallway when leaving the laboratory compared to unprimed control subjects. Subsequent independent replications failed to reproduce the effect, citing experimenter expectancy bias (raters with stopwatches knew the hypotheses) and extreme statistical underpower.\n\nYou are appointed as lead methodologist of a multi-site consortium (10 international universities) to conduct a definitive Registered Report direct replication of this classic study.",
+  "requirements": [
+    "Conduct an Open Science forensic audit of the original 1996 study: diagnose potential Questionable Research Practices (QRPs), including small sample size (N = 30), unblinded human stopwatch timing, and file drawer risks.",
+    "Formulate an exact Direct Replication protocol: specify automated, objective infrared sensor timing gates to eliminate human stopwatch expectancy bias, and enforce double-blind participant interactions.",
+    "Perform an a priori statistical power calculation using G*Power logic to achieve 95% statistical power (Power = 0.95) at α = 0.01 for a small effect size (d = 0.25), determining required sample sizes per site and total consortium N.",
+    "Draft a formal Stage 1 Registered Report protocol for the Open Science Framework (OSF): specify data collection termination rules, strict participant exclusion criteria locked prior to testing, and the R/Python statistical script that will be executed blindly upon data lock.",
+    "Establish the Open Science repository infrastructure: outline open data repositories, public preprint distribution via PsyArXiv, and open materials licensing."
+  ],
+  "hints": [
+    "Hint 1: The major critique of Bargh's study was Doyen et al.'s (2012) discovery that when timing was automated with laser gates, the effect vanished; it only appeared when student experimenters with manual stopwatches knew which subjects were primed.",
+    "Hint 2: In Registered Reports, in-principle acceptance guarantees publication prior to data collection, liberating researchers from pressure to p-hack."
+  ]
+}

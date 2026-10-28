@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_4",
+  "title": "Molecular Modeling of Hebbian Long-Term Potentiation (LTP) at the Synapse",
+  "description": "Deconstruct the biophysical cascade of LTP induction, NMDA coincidence detection, CaMKII activation, and AMPA receptor insertion.",
+  "estimatedMinutes": 15,
+  "problemStatement": "An electrophysiologist records from a CA1 pyramidal cell in an acute hippocampal slice while stimulating the Schaffer collateral pathway.\n\n### Your Mission:\n1. **Coincidence Detection**: Explain why the NMDA receptor is universally called a 'molecular coincidence detector'\u2014what two simultaneous events are required for it to open?\n2. **Pharmacological Disruption**: Predict what will happen to LTP induction if the researcher bathes the hippocampal slice in **APV (2-amino-5-phosphonovalerate)**, a selective NMDA receptor antagonist.\n3. **Retrograde Signaling**: How does the postsynaptic spine communicate backward to the presynaptic terminal to increase future neurotransmitter vesicle release probability (e.g., via Nitric Oxide diffusion)?",
+  "hints": [
+    "Hint 1: Opening NMDA requires presynaptic glutamate binding AND postsynaptic membrane depolarization to eject Mg2+.",
+    "Hint 2: APV blocks LTP induction during high-frequency tetanus without impairing baseline AMPA-mediated synaptic transmission."
+  ]
+}

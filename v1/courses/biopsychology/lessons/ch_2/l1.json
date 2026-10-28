@@ -1,0 +1,99 @@
+{
+  "id": "l1",
+  "chapterId": "ch_2",
+  "title": "The Macro Architecture: CNS, PNS, & Somatic vs. Autonomic Networks",
+  "description": "Differentiate the Central and Peripheral Nervous Systems, somatic voluntary pathways, and sympathetic vs. parasympathetic divisions.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Structural Architecture",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Two Grand Divisions: CNS & PNS \ud83d\uddfa\ufe0f",
+      "content": "# The Macro Architecture of the Nervous System\n\nThe nervous system is divided into two primary anatomical domains:\n\n1. **Central Nervous System (CNS)**: Composed of the **brain** and **spinal cord**, encased safely within bone (cranium and vertebral column). The CNS is the central hub for integrating sensory information and commanding behavior.\n2. **Peripheral Nervous System (PNS)**: Composed of all nerve fibers and ganglia outside the brain and spinal cord, linking the CNS to sensory organs, muscles, and viscera.\n\n### Divisions of the Peripheral Nervous System:\n* **Somatic Nervous System (SNS)**: Mediates voluntary motor output to skeletal muscles and relays conscious somatic sensations (touch, pain, proprioception).\n* **Autonomic Nervous System (ANS)**: Regulates involuntary visceral functions\u2014heart rate, respiration, digestion, and glandular secretion."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check: CNS vs. PNS \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "Which of the following structures is exclusively part of the Central Nervous System (CNS)?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Spinal cord",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Sciatic nerve",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Vagus nerve (Cranial Nerve X)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Sympathetic trunk ganglion",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The CNS is composed strictly of the brain and spinal cord; peripheral nerves and ganglia belong to the PNS.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "The Autonomic Tug-of-War: Sympathetic vs. Parasympathetic \u26a1",
+      "content": "## Fight-or-Flight vs. Rest-and-Digest\n\nThe Autonomic Nervous System is divided into two physiologically opposing branches that maintain homeostatic balance:\n\n| Feature | Sympathetic Nervous System (SNS) | Parasympathetic Nervous System (PNS) |\n| :--- | :--- | :--- |\n| **Colloquial Nickname** | 'Fight or Flight' (Crisis/Arousal) | 'Rest and Digest' (Energy Conservation) |\n| **Anatomical Origin** | Thoracolumbar spinal cord ($T_1 - L_2$) | Craniosacral (Cranial nerves III, VII, IX, X + Sacral $S_2 - S_4$) |\n| **Ganglia Location** | Close to spinal cord (Sympathetic chain) | Close to or within target organs |\n| **Pupils** | Dilate (Mydriasis for distance vision) | Constrict (Miosis) |\n| **Heart Rate & Blood Flow** | Accelerates; shunts blood to skeletal muscles | Slows; directs blood to gut and kidneys |\n| **Digestion & Salivation** | Inhibited; dry mouth, slowed motility | Stimulated; abundant watery saliva, active peristalsis |\n| **Postganglionic Neurotransmitter** | **Norepinephrine** (mostly) | **Acetylcholine (ACh)** |"
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Check: Autonomic Functions \ud83e\ude7a",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "When you encounter an immediate threat, which autonomic response occurs?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Pupil constriction and accelerated digestion",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Sympathetic activation: pupil dilation, bronchodilation, and elevated heart rate",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Parasympathetic release of acetylcholine onto cardiac pacemaker cells",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Immediate suppression of norepinephrine secretion",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Sympathetic activation triggers the fight-or-flight response: pupils dilate, airways widen (bronchodilation), and heart rate spikes to prepare muscles for action.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Neuroscience Pro Tip \ud83d\udca1",
+      "content": "### The Enteric Nervous System: The Second Brain\n\nDid you know your gastrointestinal tract contains over **500 million neurons**? Termed the **Enteric Nervous System**, this autonomous network embedded in the gut wall can coordinate digestion, gut motility, and hormone secretion even if completely severed from the brain!"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "task2",
+  "chapterId": "ch_8",
+  "title": "Auditing Questionable Research Practices and Drafting an OSF Preregistration",
+  "description": "Detect p-hacking and HARKing in a simulated research trajectory, then draft a formal Open Science Framework preregistration protocol.",
+  "xpReward": 25,
+  "estimatedMinutes": 15,
+  "problemStatement": "Examine this research narrative: *'Dr. Miller tests whether lighting scents (lavender vs. citrus vs. unscented) alter creative problem-solving. At N = 20, p = 0.14. She collects 10 more subjects; p = 0.08. She excludes 3 participants who reported allergies; p = 0.054. She transforms the data using a log-scale and controls for participant caffeine intake; p = 0.041! She discards the citrus condition entirely and writes the journal article claiming lavender uniquely enhances problem-solving based on evolutionary scent theory.'*\n\n### Your Mission:\n1. **Identify Four Questionable Research Practices (QRPs)**: Flag four specific QRPs committed by Dr. Miller in this scenario (e.g., data peeking, post-hoc outlier exclusion, p-hacking via covariates, HARKing/selective reporting).\n2. **Calculate the False-Positive Risk**: Explain how these repeated 'researcher degrees of freedom' artificially inflate the actual false-positive (Type I) error rate far above the nominal α = 0.05 level.\n3. **Draft an OSF Preregistration Section**: Write the 'Planned Sample Size and Exclusion Rules' and 'Statistical Analysis Plan' sections of an Open Science Framework (OSF) preregistration that would eliminate every one of Dr. Miller's methodological indiscretions.",
+  "hints": [
+    "Hint 1: Check how Dr. Miller peeked at data and stopped only when p crossed 0.05 (optional stopping).",
+    "Hint 2: In a preregistration, exclusion rules (e.g., 'participants with allergies will be excluded prior to testing') must be locked in advance."
+  ]
+}

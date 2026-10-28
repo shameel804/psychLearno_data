@@ -1,0 +1,20 @@
+{
+  "id": "project3",
+  "title": "Precision Neuropsychiatry Protocol: Targeting Mesolimbic & HPA Dysregulation in Mood Disorders",
+  "description": "Develop a multi-targeted neurobiological intervention framework integrating monoaminergic pharmacotherapy, vagus nerve stimulation, and neuroplasticity enhancement.",
+  "difficulty": "Advanced",
+  "estimatedHours": "6-8",
+  "problemStatement": "You are leading a translational neuropsychiatry research consortium tasked with creating a next-generation clinical intervention protocol for severe Treatment-Resistant Depression (TRD) characterized by comorbid anhedonia, hippocampal atrophy, and severe HPA axis hyper-reactivity.\n\nYour protocol must integrate cellular pharmacology, neurocircuit modulation, neuroendocrinology, and lifestyle neurobiology into a cohesive, evidence-based treatment manual.",
+  "requirements": [
+    "Deconstruct the circuit-level pathophysiology: analyze how chronic cortisol elevation causes glucocorticoid receptor downregulation, hippocampal CA3/CA1 dendritic retraction, and amygdalar hyper-reactivity.",
+    "Synthesize the Incentive Salience Model: explain how mesolimbic dopamine downregulation (VTA $\\rightarrow$ Nucleus Accumbens) generates severe clinical anhedonia (blunted 'wanting').",
+    "Formulate a two-phase pharmacological strategy: (1) Rapid glutamatergic synaptogenesis using sub-anesthetic intravenous Ketamine (or esketamine nasal spray) targeting NMDA receptors and mTOR pathways; (2) Sustained maintenance targeting Brain-Derived Neurotrophic Factor (BDNF) and adult hippocampal neurogenesis.",
+    "Evaluate non-pharmacological neuromodulation: specify the neurobiological rationale for repetitive Transcranial Magnetic Stimulation (rTMS) over the Left Dorsolateral Prefrontal Cortex or non-invasive Vagus Nerve Stimulation (VNS) to restore prefrontal-limbic inhibitory balance.",
+    "Incorporate circadian and sleep architecture interventions: design a bright-light circadian phase entrainment and slow-wave sleep enhancement protocol to facilitate glymphatic brain clearance and neuroplasticity.",
+    "Define quantitative clinical biomarkers: specify objective outcome metrics including salivary cortisol awakening response (CAR), plasma BDNF levels, and resting-state fMRI functional connectivity."
+  ],
+  "hints": [
+    "Hint 1: High-frequency rTMS to the left dlPFC enhances top-down inhibitory control over hyperactive subgenual anterior cingulate cortex (sgACC) and amygdala circuits.",
+    "Hint 2: Vagus nerve stimulation modulates locus coeruleus noradrenaline and dorsal raphe serotonin release via the solitary tract nucleus."
+  ]
+}

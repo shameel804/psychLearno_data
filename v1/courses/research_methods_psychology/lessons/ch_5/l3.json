@@ -1,0 +1,67 @@
+{
+  "id": "l3",
+  "chapterId": "ch_5",
+  "title": "The Nature of Correlational Relationships",
+  "description": "Interpret scatterplots, Pearson's r, Spearman's rho, correlation strength and direction, and restriction of range.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Correlational Analysis",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Co-variation Across Variables 📈",
+      "content": "# The Correlation Coefficient\n\nA **correlational design** investigates whether two or more quantitative variables are mathematically related without experimental manipulation. The primary statistical index is **Pearson's product-moment correlation coefficient (r)**:\n\n* The value of *r* ranges strictly from **-1.00 to +1.00**.\n* **Direction** is indicated by the sign:\n  * **Positive (+)**: As variable X increases, variable Y increases (e.g., study time and exam scores).\n  * **Negative (-)**: As variable X increases, variable Y decreases (e.g., anxiety levels and hours of restful sleep).\n* **Strength (Magnitude)** is indicated by the absolute value: 0.00 indicates zero linear relationship; 1.00 is a perfect deterministic line.\n\n*Note*: When variables are ranked (ordinal) or severely non-normal, psychologists use **Spearman's rank correlation (rho)**."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Correlation Coefficient Check 🧮",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which of the following correlation coefficients indicates the STRONGEST relationship between two psychological variables?",
+        "options": [
+          {"id": "opt1", "text": "r = +0.55", "isCorrect": false},
+          {"id": "opt2", "text": "r = -0.82", "isCorrect": true},
+          {"id": "opt3", "text": "r = +0.10", "isCorrect": false},
+          {"id": "opt4", "text": "r = -0.35", "isCorrect": false}
+        ],
+        "explanation": "Strength is determined by absolute distance from zero (|r|). |-0.82| = 0.82, which is stronger than |+0.55| = 0.55.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Visualizing Relationships: Scatterplots 📉",
+      "content": "## Seeing the Data Pattern\n\nA **scatterplot** plots individual participant data points on an X-axis (predictor) and Y-axis (criterion):\n\n| Scatterplot Pattern | Mathematical Meaning | Example |\n| :--- | :--- | :--- |\n| **Upward slope from bottom-left to top-right** | Positive linear correlation (r > 0) | Hours spent exercising and aerobic lung capacity. |\n| **Downward slope from top-left to bottom-right** | Negative linear correlation (r < 0) | Days absent from class and final course grade. |\n| **Diffuse circular cloud of points** | Zero correlation (r ≈ 0.00) | Shoe size and intelligence score. |\n| **Inverted U-Shape (Curvilinear)** | Non-linear relationship (Pearson's r fails!) | Yerkes-Dodson Law: Performance peaks at moderate arousal and drops at extreme low/high arousal. |\n\nCrucial Rule: Pearson's *r* measures **only linear relationships**. If the relationship is curvilinear, *r* may register as 0.00 even when a powerful relationship exists!"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "quiz",
+      "title": "Curvilinear Relationship Check 🔍",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "The Yerkes-Dodson Law demonstrates that human performance is best at moderate arousal, and poor at both very low and very high arousal (an inverted U-curve). What will standard Pearson's r calculate for this relationship?",
+        "options": [
+          {"id": "opt1", "text": "A perfect positive correlation of r = +1.00", "isCorrect": false},
+          {"id": "opt2", "text": "Near zero (r ≈ 0.00), because Pearson's r only detects straight linear relationships", "isCorrect": true},
+          {"id": "opt3", "text": "A negative correlation of r = -0.99", "isCorrect": false},
+          {"id": "opt4", "text": "It cannot be calculated by any statistical software", "isCorrect": false}
+        ],
+        "explanation": "Pearson's r is strictly a linear correlation metric. When a curve rises and then falls symmetrically, the positive and negative slopes cancel out, yielding r ≈ 0.00.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Watch Out for Restriction of Range\n\nIf you study the correlation between SAT scores and college GPA exclusively among students admitted to Harvard (where everyone already scored in the 99th percentile), your correlation will appear near zero! Restricting the range of a variable artificially deflates and suppresses the true correlation coefficient."
+    }
+  ]
+}

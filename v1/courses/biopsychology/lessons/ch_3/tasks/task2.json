@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_3",
+  "title": "Basal Ganglia Circuitry & Motor Disorder Differential Diagnosis",
+  "description": "Map neurodegenerative lesions across the striatum, substantia nigra, and globus pallidus to distinguish hypokinetic from hyperkinetic conditions.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Construct a comprehensive diagrammatic and theoretical breakdown of the basal ganglia motor loop:\n\n### Your Mission:\n1. **Step-by-Step Pathway**: Trace a voluntary motor command through the **Direct Pathway** (Cortex $\\rightarrow$ Striatum $\\rightarrow$ GPi $\\rightarrow$ Thalamus $\\rightarrow$ Cortex), identifying whether each synapse is excitatory (glutamate) or inhibitory (GABA).\n2. **Parkinsonian Disruption**: Describe how the loss of dopaminergic neurons in the substantia nigra pars compacta shifts the balance toward indirect loop overactivation.\n3. **Deep Brain Stimulation (DBS)**: Explain the physiological rationale for surgically implanting high-frequency stimulating electrodes into the **Subthalamic Nucleus (STN)** or **Globus Pallidus internal (GPi)** to treat severe Parkinson's disease.",
+  "hints": [
+    "Hint 1: The GPi tonically inhibits the thalamus; inhibiting the GPi disinhibits the thalamus.",
+    "Hint 2: High-frequency DBS of the STN disrupts pathological abnormal beta oscillations, functionally quieting the excessive indirect pathway output."
+  ]
+}

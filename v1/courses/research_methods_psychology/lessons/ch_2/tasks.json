@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "IRB Protocol Ethics Audit for Social Psychological Deception",
+      "description": "Evaluate an aggressive experimental deception study proposal, identify Belmont Report violations, and prescribe ethical remedies.",
+      "estimatedMinutes": 15
+    },
+    {
+      "id": "task2",
+      "title": "Drafting an APA-Compliant Informed Consent & Debriefing Script",
+      "description": "Construct a fully compliant informed consent document and a dehoaxing debriefing protocol for a study examining acute stress and memory.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

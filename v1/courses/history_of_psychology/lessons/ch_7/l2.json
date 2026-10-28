@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_7",
+  "title": "Information Processing & The Computer Metaphor",
+  "description": "Examine the 1950s cognitive turn, Broadbent's filter model, sensory registers, and computational architectures of mind.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Information Processing",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Mind as Computer \ud83d\udcbb",
+      "content": "# The Computational Analogy\n\nIn the 1940s and 1950s, the emergence of electronic digital computers (ENIAC, Turing machines) and information theory (Claude Shannon, Norbert Wiener) provided psychology with a powerful scientific metaphor:\n\n* **Hardware** = The biological brain, neural circuits, and neurotransmitters.\n* **Software** = The mind, cognitive programs, mental algorithms, and software data structures.\n\nSuddenly, cognitive psychologists had a rigorous, non-mystical vocabulary to talk about internal mental processes: **Input -> Encoding -> Storage -> Processing / Transformation -> Retrieval -> Output**!"
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "In the cognitive computer metaphor of mind, how is the relationship between the physical brain and mental processes characterized?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The brain is the biological hardware, while the mind is the running software/program",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The mind is non-physical while the brain does not exist",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The computer metaphor rejects all information processing",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "The brain operates only through pneumatic water pressure",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The information processing framework views the brain as computational hardware executing mental algorithms and cognitive software programs.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Donald Broadbent & The Filter Model of Attention (1958) \ud83c\udfa7",
+      "content": "# Bottlenecks in Human Bandwidth\n\nBritish psychologist **Donald Broadbent** (1926\u20131993) worked at Cambridge studying radar operators and fighter pilots during WWII. Pilots were bombarded with simultaneous radio messages and crashed because they could not process multiple audio channels at once.\n\nIn 1958, Broadbent published *Perception and Communication*, the first comprehensive information-processing model in psychology:\n\n### The Dichotic Listening Experiment\n* Subjects wore headphones with different spoken digits played into each ear simultaneously (e.g., Left ear: 4, 9, 3; Right ear: 6, 2, 8).\n* When asked to repeat the numbers, people processed one ear entirely first, then switched attention to the other ear.\n\n### Broadbent's Filter Theory\n1. **Sensory Buffer**: Holds all incoming raw acoustic signals briefly.\n2. **Selective Filter**: Acts like a physical bottleneck switch based on physical characteristics (pitch, ear location).\n3. **Limited-Capacity Channel**: Only filtered information reaches conscious awareness and long-term memory!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "tip",
+      "title": "The Cocktail Party Effect \ud83c\udf78",
+      "content": "## Anne Treisman's Attenuation Model\n\nIf the filter completely blocks unattended messages, why do you suddenly whip your head around when someone across a loud cocktail party whispers your name?\n\nBroadbent's student **Anne Treisman** modified the theory in 1964: the filter does not completely block unattended channels; it **attenuates** (turns down the volume) on them. Highly meaningful stimuli (like your name or 'Fire!') easily pierce the threshold of consciousness!"
+    }
+  ]
+}

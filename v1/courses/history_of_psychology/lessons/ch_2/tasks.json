@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Conducting an Introspective Sensory Protocol",
+      "description": "Execute a formal introspection trial on sensory perception and evaluate observer interference.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Identifying the Stimulus Error in Everyday Perception",
+      "description": "Distinguish between raw phenomenal sensory qualities and object meaning across common objects.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

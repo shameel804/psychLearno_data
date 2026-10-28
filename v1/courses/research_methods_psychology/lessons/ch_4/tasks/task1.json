@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_4",
+  "title": "Designing an Unobtrusive Behavioral Coding Scheme",
+  "description": "Construct an operational ethogram coding scheme to measure prosocial vs. exclusionary behaviors during elementary school recess.",
+  "estimatedMinutes": 15,
+  "problemStatement": "A developmental research team wants to study bullying and inclusion in 8-year-old schoolchildren during free recess on a school playground.\n\n### Your Mission:\n1. **Define Target Behavioral Categories**: Create clear, mutually exclusive operational definitions for three target behaviors: (a) *Physical/Verbal Inclusion*, (b) *Relational Exclusion*, and (c) *Neutral Parallel Play*.\n2. **Sampling Protocol**: Choose between **Time Sampling** (e.g., 20-second interval scans) vs. **Event Sampling**. Justify your choice based on the rarity and duration of playground bullying events.\n3. **Mitigate Reactivity**: Describe two unobtrusive strategies to ensure children and teachers do not alter their natural interactions due to observer presence.\n4. **Inter-Rater Reliability Protocol**: Explain how you will train two independent observers and calculate their inter-rater reliability (using Cohen's Kappa) to prevent observer drift.",
+  "hints": [
+    "Hint 1: Mutual exclusivity means an observer never struggles to decide whether a single behavior belongs in Category A or B.",
+    "Hint 2: For reactivity, consider habituation periods where observers sit with clipboards for several days before actual data recording begins."
+  ]
+}

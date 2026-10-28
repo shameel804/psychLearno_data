@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Structural Neuroimaging: X-ray CT, MRI, & Diffusion Tensor Imaging (DTI)",
+      "description": "Understand anatomical imaging: CT density, MRI magnetic fields and T1/T2 relaxation, and DTI white matter tractography.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Structural Imaging"
+    },
+    {
+      "id": "l2",
+      "title": "Functional Brain Imaging: fMRI, BOLD Contrast, & PET Radiotracers",
+      "description": "Master hemodynamic imaging: PET positron annihilation, fMRI BOLD hemodynamic response, subtraction logic, and neurovascular coupling.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Functional Imaging"
+    },
+    {
+      "id": "l3",
+      "title": "Electrical Windows to the Mind: EEG, ERPs, & Magnetoencephalography (MEG)",
+      "description": "Explore millisecond electrophysiology: EEG postsynaptic potentials, ERP components (P300, N400, N170), and magnetic field recording via MEG.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Electrophysiology"
+    },
+    {
+      "id": "l4",
+      "title": "Causal Interventions: TMS, Lesion Studies, & Optogenetic Control",
+      "description": "Move from correlation to causation: patient double dissociations, TMS 'virtual lesions', and cell-type specific optogenetic opsins.",
+      "xpReward": 25,
+      "estimatedMinutes": 7,
+      "section": "Causal Methods"
+    }
+  ]
+}

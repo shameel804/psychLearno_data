@@ -1,0 +1,64 @@
+{
+  "id": "l1",
+  "chapterId": "ch_7",
+  "title": "Cracks in the Black Box: Tolman & Chomsky",
+  "description": "Trace the fall of radical behaviorism through Tolman's cognitive maps and Chomsky's devastating language critique.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Cognitive Revolution",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The Behavioral Black Box Cracks \ud83d\udce6",
+      "content": "# Opening the Mind Again\n\nFor nearly half a century, behaviorism treated the brain as an impenetrable **'Black Box'**: inputs (stimuli) went in, outputs (behavior) came out, and asking what happened in between was dismissed as unscientific mysticism.\n\nTwo critical intellectual strikes blew open the black box:\n\n### 1. Edward Tolman's Latent Learning (1930s-1940s)\nUC Berkeley psychologist **Edward Chace Tolman** put rats in complex mazes:\n* Group 1 received food rewards every day and gradually learned the maze.\n* Group 2 received **zero food rewards** for 10 days, wandering aimlessly.\n* On Day 11, Group 2 was given food at the goal box for the first time.\n* **The Shocking Result**: On Day 12, Group 2 ran through the maze just as fast and error-free as Group 1!\n\nThey had learned the maze layout all along without reinforcement, constructing a mental representation Tolman termed a **Cognitive Map**!"
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What term did Edward Tolman coin to describe the internal mental representation of spatial layout acquired by rats during unreinforced maze exploration?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Cognitive Map",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Conditioned Reflex",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Apperceptive Mass",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Schema",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Tolman proved that rats construct internal spatial representations ('cognitive maps') through latent learning without needing immediate reinforcement.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Noam Chomsky Destroys Skinner's Verbal Behavior (1959) \ud83d\udca5",
+      "content": "## The Death Blow to Radical Behaviorism\n\nIn 1957, B.F. Skinner published *Verbal Behavior*, attempting to explain human language purely through operant conditioning (babies babble, parents reinforce correct sounds, grammar is stamped in).\n\nIn 1959, 30-year-old MIT linguist **Noam Chomsky** published a legendary 33-page review in the journal *Language* that shattered Skinner's claims:\n\n1. **Poverty of the Stimulus**: Children hear imperfect, fragmented, finite speech, yet effortlessly generate an infinite number of novel, grammatically flawless sentences they have never heard before.\n2. **Overregularization Errors**: Children say *'I holded the rabbit'* or *'two feets'*. Parents never model or reinforce these errors! Children are generating rules from an innate cognitive grammar.\n3. **Universal Grammar (UG)**: Humans are biologically pre-wired with an innate **Language Acquisition Device (LAD)**.\n\nChomsky's critique convinced a new generation of researchers that complex mental structures must be studied directly."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "tip",
+      "title": "Generative Creativity \ud83d\udde3\ufe0f",
+      "content": "## Infinite Use of Finite Means\n\nChomsky pointed out that nearly every sentence you read, speak, or write is a **completely novel creation** that has never been uttered before in human history. Behaviorist stimulus-response chaining could never account for this infinite generative creativity!"
+    }
+  ]
+}

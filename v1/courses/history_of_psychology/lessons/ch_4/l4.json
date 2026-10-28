@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_4",
+  "title": "The Neo-Freudians: Jung, Adler & Horney",
+  "description": "Analyze departures from biological determinism: Jung's archetypes, Adler's inferiority complex, and Horney's feminist critique.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Neo-Freudian Splintering",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Carl Jung & Analytical Psychology \ud83c\udf0c",
+      "content": "# Splitting from Freud\n\nSwiss psychiatrist **Carl Gustav Jung** (1875\u20131961) was initially Freud's handpicked crown prince and the first president of the International Psychoanalytical Association. However, Jung broke relations in 1913, rejecting Freud's intense overemphasis on sexuality.\n\n### The Collective Unconscious & Archetypes\nJung divided the unconscious into two distinct layers:\n1. **Personal Unconscious**: Repressed personal memories and individual complexes.\n2. **Collective Unconscious**: A deep, ancestral evolutionary layer shared by all humanity, containing universal mythic symbols termed **Archetypes**:\n   * **The Persona**: The public mask or social role we present to the world.\n   * **The Shadow**: The dark, untamed animalistic instincts we suppress.\n   * **The Anima / Animus**: The unconscious feminine archetype in men (*anima*) and masculine archetype in women (*animus*).\n   * **The Self**: The archetype of wholeness and spiritual unity achieved through lifelong **Individuation**.\n\nJung also gave psychology the fundamental personality typology of **Introversion** and **Extraversion**!"
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "What concept did Carl Jung introduce to describe universal, inherited ancestral memory patterns and symbols shared across human cultures?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Collective Unconscious",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "The Oedipus Complex",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The Tabula Rasa",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Operant Contingency",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Jung posited the Collective Unconscious as a transpersonal, evolutionary reservoir of inherited archetypal motifs found in dreams, myths, and religions worldwide.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Alfred Adler: Individual Psychology \ud83c\udfd4\ufe0f",
+      "content": "## Striving for Superiority & Social Interest\n\nViennese physician **Alfred Adler** (1870\u20131937) was the first major disciple to split from Freud in 1911.\n\n### Core Adlerian Principles\n* **The Inferiority Complex**: All infants start small, helpless, and weak. Human motivation is driven not by sex, but by the innate struggle to overcome feelings of inferiority and strive for **superiority / competence**.\n* **Compensation**: Making up for real or perceived physical or psychological weaknesses (e.g., Demosthenes overcoming a stutter to become Greece's greatest orator).\n* **Social Interest (*Gemeinschaftsgef\u00fchl*)**: Adler insisted that healthy striving must be oriented toward contributing to the collective human community, not narcissistic domination.\n* **Birth Order**: Adler was the first to propose that psychological development is influenced by ordinal sibling position (firstborn, middle, youngest, only child)."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "Karen Horney: The Feminist Psychoanalytic Critique \u2696\ufe0f",
+      "content": "## Challenging Freudian Misogyny\n\nGerman-American psychoanalyst **Karen Horney** (1885\u20131952) challenged Freud's male-centric theory of 'penis envy'.\n\n* She countered that women did not envy male biology, but rather the **social, educational, and economic power** monopolized by men in patriarchal societies.\n* She famously suggested that men experience **'womb envy'**\u2014unconscious jealousy of women's biological ability to gestate and give birth, which men overcompensate for through building monuments and dominating institutions!\n* Horney formulated the theory of **Basic Anxiety** (feelings of loneliness and helplessness in a hostile world), identifying three interpersonal coping styles: *Moving Toward people* (compliance), *Moving Against people* (aggression), and *Moving Away from people* (detachment)."
+    }
+  ]
+}

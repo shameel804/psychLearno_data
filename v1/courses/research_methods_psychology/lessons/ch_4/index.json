@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Observational Methods: Naturalistic vs. Structured Observation",
+      "description": "Examine high ecological validity, participant vs. non-participant roles, and objective behavioral coding schemes.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Observational Design"
+    },
+    {
+      "id": "l2",
+      "title": "Participant Reactivity & Observer Bias",
+      "description": "Counter the Hawthorne effect, expectancy distortions, and demand characteristics using blind raters and habituation.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Observational Controls"
+    },
+    {
+      "id": "l3",
+      "title": "Case Studies & Archival Research",
+      "description": "Learn from rare idiographic cases (H.M., Phineas Gage), archival datasets, and recognize the boundaries of generalizability.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Descriptive Designs"
+    },
+    {
+      "id": "l4",
+      "title": "Qualitative Methodologies & Thematic Analysis",
+      "description": "Explore semi-structured interviews, focus groups, inductive coding, thematic analysis, and qualitative triangulation.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Qualitative Inquiry"
+    }
+  ]
+}

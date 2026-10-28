@@ -1,0 +1,70 @@
+{
+  "id": "l2",
+  "chapterId": "ch_3",
+  "title": "William James & The Stream of Consciousness",
+  "description": "Explore America's foundational psychologist, The Principles of Psychology, stream of thought, and James-Lange emotion.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Functionalism",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "William James & American Psychology \ud83d\udcd6",
+      "content": "# The Principles of Psychology (1890)\n\n**William James** (1842\u20131910) is revered as the father of American psychology. Originally trained in medicine and art, he taught the first psychology course in the United States at Harvard in 1875.\n\nIn 1890, after 12 years of writing, he published his 1,400-page masterwork, *The Principles of Psychology* (affectionately nicknamed 'James's James'). A shorter student condensation was nicknamed 'Jimmy'.\n\n### Pragmatism: Truth in Practical Consequences\nJames co-founded **Pragmatism**: the philosophical view that an idea or theory is true if it works effectively and has useful practical value in guiding human behavior."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What 1890 masterwork by William James became the definitive foundational text of early American psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Interpretation of Dreams",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "The Principles of Psychology",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Psychology from an Empirical Standpoint",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Conditioned Reflexes",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "William James published 'The Principles of Psychology' in 1890, defining American psychology for generations.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Stream of Consciousness \ud83c\udf0a",
+      "content": "## Consciousness as a River, Not Building Blocks\n\nJames fiercely attacked Structuralism's attempt to chop consciousness into static sensory elements. He proclaimed that consciousness is not a mosaic of bits, but a flowing river:\n\n> *'Consciousness, then, does not appear to itself chopped up in bits... A 'river' or a 'stream' are the metaphors by which it is most naturally described.'*\n\n### The 5 Characteristics of Consciousness (James)\n1. **Personal**: Belonging to a unique, individual self.\n2. **Constantly Changing**: No mental state can ever be repeated exactly twice.\n3. **Sensibly Continuous**: Transitions are seamless without sharp fractures.\n4. **Selective**: Attention chooses what to focus on while ignoring other inputs.\n5. **Functional**: It exists to help an organism survive, adapt, and make choices!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "text",
+      "title": "The James-Lange Theory of Emotion \ud83d\udc3b",
+      "content": "## Do We Run Because We Are Afraid?\n\nAlong with Danish physiologist Carl Lange, James introduced a counterintuitive theory of emotion in 1884:\n\n* **Common Sense View**: We see a bear -> We feel terrified -> We run away.\n* **James-Lange View**: We see a bear -> Our heart pounds and legs run -> We feel terrified *because* our brain perceives our body trembling and running!\n\n> *'We feel sorry because we cry, angry because we strike, afraid because we tremble, and not that we cry, strike, or tremble, because we are sorry, angry, or fearful.'*\n\nModern neuroscience confirms that visceral feedback (interoception) strongly shapes subjective affective feelings."
+    },
+    {
+      "id": "s_l2_5",
+      "type": "tip",
+      "title": "The Power of Habit \ud83d\udca1",
+      "content": "## Plasticity of Neural Habits\n\nJames famously analyzed **habit**, describing habits as massive flywheel engines that stabilize society. He anticipated modern neuroplasticity, noting that repeated actions carve physical channels in the nervous system, making behavior increasingly effortless over time."
+    }
+  ]
+}

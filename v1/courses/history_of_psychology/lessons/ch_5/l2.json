@@ -1,0 +1,64 @@
+{
+  "id": "l2",
+  "chapterId": "ch_5",
+  "title": "John B. Watson & The Behaviorist Manifesto",
+  "description": "Explore the 1913 manifesto, rejection of mentalism, the Little Albert experiment, and environmental determinism.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Classical Behaviorism",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "1913: The Behaviorist Manifesto \ud83d\udcdc",
+      "content": "# Erasing the Mind\n\nIn 1913 at Columbia University, American psychologist **John Broadus Watson** (1878\u20131958) delivered an explosive lecture titled *'Psychology as the Behaviorist Views It'*. It became known as the **Behaviorist Manifesto**.\n\nWatson declared war on both Structuralism and Functionalism:\n\n> *'Psychology as the behaviorist views it is a purely objective experimental branch of natural science. Its theoretical goal is the prediction and control of behavior. Introspection forms no essential part of its methods... The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.'*\n\n### Watson's Radical Demands\n1. Banish all mentalistic terms: *consciousness, mind, soul, image, feeling*.\n2. Limit psychology strictly to **observable, measurable physical behavior**.\n3. Reduce behavior to environmental **Stimulus-Response ($S \\rightarrow R$)** relationships."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What was the central demand of John B. Watson's 1913 Behaviorist Manifesto?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Psychology should eliminate all study of consciousness and focus exclusively on observable behavior",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Introspection should be expanded into clinical psychiatry",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Psychology should abandon laboratory experiments in favor of psychoanalysis",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Human behavior is dictated entirely by genetic inheritance",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Watson insisted that psychology must discard consciousness and subjective introspection, adopting pure objective behavioral prediction and control.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Little Albert Experiment (1920) \ud83d\udc01",
+      "content": "## Conditioning Human Fear\n\nTo prove that emotional reactions are learned through environmental conditioning rather than unconscious Freudian complexes, Watson and graduate student **Rosalie Rayner** conducted the infamous **Little Albert experiment** (1920) at Johns Hopkins University.\n\n* **Participant**: An 11-month-old infant known as 'Albert B.'\n* **Baseline**: Albert showed no natural fear of a tame white laboratory rat (he reached out happily to pet it).\n* **Conditioning**: As Albert reached for the white rat, Watson struck a suspended steel bar with a hammer behind the infant's head (UCS), creating a terrifying loud clanging noise that induced crying (UCR).\n* **Result**: After only seven pairings, the sight of the white rat alone (CS) provoked acute terror, crying, and desperate crawling away (CR)!\n* **Generalization**: Albert's conditioned fear generalized to other white, furry objects: a rabbit, a dog, a sealskin coat, and a Santa Claus mask with a white cotton beard."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "warning",
+      "title": "Ethical Outrage & Scientific Legacy \u26a0\ufe0f",
+      "content": "## Ethical Violations\n\nToday, the Little Albert experiment is universally condemned as a gross violation of research ethics:\n* No informed consent from Albert's mother.\n* Deliberate psychological traumatization of an infant.\n* Watson never deconditioned or extinguished Albert's acquired phobia before he left the hospital.\n\nDespite ethical horrors, the study proved to the scientific world that complex human emotional responses could be conditioned through environmental contingencies."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "l2",
+  "chapterId": "ch_3",
+  "title": "Scales of Measurement: Nominal, Ordinal, Interval, and Ratio",
+  "description": "Master Stevens' NOIR measurement taxonomy and understand what mathematical operations each scale legitimately permits.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Measurement Scales",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The NOIR Hierarchy of Measurement 📊",
+      "content": "# Stevens' Four Measurement Scales (1946)\n\nNot all numbers carry the same mathematical meaning. Harvard psychophysicist S.S. Stevens established four ascending levels of measurement, known by the acronym **NOIR**:\n\n1. **Nominal**: Categorical labels with no inherent quantitative ranking (e.g., biological sex, psychiatric diagnosis, eye color).\n2. **Ordinal**: Ranks with ordered progression, but where intervals between ranks are unequal or unknown (e.g., class rank, finishing positions in a marathon: 1st, 2nd, 3rd).\n3. **Interval**: Equal numeric distances between points, but **no true zero point** (zero does not mean complete absence). Example: Temperature in Celsius or Fahrenheit (0°C does not mean 'zero heat'; 40°C is not twice as hot as 20°C).\n4. **Ratio**: Equal numeric intervals **plus an absolute, true zero point** (where 0 indicates total absence of the attribute). Example: Reaction time in milliseconds, age, number of errors made."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Measurement Scale Check 📏",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "A cognitive psychologist measures reaction time in milliseconds from visual stimulus onset to keypress. What scale of measurement is reaction time?",
+        "options": [
+          {"id": "opt1", "text": "Nominal", "isCorrect": false},
+          {"id": "opt2", "text": "Ordinal", "isCorrect": false},
+          {"id": "opt3", "text": "Interval", "isCorrect": false},
+          {"id": "opt4", "text": "Ratio", "isCorrect": true}
+        ],
+        "explanation": "Reaction time has equal intervals and a meaningful true zero (0 milliseconds represents absolute absence of elapsed time); 400 ms is twice as long as 200 ms.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "Mathematical Operations Permitted by NOIR 🧮",
+      "content": "## What Math Can You Legally Do?\n\nThe level of measurement determines which statistical tests are mathematically legitimate:\n\n| Scale | Order? | Equal Intervals? | True Zero? | Permissible Operations | Appropriate Central Tendency |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Nominal** | No | No | No | Frequency counts, Chi-Square | **Mode** |\n| **Ordinal** | Yes | No | No | Greater/less than, Percentiles, Rank correlation | **Median** |\n| **Interval** | Yes | Yes | No | Addition, Subtraction, Mean, Standard Deviation, Pearson's r, ANOVA | **Mean** |\n| **Ratio** | Yes | Yes | Yes | All arithmetic operations, Ratios, Multiplication, Division | **Mean, Geometric Mean** |\n\n*Note on Likert Scales*: Many psychologists treat 5- or 7-point Likert ratings as quasi-interval scales to calculate means, though technically they are ordinal."
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Central Tendency Check 🎯",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "Which measure of central tendency is the only legitimate summary statistic for nominal-level data (such as blood type or clinical diagnosis)?",
+        "options": [
+          {"id": "opt1", "text": "Arithmetic Mean", "isCorrect": false},
+          {"id": "opt2", "text": "Mode", "isCorrect": true},
+          {"id": "opt3", "text": "Standard Deviation", "isCorrect": false},
+          {"id": "opt4", "text": "Harmonic Mean", "isCorrect": false}
+        ],
+        "explanation": "Because nominal data consist of qualitative category labels, you cannot add or average them; you can only report the most frequent category (the Mode).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "warning",
+      "title": "Measurement Caution ⚠️",
+      "content": "### The True Zero Fallacy\n\nBe careful: IQ tests and standard depression inventories (e.g., Beck Depression Inventory) are **interval scales**, not ratio! A score of 0 on a depression inventory does not prove the complete biological absence of all depressive tendencies, and someone with an IQ of 140 is not 'twice as smart' as someone with an IQ of 70."
+    }
+  ]
+}

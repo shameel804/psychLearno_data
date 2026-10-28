@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_1",
+  "title": "Calculating and Observing Weber's Fraction in Everyday Sensation",
+  "description": "Design a small sensory threshold experiment to measure difference thresholds across weight or brightness.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Weber's Law states that the Just Noticeable Difference (JND) is proportional to the baseline stimulus intensity ($\\Delta I / I = k$).\n\n### Your Objective:\nFormulate an experimental protocol to measure the Weber fraction for either:\n- A. Weight discrimination (e.g., comparing envelopes with coins)\n- B. Screen brightness or audio loudness\n\n### Requirements:\n1. Specify the standard baseline stimulus ($I_1$) and test comparison stimulus ($I_2$).\n2. Define what constitutes a 'Noticeable Difference' in percentage of participant accuracy.\n3. Calculate the expected JND if baseline weight is doubled from 50g to 100g, assuming $k = 0.02$.\n4. Explain why human sensory organs evolved logarithmic or fractional response curves rather than linear ones (e.g., dynamic range protection).",
+  "hints": [
+    "Hint 1: A linear sensory system would be overwhelmed by bright sunlight while blind in dim moonlight; logarithmic scaling allows huge dynamic range.",
+    "Hint 2: Formula to apply: $\\Delta I = k \\times I$."
+  ]
+}

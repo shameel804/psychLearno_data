@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_7",
+  "chapterId": "ch_7",
+  "title": "Chapter 7 Mastery Quiz: The Cognitive Revolution & Neuropsychology",
+  "description": "Demonstrate comprehensive mastery of Tolman, Chomsky, information processing, Miller's 7\u00b12, Neisser, Hebb, and Patient H.M.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch7_q1",
+      "type": "multiple_choice",
+      "question": "What behaviorist assumption was disproven by Edward Tolman's latent learning experiments with rats?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "That learning requires immediate, explicit reinforcement to occur",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "That rats have four legs",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "That animals can speak human words",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "That food is satisfying to hungry animals",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Tolman proved that rats form cognitive maps during unrewarded exploration, demonstrating that learning can occur without reinforcement.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q2",
+      "type": "multiple_choice",
+      "question": "What term did Edward Tolman use to describe an internal mental representation of environmental layout?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Cognitive Map",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Reflex Arc",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Introspective Fragment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Operant Matrix",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Tolman introduced the concept of the 'cognitive map' to explain spatial orientation and latent learning.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q3",
+      "type": "multiple_choice",
+      "question": "What 1957 book by B.F. Skinner attempted to explain all human language through operant conditioning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Verbal Behavior",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Behavior of Organisms",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Walden Two",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Syntactic Structures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Skinner's 'Verbal Behavior' (1957) applied operant conditioning to human speech and grammar.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q4",
+      "type": "multiple_choice",
+      "question": "Who published the devastating 1959 critique of Skinner's 'Verbal Behavior' that helped launch the Cognitive Revolution?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Noam Chomsky",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Carl Rogers",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Ulric Neisser",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Kurt Lewin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Linguist Noam Chomsky's 1959 review demonstrated the logical fallacies of reducing language to operant conditioning.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q5",
+      "type": "multiple_choice",
+      "question": "What argument did Noam Chomsky use regarding the 'Poverty of the Stimulus'?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Children hear finite, imperfect speech examples yet generate infinite novel, grammatically correct sentences",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Poor families never speak to their children",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Language cannot be spoken without monetary reward",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Animal communication is more complex than human language",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Poverty of the stimulus points out that input speech is too impoverished to explain children's rapid mastery of complex syntax without innate mechanisms.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q6",
+      "type": "multiple_choice",
+      "question": "What innate biological mechanism did Chomsky propose that enables children to rapidly acquire language?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Language Acquisition Device (LAD)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Operant Chamber",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Pineal Conarium",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Hipp Chronoscope",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Chomsky hypothesized an innate Language Acquisition Device (LAD) containing Universal Grammar.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q7",
+      "type": "multiple_choice",
+      "question": "What central metaphor did cognitive psychology adopt during the 1950s to model mental processes?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The mind as a computer (hardware/brain, software/mind)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The mind as a steam engine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The mind as a tabula rasa",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The mind as an iceberg",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Cognitive psychology adopted the computer metaphor, analyzing information flow: encoding, storage, and retrieval.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q8",
+      "type": "multiple_choice",
+      "question": "Who published 'Perception and Communication' (1958), introducing the first formal filter model of selective attention?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Donald Broadbent",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Edward Titchener",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "John Watson",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Abraham Maslow",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Donald Broadbent introduced the filter model of selective attention based on dichotic listening experiments.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q9",
+      "type": "multiple_choice",
+      "question": "In a dichotic listening task, what are experimental participants instructed to do?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Listen to different auditory messages presented simultaneously to each ear and shadow (repeat aloud) one message",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Look at two flashing lights while tapping their feet",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Describe childhood dreams while sleeping",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Condition a dog to salivate to tones",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dichotic listening presents competing audio streams to both ears, requiring the participant to shadow one target channel.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q10",
+      "type": "multiple_choice",
+      "question": "What modification did Anne Treisman propose to Broadbent's filter model to explain how people hear their own name at loud parties?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Attenuation Model: unattended signals are weakened (volume turned down) rather than completely blocked",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "People have supernatural telepathic hearing",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Attention does not exist",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The brain only processes visual signals, never sound",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Treisman's Attenuation Model posits that unattended messages are attenuated rather than entirely filtered out, allowing salient stimuli through.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q11",
+      "type": "multiple_choice",
+      "question": "What did George A. Miller proclaim as the 'Magical Number' representing human short-term memory capacity?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Seven, plus or minus two (7 \u00b1 2)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Three, plus or minus one (3 \u00b1 1)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Twelve, plus or minus four (12 \u00b1 4)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Unlimited capacity",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Miller established that short-term memory can hold approximately 7 \u00b1 2 items (5 to 9 units) of information.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q12",
+      "type": "multiple_choice",
+      "question": "How does the cognitive strategy of 'chunking' bypass the 7 \u00b1 2 item limit of short-term memory?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It recodes individual items into larger, meaningful conceptual units",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It destroys old memories to make room for new ones",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It uses hypnosis to expand brain capacity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It converts auditory sounds into tactile vibrations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Chunking reorganizes information into familiar units, allowing each of the 7 memory slots to store much richer data.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q13",
+      "type": "multiple_choice",
+      "question": "Who authored the 1967 landmark textbook titled 'Cognitive Psychology', officially naming and defining the discipline?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Ulric Neisser",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "George Miller",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Donald Hebb",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "B.F. Skinner",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Ulric Neisser published 'Cognitive Psychology' in 1967, providing the unified charter for the cognitive revolution.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q14",
+      "type": "multiple_choice",
+      "question": "What did Ulric Neisser mean when he called for greater 'Ecological Validity' in psychological research?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Studies should investigate how cognitive processes operate in real-world everyday contexts, not just sterile labs",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Psychologists should recycle paper in their offices",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Research must focus solely on plant biology",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "All testing should be conducted underwater",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Ecological validity requires that experimental findings be generalizable to real-world natural settings.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q15",
+      "type": "multiple_choice",
+      "question": "What famous phrase summarizes Donald Hebb's 1949 neurophysiological rule of learning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "'Neurons that fire together, wire together'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "'The whole is other than the sum of parts'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "'Survival of the fittest'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "'Cogito ergo sum'",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hebb's rule is universally summarized as 'Neurons that fire together, wire together' (synaptic co-activation strengthens connection).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q16",
+      "type": "multiple_choice",
+      "question": "What cellular biological phenomenon discovered in 1973 confirmed Donald Hebb's theoretical synaptic learning model?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Long-Term Potentiation (LTP)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cellular mitosis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Phagocytosis",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Action potential refraction",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Long-Term Potentiation (LTP) demonstrates persistent synaptic strengthening following high-frequency stimulation, validating Hebbian plasticity.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q17",
+      "type": "multiple_choice",
+      "question": "Why did neurosurgeon William Scoville resect both medial temporal lobes in Patient H.M. (Henry Molaison) in 1953?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To treat severe, uncontrollable epileptic seizures",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "To treat depression",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "To cure a malignant brain tumor",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To study his memory experimentally",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The bilateral medial temporal lobectomy was performed as a desperate measure to relieve incapacitating epileptic seizures.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q18",
+      "type": "multiple_choice",
+      "question": "What primary cognitive deficit afflicted Patient H.M. following his 1953 surgery?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Severe anterograde amnesia (inability to form new declarative long-term memories)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Total loss of spoken language (Broca's aphasia)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Complete blindness",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Loss of all childhood memories prior to surgery",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "H.M. suffered dense anterograde amnesia: he could no longer consolidate new conscious experiences into long-term memory.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q19",
+      "type": "multiple_choice",
+      "question": "What did Brenda Milner discover when she tested Patient H.M. on the mirror-tracing task over several days?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "His motor drawing skill improved normally, despite having zero conscious recollection of ever doing the task before",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He was physically unable to hold a pencil",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "His memory improved and cured his amnesia",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He forgot how to speak English",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Milner showed that H.M. learned motor skills flawlessly, proving a double dissociation between declarative and procedural memory systems.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q20",
+      "type": "multiple_choice",
+      "question": "Which brain structure, removed from Patient H.M., is essential for consolidating conscious explicit memories?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Hippocampus",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Cerebellum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Occipital lobe",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Medulla oblongata",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The hippocampus (part of the medial temporal lobe) is critical for converting short-term declarative memories into long-term storage.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q21",
+      "type": "multiple_choice",
+      "question": "How did Saul Sternberg use reaction times in the 1960s to study short-term memory retrieval?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "He demonstrated that people search items in short-term memory via serial, exhaustive scanning",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "He showed that reaction times never vary",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "He proved that memory is instantaneous like electricity",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "He showed that animals react faster than humans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Sternberg's memory scanning task showed linear reaction time increases per added memory item, indicating serial scanning.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch7_q22",
+      "type": "multiple_choice",
+      "question": "What is the defining triumph of the Cognitive Revolution over behaviorism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "It demonstrated that internal mental processes can be studied scientifically, quantitatively, and objectively",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "It abandoned all laboratory experiments",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "It proved that animals have no brain",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "It returned psychology to 17th-century armchair philosophy",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The cognitive revolution proved that complex mental operations (attention, memory, problem-solving, language) can be objectively measured with mathematical and experimental rigor.",
+      "xpReward": 10,
+      "difficulty": 1
+    }
+  ]
+}

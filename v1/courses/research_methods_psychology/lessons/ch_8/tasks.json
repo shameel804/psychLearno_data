@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Calculating Statistical Power and Distinguishing Decision Errors",
+      "description": "Calculate statistical power parameters, determine required sample sizes using effect sizes, and map Type I vs. Type II error scenarios.",
+      "estimatedMinutes": 15
+    },
+    {
+      "id": "task2",
+      "title": "Auditing Questionable Research Practices and Drafting an OSF Preregistration",
+      "description": "Detect p-hacking and HARKing in a simulated research trajectory, then draft a formal Open Science Framework preregistration protocol.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

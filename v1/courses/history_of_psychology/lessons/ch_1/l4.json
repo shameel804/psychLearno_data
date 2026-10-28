@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_1",
+  "title": "Physiology Meets Psychology: Helmholtz & Weber",
+  "description": "Trace 19th-century advances in nerve conduction, psychophysics, just noticeable differences, and Weber's Law.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Pre-Scientific Physiology",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Measuring the Speed of Thought \u26a1",
+      "content": "# Physiology Breaks the Speed Barrier\n\nIn the early 19th century, prominent physiologist Johannes M\u00fcller claimed that nerve conduction was instantaneous\u2014faster than the speed of light\u2014and that mental timing could never be measured scientifically.\n\nHis brilliant student, **Hermann von Helmholtz** (1821\u20131894), proved him wrong in 1850.\n\n### The Nerve Impulse Experiment\n* Helmholtz stimulated frog motor nerves at varying distances from the muscle and recorded the delay before contraction.\n* He proved that the nervous impulse traveled at a measurable, modest speed: roughly **27 to 30 meters per second** (about 60\u201370 mph)!\n\nThis discovery was monumental: **mental processes take measurable physical time**. The mind was not an instantaneous mystical ghost, but a biological mechanism operating through physical electrical and chemical signals."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Why was Hermann von Helmholtz's measurement of nerve transmission speed so groundbreaking for the emergence of psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It proved that sensory neurons never fatigue",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "It demonstrated that mental events take measurable physical time",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "It showed that the brain does not use electrical impulses",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It confirmed that nerve impulses travel at the speed of light",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "By proving nerve impulses travel at finite, measurable speeds, Helmholtz established that mental and neural events could be studied experimentally using chronometric instruments.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Weber, Fechner & Psychophysics \ud83d\udcd0",
+      "content": "## Quantifying the Threshold of Consciousness\n\nIn Leipzig, Germany, anatomist **Ernst Heinrich Weber** (1795\u20131878) and physicist-philosopher **Gustav Theodor Fechner** (1801\u20131887) founded **psychophysics**\u2014the scientific investigation of the relationship between physical stimuli and subjective psychological sensation.\n\n### The Just Noticeable Difference (JND)\nWeber investigated the minimum difference between two weights that a person can detect.\n\nHe discovered **Weber's Law**:\n* The just noticeable difference between two stimuli is not an absolute amount, but a **constant ratio** (or percentage) of the original stimulus intensity.\n\n$$\\frac{\\Delta I}{I} = k$$\n\n*(Where $I$ is original stimulus intensity, $\\Delta I$ is difference threshold, and $k$ is a constant fraction).*\n\n| Modality | Weber's Fraction ($k$) | Real-World Meaning |\n| :--- | :--- | :--- |\n| **Lifted Weight** | ~0.02 (2%) | If holding 100g, you need 2g extra to notice. If holding 1000g, you need 20g extra! |\n| **Light Intensity** | ~0.01 (1%) | Highly sensitive detection of subtle visual brightness shifts. |\n| **Sound Intensity** | ~0.05 (5%) | Moderate percentage required to detect loudness differences. |"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "Fechner's Day: October 22, 1850 \ud83c\udf1f",
+      "content": "## The Exact Birthday of Psychophysics\n\nOn the morning of **October 22, 1850**, while lying in bed, Gustav Fechner experienced a flash of inspiration: mental sensations could be mathematically united with the physical world.\n\nHe formulated **Fechner's Law**:\n\n* **Psychological sensation grows logarithmically as the physical stimulus grows exponentially.**\n\nEvery year on October 22, cognitive psychologists and vision scientists celebrate 'Fechner Day' to honor this foundational bridge between physics and psychology!"
+    }
+  ]
+}

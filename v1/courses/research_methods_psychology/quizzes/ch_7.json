@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_7",
+  "chapterId": "ch_7",
+  "title": "Chapter 7 Mastery Quiz: Complex Factorial Designs & Quasi-Experiments",
+  "description": "Master factorial matrices, main effects vs. interactions, quasi-experimental controls, and small-N reversal designs.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch7_q1",
+      "type": "multiple_choice",
+      "question": "What is the defining characteristic of a Factorial Experimental Design?",
+      "options": [
+        {"id": "opt1", "text": "It includes two or more independent variables (factors)", "isCorrect": true},
+        {"id": "opt2", "text": "It has exactly one independent variable and ten dependent variables", "isCorrect": false},
+        {"id": "opt3", "text": "It does not require statistical analysis", "isCorrect": false},
+        {"id": "opt4", "text": "It can only be used in naturalistic field observation", "isCorrect": false}
+      ],
+      "explanation": "A factorial design studies two or more independent variables simultaneously, testing all possible combinations of their levels.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q2",
+      "type": "multiple_choice",
+      "question": "In standard psychological notation, how many Independent Variables and total experimental conditions are present in a 2 x 3 factorial design?",
+      "options": [
+        {"id": "opt1", "text": "2 IVs and 6 total conditions", "isCorrect": true},
+        {"id": "opt2", "text": "3 IVs and 5 total conditions", "isCorrect": false},
+        {"id": "opt3", "text": "5 IVs and 6 total conditions", "isCorrect": false},
+        {"id": "opt4", "text": "2 IVs and 5 total conditions", "isCorrect": false}
+      ],
+      "explanation": "There are two numbers (2 IVs); the first IV has 2 levels and the second IV has 3 levels, yielding 2 x 3 = 6 unique conditions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q3",
+      "type": "multiple_choice",
+      "question": "What is a 'Main Effect' in a factorial experiment?",
+      "options": [
+        {"id": "opt1", "text": "The overall effect of one independent variable on the dependent variable, averaged across all levels of the other independent variable", "isCorrect": true},
+        {"id": "opt2", "text": "The effect of the confounding variable on the study outcome", "isCorrect": false},
+        {"id": "opt3", "text": "The personal opinion of the lead investigator", "isCorrect": false},
+        {"id": "opt4", "text": "The statistical power of a t-test", "isCorrect": false}
+      ],
+      "explanation": "A main effect represents the isolated impact of a single factor on the DV, collapsed across all levels of the other factors.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q4",
+      "type": "multiple_choice",
+      "question": "What does an 'Interaction Effect' signify in a two-way factorial design?",
+      "options": [
+        {"id": "opt1", "text": "The effect of one independent variable on the dependent variable changes depending on the level of the second independent variable", "isCorrect": true},
+        {"id": "opt2", "text": "Participants talking to one another in the waiting room", "isCorrect": false},
+        {"id": "opt3", "text": "The correlation between two demographic variables", "isCorrect": false},
+        {"id": "opt4", "text": "The experimenter shaking hands with the participant", "isCorrect": false}
+      ],
+      "explanation": "An interaction occurs when the causal impact of Factor A depends on or is moderated by the specific level of Factor B.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q5",
+      "type": "multiple_choice",
+      "question": "When plotting cell means on a line graph, what visual evidence strongly suggests that NO interaction is present?",
+      "options": [
+        {"id": "opt1", "text": "The lines are parallel to one another", "isCorrect": true},
+        {"id": "opt2", "text": "The lines cross in a giant X", "isCorrect": false},
+        {"id": "opt3", "text": "The lines diverge steeply", "isCorrect": false},
+        {"id": "opt4", "text": "One line is horizontal and the other line is vertical", "isCorrect": false}
+      ],
+      "explanation": "Parallel lines show that the effect of Factor A is constant across all levels of Factor B, indicating the absence of an interaction.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q6",
+      "type": "multiple_choice",
+      "question": "What is a 'Crossover Interaction'?",
+      "options": [
+        {"id": "opt1", "text": "An interaction where the lines on a factorial plot intersect, indicating that the effect of one IV completely reverses direction across levels of the other IV", "isCorrect": true},
+        {"id": "opt2", "text": "When participants switch rooms during an experiment", "isCorrect": false},
+        {"id": "opt3", "text": "When a study is published in two different journals", "isCorrect": false},
+        {"id": "opt4", "text": "When an experimenter uses two different computers", "isCorrect": false}
+      ],
+      "explanation": "In a crossover interaction, the lines cross each other, showing that an IV has opposite effects depending on the level of another factor.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q7",
+      "type": "multiple_choice",
+      "question": "Why must researchers be cautious when interpreting main effects when a significant interaction is present?",
+      "options": [
+        {"id": "opt1", "text": "Because the interaction qualifies the main effect; the overall average may be misleading if the effect is only true in one specific condition", "isCorrect": true},
+        {"id": "opt2", "text": "Because statistical software automatically deletes main effects when an interaction occurs", "isCorrect": false},
+        {"id": "opt3", "text": "Because an interaction proves that the sample size was too small", "isCorrect": false},
+        {"id": "opt4", "text": "Because the Belmont Report forbids reporting both simultaneously", "isCorrect": false}
+      ],
+      "explanation": "Interactions supersede main effects: broad averages hide the fact that the IV only works (or works in reverse) under specific conditions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q8",
+      "type": "multiple_choice",
+      "question": "What is a Mixed Factorial Design?",
+      "options": [
+        {"id": "opt1", "text": "A design where at least one independent variable is between-subjects and at least one independent variable is within-subjects (repeated measures)", "isCorrect": true},
+        {"id": "opt2", "text": "A design that combines humans and animals in the same cage", "isCorrect": false},
+        {"id": "opt3", "text": "A study that mixes English and Spanish questions", "isCorrect": false},
+        {"id": "opt4", "text": "An experiment with no control group", "isCorrect": false}
+      ],
+      "explanation": "A mixed factorial design incorporates at least one independent groups factor and at least one repeated measures factor.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q9",
+      "type": "multiple_choice",
+      "question": "How many total conditions exist in a 2 x 2 x 3 factorial design?",
+      "options": [
+        {"id": "opt1", "text": "7 conditions", "isCorrect": false},
+        {"id": "opt2", "text": "12 conditions (2 x 2 x 3 = 12)", "isCorrect": true},
+        {"id": "opt3", "text": "8 conditions", "isCorrect": false},
+        {"id": "opt4", "text": "24 conditions", "isCorrect": false}
+      ],
+      "explanation": "Multiplying the levels of each factor gives the total number of cells: 2 x 2 x 3 = 12 conditions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q10",
+      "type": "multiple_choice",
+      "question": "What is the key limitation that separates Quasi-Experiments from True Experiments?",
+      "options": [
+        {"id": "opt1", "text": "Quasi-experiments lack random assignment of participants to experimental conditions", "isCorrect": true},
+        {"id": "opt2", "text": "Quasi-experiments never collect quantitative data", "isCorrect": false},
+        {"id": "opt3", "text": "Quasi-experiments are not recognized as scientific by peer-reviewed journals", "isCorrect": false},
+        {"id": "opt4", "text": "Quasi-experiments do not require ethical approval", "isCorrect": false}
+      ],
+      "explanation": "Because participants in quasi-experiments cannot be randomly assigned, pre-existing selection biases threaten internal validity.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q11",
+      "type": "multiple_choice",
+      "question": "In a Nonequivalent Control Group Pretest-Posttest design, why is administering a pretest essential?",
+      "options": [
+        {"id": "opt1", "text": "To verify whether the non-randomized groups were equivalent on the dependent variable prior to the intervention", "isCorrect": true},
+        {"id": "opt2", "text": "To artificially inflate statistical power to 1.00", "isCorrect": false},
+        {"id": "opt3", "text": "To convert the study into a randomized controlled trial", "isCorrect": false},
+        {"id": "opt4", "text": "To avoid having to compute posttest scores", "isCorrect": false}
+      ],
+      "explanation": "A pretest allows researchers to assess whether intact groups differed systematically before the treatment began.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q12",
+      "type": "multiple_choice",
+      "question": "A state government introduces a new highway speed limit law. Traffic researchers track monthly road fatality rates for 24 months before and 24 months after the policy takes effect. What design is this?",
+      "options": [
+        {"id": "opt1", "text": "Interrupted Time-Series Design", "isCorrect": true},
+        {"id": "opt2", "text": "Single-case ABAB reversal design", "isCorrect": false},
+        {"id": "opt3", "text": "Cross-sectional survey", "isCorrect": false},
+        {"id": "opt4", "text": "Double-blind clinical drug trial", "isCorrect": false}
+      ],
+      "explanation": "Repeated continuous observations before and after an abrupt environmental or policy intervention represent an interrupted time-series design.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q13",
+      "type": "multiple_choice",
+      "question": "What is the primary threat to an interrupted time-series design?",
+      "options": [
+        {"id": "opt1", "text": "A simultaneous historical event occurring at the exact same time as the intervention", "isCorrect": true},
+        {"id": "opt2", "text": "Random assignment error", "isCorrect": false},
+        {"id": "opt3", "text": "Failure to calculate Cronbach's alpha", "isCorrect": false},
+        {"id": "opt4", "text": "Participants taking too many surveys", "isCorrect": false}
+      ],
+      "explanation": "If another major event occurred at the exact same moment as the policy change, that historical event could account for the change in the dependent variable.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q14",
+      "type": "multiple_choice",
+      "question": "How does adding a 'Nonequivalent Comparison Group' strengthen an interrupted time-series design?",
+      "options": [
+        {"id": "opt1", "text": "It helps rule out historical events: if the fatality drop occurs only in the state with the law change and not in neighboring states, the law is the cause", "isCorrect": true},
+        {"id": "opt2", "text": "It eliminates all speed limits", "isCorrect": false},
+        {"id": "opt3", "text": "It makes the study completely double-blind", "isCorrect": false},
+        {"id": "opt4", "text": "It changes the measurement scale to ratio", "isCorrect": false}
+      ],
+      "explanation": "A comparison group exposed to the same regional historical events provides a baseline, proving the effect was specific to the intervention.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q15",
+      "type": "multiple_choice",
+      "question": "What distinguishes Small-N (Single-Case) Experimental Designs from classic observational case studies?",
+      "options": [
+        {"id": "opt1", "text": "Single-case experiments systematically manipulate an independent variable and continuously measure outcomes across structured phases", "isCorrect": true},
+        {"id": "opt2", "text": "Single-case experiments never study humans", "isCorrect": false},
+        {"id": "opt3", "text": "Case studies use statistics, while single-case experiments do not", "isCorrect": false},
+        {"id": "opt4", "text": "There is no difference; they are exact synonyms", "isCorrect": false}
+      ],
+      "explanation": "Single-case experiments possess experimental control: an independent variable is introduced, withdrawn, or staggered to demonstrate causal functional relations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q16",
+      "type": "multiple_choice",
+      "question": "In an ABAB single-case reversal design, what happens during the second 'A' phase?",
+      "options": [
+        {"id": "opt1", "text": "The treatment is temporarily withdrawn (reversal to baseline conditions)", "isCorrect": true},
+        {"id": "opt2", "text": "The participant is given double the medication dose", "isCorrect": false},
+        {"id": "opt3", "text": "A new participant is brought into the room", "isCorrect": false},
+        {"id": "opt4", "text": "The study is published immediately", "isCorrect": false}
+      ],
+      "explanation": "Phase A2 withdraws the treatment to demonstrate that the behavior returns toward baseline levels when the intervention is absent.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch7_q17",
+      "type": "multiple_choice",
+      "question": "Why is an ABAB reversal design considered one of the strongest demonstrations of causal control in behavioral science?",
+      "options": [
+        {"id": "opt1", "text": "Because it demonstrates that the behavior changes if and only if the treatment is introduced, withdrawn, and reintroduced", "isCorrect": true},
+        {"id": "opt2", "text": "Because it costs more money than a between-subjects trial", "isCorrect": false},
+        {"id": "opt3", "text": "Because it requires over 1,000 subjects", "isCorrect": false},
+        {"id": "opt4", "text": "Because it relies purely on subjective intuition", "isCorrect": false}
+      ],
+      "explanation": "Showing repeated functional replication across on-off-on phases provides overwhelming proof that the treatment—not coincidental history—causes the behavioral change.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q18",
+      "type": "multiple_choice",
+      "question": "When can an ABAB reversal design NOT be used to evaluate a behavioral intervention?",
+      "options": [
+        {"id": "opt1", "text": "When the intervention teaches a permanent skill (e.g., reading) that cannot be unlearned upon withdrawal", "isCorrect": true},
+        {"id": "opt2", "text": "When the participant is an adult", "isCorrect": false},
+        {"id": "opt3", "text": "When data are collected on a computer", "isCorrect": false},
+        {"id": "opt4", "text": "When the baseline exceeds 10 days", "isCorrect": false}
+      ],
+      "explanation": "If a skill or insight is irreversible once acquired, withdrawing the intervention will not cause behavior to return to baseline, invalidating the reversal.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q19",
+      "type": "multiple_choice",
+      "question": "What is the primary design structure of a Multiple-Baseline Design?",
+      "options": [
+        {"id": "opt1", "text": "Treatment is introduced at staggered, different points in time across multiple behaviors, participants, or settings", "isCorrect": true},
+        {"id": "opt2", "text": "Every participant receives three different medications simultaneously", "isCorrect": false},
+        {"id": "opt3", "text": "The researcher takes baseline data in three different countries at once", "isCorrect": false},
+        {"id": "opt4", "text": "The study combines qualitative and quantitative surveys", "isCorrect": false}
+      ],
+      "explanation": "Multiple-baseline designs stagger the start of treatment across different targets; showing that each target changes only when treatment begins proves causality without reversal.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q20",
+      "type": "multiple_choice",
+      "question": "In a Multiple-Baseline Across Behaviors design, what should happen to Behavior 2 while Behavior 1 is receiving treatment?",
+      "options": [
+        {"id": "opt1", "text": "Behavior 2 should remain at its stable baseline rate until treatment is specifically applied to it", "isCorrect": true},
+        {"id": "opt2", "text": "Behavior 2 should immediately drop to zero", "isCorrect": false},
+        {"id": "opt3", "text": "Behavior 2 should be deleted from the study", "isCorrect": false},
+        {"id": "opt4", "text": "Behavior 2 should increase tenfold", "isCorrect": false}
+      ],
+      "explanation": "If untreated behaviors remain stable at baseline while only the treated behavior changes, experimental control is firmly confirmed.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q21",
+      "type": "multiple_choice",
+      "question": "What statistical test is most commonly used to analyze data from a 2 x 2 between-subjects factorial experiment?",
+      "options": [
+        {"id": "opt1", "text": "Two-Way Analysis of Variance (Two-Way ANOVA)", "isCorrect": true},
+        {"id": "opt2", "text": "Independent samples t-test", "isCorrect": false},
+        {"id": "opt3", "text": "Spearman rank correlation", "isCorrect": false},
+        {"id": "opt4", "text": "Chi-Square goodness of fit", "isCorrect": false}
+      ],
+      "explanation": "A Two-Way ANOVA evaluates Main Effect A, Main Effect B, and the Interaction Effect (A x B) simultaneously.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch7_q22",
+      "type": "multiple_choice",
+      "question": "What is a 'Spreading Interaction' on a factorial plot?",
+      "options": [
+        {"id": "opt1", "text": "An interaction where lines start together at one level of Factor B and diverge or fan out at the other level", "isCorrect": true},
+        {"id": "opt2", "text": "When data points spill outside the boundaries of the paper", "isCorrect": false},
+        {"id": "opt3", "text": "When participants talk about the study on social media", "isCorrect": false},
+        {"id": "opt4", "text": "When standard deviations are zero", "isCorrect": false}
+      ],
+      "explanation": "A spreading interaction occurs when an IV has an effect under one condition (e.g., when a person is motivated) but virtually no effect under another condition.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

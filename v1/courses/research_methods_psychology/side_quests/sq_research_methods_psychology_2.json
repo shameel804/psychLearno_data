@@ -1,0 +1,94 @@
+{
+  "id": "sq_research_methods_psychology_2",
+  "title": "Investigating the Social Media & Adolescent Well-Being Paradox",
+  "triggerChapterIndex": 4,
+  "metadata": {
+    "type": "scenario_analysis"
+  },
+  "questions": [
+    {
+      "id": "sq2_q1",
+      "type": "multiple_choice",
+      "question": "Scenario: Dr. Ellis conducts a cross-sectional study on 2,000 high school students and finds a statistically significant negative correlation (r = -0.32, p < 0.001) between daily Instagram screen time and self-reported emotional well-being. A tech blog reports: 'Instagram directly destroys teenage happiness.' What is the fundamental methodological flaw in this headline?",
+      "options": [
+        {"id": "opt1", "text": "It infers a causal relationship from a cross-sectional correlational design without establishing temporal precedence or ruling out third variables", "isCorrect": true},
+        {"id": "opt2", "text": "The sample size of 2,000 is far too small for statistical significance", "isCorrect": false},
+        {"id": "opt3", "text": "Negative correlations can never be statistically significant", "isCorrect": false},
+        {"id": "opt4", "text": "Instagram cannot be measured on a ratio scale", "isCorrect": false}
+      ],
+      "explanation": "A cross-sectional correlation shows an association, but cannot establish that screen time causes diminished well-being; unhappy teens might seek out more screen time (reverse directionality), or family conflict could drive both.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q2",
+      "type": "multiple_choice",
+      "question": "Dr. Ellis recruited all 2,000 participants by posting a link on her university lab's public Twitter account. What sampling bias threatens the external validity of her findings?",
+      "options": [
+        {"id": "opt1", "text": "Simple random sampling bias", "isCorrect": false},
+        {"id": "opt2", "text": "Self-selection convenience bias (volunteers who follow a psychology Twitter account differ systematically from the general adolescent population)", "isCorrect": true},
+        {"id": "opt3", "text": "Stratified cluster error", "isCorrect": false},
+        {"id": "opt4", "text": "The Hawthorne effect", "isCorrect": false}
+      ],
+      "explanation": "Using an online volunteer link on Twitter selects a self-selected convenience sample that is not representative of all adolescents.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q3",
+      "type": "multiple_choice",
+      "question": "To operationalize 'emotional well-being', Dr. Ellis created a 10-item Likert survey. She calculates Cronbach's alpha as α = 0.88. What psychometric conclusion can she draw from this metric?",
+      "options": [
+        {"id": "opt1", "text": "The scale has strong internal consistency reliability", "isCorrect": true},
+        {"id": "opt2", "text": "The scale has proven predictive criterion validity", "isCorrect": false},
+        {"id": "opt3", "text": "The scale has zero measurement error", "isCorrect": false},
+        {"id": "opt4", "text": "The scale represents a ratio level of measurement", "isCorrect": false}
+      ],
+      "explanation": "A Cronbach's alpha of 0.88 confirms that the items on the scale consistently measure the same underlying conceptual construct.",
+      "xpReward": 25,
+      "difficulty": 1
+    },
+    {
+      "id": "sq2_q4",
+      "type": "multiple_choice",
+      "question": "When Dr. Ellis statistically controls for 'nighttime sleep disruption' using a partial correlation, the correlation between social media use and low well-being drops from r = -0.32 to r = -0.04 (non-significant). What does this reveal?",
+      "options": [
+        {"id": "opt1", "text": "Sleep disruption was a confounding third variable explaining the initial correlation", "isCorrect": true},
+        {"id": "opt2", "text": "The study committed scientific fraud", "isCorrect": false},
+        {"id": "opt3", "text": "Social media use causes permanent brain damage", "isCorrect": false},
+        {"id": "opt4", "text": "The measurement scale changed from ordinal to interval", "isCorrect": false}
+      ],
+      "explanation": "When controlling for sleep eliminates the correlation, it demonstrates that sleep loss was the confounding mediator/third variable driving the apparent relationship.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q5",
+      "type": "multiple_choice",
+      "question": "Because the participants were 15-year-old high school students, what ethical protocol was legally and procedurally required before collecting their data?",
+      "options": [
+        {"id": "opt1", "text": "Only the student's verbal agreement was required", "isCorrect": false},
+        {"id": "opt2", "text": "Informed consent from parents or legal guardians, along with the adolescent's developmental assent", "isCorrect": true},
+        {"id": "opt3", "text": "A waiver of all ethical oversight signed by the school principal", "isCorrect": false},
+        {"id": "opt4", "text": "Submission to an IACUC animal committee", "isCorrect": false}
+      ],
+      "explanation": "Minors cannot legally provide informed consent; parents or legal guardians must provide consent, and minors must provide assent.",
+      "xpReward": 25,
+      "difficulty": 1
+    },
+    {
+      "id": "sq2_q6",
+      "type": "multiple_choice",
+      "question": "To establish temporal precedence without a laboratory intervention, what longitudinal research design should Dr. Ellis deploy?",
+      "options": [
+        {"id": "opt1", "text": "A cross-lagged panel design tracking both screen time and well-being at 6-month intervals across 2 years", "isCorrect": true},
+        {"id": "opt2", "text": "A single-case study of one depressed teenager", "isCorrect": false},
+        {"id": "opt3", "text": "An anonymous web poll with 100,000 clicks", "isCorrect": false},
+        {"id": "opt4", "text": "A naturalistic observation of a computer lab for 10 minutes", "isCorrect": false}
+      ],
+      "explanation": "A cross-lagged panel design measures both variables repeatedly across time to determine whether screen time predicts subsequent well-being or vice versa.",
+      "xpReward": 25,
+      "difficulty": 2
+    }
+  ]
+}

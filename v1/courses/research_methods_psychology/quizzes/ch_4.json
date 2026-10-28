@@ -1,0 +1,318 @@
+{
+  "id": "quiz_ch_4",
+  "chapterId": "ch_4",
+  "title": "Chapter 4 Mastery Quiz: Observational, Descriptive & Qualitative Methods",
+  "description": "Master naturalistic and structured observation, observer bias, participant reactivity, single-case studies, and thematic analysis.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch4_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary advantage of naturalistic observation over laboratory experiments?",
+      "options": [
+        {"id": "opt1", "text": "High experimental control over confounding variables", "isCorrect": false},
+        {"id": "opt2", "text": "High ecological validity, capturing spontaneous real-world behavior", "isCorrect": true},
+        {"id": "opt3", "text": "The ability to firmly establish cause-and-effect relationships", "isCorrect": false},
+        {"id": "opt4", "text": "Zero requirement for ethical review", "isCorrect": false}
+      ],
+      "explanation": "Naturalistic observation observes behavior in genuine real-life settings, giving it exceptional ecological validity.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q2",
+      "type": "multiple_choice",
+      "question": "What is Mary Ainsworth's famous 'Strange Situation' protocol an example of?",
+      "options": [
+        {"id": "opt1", "text": "Structured (laboratory) observation", "isCorrect": true},
+        {"id": "opt2", "text": "Naturalistic observation in a forest", "isCorrect": false},
+        {"id": "opt3", "text": "Archival census analysis", "isCorrect": false},
+        {"id": "opt4", "text": "Double-blind pharmacological trial", "isCorrect": false}
+      ],
+      "explanation": "The Strange Situation uses a standardized laboratory sequence of episodes to observe infant attachment behaviors under controlled conditions.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q3",
+      "type": "multiple_choice",
+      "question": "In participant observation, what is the major risk known as 'going native'?",
+      "options": [
+        {"id": "opt1", "text": "Forgetting to record participant demographic data", "isCorrect": false},
+        {"id": "opt2", "text": "Becoming so emotionally and culturally identified with the group that scientific objectivity is lost", "isCorrect": true},
+        {"id": "opt3", "text": "Contracting a tropical illness while conducting field research", "isCorrect": false},
+        {"id": "opt4", "text": "Refusing to accept research grant funding", "isCorrect": false}
+      ],
+      "explanation": "'Going native' occurs when a participant observer over-identifies with the observed group, losing neutral analytical perspective.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q4",
+      "type": "multiple_choice",
+      "question": "What is participant reactivity?",
+      "options": [
+        {"id": "opt1", "text": "An allergic reaction to laboratory stimuli", "isCorrect": false},
+        {"id": "opt2", "text": "A change in behavior that occurs because the participant is aware of being observed", "isCorrect": true},
+        {"id": "opt3", "text": "The statistical power of an interaction term in ANOVA", "isCorrect": false},
+        {"id": "opt4", "text": "The delay between stimulus presentation and verbal recall", "isCorrect": false}
+      ],
+      "explanation": "Reactivity (such as the Hawthorne Effect) happens when people modify their actions because they know someone is watching them.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q5",
+      "type": "multiple_choice",
+      "question": "Which methodological technique is designed to eliminate participant reactivity by allowing participants to become accustomed to the presence of an observer over time?",
+      "options": [
+        {"id": "opt1", "text": "Habituation", "isCorrect": true},
+        {"id": "opt2", "text": "Counterbalancing", "isCorrect": false},
+        {"id": "opt3", "text": "Double-blinding", "isCorrect": false},
+        {"id": "opt4", "text": "Stratified random sampling", "isCorrect": false}
+      ],
+      "explanation": "Habituation involves extended exposure to observers until participants view them as background furniture and return to natural behavior.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q6",
+      "type": "multiple_choice",
+      "question": "An observer records the frequency of aggressive behaviors during a school recess. If the observer expects boys to be more aggressive than girls, their tendency to interpret ambiguous shoves as aggression exclusively in boys is an example of:",
+      "options": [
+        {"id": "opt1", "text": "Observer Bias (Expectancy Bias)", "isCorrect": true},
+        {"id": "opt2", "text": "The Hawthorne Effect", "isCorrect": false},
+        {"id": "opt3", "text": "Attrition", "isCorrect": false},
+        {"id": "opt4", "text": "Regression to the mean", "isCorrect": false}
+      ],
+      "explanation": "Observer bias occurs when an observer's personal expectations or hypotheses influence how they perceive and record behaviors.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q7",
+      "type": "multiple_choice",
+      "question": "What is the most effective methodological remedy to protect against observer bias in behavioral coding?",
+      "options": [
+        {"id": "opt1", "text": "Using observers who are blind to the study hypotheses and group conditions", "isCorrect": true},
+        {"id": "opt2", "text": "Paying observers double their hourly rate", "isCorrect": false},
+        {"id": "opt3", "text": "Instructing observers to use intuitive gut feelings", "isCorrect": false},
+        {"id": "opt4", "text": "Removing operational definitions from the codebook", "isCorrect": false}
+      ],
+      "explanation": "Using blind raters who do not know the hypotheses or participant conditions prevents expectations from biasing coding.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q8",
+      "type": "multiple_choice",
+      "question": "Measuring which book sections in a public library have the most worn and torn carpet is an example of:",
+      "options": [
+        {"id": "opt1", "text": "A physical trace (unobtrusive) measure", "isCorrect": true},
+        {"id": "opt2", "text": "A semi-structured qualitative interview", "isCorrect": false},
+        {"id": "opt3", "text": "A within-subjects experimental design", "isCorrect": false},
+        {"id": "opt4", "text": "A Latin square counterbalancing technique", "isCorrect": false}
+      ],
+      "explanation": "Physical trace measures evaluate behavioral erosion or accretion without interacting with or disrupting participants.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q9",
+      "type": "multiple_choice",
+      "question": "In behavioral observation, what does 'Time Sampling' involve?",
+      "options": [
+        {"id": "opt1", "text": "Recording behaviors during pre-specified, structured time intervals (e.g., 10 seconds every 2 minutes)", "isCorrect": true},
+        {"id": "opt2", "text": "Waiting for a behavioral event to occur and recording its total clock duration", "isCorrect": false},
+        {"id": "opt3", "text": "Asking participants to guess what time it is", "isCorrect": false},
+        {"id": "opt4", "text": "Conducting studies exclusively between 9:00 AM and 5:00 PM", "isCorrect": false}
+      ],
+      "explanation": "Time sampling involves dividing the observation period into intervals and recording whether target behaviors occur during each interval.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q10",
+      "type": "multiple_choice",
+      "question": "What is the primary scientific limitation of the single-case study method (e.g., Patient H.M. or Phineas Gage)?",
+      "options": [
+        {"id": "opt1", "text": "It cannot generate novel hypotheses", "isCorrect": false},
+        {"id": "opt2", "text": "It lacks generalizability and cannot establish causal laws for the broader population", "isCorrect": true},
+        {"id": "opt3", "text": "It requires expensive neuroimaging in every instance", "isCorrect": false},
+        {"id": "opt4", "text": "It is banned by the American Psychological Association", "isCorrect": false}
+      ],
+      "explanation": "Because a single individual (N = 1) may possess idiosyncratic traits or unique brain variations, findings cannot be widely generalized.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q11",
+      "type": "multiple_choice",
+      "question": "How did the case of Phineas Gage advance psychological science?",
+      "options": [
+        {"id": "opt1", "text": "It proved that vision is processed in the occipital lobe", "isCorrect": false},
+        {"id": "opt2", "text": "It provided early clinical evidence linking the prefrontal cortex to personality, social inhibition, and emotional control", "isCorrect": true},
+        {"id": "opt3", "text": "It established the need for double-blind survey methods", "isCorrect": false},
+        {"id": "opt4", "text": "It demonstrated that operant conditioning cures brain damage", "isCorrect": false}
+      ],
+      "explanation": "Gage's dramatic personality changes following severe bilateral ventromedial prefrontal cortex damage localized social-emotional regulation to frontal lobes.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q12",
+      "type": "multiple_choice",
+      "question": "A researcher evaluates whether temperature correlates with violent crime by examining 20 years of city police arrest logs. What research design is this?",
+      "options": [
+        {"id": "opt1", "text": "Archival research", "isCorrect": true},
+        {"id": "opt2", "text": "Participant observation", "isCorrect": false},
+        {"id": "opt3", "text": "Laboratory experiment", "isCorrect": false},
+        {"id": "opt4", "text": "Qualitative thematic focus group", "isCorrect": false}
+      ],
+      "explanation": "Analyzing pre-existing organizational or government records collected for non-research purposes is archival research.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q13",
+      "type": "multiple_choice",
+      "question": "What is a major limitation of archival research?",
+      "options": [
+        {"id": "opt1", "text": "Extreme participant reactivity during data collection", "isCorrect": false},
+        {"id": "opt2", "text": "The researcher has no control over which variables were recorded or how accurately they were measured by original record-keepers", "isCorrect": true},
+        {"id": "opt3", "text": "It is impossible to analyze longitudinal trends", "isCorrect": false},
+        {"id": "opt4", "text": "It is always classified as Full Board review by IRBs", "isCorrect": false}
+      ],
+      "explanation": "Because archival records were compiled by third parties, important variables may be missing, inconsistent, or categorized inadequately.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q14",
+      "type": "multiple_choice",
+      "question": "What distinguishes qualitative research from quantitative research?",
+      "options": [
+        {"id": "opt1", "text": "Qualitative research focuses on narrative meaning and lived experience rather than numerical statistical tests", "isCorrect": true},
+        {"id": "opt2", "text": "Qualitative research never collects data from humans", "isCorrect": false},
+        {"id": "opt3", "text": "Qualitative research is only conducted by medical doctors", "isCorrect": false},
+        {"id": "opt4", "text": "Quantitative research does not care about accuracy", "isCorrect": false}
+      ],
+      "explanation": "Qualitative research analyzes narrative, linguistic, and visual data to explore subjective meanings and complex contexts.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q15",
+      "type": "multiple_choice",
+      "question": "What is a semi-structured interview?",
+      "options": [
+        {"id": "opt1", "text": "An interview with rigid yes/no questions where the interviewer cannot deviate from a script", "isCorrect": false},
+        {"id": "opt2", "text": "An interview guided by open-ended questions and flexible prompts that allow the interviewer to explore emergent topics", "isCorrect": true},
+        {"id": "opt3", "text": "An interview conducted by a computer algorithm without human presence", "isCorrect": false},
+        {"id": "opt4", "text": "A casual chat in a hallway without any planned questions", "isCorrect": false}
+      ],
+      "explanation": "Semi-structured interviews use a prepared guide with open-ended flexibility to follow up on unexpected participant insights.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q16",
+      "type": "multiple_choice",
+      "question": "In thematic analysis (Braun & Clarke, 2006), what is the first fundamental step?",
+      "options": [
+        {"id": "opt1", "text": "Calculating statistical correlations in SPSS", "isCorrect": false},
+        {"id": "opt2", "text": "Familiarizing oneself with the data through repeated, active reading of transcripts", "isCorrect": true},
+        {"id": "opt3", "text": "Publishing the results in an academic journal", "isCorrect": false},
+        {"id": "opt4", "text": "Deleting half the transcripts to save time", "isCorrect": false}
+      ],
+      "explanation": "Phase 1 requires deep immersion and familiarization with the textual data by reading and re-reading transcripts.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q17",
+      "type": "multiple_choice",
+      "question": "What is a 'code' in qualitative analysis?",
+      "options": [
+        {"id": "opt1", "text": "A computer password used to encrypt audio recordings", "isCorrect": false},
+        {"id": "opt2", "text": "A concise label identifying an interesting or meaningful feature of the textual data", "isCorrect": true},
+        {"id": "opt3", "text": "A secret chemical formula used in neuroimaging", "isCorrect": false},
+        {"id": "opt4", "text": "The p-value associated with a chi-square test", "isCorrect": false}
+      ],
+      "explanation": "In qualitative coding, a code is a descriptive or conceptual tag assigned to a segment of text to capture its core meaning.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q18",
+      "type": "multiple_choice",
+      "question": "How does a 'theme' differ from a 'code' in thematic analysis?",
+      "options": [
+        {"id": "opt1", "text": "Themes are broad patterns of shared meaning across multiple codes; codes are specific granular text tags", "isCorrect": true},
+        {"id": "opt2", "text": "Codes are used only in psychology; themes are used only in literature", "isCorrect": false},
+        {"id": "opt3", "text": "Themes are generated by computers, while codes are written by humans", "isCorrect": false},
+        {"id": "opt4", "text": "There is no difference; they are exact synonyms", "isCorrect": false}
+      ],
+      "explanation": "Themes represent broader organizing concepts that capture unified patterns of meaning across multiple clustered codes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q19",
+      "type": "multiple_choice",
+      "question": "What is 'reflexivity' in qualitative research?",
+      "options": [
+        {"id": "opt1", "text": "The knee-jerk patellar response tested by doctors", "isCorrect": false},
+        {"id": "opt2", "text": "The critical self-awareness and transparent examination of how the researcher's own identity and biases influence the research process", "isCorrect": true},
+        {"id": "opt3", "text": "The speed of typing interview transcripts", "isCorrect": false},
+        {"id": "opt4", "text": "The requirement to only study reflexive motor movements", "isCorrect": false}
+      ],
+      "explanation": "Reflexivity requires researchers to critically examine their personal beliefs, social position, and assumptions to acknowledge how they shape interpretations.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q20",
+      "type": "multiple_choice",
+      "question": "What is the typical ideal size of a focus group in psychological research?",
+      "options": [
+        {"id": "opt1", "text": "1 to 2 people", "isCorrect": false},
+        {"id": "opt2", "text": "6 to 10 people", "isCorrect": true},
+        {"id": "opt3", "text": "50 to 100 people", "isCorrect": false},
+        {"id": "opt4", "text": "1,000 people in a stadium", "isCorrect": false}
+      ],
+      "explanation": "A group of 6 to 10 participants allows rich dynamic interaction while ensuring every member has adequate opportunity to speak.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch4_q21",
+      "type": "multiple_choice",
+      "question": "What is 'triangulation' in descriptive and qualitative methodologies?",
+      "options": [
+        {"id": "opt1", "text": "Using three separate statistical tests on a single variable", "isCorrect": false},
+        {"id": "opt2", "text": "Synthesizing multiple data sources, methods, or observers to cross-verify findings", "isCorrect": true},
+        {"id": "opt3", "text": "Interviewing three siblings from the same family", "isCorrect": false},
+        {"id": "opt4", "text": "Restricting study time to 3:00 PM every day", "isCorrect": false}
+      ],
+      "explanation": "Methodological triangulation uses diverse data streams (e.g., observation, interviews, surveys) to build robust, corroborated conclusions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch4_q22",
+      "type": "multiple_choice",
+      "question": "An observational study of maternal-infant bonding produces an inter-rater reliability of Cohen's Kappa = 0.89. What does this indicate?",
+      "options": [
+        {"id": "opt1", "text": "Very poor agreement between raters", "isCorrect": false},
+        {"id": "opt2", "text": "Strong, robust agreement between independent observers, demonstrating a reliable coding system", "isCorrect": true},
+        {"id": "opt3", "text": "The null hypothesis must be accepted", "isCorrect": false},
+        {"id": "opt4", "text": "The study suffered from severe participant attrition", "isCorrect": false}
+      ],
+      "explanation": "A Cohen's Kappa above 0.80 represents strong to near-perfect inter-rater agreement beyond chance, confirming coding reliability.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}

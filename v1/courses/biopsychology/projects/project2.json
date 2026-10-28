@@ -1,0 +1,20 @@
+{
+  "id": "project2",
+  "title": "Translational Cognitive Neuroscience Proposal: fMRI & EEG Investigation of Sleep & Memory Consolidation",
+  "description": "Design an empirical neuroimaging research protocol combining polysomnography, fMRI BOLD signals, and hippocampal-cortical connectivity during learning.",
+  "difficulty": "Advanced",
+  "estimatedHours": "5-7",
+  "problemStatement": "Design a multimodal empirical research proposal investigating how Stage N3 slow-wave sleep and sleep spindles orchestrate the systems consolidation of declarative episodic memory from the hippocampus to the neocortex in human subjects.\n\nYour protocol must be ready for Institutional Review Board (IRB) submission, featuring comprehensive methodological, electrophysiological, hemodynamic, and statistical specifications.",
+  "requirements": [
+    "Formulate testable, directional hypotheses regarding the correlation between sleep spindle density (11-16 Hz in N2/N3) and post-sleep retrieval accuracy on a paired-associate memory task.",
+    "Specify the polysomnographic (PSG) recording parameters (EEG electrode placement using the 10-20 international system, EOG channels, EMG chin placement, and sampling rates >= 500 Hz).",
+    "Detail the fMRI scan protocol before and after sleep, including BOLD contrast parameters, repetition time (TR), echo time (TE), and cognitive subtraction baseline tasks.",
+    "Describe the mathematical and neurobiological model of systems consolidation: how hippocampal Sharp-Wave Ripples (SWRs), thalamocortical sleep spindles, and cortical slow oscillations (<1 Hz) synchronize to drive memory transfer.",
+    "Incorporate an assessment of the Glymphatic System: outline how diffusion-weighted MRI or non-invasive CSF flow quantification could measure interstitial waste clearance during slow-wave epochs.",
+    "Establish rigorous ethical safeguards for sleep deprivation control groups and data privacy protections for neural recordings."
+  ],
+  "hints": [
+    "Hint 1: The triple-phase synchronization model involves slow cortical oscillations (<1 Hz) grouping thalamic sleep spindles, which in turn nest hippocampal sharp-wave ripples.",
+    "Hint 2: Ensure your fMRI task controls for general arousal by using a matched sensory baseline task."
+  ]
+}

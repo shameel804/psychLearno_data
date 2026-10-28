@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_3",
+  "title": "Documenting the Stream of Consciousness: Phenomenological Protocol",
+  "description": "Record and analyze a continuous flow of conscious thoughts, testing William James's 5 core tenets.",
+  "estimatedMinutes": 12,
+  "problemStatement": "William James characterized consciousness as an unbroken stream that is personal, constantly changing, continuous, selective, and functionally adaptive.\n\n### Instructions:\n1. Sit in a quiet room for 5 minutes and record an unfiltered stream of conscious thoughts.\n2. Review your transcript and identify where selective attention focused on specific sensory inputs while ignoring others.\n3. Identify whether your thoughts appeared in 'static elemental blocks' (Structuralism) or in continuous associative flowing transitions (Functionalism).\n4. Evaluate whether your thoughts served an adaptive function (e.g., planning, anticipating danger, resolving social conflict).",
+  "hints": [
+    "Hint 1: Notice how a sudden external sound immediately integrates into ongoing internal reflections.",
+    "Hint 2: Pay attention to 'fringes' of consciousness\u2014subtle feelings of familiarity or anticipation."
+  ]
+}

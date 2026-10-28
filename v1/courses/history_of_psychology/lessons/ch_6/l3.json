@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_6",
+  "title": "Humanism: The Third Force & Carl Rogers",
+  "description": "Understand the humanistic revolt against determinism, person-centered therapy, and unconditional positive regard.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Humanistic Psychology",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "The 'Third Force' Arrives \u2728",
+      "content": "# Rejecting Pessimism and Mechanism\n\nBy the 1950s, American psychology was dominated by two powerful paradigms:\n1. **Psychoanalysis**: Viewed humans as helpless victims of dark, unconscious sexual and aggressive instincts forged in early childhood.\n2. **Behaviorism**: Viewed humans as passive, robotic stimulus-response machines conditioned by external rewards and punishments.\n\nA growing coalition of psychologists rejected both views as dehumanizing. They founded **Humanistic Psychology**, proudly declaring it the **'Third Force'**.\n\n### The Core Humanistic Assumptions\n* Human beings have innate free will, subjective conscious agency, and dignity.\n* People are fundamentally good and driven by an innate biological drive toward growth, health, and self-realization.\n* Psychology must study the whole person (*holism*) from their own subjective phenomenological perspective."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Why did humanistic psychology refer to itself as the 'Third Force' in mid-20th-century psychology?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "It positioned itself as an alternative to the dominant paradigms of psychoanalysis and behaviorism",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "It was the third psychology lab established in Germany",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "It combined biology, physics, and chemistry into one department",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "It was funded by the United Nations third council",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Humanism called itself the Third Force because it offered an alternative to Freudian deterministic psychoanalysis (Force 1) and Skinnerian mechanistic behaviorism (Force 2).",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Carl Rogers & Person-Centered Therapy \ud83e\udd1d",
+      "content": "# The Power of Empathetic Acceptance\n\nAmerican psychologist **Carl Ransom Rogers** (1902\u20131987) revolutionized clinical therapy. He rejected the medical term 'patient' (which implied sickness and passive submission to a doctor), replacing it with **'client'**.\n\nIn his 1951 work *Client-Centered Therapy*, Rogers asserted that therapists should not interpret dreams or tell clients what to do. The client possesses the innate resources for self-understanding and healing.\n\n### The 3 Core Conditions for Therapeutic Growth\n1. **Congruence (Genuineness)**: The therapist must be open, authentic, and real, without a professional defensive facade.\n2. **Unconditional Positive Regard (UPR)**: Total, non-judgmental acceptance of the client's worth as a human being, free of conditions of worth.\n3. **Accurate Empathic Understanding**: The ability to sense the client's private subjective world as if it were your own, communicating deep understanding through reflective listening."
+    },
+    {
+      "id": "s_l3_4",
+      "type": "tip",
+      "title": "Conditions of Worth & Congruence \ud83e\ude9e",
+      "content": "## Real Self vs. Ideal Self\n\nRogers argued that psychological suffering occurs when parents or society place **Conditions of Worth** on love (*'I will only love you if you get straight A's or become a doctor'*).\n\nThis creates painful **Incongruence** between:\n* **The Real Self**: Who we genuinely are.\n* **The Ideal Self**: Who we feel we *must* be to receive love and approval.\n\nUnconditional Positive Regard dissolves conditions of worth, enabling the individual to become a **Fully Functioning Person** living with creative freedom and self-trust."
+    }
+  ]
+}

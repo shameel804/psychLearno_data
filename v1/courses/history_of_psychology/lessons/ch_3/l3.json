@@ -1,0 +1,64 @@
+{
+  "id": "l3",
+  "chapterId": "ch_3",
+  "title": "The Chicago & Columbia Schools of Functionalism",
+  "description": "Analyze John Dewey's reflex arc manifesto, Angell's functional tenets, and Woodworth's dynamic S-O-R formula.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Functionalist Schools",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "John Dewey & The Reflex Arc (1896) \u26a1",
+      "content": "# The Birth of Functionalism as a Formal School\n\nIn 1896, philosopher and educator **John Dewey** (1859\u20131952) published a landmark paper in *Psychological Review* entitled *'The Reflex Arc Concept in Psychology'*.\n\nDewey attacked the conventional mechanistic view that behavior consists of isolated stimulus-response segments (Stimulus -> Central processing -> Response).\n\n### The Child and the Candle Flame\n* A child sees a bright flame (Stimulus), reaches out (Response), burns their finger, and recoils.\n* Mechanical psychology viewed this as two separate reflex arcs.\n* Dewey argued this is an **integrated, continuous coordination**: the child's next perception of the flame is altered permanently! Sensation and movement inform each other in an ongoing feedback loop designed to adapt to the environment."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "Which 1896 landmark publication by John Dewey is widely considered the founding manifesto of the Functionalist school?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "The Reflex Arc Concept in Psychology",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Psychology as the Behaviorist Views It",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "The Animal Mind",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Beyond the Pleasure Principle",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Dewey's 1896 paper 'The Reflex Arc Concept in Psychology' argued against dissecting behavior into artificial segments, launching Functionalism.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Angell, Carr & Woodworth's Dynamic S-O-R \ud83d\udd04",
+      "content": "## Institutionalizing Functionalism\n\nFunctionalism flourished across two major intellectual centers:\n\n### 1. The University of Chicago\n* **James Rowland Angell** (1869\u20131949): In his 1906 APA Presidential Address, he defined Functionalism:\n  1. Functional psychology studies mental operations, not mental elements.\n  2. It studies the fundamental utility of consciousness as an instrument of adaptation.\n  3. It recognizes the total psychophysical unity of mind and body.\n* **Harvey Carr** (1873\u20131954): Formalized functionalism into a mature laboratory research program on learning and perception.\n\n### 2. Columbia University: Dynamic Psychology\n* **Robert S. Woodworth** (1869\u20131962): Argued that simple Stimulus-Response ($S \\rightarrow R$) behaviorism was incomplete.\n* He introduced the **$S \\rightarrow O \\rightarrow R$ formula**: Stimulus -> **Organism** -> Response. Internal motivation, drive, and physiological states inside the organism determine how it reacts to external stimuli!"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "tip",
+      "title": "Functionalism's Practical Triumphs \ud83c\udfeb",
+      "content": "## Applied Psychology Flourishes\n\nBecause Functionalism focused on practical utility, it spawned major applied psychology fields in America:\n* **Educational Psychology** (Dewey & Thorndike)\n* **Industrial-Organizational Psychology** (Hugo M\u00fcnsterberg)\n* **Clinical & Intelligence Testing** (Lightner Witmer & James McKeen Cattell)"
+    }
+  ]
+}

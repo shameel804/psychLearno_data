@@ -1,0 +1,73 @@
+{
+  "id": "l4",
+  "chapterId": "ch_2",
+  "title": "Scientific Integrity & Non-Human Animal Research Ethics",
+  "description": "Understand research fraud (falsification, fabrication), plagiarism, and ethical oversight of laboratory animals via IACUC and the 3Rs.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Research Integrity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Scientific Misconduct: The Unforgivable Sins 🛑",
+      "content": "# Protecting Truth in Psychological Science\n\nScience functions on trust. Scientific misconduct destroys public credibility and misleads other researchers who build upon fraudulent findings:\n\n* **Fabrication**: Making up data or results out of thin air and recording or reporting them.\n* **Falsification**: Manipulating research materials, equipment, or processes, or changing/omitting data points without justification so that the research is not accurately represented.\n* **Plagiarism**: Appropriating another person's ideas, processes, results, or words without giving appropriate credit.\n\n*Consequences*: Retraction of published papers, loss of academic degrees, dismissal from universities, and lifelong federal funding bans."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Integrity Check: Defining Misconduct 🚨",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "A researcher notices that 5 outlier participants contradict their preferred hypothesis, and deletes those 5 data points without disclosing or methodologically justifying the exclusion. What form of scientific misconduct is this?",
+        "options": [
+          {"id": "opt1", "text": "Plagiarism", "isCorrect": false},
+          {"id": "opt2", "text": "Falsification", "isCorrect": true},
+          {"id": "opt3", "text": "Exempt review", "isCorrect": false},
+          {"id": "opt4", "text": "Naturalistic observation", "isCorrect": false}
+        ],
+        "explanation": "Altering or selectively omitting data without justification to distort the scientific record is the definition of data falsification.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Ethics in Non-Human Animal Research 🐾",
+      "content": "## Institutional Animal Care and Use Committees (IACUC)\n\nApproximately 7–8% of psychological research involves animals (primarily rodents, pigeons, and non-human primates). Animal research is governed by strict federal standards and reviewed by an **Institutional Animal Care and Use Committee (IACUC)**.\n\nEvery animal research protocol must justify:\n1. Why non-animal models (e.g., computer simulations, tissue cultures) cannot answer the scientific question.\n2. How discomfort, pain, and illness will be prevented or minimized through veterinary care and anesthesia.\n3. Clear societal, health, or behavioral benefits that justify the use of animals."
+    },
+    {
+      "id": "s_l4_4",
+      "type": "text",
+      "title": "The Guiding 3Rs Framework 🌿",
+      "content": "## The Three Rs in Humane Animal Research\n\nModern ethical animal research follows Russell and Burch's universally adopted **3Rs** framework:\n\n| Principle | Ethical Mandate | Concrete Implementation |\n| :--- | :--- | :--- |\n| **Replacement** | Avoid or replace animals whenever possible | Use computational neural networks, cell cultures, or human neuroimaging. |\n| **Reduction** | Minimize the number of animals used per study | Use sophisticated statistical power calculations and optimized experimental designs. |\n| **Refinement** | Minimize pain, suffering, or distress | Enrich home cage environments, use superior anesthetics and gentle handling techniques. |\n\nIACUCs enforce these standards rigorously before any experimental animal protocol can proceed."
+    },
+    {
+      "id": "s_l4_5",
+      "type": "quiz",
+      "title": "Animal Ethics Check: The 3Rs 🐶",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "A neurobiologist modifies a surgical protocol to use micro-incisions and advanced local analgesics, reducing recovery time and post-operative discomfort in laboratory rats. Which of the 3Rs does this represent?",
+        "options": [
+          {"id": "opt1", "text": "Replacement", "isCorrect": false},
+          {"id": "opt2", "text": "Reduction", "isCorrect": false},
+          {"id": "opt3", "text": "Refinement", "isCorrect": true},
+          {"id": "opt4", "text": "Replication", "isCorrect": false}
+        ],
+        "explanation": "Refinement involves modifying experimental procedures to minimize potential pain, distress, or discomfort and enhance animal well-being.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_6",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### Open Science as an Antidote to Fraud\n\nTransparent research practices—such as posting raw anonymized data, analysis scripts, and preregistered hypotheses on platforms like the Open Science Framework (OSF)—make data fabrication and selective reporting virtually impossible. Transparency is the best vaccine against scientific misconduct!"
+    }
+  ]
+}

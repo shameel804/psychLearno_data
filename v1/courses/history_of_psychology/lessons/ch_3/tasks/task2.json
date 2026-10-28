@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_3",
+  "title": "Analyzing Functional Value in Behavioral Habits",
+  "description": "Examine a personal habit loop through William James's theory of neuroplastic habits and adaptation.",
+  "estimatedMinutes": 15,
+  "problemStatement": "William James called habit the 'enormous fly-wheel of society' that conserves conscious mental bandwidth for novel survival challenges.\n\n### Your Objective:\nAnalyze an automated daily behavioral habit (e.g., unlocking your smartphone upon waking, putting on a seatbelt, typing without looking).\n\n1. Describe the trigger stimulus and automated motor routine.\n2. Apply Woodworth's $S \\rightarrow O \\rightarrow R$ model: What internal motivational state of the organism ($O$) drives the habit?\n3. Explain the evolutionary functional utility: Why does automatizing repetitive actions confer an adaptive cognitive advantage?\n4. Propose how a harmful automated habit can be consciously reprogrammed using James's behavioral advice (launching a new habit with full initiative).",
+  "hints": [
+    "Hint 1: Automatization frees the prefrontal cortex to process unexpected environmental threats.",
+    "Hint 2: Consider what happens to cognitive load when you first learn to drive versus after years of driving."
+  ]
+}

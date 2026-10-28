@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_6",
+  "title": "Applying Maslow's Hierarchy to Modern Workplace Motivation",
+  "description": "Design an organizational talent retention framework mapping job benefits to Maslow's five need levels.",
+  "estimatedMinutes": 15,
+  "problemStatement": "Abraham Maslow's hierarchy of needs is widely utilized by organizational psychologists to analyze employee engagement, motivation, and burnout.\n\n### Instructions:\nDevelop an organizational human resources strategy for a modern technology firm that systematically addresses all 5 levels of Maslow's hierarchy:\n\n1. **Physiological Needs**: Base compensation, ergonomically designed workspaces, healthy sustenance.\n2. **Safety Needs**: Job security, health insurance, psychological safety to admit mistakes.\n3. **Belonging Needs**: Team camaraderie, mentorship programs, inclusive company culture.\n4. **Esteem Needs**: Public recognition, promotions, performance bonuses, autonomy.\n5. **Self-Actualization**: Personal growth stipends, passion projects (e.g. 20% innovation time), purposeful mission alignment.\n\nEvaluate: What happens to employee performance when a company attempts to offer 'perks and mission' (Level 5) while failing to provide competitive base compensation or job stability (Levels 1-2)?",
+  "hints": [
+    "Hint 1: Unmet lower-level deficiency needs (D-needs) dominate conscious attention, preventing meaningful engagement with higher growth needs.",
+    "Hint 2: Remember Maslow's principle of prepotency."
+  ]
+}

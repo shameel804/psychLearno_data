@@ -1,0 +1,12 @@
+{
+  "id": "task1",
+  "chapterId": "ch_6",
+  "title": "Analyzing Polysomnography (PSG) Sleep Architecture & Hypnograms",
+  "description": "Interpret a full-night hypnogram, quantifying NREM/REM cycle proportions and identifying pathological sleep fragmentation.",
+  "estimatedMinutes": 12,
+  "problemStatement": "You are a clinical neurophysiologist reviewing an overnight polysomnogram (PSG) and hypnogram of a 45-year-old corporate executive complaining of chronic morning exhaustion and brain fog.\n\n### Your Mission:\n1. **Hypnogram Profiling**: Describe the normal ultradian distribution of Slow-Wave Sleep (N3) vs. REM sleep across the first half of the night vs. the second half of the night.\n2. **Pathology Identification**: The patient's hypnogram reveals zero Stage N3 slow-wave sleep, 45 micro-arousals per hour associated with complete cessation of airflow and oxygen desaturations to 82% (Obstructive Sleep Apnea).\n3. **Cognitive & Glymphatic Repercussions**: Explain why the absence of N3 slow-wave sleep will specifically impair growth hormone secretion, declarative memory consolidation, and glymphatic brain clearance.",
+  "hints": [
+    "Hint 1: Slow-wave sleep dominates the first third of the night, while REM periods lengthen substantially in the final third.",
+    "Hint 2: Repeated nocturnal hypoxemia and micro-arousals prevent the brain from sustaining continuous delta sleep epochs."
+  ]
+}

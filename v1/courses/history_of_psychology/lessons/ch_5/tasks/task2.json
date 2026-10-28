@@ -1,0 +1,12 @@
+{
+  "id": "task2",
+  "chapterId": "ch_5",
+  "title": "Ethical Review of Historic Behavioral Experiments",
+  "description": "Audit Watson's Little Albert experiment against modern APA Institutional Review Board (IRB) ethical standards.",
+  "estimatedMinutes": 15,
+  "problemStatement": "John B. Watson and Rosalie Rayner's 1920 Little Albert experiment demonstrated conditioned fear acquisition, but remains an infamous ethical failure.\n\n### Your Objective:\nConduct an Institutional Review Board (IRB) audit of the 1920 study based on modern APA ethical principles:\n\n1. **Informed Consent**: What documentation and participant/parental disclosures were missing?\n2. **Protection from Harm**: Analyze the psychological and emotional risk imposed on an infant.\n3. **De-conditioning / Debriefing**: Evaluate Watson's failure to extinguish Albert's phobias prior to hospital discharge.\n4. **Scientific Justification**: Did the potential scientific knowledge gained justify the experimental risks to the subject?\n5. Draft a 3-paragraph summary outlining how this experiment would be redesigned today to meet ethical compliance without harming participants.",
+  "hints": [
+    "Hint 1: Modern IRBs classify infants as vulnerable populations requiring elevated safeguards.",
+    "Hint 2: Modern cognitive neuroscience uses non-invasive observational fMRI or adult volunteer conditioning with mild stimuli."
+  ]
+}

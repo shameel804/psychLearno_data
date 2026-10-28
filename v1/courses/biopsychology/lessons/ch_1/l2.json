@@ -1,0 +1,99 @@
+{
+  "id": "l2",
+  "chapterId": "ch_1",
+  "title": "The Electrochemical Spark: Resting Potential & The Action Potential",
+  "description": "Master membrane biophysics: ion distributions, the sodium-potassium pump, voltage-gated ion channels, refractory periods, and saltatory conduction.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Electrophysiology",
+  "slides": [
+    {
+      "id": "s_l2_1",
+      "type": "text",
+      "title": "The Resting Membrane Potential \ud83d\udd0b",
+      "content": "# The Battery of the Cell: -70 mV\n\nWhen a neuron is not firing, its cell membrane maintains an electrical voltage difference known as the **resting membrane potential**, typically around **-70 mV** (the interior is negative relative to the extracellular fluid).\n\n### The Distribution of Key Ions:\n* **Sodium ($Na^+$)**: High concentration *outside* the cell; driven inward by both electrostatic pressure and concentration gradients.\n* **Potassium ($K^+$)**: High concentration *inside* the cell; driven outward by concentration gradient but pulled inward by negative intracellular charge.\n* **Chloride ($Cl^-$)**: High concentration *outside* the cell.\n* **Organic Anions ($A^-$)**: Large negatively charged proteins trapped permanently *inside* the cell.\n\n### The Sodium-Potassium Pump ($Na^+/K^+$ ATPase):\nAn active transport enzyme that burns ATP to pump **3 $Na^+$ ions OUT** for every **2 $K^+$ ions IN**. This electrogenic pump maintains the essential ionic gradients that make electrical signaling possible."
+    },
+    {
+      "id": "s_l2_2",
+      "type": "quiz",
+      "title": "Check: The Sodium-Potassium Pump \ud83e\uddea",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_1",
+        "type": "multiple_choice",
+        "question": "What is the stoichiometric ion ratio moved across the membrane by the sodium-potassium ATPase pump?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "2 Na+ out, 3 K+ in",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "3 Na+ out, 2 K+ in",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "3 Na+ in, 2 K+ out",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "1 Na+ out, 1 K+ in",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The sodium-potassium pump transports 3 sodium ions out of the cell and 2 potassium ions into the cell per ATP molecule, keeping the intracellular environment negatively charged.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_3",
+      "type": "text",
+      "title": "The Action Potential: All-or-None Spike \ud83d\udcc8",
+      "content": "## Firing the Action Potential\n\nWhen post-synaptic inputs depolarize the membrane from **-70 mV** to the critical **threshold of excitation (approx. -55 mV)**, an explosive, stereotyped electrical impulse occurs.\n\n### The Phases of the Action Potential:\n1. **Depolarization**: Voltage-gated $Na^+$ channels snap open. $Na^+$ rushes into the cell down its concentration and electrical gradients, swinging membrane potential to **+30 to +40 mV**.\n2. **Repolarization**: $Na^+$ channels inactivate (close). Voltage-gated $K^+$ channels open fully; $K^+$ rushes out, restoring negative internal potential.\n3. **Hyperpolarization (Undershoot)**: $K^+$ channels close slowly, temporarily dropping voltage below resting level (approx. -80 mV).\n4. **Refractory Periods**:\n   * **Absolute Refractory Period**: $Na^+$ channels are inactivated; impossible to trigger another spike.\n   * **Relative Refractory Period**: Requires stronger-than-normal stimulus because $K^+$ efflux is still active.\n\n* **All-or-None Law**: An action potential either fires at full amplitude or does not fire at all; stimulus intensity is encoded by firing *rate* (frequency), not spike size!"
+    },
+    {
+      "id": "s_l2_4",
+      "type": "quiz",
+      "title": "Check: Action Potential Dynamics \u26a1",
+      "content": "",
+      "quizData": {
+        "id": "q_l2_2",
+        "type": "multiple_choice",
+        "question": "What primary ion movement causes the rapid depolarization phase of an action potential?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Potassium (K+) exiting the cell",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Sodium (Na+) rushing into the cell",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Chloride (Cl-) entering the cell",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Calcium (Ca2+) exiting the cell",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The massive influx of positively charged sodium ions through voltage-gated sodium channels rapidly depolarizes the neuronal membrane from -55 mV to +30 mV.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l2_5",
+      "type": "text",
+      "title": "Saltatory Conduction & Myelin Speed \ud83d\ude80",
+      "content": "## Saltatory Conduction\n\nIn unmyelinated axons, action potentials must regenerate point-by-point along every micrometer of membrane, traveling at a sluggish 0.5 to 2 meters per second.\n\nIn myelinated axons:\n* Myelin insulates the axon, preventing ion leakage.\n* Action potentials jump rapidly from one unmyelinated gap to the next: **Nodes of Ranvier**.\n* This process, called **saltatory conduction** (from Latin *saltare*, to leap), boosts conduction velocities up to **120 meters per second** (~270 mph) with tremendous energy efficiency!"
+    }
+  ]
+}

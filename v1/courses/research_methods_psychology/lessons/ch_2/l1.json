@@ -1,0 +1,67 @@
+{
+  "id": "l1",
+  "chapterId": "ch_2",
+  "title": "Historical Catalyst Cases & Ethical Evolution",
+  "description": "Examine the moral turning points in psychology and medicine: Tuskegee, Milgram's obedience experiments, and the Stanford Prison Study.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Ethical History",
+  "slides": [
+    {
+      "id": "s_l1_1",
+      "type": "text",
+      "title": "The High Price of Scientific Curiosity ⚖️",
+      "content": "# When Science Goes Astray\n\nModern research ethics did not emerge from abstract moral philosophy; they were forged in response to real human atrocities and profound experimental violations:\n\n* **Nuremberg Trials (1947)**: Revealed horrific medical experiments by Nazi doctors, leading to the **Nuremberg Code**—the first international document asserting that *voluntary informed consent* is absolutely essential.\n* **The Tuskegee Syphilis Study (1932–1972)**: The U.S. Public Health Service tracked 600 impoverished African American men with syphilis, deliberately withholding proven penicillin treatment for decades to observe the disease's fatal progression.\n\nThese tragedies proved that scientific curiosity cannot be left unregulated without strict ethical safeguards."
+    },
+    {
+      "id": "s_l1_2",
+      "type": "quiz",
+      "title": "Historical Check: Nuremberg Code 📜",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_1",
+        "type": "multiple_choice",
+        "question": "What foundational ethical principle was codified by the Nuremberg Code of 1947 following World War II?",
+        "options": [
+          {"id": "opt1", "text": "Mandatory financial compensation for all study volunteers", "isCorrect": false},
+          {"id": "opt2", "text": "Voluntary informed consent of the human subject is absolutely essential", "isCorrect": true},
+          {"id": "opt3", "text": "All scientific experiments must be conducted exclusively by government agencies", "isCorrect": false},
+          {"id": "opt4", "text": "Research can only be conducted on participants over age 65", "isCorrect": false}
+        ],
+        "explanation": "Principle 1 of the Nuremberg Code established that voluntary informed consent of the human participant is an absolute, non-negotiable requirement.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_3",
+      "type": "text",
+      "title": "Psychology's Landmark Ethical Controversies 🏛️",
+      "content": "## Milgram and the Stanford Prison Experiment\n\nTwo mid-20th-century American social psychology studies galvanized the creation of ethical guidelines specifically for behavioral sciences:\n\n| Study | Investigator | Procedure | Ethical Violations |\n| :--- | :--- | :--- | :--- |\n| **Obedience to Authority (1961)** | Stanley Milgram | Participants were pressured to deliver seemingly lethal electric shocks to a screaming learner (actor). | Severe acute psychological distress, sweating, trembling, and extreme coercion preventing withdrawal. |\n| **Stanford Prison Experiment (1971)** | Philip Zimbardo | College students were assigned roles as guards or prisoners in a mock basement jail. | Brutal psychological abuse, degradation, loss of objective oversight by the lead researcher, aborted on Day 6. |\n\nBoth studies demonstrated that psychological harm (severe anxiety, guilt, loss of dignity) can be just as damaging as physical trauma."
+    },
+    {
+      "id": "s_l1_4",
+      "type": "quiz",
+      "title": "Case Analysis: Milgram's Study ⚡",
+      "content": "",
+      "quizData": {
+        "id": "q_l1_2",
+        "type": "multiple_choice",
+        "question": "Why did critics argue that Stanley Milgram violated participants' fundamental right to withdraw from research?",
+        "options": [
+          {"id": "opt1", "text": "He locked the doors and threatened participants with physical arrest", "isCorrect": false},
+          {"id": "opt2", "text": "The experimenter used standardized verbal prods ('The experiment requires that you continue') when participants protested", "isCorrect": true},
+          {"id": "opt3", "text": "Participants signed a lifetime confidentiality contract before beginning", "isCorrect": false},
+          {"id": "opt4", "text": "He withheld their college degrees if they walked out", "isCorrect": false}
+        ],
+        "explanation": "When participants voiced intense distress, the experimenter applied systematic verbal prods insisting they must continue, violating their unconditional right to freely withdraw.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l1_5",
+      "type": "tip",
+      "title": "Psychology Pro Tip 🚀",
+      "content": "### The Dual Role Trap\n\nIn the Stanford Prison Experiment, Philip Zimbardo acted as both the **Lead Scientific Researcher** and the **Prison Superintendent**. This dual role blinded him to participant abuse because his administrative persona prioritized prison order over participant welfare. Modern ethics protocols require independent, objective oversight!"
+    }
+  ]
+}

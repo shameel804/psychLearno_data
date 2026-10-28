@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_7",
+  "title": "Neuropsychology & Memory Dissociation: Hebb & H.M.",
+  "description": "Discover Donald Hebb's synaptic plasticity rule and Brenda Milner's landmark memory findings with Patient H.M.",
+  "xpReward": 25,
+  "estimatedMinutes": 7,
+  "section": "Cognitive Neuroscience",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Donald Hebb: Neurons That Fire Together, Wire Together \ud83e\udde0",
+      "content": "# The Biological Substrate of Learning\n\nIn 1949, Canadian psychologist **Donald Olding Hebb** (1904\u20131985) published *The Organization of Behavior*, bridging psychology and neural physiology.\n\nHebb asked: *What physically changes in the brain when an organism learns?*\n\n### The Hebbian Learning Rule\n\n> *'When an axon of cell A is near enough to excite a cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A's efficiency, as one of the cells firing B, is increased.'*\n\nThis principle is famously summarized: **'Neurons that fire together, wire together!'**\n\nDecades later in 1973, neurophysiologists discovered **Long-Term Potentiation (LTP)** in the hippocampus, confirming that Hebb's theoretical synaptic rule was the exact biological mechanism of synaptic plasticity!"
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_2",
+        "type": "multiple_choice",
+        "question": "What principle of synaptic plasticity did Donald Hebb formulate in 1949 to explain how learning alters neural connections?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Synaptic efficiency increases when pre- and post-synaptic neurons fire together repeatedly",
+            "isCorrect": true
+          },
+          {
+            "id": "opt2",
+            "text": "Neurons never change after childhood",
+            "isCorrect": false
+          },
+          {
+            "id": "opt3",
+            "text": "Nerve transmission speed decreases with practice",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Memories are stored in the stomach lining",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Hebb proposed that simultaneous activation of neurons strengthens the synaptic connection between them ('fire together, wire together').",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Brenda Milner & Patient H.M. (Henry Molaison) \ud83e\uddec",
+      "content": "# The Most Important Case in Memory Science\n\nIn 1953, a 27-year-old factory worker named **Henry Gustav Molaison (Patient H.M.)** underwent experimental neurosurgery in Connecticut to relieve severe, intractable epileptic seizures. Neurosurgeon William Scoville bilaterally removed H.M.'s **medial temporal lobes, including both hippocampi**.\n\nThe seizures subsided, but H.M. emerged with profound **dense anterograde amnesia**: he could never form another new conscious long-term memory for the rest of his life! Every conversation was brand new; he read the same magazine hundreds of times without remembering it.\n\n### Brenda Milner's Breakthrough Discovery (1962)\nCanadian neuropsychologist **Brenda Milner** tested H.M. on the **Mirror-Drawing Task** (tracing a star while looking only at its reflection in a mirror):\n* On Day 1, H.M. made many errors.\n* By Day 3, his motor skill improved flawlessly to expert levels!\n* Yet, at the start of each trial, H.M. genuinely insisted: *'I have never seen this apparatus before in my life!'*\n\nThis proved that human memory is **NOT a single unitary system**: conscious **Declarative/Explicit Memory** (hippocampus-dependent) is neurologically separate from motor **Procedural/Implicit Memory** (basal ganglia and cerebellum)!"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "The Dawn of Cognitive Neuroscience \ud83d\udd2c",
+      "content": "## Uniting Mind and Brain\n\nMilner's work with H.M. fused cognitive psychology with neurology, birthing **Cognitive Neuroscience**. Today, non-invasive neuroimaging tools like functional Magnetic Resonance Imaging (fMRI), Positron Emission Tomography (PET), and magnetoencephalography (MEG) allow scientists to observe these distinct memory networks activating in real time!"
+    }
+  ]
+}

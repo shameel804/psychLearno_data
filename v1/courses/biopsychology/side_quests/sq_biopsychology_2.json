@@ -1,0 +1,190 @@
+{
+  "id": "sq_biopsychology_2",
+  "title": "The Neurological Mystery of the Visual Agnosia Patient",
+  "triggerChapterIndex": 4,
+  "metadata": {
+    "type": "scenario_analysis"
+  },
+  "questions": [
+    {
+      "id": "sq2_q1",
+      "type": "multiple_choice",
+      "question": "Patient R.S. suffers an anoxic event and cannot recognize a pair of scissors placed on a table before him. When asked to pick them up, however, his hand reaches out smoothly with fingertips oriented perfectly to fit the finger loops. Which visual pathway is selectively spared?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Dorsal ('How / Action') Stream projecting to the posterior parietal cortex",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Ventral ('What') Stream projecting to the inferior temporal cortex",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The retinohypothalamic tract to the pineal gland",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The spinothalamic ascending tract",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Visually guided reaching and grip scaling depend on the dorsal stream ('vision-for-action'), which remains intact in pure ventral stream visual agnosia.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q2",
+      "type": "multiple_choice",
+      "question": "When an apple is placed into Patient R.S.'s hand behind his back, he immediately smiles and exclaims: 'A crisp red apple!' What explains this sudden recognition?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Intact somatosensory mechanoreceptors and S1 cortical processing access semantic object memories independently of the visual ventral stream",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The optic nerve regenerated instantly upon tactile contact",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Touch signals are processed exclusively in the occipital pole",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The patient experienced an epileptic seizure in the cerebellum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Visual object agnosia is modality-specific; stereognosis (tactile recognition via somatosensory cortex) and auditory recognition remain intact.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q3",
+      "type": "multiple_choice",
+      "question": "Patient R.S. is presented with photographs of famous political leaders and family members. He cannot identify any of them by face, but immediately identifies his wife the second she speaks. Which specific ventral temporal structure is impaired?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Fusiform Face Area (FFA)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Primary motor cortex precentral gyrus",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Substantia nigra pars compacta",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Superior colliculus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Prosopagnosia (inability to recognize faces visually) is caused by lesions to the fusiform face area in the ventral occipitotemporal cortex.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q4",
+      "type": "multiple_choice",
+      "question": "To investigate whether Patient R.S. can learn new motor skills, the therapist trains him on a complex rotary pursuit motor task. Over three consecutive days, his motor execution improves dramatically. Which subcortical circuits mediate this intact motor learning?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Basal ganglia and Cerebellum",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Hippocampal CA1 field exclusively",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Corpus callosum splenium",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Adrenal cortex and thyroid gland",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Procedural motor learning does not depend on explicit temporal lobe systems; it is orchestrated by the basal ganglia and cerebellum.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q5",
+      "type": "multiple_choice",
+      "question": "During testing, a chimeric face combining a woman's right face and a man's left face is flashed tachistoscopically. If Patient R.S. also had a severed corpus callosum, which hemisphere would process the man's left-field face holistically?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Right cerebral hemisphere",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Left cerebral hemisphere",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Left cerebellum",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Medulla oblongata",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The left visual field projects to the right hemisphere, which specializes in holistic facial perception.",
+      "xpReward": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "sq2_q6",
+      "type": "multiple_choice",
+      "question": "When Patient R.S. practices daily tactile identification of hidden objects, repeat fMRI shows gradual expansion of his finger representations in the primary somatosensory cortex. What neurobiological principle does this illustrate?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Experience-dependent cortical neuroplasticity driven by synaptic remodeling",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The static, unchangeable nature of the adult human brain",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Permanent damage caused by excessive tactile exercise",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The complete replacement of neurons with cerebrospinal fluid",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Intensive sensory training drives cortical map reorganization and synaptic remodeling (Hebbian neuroplasticity).",
+      "xpReward": 25,
+      "difficulty": 1
+    }
+  ]
+}

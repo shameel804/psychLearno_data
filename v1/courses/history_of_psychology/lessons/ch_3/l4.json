@@ -1,0 +1,64 @@
+{
+  "id": "l4",
+  "chapterId": "ch_3",
+  "title": "Pioneering Women: Calkins, Washburn & Ladd-Franklin",
+  "description": "Highlight the groundbreaking contributions and perseverance of early female leaders in psychological science.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Pioneers & Diversity",
+  "slides": [
+    {
+      "id": "s_l4_1",
+      "type": "text",
+      "title": "Mary Whiton Calkins: Self-Psychology & Perseverance \ud83c\udf1f",
+      "content": "# Overcoming Institutional Barriers\n\nIn the late 19th century, women faced severe institutional discrimination in academia. Despite completing all doctoral requirements at Harvard University under William James with distinction, **Mary Whiton Calkins** (1863\u20131930) was denied her PhD solely because she was a woman (Harvard was all-male).\n\nShe refused an offer of a degree from Radcliffe College, holding out for the university where she had actually completed the work.\n\n### Calkins' Scientific Achievements\n* **Paired-Associate Learning**: Invented the paired-associate technique (e.g., pairing colors with numbers to study memory retention), which became a staple of experimental psychology.\n* **Self-Psychology**: Championed the view that psychology's central focus must be the conscious, active, experiencing 'self'.\n* **First Female APA President**: Elected the first woman president of the American Psychological Association in 1905."
+    },
+    {
+      "id": "s_l4_2",
+      "type": "quiz",
+      "title": "Check Your Understanding \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l4_1",
+        "type": "multiple_choice",
+        "question": "Which pioneering researcher invented the paired-associate memory technique and became the first female APA President in 1905?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Margaret Floy Washburn",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Mary Whiton Calkins",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Christine Ladd-Franklin",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Karen Horney",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Mary Whiton Calkins invented paired-associate learning, developed self-psychology, and served as the first woman president of the APA.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l4_3",
+      "type": "text",
+      "title": "Washburn & Ladd-Franklin \ud83d\udd2c",
+      "content": "## Expanding the Frontiers of Comparative Science\n\n### Margaret Floy Washburn (1871\u20131939)\n* The first woman to officially receive a PhD in psychology (Cornell, 1894).\n* Published *The Animal Mind* (1908), the first comprehensive textbook integrating experimental research on animal behavior and cognition.\n* Served as the second female president of the APA in 1921.\n\n### Christine Ladd-Franklin (1847\u20131930)\n* Mathematician and logician who developed an evolutionary theory of color vision, proposing that black-white vision evolved first, followed by blue-yellow, and finally red-green.\n* Fiercely challenged Titchener's exclusion of women from 'The Experimentalists' meeting, eventually crashing the session in person!"
+    },
+    {
+      "id": "s_l4_4",
+      "type": "tip",
+      "title": "Legacy of Early Pioneers \u270a",
+      "content": "## Breaking Academic Glass Ceilings\n\nThese pioneering women proved that rigorous scientific research had no gender barrier. Today, women represent the majority of doctoral recipients and researchers in psychology worldwide, carrying forward the brave foundation established by Calkins, Washburn, and Ladd-Franklin."
+    }
+  ]
+}

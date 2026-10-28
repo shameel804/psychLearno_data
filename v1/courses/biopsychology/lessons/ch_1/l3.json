@@ -1,0 +1,99 @@
+{
+  "id": "l3",
+  "chapterId": "ch_1",
+  "title": "Synaptic Transmission: Chemical Messengers & Receptor Mechanisms",
+  "description": "Explore calcium influx, vesicular exocytosis, ligand-gated ionotropic vs. metabotropic receptors, EPSPs, IPSPs, and spatial/temporal summation.",
+  "xpReward": 25,
+  "estimatedMinutes": 6,
+  "section": "Synaptic Dynamics",
+  "slides": [
+    {
+      "id": "s_l3_1",
+      "type": "text",
+      "title": "Crossing the Synaptic Cleft \ud83c\udf09",
+      "content": "# The Chemical Synapse\n\nWhen an action potential arrives at the axon terminal, electrical signaling is converted into a chemical message across the **synaptic cleft** (a narrow ~20 nanometer gap).\n\n### Step-by-Step Sequence:\n1. **Action Potential Arrival**: Membrane depolarization reaches the presynaptic terminal button.\n2. **Voltage-Gated $Ca^{2+}$ Influx**: Depolarization opens voltage-gated calcium channels; $Ca^{2+}$ rushes into the terminal.\n3. **Vesicular Exocytosis**: Calcium ions bind to synaptotagmin and SNARE complex proteins, causing synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters into the cleft.\n4. **Receptor Binding**: Neurotransmitters diffuse across the cleft and bind reversibly to specific postsynaptic receptors.\n5. **Postsynaptic Potential (PSP)**: Ion channels open or close, generating a local graded potential."
+    },
+    {
+      "id": "s_l3_2",
+      "type": "quiz",
+      "title": "Check: Synaptic Release Mechanism \ud83d\udd2c",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_1",
+        "type": "multiple_choice",
+        "question": "What immediate ion influx triggers the fusion of synaptic vesicles with the presynaptic membrane?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Chloride (Cl-)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Calcium (Ca2+)",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Potassium (K+)",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Magnesium (Mg2+)",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Calcium (Ca2+) influx through voltage-gated calcium channels at the presynaptic terminal is the necessary and sufficient trigger for synaptic vesicle exocytosis.",
+        "xpReward": 10
+      }
+    },
+    {
+      "id": "s_l3_3",
+      "type": "text",
+      "title": "Ionotropic vs. Metabotropic Receptors \u2699\ufe0f",
+      "content": "## Two Classes of Postsynaptic Receptors\n\nNeurotransmitters do not enter the postsynaptic cell; they act as chemical keys unlocking receptor locks.\n\n| Feature | Ionotropic Receptors | Metabotropic Receptors |\n| :--- | :--- | :--- |\n| **Mechanism** | Directly coupled to a ligand-gated ion channel | Coupled to intracellular **G-proteins** and second messengers |\n| **Speed of Action** | Extremely fast (milliseconds) | Slower onset, prolonged duration (seconds to hours) |\n| **Biological Role** | Fast point-to-point neurotransmission (e.g. reflexes, vision) | Modulatory actions, gene transcription, structural synaptic changes |\n| **Classic Examples** | Nicotinic ACh receptor, AMPA receptor, $GABA_A$ receptor | Muscarinic ACh receptor, Dopamine D1/D2, $GABA_B$ receptor |"
+    },
+    {
+      "id": "s_l3_4",
+      "type": "text",
+      "title": "EPSPs, IPSPs & Neural Summation \ud83e\uddee",
+      "content": "## Summation: The Neuronal Calculator\n\nPostsynaptic potentials are graded (proportional to stimulus strength) and decay across distance:\n* **Excitatory Postsynaptic Potential (EPSP)**: Depolarization caused by $Na^+$ or $Ca^{2+}$ entry; moves membrane *closer* to threshold.\n* **Inhibitory Postsynaptic Potential (IPSP)**: Hyperpolarization caused by $Cl^-$ entry or $K^+$ exit; moves membrane *away* from threshold.\n\n### Summation at the Axon Hillock:\n* **Spatial Summation**: Multiple different presynaptic terminals release neurotransmitter simultaneously at separate locations on the dendrites.\n* **Temporal Summation**: A single presynaptic terminal fires in rapid succession, summing consecutive inputs before earlier potentials decay."
+    },
+    {
+      "id": "s_l3_5",
+      "type": "quiz",
+      "title": "Check: Neural Summation \ud83e\udde0",
+      "content": "",
+      "quizData": {
+        "id": "q_l3_2",
+        "type": "multiple_choice",
+        "question": "What type of summation occurs when one single presynaptic terminal releases neurotransmitter repeatedly in rapid succession?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Spatial summation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt2",
+            "text": "Temporal summation",
+            "isCorrect": true
+          },
+          {
+            "id": "opt3",
+            "text": "Saltatory summation",
+            "isCorrect": false
+          },
+          {
+            "id": "opt4",
+            "text": "Retrograde summation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Temporal summation involves multiple graded potentials arriving at the same synapse within a short time window that add together to push the axon hillock past threshold.",
+        "xpReward": 10
+      }
+    }
+  ]
+}

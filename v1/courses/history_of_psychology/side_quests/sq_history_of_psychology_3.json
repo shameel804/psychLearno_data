@@ -1,0 +1,250 @@
+{
+  "id": "sq_history_of_psychology_3",
+  "title": "Speed Run: The Behaviorist, Gestalt & Cognitive Revolutions",
+  "triggerChapterIndex": 6,
+  "metadata": {
+    "type": "speed"
+  },
+  "questions": [
+    {
+      "id": "sq3_q1",
+      "type": "multiple_choice",
+      "question": "What was the fundamental premise of John B. Watson's 1913 Behaviorist Manifesto?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Psychology must abandon the study of consciousness and restrict itself strictly to observable behavior",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Psychology should focus exclusively on dream interpretation",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Introspection is the most reliable scientific method",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Rats have no ability to learn",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Watson rejected mentalism and introspection, insisting that psychology study only observable behavior.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q2",
+      "type": "multiple_choice",
+      "question": "Which reinforcement schedule produces high, steady rates of response that are exceptionally resistant to extinction, as seen in slot machines?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Variable Ratio (VR)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Fixed Interval (FI)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Fixed Ratio (FR)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Continuous Reinforcement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Variable Ratio delivers rewards after an unpredictable number of responses, creating persistent, extinction-resistant behavior.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q3",
+      "type": "multiple_choice",
+      "question": "What phenomenon did Max Wertheimer describe in 1912 where alternating stationary flashing lights produce the perception of smooth motion?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The Phi Phenomenon",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The Garcia Effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The Zeigarnik Effect",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Weber's Fraction",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Phi Phenomenon proved that apparent motion is perceived as an organized whole, launching Gestalt psychology.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q4",
+      "type": "multiple_choice",
+      "question": "In Carl Rogers's Person-Centered Therapy, what is Unconditional Positive Regard?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Warm, non-judgmental acceptance of the client's inherent value as a human being",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Delivering candy rewards for positive self-talk",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Telling clients their dreams are prophecies",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Demanding that clients obey therapist instructions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Unconditional Positive Regard provides total acceptance without conditions of worth, enabling personal growth.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q5",
+      "type": "multiple_choice",
+      "question": "What did Noam Chomsky argue against B.F. Skinner regarding human language acquisition?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Children possess innate cognitive language faculties (Universal Grammar) that cannot be explained by operant S-R chaining",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Language is learned exclusively through food rewards",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Skinner's theory was 100% correct",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Humans only speak when conditioned by shock collars",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Chomsky showed that language generation is creative and guided by an innate Language Acquisition Device, disproving radical behaviorist accounts.",
+      "xpReward": 15,
+      "difficulty": 2
+    },
+    {
+      "id": "sq3_q6",
+      "type": "multiple_choice",
+      "question": "What is the capacity of human short-term working memory according to George A. Miller's 1956 research?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "7 \u00b1 2 items",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Unlimited",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Exactly 1 item",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "25 items",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Miller established that short-term memory has an informational bottleneck of 7 \u00b1 2 items (5 to 9 chunks).",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q7",
+      "type": "multiple_choice",
+      "question": "What neurophysiological principle formulated by Donald Hebb in 1949 explains how learning strengthens synaptic connections?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "'Neurons that fire together, wire together'",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "'The whole is other than the sum'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "'Stimulus error invalidates introspection'",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "'Libido is repressed by the superego'",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Hebb proposed that correlated firing between pre- and post-synaptic neurons strengthens synaptic efficiency.",
+      "xpReward": 15,
+      "difficulty": 1
+    },
+    {
+      "id": "sq3_q8",
+      "type": "multiple_choice",
+      "question": "What major neuropsychological double dissociation was established through Brenda Milner's testing of Patient H.M.?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Conscious declarative memory (hippocampus-dependent) is anatomically and functionally distinct from procedural motor memory",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Vision is processed in the frontal lobes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Conditioning cannot occur in mammals",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Short-term memory lasts forever",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "H.M.'s preserved motor learning despite dense anterograde amnesia proved that declarative and procedural memory depend on distinct neural circuits.",
+      "xpReward": 15,
+      "difficulty": 2
+    }
+  ]
+}

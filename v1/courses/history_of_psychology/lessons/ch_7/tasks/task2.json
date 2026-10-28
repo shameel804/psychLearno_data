@@ -1,0 +1,13 @@
+{
+  "id": "task2",
+  "chapterId": "ch_7",
+  "title": "Analyzing Patient H.M. and Memory Dissociation",
+  "description": "Map neuropsychological dissociations between declarative and non-declarative memory systems.",
+  "xpReward": 25,
+  "estimatedMinutes": 15,
+  "problemStatement": "Patient H.M.'s bilateral medial temporal lobectomy provided the foundational double dissociation for modern memory science.\n\n### Objectives:\n1. **Neuroanatomical Mapping**: Identify the specific structures resected in H.M.'s surgery (hippocampus, amygdala, entorhinal cortex) and their physiological roles.\n2. **Amnestic Classification**: Clearly distinguish between **Anterograde Amnesia** (inability to form new memories after trauma) and **Retrograde Amnesia** (loss of memories formed before trauma).\n3. **Dissociation Breakdown**: Create a comparative table showing which memory faculties were destroyed (Episodic, Semantic) versus which remained intact (Working Memory, Procedural Motor Skills, Classical Conditioning).\n4. Explain why H.M.'s preserved performance on the mirror-tracing task proved that consciousness is not required for all forms of human learning.",
+  "hints": [
+    "Hint 1: H.M. retained working memory (could hold a 3-digit number for minutes if rehearsing continuously).",
+    "Hint 2: Procedural motor skills depend on cerebellar and striatal circuits that remained untouched by his surgery."
+  ]
+}

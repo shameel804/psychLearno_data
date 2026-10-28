@@ -1,0 +1,36 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "The Logic of the True Experiment",
+      "description": "Unlock the gold standard of causal inference: IV manipulation, experimental control, and random assignment vs. random sampling.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Experimental Logic"
+    },
+    {
+      "id": "l2",
+      "title": "Between-Subjects vs. Within-Subjects Designs",
+      "description": "Compare independent groups against repeated measures designs: statistical power, individual differences, and matched pairs.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Experimental Architecture"
+    },
+    {
+      "id": "l3",
+      "title": "Controlling Order & Carryover Effects",
+      "description": "Neutralize practice, fatigue, and carryover effects using complete counterbalancing, partial counterbalancing, and Latin Square matrices.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Counterbalancing Methods"
+    },
+    {
+      "id": "l4",
+      "title": "Threats to Internal Validity",
+      "description": "Master Campbell & Stanley's classic threats: history, maturation, testing, regression to the mean, attrition, and double-blind controls.",
+      "xpReward": 25,
+      "estimatedMinutes": 6,
+      "section": "Internal Validity"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "task1",
+      "title": "Evaluating Temporal vs. Spatial Resolution Trade-Offs in Neuroimaging",
+      "description": "Select and justify optimal neuroimaging methodologies across distinct cognitive neuroscience research paradigms.",
+      "estimatedMinutes": 12
+    },
+    {
+      "id": "task2",
+      "title": "Designing a TMS Virtual Lesion Study to Investigate Speech Production",
+      "description": "Construct a double-blind, sham-controlled TMS protocol testing causal necessity of Broca's area vs. motor cortex in speech articulation.",
+      "estimatedMinutes": 15
+    }
+  ]
+}

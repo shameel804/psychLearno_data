@@ -1,0 +1,670 @@
+{
+  "id": "quiz_ch_1",
+  "chapterId": "ch_1",
+  "title": "Chapter 1 Mastery Quiz: Neurons, Glia & Neural Communication",
+  "description": "Test your mastery of cellular neuroscience, resting potentials, action potentials, synaptic transmission, and neurotransmitters.",
+  "passingScore": 70,
+  "xpReward": 50,
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "type": "multiple_choice",
+      "question": "What is the primary function of dendritic spines on a multipolar neuron?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "To insulate the axon against electrical leakage",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "To increase surface area and receive synaptic inputs from other neurons",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "To package neurotransmitters into synaptic vesicles",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "To synthesize ATP in the mitochondrial matrix",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dendritic spines provide specialized chemical micro-compartments that vastly expand the receptive surface area for presynaptic inputs.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q2",
+      "type": "multiple_choice",
+      "question": "Which glial cell type forms the protective myelin sheath around axons within the peripheral nervous system (PNS)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Oligodendrocytes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Schwann cells",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Astrocytes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Ependymal cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Schwann cells myelinate individual axonal segments in the PNS, whereas oligodendrocytes myelinate multiple axons in the CNS.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q3",
+      "type": "multiple_choice",
+      "question": "Microglia are best characterized as:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The primary electrical insulators of motor nerves",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "The resident immune cells and phagocytes of the central nervous system",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Producers of cerebrospinal fluid in brain ventricles",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Structural support cells maintaining the blood-brain barrier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Microglia function as specialized phagocytes that engulf cellular debris, pathogens, and prune synapses.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q4",
+      "type": "multiple_choice",
+      "question": "What is the typical value of a mammalian neuron's resting membrane potential?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "+40 mV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "0 mV",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "-70 mV",
+          "isCorrect": true
+        },
+        {
+          "id": "opt4",
+          "text": "-55 mV",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The resting membrane potential is typically approximately -70 mV, indicating that the interior of the cell is negative relative to the outside.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q5",
+      "type": "multiple_choice",
+      "question": "The sodium-potassium ATPase pump transports ions in which direction across the cell membrane?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "3 Na+ ions out of the cell for every 2 K+ ions pumped into the cell",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "2 Na+ ions out of the cell for every 3 K+ ions pumped into the cell",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "3 Na+ ions into the cell for every 2 K+ ions pumped out of the cell",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "2 Na+ ions into the cell for every 2 K+ ions pumped out of the cell",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The sodium-potassium pump moves 3 Na+ ions outward and 2 K+ ions inward against their concentration gradients using ATP.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q6",
+      "type": "multiple_choice",
+      "question": "At resting potential (-70 mV), what forces act on Sodium (Na+) ions?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Both concentration gradient and electrical gradient push Na+ into the cell",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Concentration gradient pushes Na+ out, but electrical gradient pulls it in",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Concentration gradient pushes Na+ in, but electrical gradient repels it out",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Neither gradient exerts any force on Na+ at rest",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Na+ is at higher concentration outside and the cell interior is negative, so both diffusion and electrostatic pressure drive Na+ inward.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q7",
+      "type": "multiple_choice",
+      "question": "What is meant by the 'All-or-None Law' of action potentials?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "All neurons in a tract must fire at the exact same moment",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Once threshold is reached, an action potential fires at complete, invariant amplitude",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "A neuron either releases all its neurotransmitter vesicles or none at all",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Action potentials only occur when all glial cells are active",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The All-or-None Law states that an action potential occurs at full magnitude or not at all; it does not grade in amplitude with stimulus strength.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q8",
+      "type": "multiple_choice",
+      "question": "During which phase of the action potential do voltage-gated potassium (K+) channels open while sodium channels inactivate?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Depolarization",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Repolarization",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Resting state",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Spatial summation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Repolarization occurs when voltage-gated Na+ channels inactivate and voltage-gated K+ channels open, allowing K+ to exit the cell.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q9",
+      "type": "multiple_choice",
+      "question": "Why is it physiologically impossible to trigger another action potential during the absolute refractory period?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Voltage-gated sodium channels are locked in an inactivated state",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The cell has completely run out of intracellular ATP",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The myelin sheath has temporarily dissolved",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Neurotransmitter vesicles are completely exhausted",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "During the absolute refractory period, voltage-gated Na+ channels are inactivated and cannot reopen until the membrane repolarizes.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q10",
+      "type": "multiple_choice",
+      "question": "How does myelin accelerate the transmission speed of action potentials?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "By allowing continuous opening of sodium channels at every point on the axon",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "By forcing action potentials to regenerate only at the unmyelinated Nodes of Ranvier (saltatory conduction)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "By increasing the temperature of the axon",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "By converting electrical signals into magnetic waves",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Saltatory conduction allows the depolarization to travel passively beneath the myelin sheath, jumping from one node of Ranvier to the next.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q11",
+      "type": "multiple_choice",
+      "question": "What is the critical ion that triggers the exocytosis of synaptic vesicles at the presynaptic terminal?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Chloride (Cl-)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Calcium (Ca2+)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Magnesium (Mg2+)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Potassium (K+)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Depolarization of the presynaptic terminal opens voltage-gated Ca2+ channels; Ca2+ influx triggers SNARE proteins to fuse vesicles with the membrane.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q12",
+      "type": "multiple_choice",
+      "question": "In comparison to ionotropic receptors, metabotropic receptors are characterized by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Direct ion channel pore opening in under 1 millisecond",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Coupling to intracellular G-proteins that activate secondary messenger cascades",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Resistance to any chemical modulation or drug binding",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Being located exclusively on glial cell membranes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Metabotropic receptors operate via G-proteins and second messenger systems, producing slower, longer-lasting, and more widespread modulatory effects.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q13",
+      "type": "multiple_choice",
+      "question": "An Excitatory Postsynaptic Potential (EPSP) typically results from the opening of which ion channels?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Sodium (Na+) channels allowing positive ions to enter",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Chloride (Cl-) channels allowing negative ions to enter",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Potassium (K+) channels allowing positive ions to leave",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Calcium channels pumping Ca2+ out of the neuron",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "EPSPs are depolarizing graded potentials caused primarily by the inward flow of positively charged sodium (Na+) ions.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q14",
+      "type": "multiple_choice",
+      "question": "An Inhibitory Postsynaptic Potential (IPSP) hyperpolarizes a neuron by which mechanism?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Allowing chloride (Cl-) influx or potassium (K+) efflux",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Allowing rapid sodium (Na+) influx",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Inactivating all glial astrocytes",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Blocking the sodium-potassium pump",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Entry of negative Cl- ions or exit of positive K+ ions makes the intracellular voltage more negative, driving the neuron further from threshold.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q15",
+      "type": "multiple_choice",
+      "question": "What is spatial summation in neuronal integration?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "The addition of post-synaptic potentials from multiple different synapses occurring at the same time",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "The addition of potentials triggered in rapid succession at a single synapse",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "The growth of new dendritic spines over weeks",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The elimination of inactive synapses by microglia",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Spatial summation occurs when inputs from multiple distinct synapses across the dendritic arbor converge at the axon hillock simultaneously.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q16",
+      "type": "multiple_choice",
+      "question": "What is the primary excitatory neurotransmitter in the mammalian central nervous system?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "GABA",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Glutamate",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Glycine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Serotonin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Glutamate is the principal excitatory neurotransmitter in the brain, binding to AMPA, NMDA, and kainate receptors.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q17",
+      "type": "multiple_choice",
+      "question": "Which neurotransmitter is primarily synthesized in the Substantia Nigra and Ventral Tegmental Area (VTA)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Dopamine",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Serotonin",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Acetylcholine",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Histamine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Dopaminergic cell bodies are concentrated in the substantia nigra (motor control) and VTA (reward and motivation).",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q18",
+      "type": "multiple_choice",
+      "question": "Degeneration of cholinergic neurons originating in the basal forebrain (nucleus basalis of Meynert) is strongly correlated with:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Huntington's chorea",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Alzheimer's disease",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Amyotrophic lateral sclerosis (ALS)",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Bipolar disorder",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Acetylcholine loss in the basal forebrain pathways is a prominent neuropathological hallmark of Alzheimer's disease.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q19",
+      "type": "multiple_choice",
+      "question": "What happens when an enzyme inhibitor blocks Acetylcholinesterase (AChE)?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Acetylcholine cannot be synthesized",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Acetylcholine accumulates and continuously stimulates postsynaptic receptors",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Axons fail to develop myelin sheaths",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "GABA receptors are permanently locked shut",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "AChE breaks down acetylcholine; inhibiting it prevents degradation, causing acetylcholine to linger and overstimulate cholinergic receptors.",
+      "xpReward": 10,
+      "difficulty": 2
+    },
+    {
+      "id": "ch1_q20",
+      "type": "multiple_choice",
+      "question": "Which of the following describes an 'antagonist' in psychopharmacology?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "A drug that binds to a receptor and blocks or diminishes its normal physiological action",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "A drug that mimics the endogenous ligand to trigger a maximal response",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "A molecule that accelerates the reuptake of neurotransmitters",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "A hormone secreted by the pineal gland to induce sleep",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Antagonists bind to receptors with high affinity but lack intrinsic efficacy, thereby preventing endogenous neurotransmitters from binding.",
+      "xpReward": 10,
+      "difficulty": 1
+    },
+    {
+      "id": "ch1_q21",
+      "type": "multiple_choice",
+      "question": "What is 'excitotoxicity' in the nervous system?",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Neuronal injury or death resulting from excessive glutamate stimulation and calcium overload",
+          "isCorrect": true
+        },
+        {
+          "id": "opt2",
+          "text": "Excessive dopamine release causing auditory hallucinations",
+          "isCorrect": false
+        },
+        {
+          "id": "opt3",
+          "text": "Complete absence of action potentials in sensory neurons",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "The rapid proliferation of cancerous glial cells",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Excessive glutamate overactivates NMDA receptors, allowing toxic amounts of Ca2+ into neurons, which activates destructive catabolic enzymes.",
+      "xpReward": 10,
+      "difficulty": 3
+    },
+    {
+      "id": "ch1_q22",
+      "type": "multiple_choice",
+      "question": "Selective Serotonin Reuptake Inhibitors (SSRIs) increase serotonergic transmission primarily by:",
+      "options": [
+        {
+          "id": "opt1",
+          "text": "Directly activating postsynaptic 5-HT1A receptors",
+          "isCorrect": false
+        },
+        {
+          "id": "opt2",
+          "text": "Blocking the presynaptic serotonin transporter protein (SERT)",
+          "isCorrect": true
+        },
+        {
+          "id": "opt3",
+          "text": "Accelerating serotonin enzymatic breakdown by MAO",
+          "isCorrect": false
+        },
+        {
+          "id": "opt4",
+          "text": "Stimulating dopamine synthesis in the substantia nigra",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "SSRIs inhibit SERT, preventing reuptake and keeping serotonin in the synaptic cleft longer to bind postsynaptic receptors.",
+      "xpReward": 10,
+      "difficulty": 2
+    }
+  ]
+}
